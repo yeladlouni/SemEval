@@ -1,0 +1,30 @@
+هل يشفى الشق الشرجي بدون دواء أو جراحة علما أن الطبيب قال أن الشق صغير ولم يعطني دواء سوى مغطس ماء فاتر لمدة 10 دقائق بعد كل تغوط ؟؟
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يشفى	Lemma: شَفِيَ	BW: $afiya
+		Word: الشق	Lemma: شِقّ	BW: $iq~
+		Word: الشرجي	Lemma: شَرَجِيّ	BW: $arajiy~
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: جراحة	Lemma: جِرَاحَة	BW: jiraAHap
+		Word: علما	Lemma: عِلْم	BW: Eilom
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: الشق	Lemma: شِقّ	BW: $iq~
+		Word: صغير	Lemma: صَغِير	BW: Sagiyr
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: يعطني	Lemma: أَعْطَى	BW: >aEoTaY
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: سوى	Lemma: سِوَى	BW: siwaY
+		Word: مغطس	Lemma: مُغَطَّس	BW: mugaT~as
+		Word: ماء	Lemma: مَاء	BW: maA'
+		Word: فاتر	Lemma: تَرَى	BW: taraY
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: دقائق	Lemma: دَقِيقَة	BW: daqiyqap
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: تغوط	Lemma: تَغَاطَّ	BW: tagaAT~a
+	------------------------

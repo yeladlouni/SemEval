@@ -1,0 +1,32 @@
+والدتي مريضة ضغط وقلب كانت تاخذ دواء ايبلات مرتان يوميا ودواء أخر مساء لا اتذكر اسمه لمدة 5 سنوات وقامت الدكتورة بتغير الدواء الي انابريل 20 مغ فهل هذا الدواء مفيد 
+	##Lemmatization results:
+		Word: والدتي	Lemma: وَالِد	BW: waAlid
+		Word: مريضة	Lemma: مَرِيض	BW: mariyD
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: وقلب	Lemma: قَلْب	BW: qalob
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: تاخذ	Lemma: تَاخِذ	BW: taAxi*
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ايبلات	Lemma: ايبلات	BW: AyblAt
+		Word: مرتان	Lemma: مَرَّة	BW: mar~ap
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: ودواء	Lemma: دَوَّاء	BW: daw~aA'
+		Word: أخر	Lemma: أُخْرَى	BW: >uxoraY
+		Word: مساء	Lemma: مَسَاء	BW: masaA'
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اتذكر	Lemma: اتذكر	BW: At*kr
+		Word: اسمه	Lemma: اسْم	BW: Asom
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وقامت	Lemma: قَامَ	BW: qaAma
+		Word: الدكتورة	Lemma: دُكْتُور	BW: dukotuwr
+		Word: بتغير	Lemma: تَغَيُّر	BW: tagay~ur
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: الي	Lemma: الي	BW: Aly
+		Word: انابريل	Lemma: انابريل	BW: AnAbryl
+		Word: مغ	Lemma: مَاغَ	BW: maAga
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مفيد	Lemma: مُفِيد	BW: mufiyd
+	------------------------

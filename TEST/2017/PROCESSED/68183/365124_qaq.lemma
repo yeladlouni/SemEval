@@ -1,0 +1,11 @@
+عملت تحليلvdrl وطلع negative شو معناه؟ وما هو تحليل toxo.
+	##Lemmatization results:
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: وطلع	Lemma: طَلِعَ	BW: TaliEa
+		Word: شو	Lemma: شُو	BW: $uw
+		Word: معناه	Lemma: مَعْنًى	BW: maEonFY
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+	------------------------

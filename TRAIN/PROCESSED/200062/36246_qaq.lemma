@@ -1,0 +1,17 @@
+السلام عليكم; انا عمري 24 واعاني من كثرة الاصابة بالانفلونزا; تقريبا كل شهرين اصاب مرة 
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: واعاني	Lemma: واعاني	BW: wAEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: كثرة	Lemma: كَثْرَة	BW: kavorap
+		Word: الاصابة	Lemma: الاصابة	BW: AlASAbp
+		Word: بالانفلونزا	Lemma: بالانفلونزا	BW: bAlAnflwnzA
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: كل	Lemma: أَكَلَ	BW: >akala
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: اصاب	Lemma: اصاب	BW: ASAb
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+	------------------------

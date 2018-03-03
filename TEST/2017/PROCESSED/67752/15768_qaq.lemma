@@ -1,0 +1,23 @@
+"""أنا حامل فى الشهر الخامس أعانى من مغص شبيه بمغص الدورة مع ألم فى الظهر وقد ينتقل إلى الرجل اليسرى؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: فى	Lemma: فى	BW: fY
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: الخامس	Lemma: خَامِس	BW: xaAmis
+		Word: أعانى	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مغص	Lemma: مَغَص	BW: magaS
+		Word: شبيه	Lemma: شَبِيه	BW: $abiyh
+		Word: بمغص	Lemma: مَغَص	BW: magaS
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: فى	Lemma: فى	BW: fY
+		Word: الظهر	Lemma: ظُهْر	BW: Zuhor
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: ينتقل	Lemma: انْتَقَلَ	BW: Anotaqala
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: الرجل	Lemma: رَجُل	BW: rajul
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+	------------------------

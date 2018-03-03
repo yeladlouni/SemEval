@@ -1,0 +1,34 @@
+: مرحبا أخي الفاضل ; نرجو منك الإجابة عن بعض الأسئلة : - هل تعاني مؤخرا من الإمساك - هل تعاني من وجود حكة - هل تلاحظ وجود قطرات من الدماء بعد البراز في انتظار إجابتك . تحياتي .
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أخي	Lemma: أَخ	BW: >ax
+		Word: الفاضل	Lemma: فَاضِل	BW: faADil
+		Word: نرجو	Lemma: رَجَا	BW: rajaA
+		Word: منك	Lemma: مِنْ	BW: mino
+		Word: الإجابة	Lemma: إِجَابَة	BW: <ijaAbap
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الأسئلة	Lemma: سُؤَال	BW: su&aAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: مؤخرا	Lemma: مُؤَخَّر	BW: mu&ax~ar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الإمساك	Lemma: إِمْسَاك	BW: <imosaAk
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: حكة	Lemma: حَكَّة	BW: Hak~ap
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تلاحظ	Lemma: تَلاحَظَ	BW: talAHaZa
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: قطرات	Lemma: قَطْرَة	BW: qaTorap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الدماء	Lemma: دَم	BW: dam
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: البراز	Lemma: بَرَّاز	BW: bar~aAz
+		Word: في	Lemma: فِي	BW: fiy
+		Word: انتظار	Lemma: انْتِظَار	BW: AnotiZaAr
+		Word: إجابتك	Lemma: إِجَابَة	BW: <ijaAbap
+		Word: تحياتي	Lemma: تَحِيَّة	BW: taHiy~ap
+	------------------------

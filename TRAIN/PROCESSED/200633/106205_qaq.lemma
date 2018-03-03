@@ -1,0 +1,34 @@
+عضو : لقد ذهبت لطبيب وشخص بأنه لدي التهابات في الشعب الهوائية.. وكان لدي كحة وسعال وبلغم.. وانتهيت من الدواء وذهبت له مرة أخرى ولكن الكحة مازالت موجودة.. أفيدونا جزاكم الله خيرا..
+	##Lemmatization results:
+		Word: عضو	Lemma: عُضْو	BW: EuDow
+		Word: لقد	Lemma: قَدْ	BW: qado
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: لطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وشخص	Lemma: شَخْص	BW: $axoS
+		Word: بأنه	Lemma: أَنَّ	BW: >an~a
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: التهابات	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشعب	Lemma: شَعْب	BW: $aEob
+		Word: الهوائية	Lemma: هَوَائِيّ	BW: hawaA}iy~
+		Word: وكان	Lemma: كَانَ	BW: kaAna
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: كحة	Lemma: كَحَّة	BW: kaH~ap
+		Word: وسعال	Lemma: سُعَال	BW: suEaAl
+		Word: وبلغم	Lemma: بَلْغَم	BW: balogam
+		Word: وانتهيت	Lemma: انْتَهَى	BW: AnotahaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: له	Lemma: لِي	BW: liy
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: الكحة	Lemma: كَحَّة	BW: kaH~ap
+		Word: مازالت	Lemma: مازالت	BW: mAzAlt
+		Word: موجودة	Lemma: مَوْجُود	BW: mawojuwd
+		Word: أفيدونا	Lemma: دَوَّى	BW: daw~aY
+		Word: جزاكم	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: خيرا	Lemma: خَيْر	BW: xayor
+	------------------------

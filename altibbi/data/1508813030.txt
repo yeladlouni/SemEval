@@ -1,0 +1,88 @@
+#  المصطلحات الطبية - تخدير
+
+#  المصطلحات الطبية - تخدير
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Open anesthesia
+
+تبنيج مفتوح
+
+Closed anesthesia
+
+تبنيج مغلق
+
+Anesthesia dolorosa
+
+تبنيج مؤلم
+
+Local anesthesia
+
+تبنيج موضعي
+
+Regional anesthesia
+
+تبنيج ناحي
+
+Facial anesthesia
+
+تبنيج وجهي
+
+Intravenous anesthesia
+
+تبنيج وريدي
+
+Anesthetic
+
+تبنيجي
+
+Narcotization
+
+تخدر
+
+Autonarcosis
+
+تخدر ذاتي
+
+Narcosis
+
+تخدير
+
+(تَخَدُّر)
+
+Stypage
+
+تقطيل
+
+Intubation
+
+تنبيب
+
+Endotracheal intubation
+
+تنبيب رغامي
+
+Nasal intubation
+
+تنبيب انفي رغامي
+
+Blind intubation
+
+تنبيب اعمى
+
+Anesthesia
+
+خدر
+
+Hemianesthesia
+
+خدر شقي
+
+Toponarcosis
+
+خدر موضع
+
+Open circuit
+
+دارة مفتوحة
+

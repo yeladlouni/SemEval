@@ -1,0 +1,34 @@
+ابني يبلغ 4 اشهر و نصف يرضع حليب صناعي يعاني منذ اسبوعين من براز لونه مائل للاسود ثم اصبح خليط بين الاسود و الاصفر مع العلم انه لا يتناول اطعمة او ادوية
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: و	Lemma: و	BW: w
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: يرضع	Lemma: أَرْضَعَ	BW: >aroDaEa
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: صناعي	Lemma: صِنَاعِيّ	BW: SinaAEiy~
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: اسبوعين	Lemma: اسبوعين	BW: AsbwEyn
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: براز	Lemma: رَاز	BW: raAz
+		Word: لونه	Lemma: لَوْن	BW: lawon
+		Word: مائل	Lemma: مَائِل	BW: maA}il
+		Word: للاسود	Lemma: للاسود	BW: llAswd
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: اصبح	Lemma: صَبُحَ	BW: SabuHa
+		Word: خليط	Lemma: خَلِيط	BW: xaliyT
+		Word: بين	Lemma: بَيِّن	BW: bay~in
+		Word: الاسود	Lemma: الاسود	BW: AlAswd
+		Word: و	Lemma: و	BW: w
+		Word: الاصفر	Lemma: الاصفر	BW: AlASfr
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: اطعمة	Lemma: اطعمة	BW: ATEmp
+		Word: او	Lemma: او	BW: Aw
+		Word: ادوية	Lemma: ادوية	BW: Adwyp
+	------------------------

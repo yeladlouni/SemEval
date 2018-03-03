@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Convex
+
+محدب
+
+Convexo-convex
+
+محدب الوجهين
+
+Biconvex
+
+محدب الوجهين
+
+Convexo-concave
+
+محدب مقعر
+
+Convexoconcave
+
+محدب مقعر
+
+Induced
+
+محدث
+
+Arrhythmogenic
+
+محدث اضطراب النظم
+
+Leukemogen
+
+محدث الابيضاض
+
+Leukemogenic
+
+محدث الابيضاض
+
+Habit-forming
+
+محدث الادمان
+
+Cryogenic
+
+محدث البرد
+
+Necrogenic
+
+محدث البلى
+
+Febrifacient
+
+محدث الحمى
+
+Goitrogenic
+
+محدث الدراق
+
+Psychotogenic
+
+محدث الذهان
+
+Reflexogenic
+
+محدث المنعكس
+
+Hysterogenic
+
+محدث الهستيريا
+
+Icterogenic
+
+محدث اليرقان
+
+Nephritogenic
+
+محدث لالتهاب الكلية
+
+Costive
+
+محدث للامساك
+

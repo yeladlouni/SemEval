@@ -1,0 +1,52 @@
+قائمة بالطعام الممنوع:  - المخللات. - التوابل والبهارات (الفلفل الأسود والأحمر – الشطة ...الخ). - الفاكهة الحمضية (ليمون – برتقال – يوسفي – جريب فروت – أناناس – مشمش – برقوق). - التدخين. - الأدوية: الأسبرين وأدوية الروماتيزم. - الكحوليات. - المشروبات (الشاي – القهوة – الكاكاو – الكوكاكولا). - المكسرات. - الجبن الرومي. - الخيار. - اللفت. - البقدونس. - السبانخ. - الملوخية. - الكراث. - الفجل. - الطعمية. - البسطرمة. - الباذنجان. - اللب والفول السوداني. - الملح.
+	##Lemmatization results:
+		Word: قائمة	Lemma: قَائِم	BW: qaA}im
+		Word: بالطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: الممنوع	Lemma: مَمْنُوع	BW: mamonuwE
+		Word: المخللات	Lemma: مُخَلِّل	BW: muxal~il
+		Word: التوابل	Lemma: تَابِل	BW: taAbil
+		Word: والبهارات	Lemma: بِهَار	BW: bihaAr
+		Word: الفلفل	Lemma: الفلفل	BW: Alflfl
+		Word: الأسود	Lemma: أَسْوَد	BW: >asowad
+		Word: والأحمر	Lemma: أَحْمَر	BW: >aHomar
+		Word: الشطة	Lemma: شَطَّة	BW: $aT~ap
+		Word: الخ	Lemma: لَخِيَ	BW: laxiya
+		Word: الفاكهة	Lemma: فَاكِهَة	BW: faAkihap
+		Word: الحمضية	Lemma: حَمْضِيّ	BW: HamoDiy~
+		Word: ليمون	Lemma: مَانَ	BW: maAna
+		Word: برتقال	Lemma: برتقال	BW: brtqAl
+		Word: يوسفي	Lemma: يُوسُف	BW: yuwsuf
+		Word: جريب	Lemma: جَرِيب	BW: jariyb
+		Word: فروت	Lemma: رَوَى	BW: rawaY
+		Word: أناناس	Lemma: أناناس	BW: >nAnAs
+		Word: مشمش	Lemma: مَشْمَشَ	BW: ma$oma$a
+		Word: برقوق	Lemma: رِقّ	BW: riq~
+		Word: التدخين	Lemma: تَدْخِين	BW: tadoxiyn
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: الأسبرين	Lemma: الأسبرين	BW: Al>sbryn
+		Word: وأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: الروماتيزم	Lemma: الروماتيزم	BW: AlrwmAtyzm
+		Word: الكحوليات	Lemma: كُحُولِيَّة	BW: kuHuwliy~ap
+		Word: المشروبات	Lemma: مَشْرُوب	BW: ma$oruwb
+		Word: الشاي	Lemma: الشاي	BW: Al$Ay
+		Word: القهوة	Lemma: قَهْوَة	BW: qahowap
+		Word: الكاكاو	Lemma: الكاكاو	BW: AlkAkAw
+		Word: الكوكاكولا	Lemma: الكوكاكولا	BW: AlkwkAkwlA
+		Word: المكسرات	Lemma: مُكَسِّر	BW: mukas~ir
+		Word: الجبن	Lemma: جُبْن	BW: jubon
+		Word: الرومي	Lemma: رُومِيّ	BW: ruwmiy~
+		Word: الخيار	Lemma: خَيْر	BW: xayor
+		Word: اللفت	Lemma: لَفَت	BW: lafat
+		Word: البقدونس	Lemma: البقدونس	BW: Albqdwns
+		Word: السبانخ	Lemma: السبانخ	BW: AlsbAnx
+		Word: الملوخية	Lemma: الملوخية	BW: Almlwxyp
+		Word: الكراث	Lemma: كُرَّاث	BW: kur~aAv
+		Word: الفجل	Lemma: فَجَل	BW: fajal
+		Word: الطعمية	Lemma: طَعْمِيّ	BW: TaEomiy~
+		Word: البسطرمة	Lemma: البسطرمة	BW: AlbsTrmp
+		Word: الباذنجان	Lemma: الباذنجان	BW: AlbA*njAn
+		Word: اللب	Lemma: لَبّ	BW: lab~
+		Word: والفول	Lemma: فُول	BW: fuwl
+		Word: السوداني	Lemma: سُودَانِيّ	BW: suwdaAniy~
+		Word: الملح	Lemma: مُلِحّ	BW: muliH~
+	------------------------

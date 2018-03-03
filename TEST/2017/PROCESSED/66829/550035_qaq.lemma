@@ -1,0 +1,27 @@
+أنا شب عمري 22 أعاني من سعال مزمن مع قيح يأتيني كل فترة والأخرى يبدو وكأنه حساسية وبنفس الوقت يأتيني معه رشح واحتقان ما سببه ؟؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شب	Lemma: شَبَّ	BW: $ab~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سعال	Lemma: سُعَال	BW: suEaAl
+		Word: مزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: قيح	Lemma: قَاحَ	BW: qaAHa
+		Word: يأتيني	Lemma: أَتَى	BW: >ataY
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: فترة	Lemma: فَتْرَة	BW: fatorap
+		Word: والأخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: يبدو	Lemma: بَدَا	BW: badaA
+		Word: وكأنه	Lemma: أَنَّ	BW: >an~a
+		Word: حساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: وبنفس	Lemma: نَفَس	BW: nafas
+		Word: الوقت	Lemma: وَقْت	BW: waqot
+		Word: يأتيني	Lemma: أَتَى	BW: >ataY
+		Word: معه	Lemma: مَعَ	BW: maEa
+		Word: رشح	Lemma: رَشَّحَ	BW: ra$~aHa
+		Word: واحتقان	Lemma: احْتِقَان	BW: AHotiqaAn
+		Word: ما	Lemma: مَا	BW: maA
+		Word: سببه	Lemma: سَبَب	BW: sabab
+	------------------------

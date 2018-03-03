@@ -1,0 +1,30 @@
+ولدي عمره سنة وتسعة شهور وعنده التهاب في الحلق مع ارتفاع في الحرارة واعطاه الدكتور مضاد كلاسيد كلاريثروميسين واليوم الثالث قد لاحظت عليه الحساسية منتشرة في جسمه ؟
+	##Lemmatization results:
+		Word: ولدي	Lemma: لَدَى	BW: ladaY
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وتسعة	Lemma: تِسْع	BW: tisoE
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: وعنده	Lemma: عِنْدَ	BW: Einoda
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحلق	Lemma: حَلْق	BW: Haloq
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: واعطاه	Lemma: واعطاه	BW: wAETAh
+		Word: الدكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: كلاسيد	Lemma: كلاسيد	BW: klAsyd
+		Word: كلاريثروميسين	Lemma: كلاريثروميسين	BW: klAryvrwmysyn
+		Word: واليوم	Lemma: يَوْم	BW: yawom
+		Word: الثالث	Lemma: ثَالِث	BW: vaAliv
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: لاحظت	Lemma: لاحَظَ	BW: lAHaZa
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: الحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: منتشرة	Lemma: مُنْتَشِر	BW: munota$ir
+		Word: في	Lemma: فِي	BW: fiy
+		Word: جسمه	Lemma: جِسْم	BW: jisom
+	------------------------

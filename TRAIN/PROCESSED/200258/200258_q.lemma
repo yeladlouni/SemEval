@@ -1,0 +1,34 @@
+عمري 35 سنة. ولدت بعملية قيصرية قبل سنة وثلاثة اشهر. منذ ذالك الحين لم اتلق الدورة. يجدر بالذكر انني ارضع ثلاث مرات في اليوم (بالاضافة الى وجبات الطعام). هل هذا امر طبيعي 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ولدت	Lemma: وَلَدَ	BW: walada
+		Word: بعملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: قيصرية	Lemma: قَيْصَرِيّ	BW: qayoSariy~
+		Word: قبل	Lemma: قَبْل	BW: qabol
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: ذالك	Lemma: ذَالّ	BW: *aAl~
+		Word: الحين	Lemma: حِين	BW: Hiyn
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: اتلق	Lemma: اتلق	BW: Atlq
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: يجدر	Lemma: جَدُرَ	BW: jadura
+		Word: بالذكر	Lemma: ذِكْر	BW: *ikor
+		Word: انني	Lemma: انني	BW: Anny
+		Word: ارضع	Lemma: رَضِعَ	BW: raDiEa
+		Word: ثلاث	Lemma: ثَلَاث	BW: valaAv
+		Word: مرات	Lemma: مَرَّة	BW: mar~ap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: بالاضافة	Lemma: بالاضافة	BW: bAlADAfp
+		Word: الى	Lemma: الى	BW: AlY
+		Word: وجبات	Lemma: وَجْبَة	BW: wajobap
+		Word: الطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: امر	Lemma: مَرَى	BW: maraY
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+	------------------------

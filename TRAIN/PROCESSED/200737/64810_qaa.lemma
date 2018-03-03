@@ -1,0 +1,14 @@
+اذا لم يتم تحديد سبب مرضي لذلك فلا علاج غير الجراحة
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: تحديد	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: سبب	Lemma: سَبَب	BW: sabab
+		Word: مرضي	Lemma: مَرَضِيّ	BW: maraDiy~
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: الجراحة	Lemma: جِرَاحَة	BW: jiraAHap
+	------------------------

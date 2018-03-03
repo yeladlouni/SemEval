@@ -1,0 +1,23 @@
+ابنى عمرة 8 سنوات يعانى من حساسية صدر و حساسية انف و صدر و تزداد عندة السعال بعدما يصاب بنزلة برد 
+	##Lemmatization results:
+		Word: ابنى	Lemma: ابنى	BW: AbnY
+		Word: عمرة	Lemma: عُمْرَة	BW: Eumorap
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: يعانى	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: صدر	Lemma: صَدَرَ	BW: Sadara
+		Word: و	Lemma: و	BW: w
+		Word: حساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: انف	Lemma: نَفَى	BW: nafaY
+		Word: و	Lemma: و	BW: w
+		Word: صدر	Lemma: صَدَرَ	BW: Sadara
+		Word: و	Lemma: و	BW: w
+		Word: تزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: عندة	Lemma: عَنْدَة	BW: Eanodap
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: بعدما	Lemma: بَعْدَ	BW: baEoda
+		Word: يصاب	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بنزلة	Lemma: نَزْلَة	BW: nazolap
+		Word: برد	Lemma: بَرْد	BW: barod
+	------------------------

@@ -1,0 +1,13 @@
+يجب عليك بالاضافه لهذا الفحص ان تعمل فحص ال T3 وكذلك T4
+	##Lemmatization results:
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: عليك	Lemma: عَلَى	BW: EalaY
+		Word: بالاضافه	Lemma: بالاضافه	BW: bAlADAfh
+		Word: لهذا	Lemma: ذَا	BW: *aA
+		Word: الفحص	Lemma: فَحْص	BW: faHoS
+		Word: ان	Lemma: ان	BW: An
+		Word: تعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+		Word: ال	Lemma: ال	BW: Al
+		Word: وكذلك	Lemma: ذَا	BW: *aA
+	------------------------

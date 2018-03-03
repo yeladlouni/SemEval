@@ -1,0 +1,14 @@
+مرحبا أريد أن أزيد وزني ماذا أفعل؟ أنا عمري 20 وزني 43 وطولي 156
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أزيد	Lemma: أَزْيَد	BW: >azoyad
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+	------------------------

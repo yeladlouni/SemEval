@@ -1,0 +1,47 @@
+عمر ابنتي 12 سنة ومن مدة شهر أو أكثر بدأت تعاني من وجع بالرأس من جهة الجبين وجع قوي أكثر الأحيان واليوم صباحا عندما استيقظت أصبح ينزف أنفها دما كثير وحاولت أن أضغط على أعلى الأنف ليتوقف النزيف وبعد أن توقف نزلت قطعة دم متجلطة 
+	##Lemmatization results:
+		Word: عمر	Lemma: عُمْر	BW: Eumor
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: سنة	Lemma: سُنَّة	BW: sun~ap
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: مدة	Lemma: مُدّ	BW: mud~
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وجع	Lemma: وَجَع	BW: wajaE
+		Word: بالرأس	Lemma: رَأْس	BW: ra>os
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: جهة	Lemma: جِهَة	BW: jihap
+		Word: الجبين	Lemma: جَبِين	BW: jabiyn
+		Word: وجع	Lemma: وَجَع	BW: wajaE
+		Word: قوي	Lemma: قَوِيّ	BW: qawiy~
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: الأحيان	Lemma: حِين	BW: Hiyn
+		Word: واليوم	Lemma: يَوْم	BW: yawom
+		Word: صباحا	Lemma: صَبَاح	BW: SabaAH
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: استيقظت	Lemma: اسْتَيْقَظَ	BW: AsotayoqaZa
+		Word: أصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: ينزف	Lemma: نَزَفَ	BW: nazafa
+		Word: أنفها	Lemma: نَفَّهَ	BW: naf~aha
+		Word: دما	Lemma: دَم	BW: dam
+		Word: كثير	Lemma: كَثِير	BW: kaviyr
+		Word: وحاولت	Lemma: حَاوَلَ	BW: HaAwala
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أضغط	Lemma: ضَغَطَ	BW: DagaTa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: أعلى	Lemma: أَعْلَى	BW: >aEolaY
+		Word: الأنف	Lemma: أَنْف	BW: >anof
+		Word: ليتوقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: النزيف	Lemma: نَزِيف	BW: naziyf
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: توقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: نزلت	Lemma: نَزَلَ	BW: nazala
+		Word: قطعة	Lemma: قِطْعَة	BW: qiToEap
+		Word: دم	Lemma: دَم	BW: dam
+		Word: متجلطة	Lemma: مُتَجَلِّط	BW: mutajal~iT
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pyophthalmitis
+
+التهاب العين القيحي
+
+Pyophysometra
+
+التهاب الرحم القيحي الغازي
+
+Pyopneumocholecystitis
+
+التهاب المرارة القيحي الغازي
+
+Pyopneumohepatitis
+
+التهاب الكبد القيحي الغازي
+
+Pyopneumopericardium
+
+التهاب التامور الغازي القيحي
+
+Pyopneumoperitoneurn
+
+استرواح الصدر القيحي
+
+Pyopneumoperitonitis
+
+التهاب الصفاق الاسترواحي القيحي
+
+Pyopoiesis
+
+تقيح
+
+Pyopoiesis
+
+تكون القيح تقيح
+
+Pyopoietic
+
+مقيح
+
+Pyopyelectasis
+
+توسع الحويضة القيحي
+
+Pyorrhea
+
+تقيح اللثة
+
+Pyosalpingitis
+
+التهاب البوق القيحي
+
+Pyosalpinx
+
+تقيح البوق
+
+Pyosis
+
+تقيح
+
+Pyosis
+
+تقيح
+
+Pyostatic
+
+كابح التقيح
+
+Pyothorax
+
+تقيح الصدر
+
+Pyourachus
+
+تقيح المريطاء
+
+Pyoureter
+
+تقيح الحالب
+

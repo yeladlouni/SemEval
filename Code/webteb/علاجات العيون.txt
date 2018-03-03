@@ -1,0 +1,21 @@
+# علاجات العيون
+
+اسم العلاج | Treatment Name  
+---|---  
+عملية المياه الزرقاء  |  Glaucoma surgery  
+عملية العين بالليزر  |  Keratoplasty Eye Surgery (ALK)  
+استئصال نصف الكرة المخية  |  Functional Hemispherectomy  
+جراحة الحول  |  Eye muscle surgery  
+عملية استئصال زجاجية العين  |  Vitrectomy  
+رأب الجفن  |  Blepharoplasty  
+فتح مجاري الدموع  |  Blocked Tear Ducts - Surgery  
+جراحة الجفون  |  Blepharoplasty  
+ازالة النظارات بالليزر  |  LASIK Eye Surgery  
+جراحة الساد  |  Cataract Surgery  
+زرع القرنية  |  Corneal Transplantation  
+عملية الليزر للعيون  |  LTK Eye Surgery  
+رفع الحواجب  |  Brow lift Surgery  
+الوسائل الجراحية لعلاج الزرق  |  Surgical-procedures Glaucoma  
+قلع العين  |  Enucleation  
+إصلاح قصر ومد البصر  |  Refractive surgery for myopia and hyperopia
+

@@ -1,0 +1,26 @@
+عمري 39 سنه متزوج من 12 سنه تقريبا. يوجد لدي انتفاخ تحت الأذن اليسرى مع الم خفيف ويزيد الانتفاخ مع المضغ مع كل وجبة اكلها 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: متزوج	Lemma: مُتَزَوِّج	BW: mutazaw~ij
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: الأذن	Lemma: أُذُن	BW: >u*un
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: خفيف	Lemma: خَفِيف	BW: xafiyf
+		Word: ويزيد	Lemma: زَادَ	BW: zaAda
+		Word: الانتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: المضغ	Lemma: مُضِغّ	BW: muDig~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: كل	Lemma: أَكَلَ	BW: >akala
+		Word: وجبة	Lemma: وَجْبَة	BW: wajobap
+		Word: اكلها	Lemma: كَلَى	BW: kalaY
+	------------------------

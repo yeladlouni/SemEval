@@ -1,0 +1,17 @@
+انا من مشكلة وهي لا اشرب الماء كثيرا حيث اشرب نصف كاسة كل يومين
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اشرب	Lemma: شَرِبَ	BW: $ariba
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: اشرب	Lemma: شَرَبَ	BW: $araba
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: كاسة	Lemma: كَاسّ	BW: kaAs~
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: يومين	Lemma: يَوْم	BW: yawom
+	------------------------

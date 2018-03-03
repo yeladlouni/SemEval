@@ -1,0 +1,62 @@
+# فحوصات طب الاعصاب
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال طب الاعصاب في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+إستجابة مستثارة  |  evoked response  
+الاختبارٌ الحروري (لتحري وظيفة الدهليز بتقطير الماء الساخن في الصماخ الظاهر
+للأذن)  |  caloric test  
+إنزيم الأميلاز  |  amylase (Ami)  
+السيروتونين  |  serotonin  
+خلل الوظائف المستقلة العائلي  |  Familial dysautonomy  
+تحليل المخدرات في البول  |  urine toxicoloy screen  
+اختبار تحمل الزايلوز  |  xylose tolerance test  
+أجسام مضادة موجهة ضد الإنزيم نازع كربوكسيل  |  anti GAD ab  
+تصوير الكبد والطحال بالنظائر المشعة  |  liver and spleen scan  
+إختبار الذكاء  |  IQ  
+الليباز  |  lipase  
+الكلور  |  chlorine  
+اختبار التنسيلون  |  tensilon test  
+مراقبة الحموضة في المريء  |  esophageal pH monitoring  
+حمض 5- هيدروكسي أندول استيك  |  5 hydroxyindolacetic acid  
+فحص التعرق  |  sweat test  
+تصوير البنكرياس والقنوات الصفراوية بالتنظير الباطني بالطريق الراجع  |  ERCP  
+اختبار تحمل اللاكتوز  |  lactose tolerance test  
+اضداد لالتهاب الكبد من نوع A  |  hepatitis A Ab  
+الغلوكاغون  |  glucagon  
+تاي زاكس  |  Tay-Sachs  
+البيليروبين  |  bilirubin (Bil)  
+فسفوكيناز الكرياتين  |  creatine phospho kinase (CPK, CK)  
+تخطيط كهربية العضل  |  Electromyography  
+اختبار توصيل العصب  |  Nerve conduction study  
+تصوير الدماغ الطبقي المحوسب بالانبعاث الأحادي الفوتون  |  Brain SPECT in
+nuclear medicine  
+المسح الكبدي الصفراوي  |  Hepatobiliary scan  
+التصوير الومضاني لمستقبلات السوماتوستاتين  |  Scintigraphic imaging of
+receptors to somatostatin  
+التخطيط الكهربائي للدماغ  |  EEG - Electroencephalography  
+العامل الروماتويدي  |  rheumatoid factor  
+ناقلة الببتيد غاما غلوتاميل  |  gama glutamyl transpeptidase  
+مضاد التربسين الفا-1  |  alpha-1 antitripsin  
+مستوى الهيدانتوين ثنائي الفينيل  |  diphenylhydantoin level  
+الرصاص  |  lead  
+التخطيط الكهربائي للعضلات  |  electromyography  
+تخطيط الدماغ  |  electroencephalography  
+اضطرابات النوم  |  sleep test  
+فحص استجابة جذع المخ  |  auditory brainstem response (ABR)  
+فحص الكحول  |  alcohol level  
+تخطيط كهربية الرأرأة  |  electro nystagmography  
+البزل القطني  |  LP - Lumbar Puncture  
+ضغط العين  |  Tonometry (Intraocular Pressure Testing)  
+التصوير بالرنين المغناطيسي  |  Magnetic Resonance Imaging - MRI  
+اختبار السمع  |  Subjective Hearing Tests  
+نقص فيتامين ب12  |  Vitamin B12 Testing  
+مرض المقوسات  |  Toxoplasmosis Antibodies
+

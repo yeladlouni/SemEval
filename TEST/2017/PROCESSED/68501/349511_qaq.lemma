@@ -1,0 +1,28 @@
+انا عمري 17.5 سنه وامارس العاده السريه مره واحده في اليوم.وخايف بعد الزواج اصاب بلعقم ولا الضعف الجنسي هل هي تسبب ذلك ولي 3 سنين بمارسها
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: وامارس	Lemma: وامارس	BW: wAmArs
+		Word: العاده	Lemma: العاده	BW: AlEAdh
+		Word: السريه	Lemma: السريه	BW: Alsryh
+		Word: مره	Lemma: مَرّ	BW: mar~
+		Word: واحده	Lemma: وَاحِد	BW: waAHid
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: وخايف	Lemma: خَايِف	BW: xaAyif
+		Word: بعد	Lemma: بَعْد	BW: baEod
+		Word: الزواج	Lemma: زَوَاج	BW: zawaAj
+		Word: اصاب	Lemma: اصاب	BW: ASAb
+		Word: بلعقم	Lemma: بلعقم	BW: blEqm
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: الضعف	Lemma: ضُعْف	BW: DuEof
+		Word: الجنسي	Lemma: جِنْسِيّ	BW: jinosiy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: تسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: ولي	Lemma: لَيّ	BW: lay~
+		Word: سنين	Lemma: سَنَة	BW: sanap
+		Word: بمارسها	Lemma: مَارِس	BW: maAris
+	------------------------

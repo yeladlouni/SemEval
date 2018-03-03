@@ -1,0 +1,39 @@
+السؤال السلام عليكم ورحمة الله وبركاته. أخي يمر بحالة سيئة حرجة ذهب إلى طبيب نفسي وقال له: لديك حالة اضطراب وجداني فنرجو من حضراتكم أن تقولوا لنا ما هو الاضطراب الوجداني وما هو علاجه الأفضل وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: ورحمة	Lemma: رَحْمَة	BW: raHomap
+		Word: الله	Lemma: الله	BW: Allh
+		Word: وبركاته	Lemma: بَرَكَة	BW: barakap
+		Word: أخي	Lemma: أَخ	BW: >ax
+		Word: يمر	Lemma: مَرَّ	BW: mar~a
+		Word: بحالة	Lemma: حَالَة	BW: HaAlap
+		Word: سيئة	Lemma: سَيِّئَة	BW: say~i}ap
+		Word: حرجة	Lemma: حَرْجَة	BW: Harojap
+		Word: ذهب	Lemma: ذَهَبَ	BW: *ahaba
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: نفسي	Lemma: نَفْس	BW: nafos
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: له	Lemma: لِي	BW: liy
+		Word: لديك	Lemma: لَدَى	BW: ladaY
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: اضطراب	Lemma: اضْطِرَاب	BW: ADoTiraAb
+		Word: وجداني	Lemma: جِدّ	BW: jid~
+		Word: فنرجو	Lemma: رَجَا	BW: rajaA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حضراتكم	Lemma: حَضْرَة	BW: HaDorap
+		Word: أن	Lemma: أَنّ	BW: >an~
+		Word: تقولوا	Lemma: قَالَ	BW: qaAla
+		Word: لنا	Lemma: لِي	BW: liy
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: الاضطراب	Lemma: اضْطِرَاب	BW: ADoTiraAb
+		Word: الوجداني	Lemma: وِجْدَانِيّ	BW: wijodaAniy~
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: علاجه	Lemma: عِلَاج	BW: EilaAj
+		Word: الأفضل	Lemma: أَفْضَل	BW: >afoDal
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

@@ -1,0 +1,38 @@
+أنا أشرب دواء اسمه roaccutane لحب الشباب طبعا بوصف من طبيب جلدية ولكن أحيانا لا أجد نفس الماركة فهنالك دواء اسمه a-contern قال لي الصيدلاني انه نفس التركيبة فهل هذا صحيح أم أنه لا يعطي نفس المفعول 
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: أشرب	Lemma: شُرْب	BW: $urob
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اسمه	Lemma: اسْم	BW: Asom
+		Word: لحب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: طبعا	Lemma: طَبْع	BW: TaboE
+		Word: بوصف	Lemma: وَصْف	BW: waSof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: جلدية	Lemma: جِلْدِيّ	BW: jilodiy~
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: أحيانا	Lemma: حِين	BW: Hiyn
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أجد	Lemma: وَجَدَ	BW: wajada
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: الماركة	Lemma: الماركة	BW: AlmArkp
+		Word: فهنالك	Lemma: هُنَا	BW: hunaA
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اسمه	Lemma: اسْم	BW: Asom
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: الصيدلاني	Lemma: صَيْدَلَانِيّ	BW: SayodalaAniy~
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: نفس	Lemma: نَفَس	BW: nafas
+		Word: التركيبة	Lemma: تَرْكِيبَة	BW: tarokiybap
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يعطي	Lemma: أَعْطَى	BW: >aEoTaY
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: المفعول	Lemma: مَفْعُول	BW: mafoEuwl
+	------------------------

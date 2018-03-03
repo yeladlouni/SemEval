@@ -1,0 +1,33 @@
+مرحبا انا شاب عمري 25 سنة اشعر بالم حاد في الرقبة والراس والكتفين واصابع اليد اليسرى مع ثقل . وعندما احرك رقبتي اسمع صوت احتكاك وطقطقة راجعت اطباء لكن من دون فائدة
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالم	Lemma: بَالِم	BW: baAlim
+		Word: حاد	Lemma: حَادّ	BW: HaAd~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الرقبة	Lemma: رَقَبَة	BW: raqabap
+		Word: والراس	Lemma: رَاسّ	BW: raAs~
+		Word: والكتفين	Lemma: كَتَف	BW: kataf
+		Word: واصابع	Lemma: واصابع	BW: wASAbE
+		Word: اليد	Lemma: يَد	BW: yad
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: ثقل	Lemma: ثِقَل	BW: viqal
+		Word: وعندما	Lemma: عِنْدَ	BW: Einoda
+		Word: احرك	Lemma: حَرُكَ	BW: Haruka
+		Word: رقبتي	Lemma: رِقْبَة	BW: riqobap
+		Word: اسمع	Lemma: سَمِعَ	BW: samiEa
+		Word: صوت	Lemma: صَوْت	BW: Sawot
+		Word: احتكاك	Lemma: احْتِكَاك	BW: AHotikaAk
+		Word: وطقطقة	Lemma: طَقْطَقَة	BW: TaqoTaqap
+		Word: راجعت	Lemma: رَاجَعَ	BW: raAjaEa
+		Word: اطباء	Lemma: اطِّبَاء	BW: AT~ibaA'
+		Word: لكن	Lemma: كَانَ	BW: kaAna
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: دون	Lemma: دُون	BW: duwn
+		Word: فائدة	Lemma: فَائِدَة	BW: faA}idap
+	------------------------

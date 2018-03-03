@@ -1,0 +1,35 @@
+هذه الحبوب هي حب الشباب وغسل الوجه بالصابون العادي لا يمنع ظهورها ويمكنك استخدام صابون طبي مثل صابون سيباميد أو نتروجينا ودهن الوجه بكريم Retin-A وقد يسبب هذا الكريم إحمرار الوجه وحدوث حكة
+	##Lemmatization results:
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: حب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: وغسل	Lemma: غُسْل	BW: gusol
+		Word: الوجه	Lemma: وَجْه	BW: wajoh
+		Word: بالصابون	Lemma: صَابُون	BW: SaAbuwn
+		Word: العادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يمنع	Lemma: مَنَعَ	BW: manaEa
+		Word: ظهورها	Lemma: ظُهُور	BW: Zuhuwr
+		Word: ويمكنك	Lemma: أَمْكَنَ	BW: >amokana
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: صابون	Lemma: صَاب	BW: SaAb
+		Word: طبي	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: مثل	Lemma: مَثَلَ	BW: mavala
+		Word: صابون	Lemma: صَاب	BW: SaAb
+		Word: سيباميد	Lemma: سيباميد	BW: sybAmyd
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: نتروجينا	Lemma: نتروجينا	BW: ntrwjynA
+		Word: ودهن	Lemma: دَهْن	BW: dahon
+		Word: الوجه	Lemma: وَجْه	BW: wajoh
+		Word: بكريم	Lemma: كَرِيم	BW: kariym
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: يسبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الكريم	Lemma: كَرِيم	BW: kariym
+		Word: إحمرار	Lemma: إحمرار	BW: <HmrAr
+		Word: الوجه	Lemma: وَجْه	BW: wajoh
+		Word: وحدوث	Lemma: حُدُوث	BW: Huduwv
+		Word: حكة	Lemma: حَكَّة	BW: Hak~ap
+	------------------------

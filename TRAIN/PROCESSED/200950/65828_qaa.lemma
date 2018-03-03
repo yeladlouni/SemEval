@@ -1,0 +1,24 @@
+نعم ممتاز.. و لكن يفضل البقاء 6 شهور مرتين يوميا.. ثم تقل تدريجيا و لكن يفضل أن لا تقل عن 3 مرات اسبوعيا
+	##Lemmatization results:
+		Word: نعم	Lemma: نَعَمْ	BW: naEamo
+		Word: ممتاز	Lemma: مُمْتَاز	BW: mumotaAz
+		Word: و	Lemma: و	BW: w
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: يفضل	Lemma: فَضَّلَ	BW: faD~ala
+		Word: البقاء	Lemma: بَقَاء	BW: baqaA'
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: تقل	Lemma: قَالَ	BW: qaAla
+		Word: تدريجيا	Lemma: تَدْرِيجِيّ	BW: tadoriyjiy~
+		Word: و	Lemma: و	BW: w
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: يفضل	Lemma: فَضَّلَ	BW: faD~ala
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تقل	Lemma: قَلَّ	BW: qal~a
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: مرات	Lemma: مَرَّة	BW: mar~ap
+		Word: اسبوعيا	Lemma: اسبوعيا	BW: AsbwEyA
+	------------------------

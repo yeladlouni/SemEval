@@ -1,0 +1,13 @@
+هذا عادي ويدخل في نطاق عدم التناظر بين شقي الجسم.
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: ويدخل	Lemma: دَخَلَ	BW: daxala
+		Word: في	Lemma: فِي	BW: fiy
+		Word: نطاق	Lemma: نِطَاق	BW: niTaAq
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: التناظر	Lemma: تَنَاظُر	BW: tanaAZur
+		Word: بين	Lemma: بَيِّن	BW: bay~in
+		Word: شقي	Lemma: شَقِيّ	BW: $aqiy~
+		Word: الجسم	Lemma: جِسْم	BW: jisom
+	------------------------

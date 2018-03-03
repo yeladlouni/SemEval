@@ -1,0 +1,46 @@
+السؤال أنا عمري 20 سنة وحامل في الشهر السادس في خلال يومين أو ثلاثة لاحظت تورم قدمي حول الكاحلين مع العلم أنني في الأيام التي تسبق التورم مشيت كثيراً وأحسست بأنني تعبت من المشي فهل هذا هو السبب مع العلم أن تبولي طبيعي.وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وحامل	Lemma: حَامِل	BW: HaAmil
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: السادس	Lemma: سَادِس	BW: saAdis
+		Word: في	Lemma: فِي	BW: fiy
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: لاحظت	Lemma: لاحَظَ	BW: lAHaZa
+		Word: تورم	Lemma: أَوْرَمَ	BW: >aworama
+		Word: قدمي	Lemma: قَدَم	BW: qadam
+		Word: حول	Lemma: حَوْل	BW: Hawol
+		Word: الكاحلين	Lemma: كَاحِل	BW: kaAHil
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنني	Lemma: أَنَّ	BW: >an~a
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الأيام	Lemma: يَوْم	BW: yawom
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تسبق	Lemma: سَبَقَ	BW: sabaqa
+		Word: التورم	Lemma: تَوَرُّم	BW: tawar~um
+		Word: مشيت	Lemma: مَشَى	BW: ma$aY
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: وأحسست	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بأنني	Lemma: أَنَّ	BW: >an~a
+		Word: تعبت	Lemma: تَعِبَ	BW: taEiba
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المشي	Lemma: مَشْي	BW: ma$oy
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: تبولي	Lemma: تَبَوُّل	BW: tabaw~ul
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

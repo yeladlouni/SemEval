@@ -1,0 +1,27 @@
+السلام عليكم قمت بتحليل fsh ونتيجته 4.7 وتحليل lh 5.6 فهل يوجد عندي تكيس ع المبايض علما بأن هذه التحاليل ثالث أيام الدورة الشهرية pro. 6.7 وتحليل tsh 2.2 ارجو الإفادة وشكراً 
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بتحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: ونتيجته	Lemma: نَتِيجَة	BW: natiyjap
+		Word: وتحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: تكيس	Lemma: أَكَاسَ	BW: >akaAsa
+		Word: ع	Lemma: وَعَى	BW: waEaY
+		Word: المبايض	Lemma: مُبَايِض	BW: mubaAyiD
+		Word: علما	Lemma: عِلْم	BW: Eilom
+		Word: بأن	Lemma: أَنَّ	BW: >an~a
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: التحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: ثالث	Lemma: ثَالِث	BW: vaAliv
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: الشهرية	Lemma: شَهْرِيّ	BW: $ahoriy~
+		Word: وتحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: ارجو	Lemma: ارجو	BW: Arjw
+		Word: الإفادة	Lemma: إِفَادَة	BW: <ifaAdap
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

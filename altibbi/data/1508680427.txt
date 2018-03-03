@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Musculus sternohyoideus
+
+عضلة قصية لامية
+
+Musculus sternothyroideus
+
+عضلة قصية درقية
+
+Musculus styloglossus
+
+عضلة ابرية لسانية
+
+Musculus stylohyoideus
+
+عضلة ابرية لامية
+
+Musculus stylopharyngeus
+
+عضلة ابرية بلعومية
+
+Musculus subclavius
+
+عضلة تحت الترقوة
+
+Musculus subcostalis
+
+عضلات تحت الضلعية
+
+Musculus subscapularis
+
+عضلة تحت الكتف
+
+Musculus supinator
+
+عضلة باسطة
+
+Musculus supraspinatus
+
+عضلة فوق الشوك
+
+Musculus temporalis
+
+عضلة صدغية
+
+Musculus temporoparietalisna
+
+عضلة صدغية جدارية
+
+Musculus tensor faciae latae
+
+عضلة موترة للفافة العريضة
+
+Musculus tensor veli palatini
+
+عضلة موترة للحفاف
+
+Musculus teres major
+
+عضلة مدوره كبيرة
+
+Musculus ters minor
+
+عضلة مدورة صغيرة
+
+Musculus thyrohyoideus
+
+عضلة درقية لامية
+
+Musculus tibialis anterior
+
+عضلة ظنبوبية امامية
+
+Musculus tibialis posterior
+
+عضلة ظنبوبية خلفية
+
+Musculus trachealis
+
+عضلة رغامية
+

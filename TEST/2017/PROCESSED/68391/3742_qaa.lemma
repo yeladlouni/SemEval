@@ -1,0 +1,40 @@
+"""في حال وجود انسداد في الشرايين ينصح مراجعة اخصائي اوعية دموية او قلب وشرايين ليتم تحديد مستوى الانسداد وهل يمكن حل المشكلة بالادوية الخافضة للدهون والمسيلة للدم ام يجب تداخل من اجل وضع شبكة او فتح شريان """
+	##Lemmatization results:
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حال	Lemma: حَال	BW: HaAl
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: انسداد	Lemma: انْسِدَاد	BW: AnosidaAd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشرايين	Lemma: شِرْيَان	BW: $iroyaAn
+		Word: ينصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: اخصائي	Lemma: اخصائي	BW: AxSA}y
+		Word: اوعية	Lemma: اوعية	BW: AwEyp
+		Word: دموية	Lemma: دَمَوِيّ	BW: damawiy~
+		Word: او	Lemma: او	BW: Aw
+		Word: قلب	Lemma: قَلْب	BW: qalob
+		Word: وشرايين	Lemma: شِرْيَان	BW: $iroyaAn
+		Word: ليتم	Lemma: تَمَّ	BW: tam~a
+		Word: تحديد	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: مستوى	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: الانسداد	Lemma: انْسِدَاد	BW: AnosidaAd
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: حل	Lemma: حَلّ	BW: Hal~
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: بالادوية	Lemma: بالادوية	BW: bAlAdwyp
+		Word: الخافضة	Lemma: خَافِض	BW: xaAfiD
+		Word: للدهون	Lemma: دُهْن	BW: duhon
+		Word: والمسيلة	Lemma: مُسِيل	BW: musiyl
+		Word: للدم	Lemma: دَم	BW: dam
+		Word: ام	Lemma: ام	BW: Am
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: تداخل	Lemma: تَدَاخُل	BW: tadaAxul
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اجل	Lemma: جَلِيَ	BW: jaliya
+		Word: وضع	Lemma: وَضَعَ	BW: waDaEa
+		Word: شبكة	Lemma: شَبَكَة	BW: $abakap
+		Word: او	Lemma: او	BW: Aw
+		Word: فتح	Lemma: فَتَحَ	BW: fataHa
+		Word: شريان	Lemma: شِرْيَان	BW: $iroyaAn
+	------------------------

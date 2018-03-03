@@ -1,0 +1,16 @@
+ابنتي بدأت شهرها السادس فمتي ادخل لها الطعام وما هي انواع هذه الاطعمة 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: شهرها	Lemma: شَهْر	BW: $ahor
+		Word: السادس	Lemma: سَادِس	BW: saAdis
+		Word: فمتي	Lemma: مَتَّ	BW: mat~a
+		Word: ادخل	Lemma: دَخَلَ	BW: daxala
+		Word: لها	Lemma: لِي	BW: liy
+		Word: الطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: انواع	Lemma: انواع	BW: AnwAE
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الاطعمة	Lemma: الاطعمة	BW: AlATEmp
+	------------------------

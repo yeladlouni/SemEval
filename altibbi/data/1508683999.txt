@@ -1,0 +1,88 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Proglottid
+
+اسلة
+
+Proglottis
+
+اسلة
+
+Generic name
+
+اسم جنيس
+
+Nonproprietary name
+
+اسم غير مسجل الملكية
+
+Generic name
+
+اسم غير مسجل الملكية
+
+Trivial name
+
+اسم مبتذل
+
+Proprietary name
+
+اسم مسجل الملكية
+
+Systematic name
+
+اسم منهجي
+
+Semitrivial name
+
+اسم نصف مبتذل
+
+Semisystematic name
+
+اسم نصف نظامي
+
+Female names
+
+اسماء الاناث
+
+Male names
+
+اسماء الذكور
+
+Nomina antomica
+
+اسماء تشريحية
+
+Brown
+
+اسمر
+
+Cement
+
+اسمنت
+
+Bone cement
+
+اسمنت العظام
+
+(جبيرة العظام)
+
+Osmole
+
+اسمول
+
+Osmolality
+
+اسمولالية
+
+Osmolar
+
+اسمولي
+
+Osmolarity
+
+اسمولية
+

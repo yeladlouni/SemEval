@@ -1,0 +1,35 @@
+# فحوصات صحة الاطفال
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال صحة الاطفال في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+البيليروبين  |  bilirubin (Bil)  
+المسح الوراثي  |  Genetic screening  
+كثرة الوحيدات العدوائية  |  mono spot  
+إختبار الذكاء  |  IQ  
+درجة الحرارة  |  Temperature  
+هرمون النمو  |  growth hormone  
+فحص دم الجنين  |  fetal blood test  
+اختبار بندر  |  Bender Test  
+الاعتيان الجنيني (أخذ عينة)  |  Fetus sampling  
+فحص المسالك البولية لدى الأطفال، بالأمواج فوق الصوتية  |  Ultrasound of the
+urinary tract in children  
+فحص رأس الأطفال بالأمواج فوق الصوتية  |  Head ultrasound in children  
+الفحص بأشعة شربة الحليب  |  Milk scan  
+فيتامين د  |  25-OH Vitamin D  
+فحص أعضاء الجنين  |  Fetal Ultrasound  
+فحص درجة حموضة فروة رأس الجنين  |  Fetal Scalp pH Testing  
+مرض غوشيه  |  Gaucher’s Disease Testing  
+تشتت الانتباه  |  Test of Variables of Attention  
+فحص TORCH  |  TORCH screen test  
+زراعة البراز  |  stool culture  
+الفينايلكيتونوريا  |  phenylketonuria test  
+أجسام مضادة لفيروس ابشتاين بار  |  EBV antibodies
+

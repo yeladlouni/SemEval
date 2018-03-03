@@ -1,0 +1,28 @@
+ابني عمره ٩ اشهر و نصف ;و بدأت تظهر اولى اسنانه;و يعاني من حمى ;و سعال قوي متبوع بتقئ ;و رمد صديدي في احدى عينيه 
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: عمره	Lemma: عُمُر	BW: Eumur
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: و	Lemma: و	BW: w
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: و	Lemma: و	BW: w
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: اولى	Lemma: اولى	BW: AwlY
+		Word: اسنانه	Lemma: اسنانه	BW: AsnAnh
+		Word: و	Lemma: و	BW: w
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حمى	Lemma: حَمَى	BW: HamaY
+		Word: و	Lemma: و	BW: w
+		Word: سعال	Lemma: سُعَال	BW: suEaAl
+		Word: قوي	Lemma: قَوِيّ	BW: qawiy~
+		Word: متبوع	Lemma: مَتْبُوع	BW: matobuwE
+		Word: بتقئ	Lemma: بتقئ	BW: btq}
+		Word: و	Lemma: و	BW: w
+		Word: رمد	Lemma: رَمْد	BW: ramod
+		Word: صديدي	Lemma: صَدِيد	BW: Sadiyd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: احدى	Lemma: احدى	BW: AHdY
+		Word: عينيه	Lemma: عَيْن	BW: Eayon
+	------------------------

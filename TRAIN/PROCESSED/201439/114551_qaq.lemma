@@ -1,0 +1,28 @@
+عضو : اني سيدة عمري 52سنة اعاني من انتفاخ في بطني وغازات خاصتا بعدة شرب المياة الغازية او المشروبات الغازية فما سبب ذلك وهل لها علاج
+	##Lemmatization results:
+		Word: عضو	Lemma: عُضْو	BW: EuDow
+		Word: اني	Lemma: اني	BW: Any
+		Word: سيدة	Lemma: سَيِّدَة	BW: say~idap
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: في	Lemma: فِي	BW: fiy
+		Word: بطني	Lemma: بَطْن	BW: baTon
+		Word: وغازات	Lemma: غَازّ	BW: gaAz~
+		Word: خاصتا	Lemma: خَاصّ	BW: xaAS~
+		Word: بعدة	Lemma: عُدَّة	BW: Eud~ap
+		Word: شرب	Lemma: شُرْب	BW: $urob
+		Word: المياة	Lemma: المياة	BW: AlmyAp
+		Word: الغازية	Lemma: غَازِيّ	BW: gaAziy~
+		Word: او	Lemma: او	BW: Aw
+		Word: المشروبات	Lemma: مَشْرُوب	BW: ma$oruwb
+		Word: الغازية	Lemma: غَازِيّ	BW: gaAziy~
+		Word: فما	Lemma: مَا	BW: maA
+		Word: سبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: لها	Lemma: لِي	BW: liy
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

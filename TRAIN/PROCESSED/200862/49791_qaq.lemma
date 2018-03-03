@@ -1,0 +1,19 @@
+انا عندما اكون مع شخص ما اكون فرحة و بعد دقائق اتغير و اصبح حزينة لماذا 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: اكون	Lemma: كَوَى	BW: kawaY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: شخص	Lemma: شَخْص	BW: $axoS
+		Word: ما	Lemma: مَا	BW: maA
+		Word: اكون	Lemma: كَوَى	BW: kawaY
+		Word: فرحة	Lemma: فَرْحَة	BW: faroHap
+		Word: و	Lemma: و	BW: w
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: دقائق	Lemma: دَقِيقَة	BW: daqiyqap
+		Word: اتغير	Lemma: اتغير	BW: Atgyr
+		Word: و	Lemma: و	BW: w
+		Word: اصبح	Lemma: صَبُحَ	BW: SabuHa
+		Word: حزينة	Lemma: حَزِين	BW: Haziyn
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+	------------------------

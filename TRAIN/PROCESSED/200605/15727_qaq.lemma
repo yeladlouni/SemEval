@@ -1,0 +1,34 @@
+أنا عمري ٢٦ سنة منذ أسبوع كلما أكلت شي أحسست بمرارة كبيرة جدا لكن عندما لا أكل شي لا أحس بأي مرارة فالتجت إلى إنقطاع عن الاكل فا السبب وما هو العلاج 
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: أسبوع	Lemma: أُسْبُوع	BW: >usobuwE
+		Word: كلما	Lemma: كُلّ	BW: kul~
+		Word: أكلت	Lemma: أَكَلَ	BW: >akala
+		Word: شي	Lemma: شَيّ	BW: $ay~
+		Word: أحسست	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بمرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: كبيرة	Lemma: كَبِير	BW: kabiyr
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أكل	Lemma: أَكَلَ	BW: >akala
+		Word: شي	Lemma: شَيّ	BW: $ay~
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بأي	Lemma: أَيّ	BW: >ay~
+		Word: مرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: فالتجت	Lemma: الْتَجَّ	BW: Alotaj~a
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: إنقطاع	Lemma: إنقطاع	BW: <nqTAE
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: الاكل	Lemma: الاكل	BW: AlAkl
+		Word: فا	Lemma: -	BW: -
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

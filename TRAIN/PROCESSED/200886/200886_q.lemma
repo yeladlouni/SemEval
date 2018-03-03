@@ -1,0 +1,36 @@
+ابنتي بنت ال- 14 سنة وشهرين لم تتلقى الدورة بعد. انا لست قلقه انا تلقيت الدورة في سن ال 13 ولكنها قلقة جدا. اود ان اعرف ما اذا كانت هناك حاجة للذهاب الى طبيب النساء 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: بنت	Lemma: بِنْت	BW: binot
+		Word: ال	Lemma: ال	BW: Al
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وشهرين	Lemma: شَهْر	BW: $ahor
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تتلقى	Lemma: تَلَقَّى	BW: talaq~aY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: انا	Lemma: انا	BW: AnA
+		Word: لست	Lemma: لَيْسَ	BW: layosa
+		Word: قلقه	Lemma: قَلَق	BW: qalaq
+		Word: انا	Lemma: انا	BW: AnA
+		Word: تلقيت	Lemma: تَلَقَّى	BW: talaq~aY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: سن	Lemma: سِنّ	BW: sin~
+		Word: ال	Lemma: ال	BW: Al
+		Word: ولكنها	Lemma: لَكِنَّ	BW: lakin~a
+		Word: قلقة	Lemma: قَلِق	BW: qaliq
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: اود	Lemma: اود	BW: Awd
+		Word: ان	Lemma: ان	BW: An
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: ما	Lemma: مَا	BW: maA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: حاجة	Lemma: حَاجَة	BW: HaAjap
+		Word: للذهاب	Lemma: ذَهَاب	BW: *ahaAb
+		Word: الى	Lemma: الى	BW: AlY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: النساء	Lemma: نِسَاء	BW: nisaA'
+	------------------------

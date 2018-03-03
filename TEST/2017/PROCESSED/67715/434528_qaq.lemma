@@ -1,0 +1,17 @@
+اختي الصغيرة عمرها خمس سنوات إذا اكلت تفاح ولا اكلت شي تتعور وش الحل
+	##Lemmatization results:
+		Word: اختي	Lemma: خَتَا	BW: xataA
+		Word: الصغيرة	Lemma: صَغِيرَة	BW: Sagiyrap
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: خمس	Lemma: خَمْس	BW: xamos
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: اكلت	Lemma: كَلَتَ	BW: kalata
+		Word: تفاح	Lemma: أَفَاحَ	BW: >afaAHa
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: اكلت	Lemma: كَلَتَ	BW: kalata
+		Word: شي	Lemma: شَيّ	BW: $ay~
+		Word: تتعور	Lemma: تَعَوَّرَ	BW: taEaw~ara
+		Word: وش	Lemma: وَشَى	BW: wa$aY
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+	------------------------

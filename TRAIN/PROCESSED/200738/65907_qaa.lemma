@@ -1,0 +1,19 @@
+ممكن اخذ حبوب الحديد المساعده و تجنب الاكثار من شرب الشاي و الاكثار من اكل اللحوم
+	##Lemmatization results:
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: الحديد	Lemma: حَدِيد	BW: Hadiyd
+		Word: المساعده	Lemma: المساعده	BW: AlmsAEdh
+		Word: و	Lemma: و	BW: w
+		Word: تجنب	Lemma: تَجَنُّب	BW: tajan~ub
+		Word: الاكثار	Lemma: الاكثار	BW: AlAkvAr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شرب	Lemma: شَرِبَ	BW: $ariba
+		Word: الشاي	Lemma: الشاي	BW: Al$Ay
+		Word: و	Lemma: و	BW: w
+		Word: الاكثار	Lemma: الاكثار	BW: AlAkvAr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اكل	Lemma: كَلَى	BW: kalaY
+		Word: اللحوم	Lemma: لَحْم	BW: laHom
+	------------------------

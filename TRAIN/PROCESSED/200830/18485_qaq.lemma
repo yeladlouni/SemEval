@@ -1,0 +1,20 @@
+يسال صديق للي ...هل اكتشاف مرض الايدز مبكرا له عللاج وذا كان كذلك ماهو اسم العلاج وشكرا 
+	##Lemmatization results:
+		Word: يسال	Lemma: سَالَ	BW: saAla
+		Word: صديق	Lemma: صَدِيق	BW: Sadiyq
+		Word: للي	Lemma: وَلَى	BW: walaY
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: اكتشاف	Lemma: اكْتِشَاف	BW: Akoti$aAf
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: الايدز	Lemma: الايدز	BW: AlAydz
+		Word: مبكرا	Lemma: مُبَكِّر	BW: mubak~ir
+		Word: له	Lemma: لِي	BW: liy
+		Word: عللاج	Lemma: عللاج	BW: EllAj
+		Word: وذا	Lemma: ذُو	BW: *uw
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: كذلك	Lemma: ذَا	BW: *aA
+		Word: ماهو	Lemma: مَاهّ	BW: maAh~
+		Word: اسم	Lemma: اسْم	BW: Asom
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

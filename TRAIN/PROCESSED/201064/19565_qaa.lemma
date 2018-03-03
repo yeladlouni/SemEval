@@ -1,0 +1,32 @@
+يعد دواء معين بديل لدواء اخر في حال كان نفس الدوائين يحويان على نفس المادة الفعالة وبنفس التركيز ولكن لا يجب تناول اي دواء الا باستشارة الطبيب او الصيدلاني
+	##Lemmatization results:
+		Word: يعد	Lemma: عَدَّ	BW: Ead~a
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: معين	Lemma: مُعِين	BW: muEiyn
+		Word: بديل	Lemma: بَدِيل	BW: badiyl
+		Word: لدواء	Lemma: دَوَّاء	BW: daw~aA'
+		Word: اخر	Lemma: اخر	BW: Axr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حال	Lemma: حَال	BW: HaAl
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: الدوائين	Lemma: دَوَّاء	BW: daw~aA'
+		Word: يحويان	Lemma: حَوَى	BW: HawaY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: المادة	Lemma: مَادَّة	BW: maAd~ap
+		Word: الفعالة	Lemma: فَعَّال	BW: faE~aAl
+		Word: وبنفس	Lemma: نَفَس	BW: nafas
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+		Word: ولكن	Lemma: لَكِنْ	BW: lakino
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: اي	Lemma: اي	BW: Ay
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: الا	Lemma: الا	BW: AlA
+		Word: باستشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: او	Lemma: او	BW: Aw
+		Word: الصيدلاني	Lemma: صَيْدَلَانِيّ	BW: SayodalaAniy~
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Maintenance dose
+
+جرعة الصيانة
+
+Sd (skin dose)
+
+جرعة جلدية
+
+Skin dose
+
+جرعة جلدية
+
+Sd (skin dose)
+
+جرعة جلدية
+
+Skin dose
+
+جرعة جلدية
+
+Erythema dose
+
+جرعة حماموية
+
+Erythema dose
+
+جرعة حماموية
+
+Minimum dose
+
+جرعة دنيا
+
+Minimal reacting dose
+
+جرعة دنيا متفاعلة
+
+Minimal reacting dose
+
+جرعة دنيا متفاعلة
+
+Minimal infecting dose
+
+جرعة دنيا معدية
+
+Minimal infecting dose
+
+جرعة دنيا معدية
+
+Minimal lethal dose
+
+جرعة دنيا مميتة
+
+Minimal lethal dose
+
+جرعة دنيا مميتة
+
+Overdose
+
+جرعة زائدة
+
+Overdose
+
+جرعة زائدة
+
+Megadose
+
+جرعة ضخمة
+
+Megadose
+
+جرعة ضخمة
+
+Maximal dose
+
+جرعة عظمى القصوى
+
+Maximal dose
+
+جرعة عظمى القصوى
+

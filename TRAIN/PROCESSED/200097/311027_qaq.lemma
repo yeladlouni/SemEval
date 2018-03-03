@@ -1,0 +1,34 @@
+السؤال I am faleh al dossary 28 Year-old saudi male patient diagnosed as having portal hypertension and cryptogenic liver cirrhosis.أعاني من فرط ضغط الدم البابي وتشمع بالكبد علماً بأن والدتي كانت قد توفيت وهي مصابة بمرض التهاب الكبد الوبائي بدرجة متقدمة وتشمع كبدي بدأ مرضي من 2001 وأتناول أندرايل 20 مغ.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: فرط	Lemma: فَرْط	BW: faroT
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: البابي	Lemma: بَابِيّ	BW: baAbiy~
+		Word: وتشمع	Lemma: شَمَعَ	BW: $amaEa
+		Word: بالكبد	Lemma: كَبْد	BW: kabod
+		Word: علمًا	Lemma: عِلْم	BW: Eilom
+		Word: بأن	Lemma: أَنَّ	BW: >an~a
+		Word: والدتي	Lemma: وَالِد	BW: waAlid
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: توفيت	Lemma: تَوَفَّى	BW: tawaf~aY
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: مصابة	Lemma: مُصَاب	BW: muSaAb
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: الكبد	Lemma: كَبِد	BW: kabid
+		Word: الوبائي	Lemma: وَبَائِيّ	BW: wabaA}iy~
+		Word: بدرجة	Lemma: دَرَجَة	BW: darajap
+		Word: متقدمة	Lemma: مُتَقَدِّم	BW: mutaqad~im
+		Word: وتشمع	Lemma: شَمَعَ	BW: $amaEa
+		Word: كبدي	Lemma: كَبَدِيّ	BW: kabadiy~
+		Word: بدأ	Lemma: بَدَأَ	BW: bada>a
+		Word: مرضي	Lemma: مَرَضِيّ	BW: maraDiy~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وأتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: أندرايل	Lemma: أندرايل	BW: >ndrAyl
+		Word: مغ	Lemma: مَاغَ	BW: maAga
+	------------------------

@@ -1,0 +1,30 @@
+انا احمد 38 سنة مدرس اشعر في الفترة الاخيرة بالم في الفخذ مصحوب بكهربا ممكن تجعلني اصرخ. الالم يستمر الي الساق باكملها خصوصا عند القيام من حالة جلوس 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: احمد	Lemma: حَمِدَ	BW: Hamida
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: مدرس	Lemma: مُدَرِّس	BW: mudar~is
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الفترة	Lemma: فَتْرَة	BW: fatorap
+		Word: الاخيرة	Lemma: الاخيرة	BW: AlAxyrp
+		Word: بالم	Lemma: بَالِم	BW: baAlim
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الفخذ	Lemma: فَخْذ	BW: faxo*
+		Word: مصحوب	Lemma: مَصْحُوب	BW: maSoHuwb
+		Word: بكهربا	Lemma: بكهربا	BW: bkhrbA
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: تجعلني	Lemma: جَعَلَ	BW: jaEala
+		Word: اصرخ	Lemma: صَرَخَ	BW: Saraxa
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: يستمر	Lemma: اسْتَمَرَّ	BW: Asotamar~a
+		Word: الي	Lemma: الي	BW: Aly
+		Word: الساق	Lemma: سَاق	BW: saAq
+		Word: باكملها	Lemma: باكملها	BW: bAkmlhA
+		Word: خصوصا	Lemma: خُصُوص	BW: xuSuwS
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: القيام	Lemma: قِيَام	BW: qiyaAm
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: جلوس	Lemma: جُلُوس	BW: juluws
+	------------------------

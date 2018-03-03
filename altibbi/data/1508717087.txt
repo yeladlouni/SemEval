@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - علم الاشعة
+
+#  المصطلحات الطبية - علم الاشعة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Cxr (chest x-ray)
+
+اشعة سينية صدرية
+
+Radiation oncology
+
+اشعة في طب الاورام
+
+X-radiation
+
+اشعاع سيني
+
+Homogeneous radiation
+
+اشعاع متجانس
+
+Heterogeneous radiation
+
+اشعاع متغاير
+
+Artificial radioactivity
+
+اشعاعية اصطناعية
+
+Induced radioactivity
+
+اشعاعية محدثة
+
+Radiance
+
+اشعاع
+
+Roentgenism
+
+اصابة بالاشعة السينية
+
+Radiopharmaceutical
+
+دواء مشع
+
+Golgi tendon organ
+
+عضو غولجي الوتري
+
+Radiotherapy
+
+المعالجة الاشعاعية
+
+Irradiation
+
+تشعيع
+
+Psychoanalytic therapy
+
+علاج بالتحليل النفسي
+
+Organology
+
+علم الاعضاء
+
+Plain film
+
+فلم بسيط
+
+Absorbable gelatin film
+
+فلم هلامي قابل للامتصاص
+
+Radiosurgery
+
+جراحةاشعاعية
+
+Sd (skin dose)
+
+جرعة جلدية
+
+Erythema dose
+
+جرعة حماموية
+

@@ -1,0 +1,34 @@
+لا يوجد اطعمه يمنع المريض من تناولها ولكن ينصح المريض بتاخير اخذ العلاج لمده ساعه الى ساعتين اذا اناول اطعمة تحتوي على مشتقات الحليب لانها تؤثر على امتصاص الدواء من المعده
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: اطعمه	Lemma: طَعِمَ	BW: TaEima
+		Word: يمنع	Lemma: مَنَعَ	BW: manaEa
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تناولها	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: ينصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: بتاخير	Lemma: بتاخير	BW: btAxyr
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: لمده	Lemma: مَادَ	BW: maAda
+		Word: ساعه	Lemma: سَاعَى	BW: saAEaY
+		Word: الى	Lemma: الى	BW: AlY
+		Word: ساعتين	Lemma: سَاعَة	BW: saAEap
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: اناول	Lemma: اناول	BW: AnAwl
+		Word: اطعمة	Lemma: اطعمة	BW: ATEmp
+		Word: تحتوي	Lemma: احْتَوَى	BW: AHotawaY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: مشتقات	Lemma: مُشْتَقّ	BW: mu$otaq~
+		Word: الحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: لانها	Lemma: لانها	BW: lAnhA
+		Word: تؤثر	Lemma: أَثَّرَ	BW: >av~ara
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: امتصاص	Lemma: امْتِصَاص	BW: AmotiSaAS
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المعده	Lemma: المعده	BW: AlmEdh
+	------------------------

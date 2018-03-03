@@ -1,0 +1,45 @@
+و بعدها يمكن إدخال أغذية صلبة أكثر فمثلا إدخال صفار البيض ما بين الشهر الثامن والتاسع، واللحوم والأجبان مابين الشهرالسابع والثامن، وبحدود الشهر العاشر والثاني عشر يتم إدخال الفاكهة المقشرة والتوست المجفف والقرشلة والبسكويت. و يجب الإنتباه لإضافة السوائل و الماء للطفل.
+	##Lemmatization results:
+		Word: و	Lemma: و	BW: w
+		Word: بعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: إدخال	Lemma: إِدْخَال	BW: <idoxaAl
+		Word: أغذية	Lemma: غِذَاء	BW: gi*aA'
+		Word: صلبة	Lemma: صُلْبَة	BW: Sulobap
+		Word: أكثر	Lemma: أَكْثَرَ	BW: >akovara
+		Word: فمثلا	Lemma: مِثْل	BW: mivol
+		Word: إدخال	Lemma: إِدْخَال	BW: <idoxaAl
+		Word: صفار	Lemma: صَفَّار	BW: Saf~aAr
+		Word: البيض	Lemma: بَيْضَة	BW: bayoDap
+		Word: ما	Lemma: مَا	BW: maA
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: الثامن	Lemma: ثَامِن	BW: vaAmin
+		Word: والتاسع	Lemma: تَاسِع	BW: taAsiE
+		Word: واللحوم	Lemma: لَحْم	BW: laHom
+		Word: والأجبان	Lemma: والأجبان	BW: wAl>jbAn
+		Word: مابين	Lemma: مابين	BW: mAbyn
+		Word: الشهرالسابع	Lemma: الشهرالسابع	BW: Al$hrAlsAbE
+		Word: والثامن	Lemma: ثَامِن	BW: vaAmin
+		Word: وبحدود	Lemma: حَدّ	BW: Had~
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: العاشر	Lemma: عَاشِر	BW: EaA$ir
+		Word: والثاني	Lemma: ثَانِي	BW: vaAniy
+		Word: عشر	Lemma: عُشْر	BW: Eu$or
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: إدخال	Lemma: إِدْخَال	BW: <idoxaAl
+		Word: الفاكهة	Lemma: فَاكِهَة	BW: faAkihap
+		Word: المقشرة	Lemma: مُقَشِّر	BW: muqa$~ir
+		Word: والتوست	Lemma: والتوست	BW: wAltwst
+		Word: المجفف	Lemma: مُجَفَّف	BW: mujaf~af
+		Word: والقرشلة	Lemma: والقرشلة	BW: wAlqr$lp
+		Word: والبسكويت	Lemma: والبسكويت	BW: wAlbskwyt
+		Word: و	Lemma: و	BW: w
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: الإنتباه	Lemma: الإنتباه	BW: Al<ntbAh
+		Word: لإضافة	Lemma: إِضَافَة	BW: <iDaAfap
+		Word: السوائل	Lemma: سَائِل	BW: saA}il
+		Word: و	Lemma: و	BW: w
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: للطفل	Lemma: طِفْل	BW: Tifol
+	------------------------

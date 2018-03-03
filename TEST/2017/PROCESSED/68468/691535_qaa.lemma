@@ -1,0 +1,12 @@
+للتاكد يمكن عمل الفحص بعد ثلاث اشهر وستة اشهر.......
+	##Lemmatization results:
+		Word: للتاكد	Lemma: للتاكد	BW: lltAkd
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: عمل	Lemma: عَمَل	BW: Eamal
+		Word: الفحص	Lemma: فَحْص	BW: faHoS
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: ثلاث	Lemma: ثَلَاث	BW: valaAv
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: وستة	Lemma: سِتّ	BW: sit~
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+	------------------------

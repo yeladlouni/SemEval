@@ -1,0 +1,32 @@
+ابني عمره ثمانية اشهر يعني من السعال بالرغم من انني قدمت له الادوية اللازمة للسعال مع الوقت زال عانه السعال لكن بتوقفي في اعطاء الدواء يبدأ بالسعال ماذا افعل
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: عمره	Lemma: عُمُر	BW: Eumur
+		Word: ثمانية	Lemma: ثَمَان	BW: vamaAn
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: بالرغم	Lemma: رَغْم	BW: ragom
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: انني	Lemma: انني	BW: Anny
+		Word: قدمت	Lemma: قَدِمَ	BW: qadima
+		Word: له	Lemma: لِي	BW: liy
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: اللازمة	Lemma: لَازِم	BW: laAzim
+		Word: للسعال	Lemma: سُعَال	BW: suEaAl
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الوقت	Lemma: وَقْت	BW: waqot
+		Word: زال	Lemma: زَالَ	BW: zaAla
+		Word: عانه	Lemma: عَانَى	BW: EaAnaY
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: لكن	Lemma: كَانَ	BW: kaAna
+		Word: بتوقفي	Lemma: تَوَقُّف	BW: tawaq~uf
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اعطاء	Lemma: اعطاء	BW: AETA'
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: يبدأ	Lemma: بَدَأَ	BW: bada>a
+		Word: بالسعال	Lemma: سُعَال	BW: suEaAl
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+	------------------------

@@ -1,0 +1,36 @@
+انا مصاب بالتهاب كبدي نوع ب منذ الصغر. قمت بتحليل للدم في اكتوبر 2010 وكانت النتائج كالتالي : T.G.O =41 U L T.G.P = 73 U L و اليوم قمت بتحليل دم ثاني وكانت النتائج كالتالي : T.G.O =41 U L T.G.P = 73 U L فهل شفيت مع اني لم استعمل اي دواء 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بالتهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: كبدي	Lemma: كَبِد	BW: kabid
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: ب	Lemma: ب	BW: b
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: الصغر	Lemma: صِغَر	BW: Sigar
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بتحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: للدم	Lemma: دَم	BW: dam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اكتوبر	Lemma: اكتوبر	BW: Aktwbr
+		Word: وكانت	Lemma: كَانَ	BW: kaAna
+		Word: النتائج	Lemma: نَتِيجَة	BW: natiyjap
+		Word: كالتالي	Lemma: تَال	BW: taAl
+		Word: و	Lemma: و	BW: w
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بتحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: دم	Lemma: دَم	BW: dam
+		Word: ثاني	Lemma: ثَانِي	BW: vaAniy
+		Word: وكانت	Lemma: كَانَ	BW: kaAna
+		Word: النتائج	Lemma: نَتِيجَة	BW: natiyjap
+		Word: كالتالي	Lemma: تَال	BW: taAl
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: شفيت	Lemma: شَفِيَ	BW: $afiya
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: اني	Lemma: اني	BW: Any
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: استعمل	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: اي	Lemma: اي	BW: Ay
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Musculus supinator
+
+عضلة باسطة
+
+Musculus extensor policis longus
+
+عضلة باسطة الابهام الطويلة
+
+Musculus extensor policis brves
+
+عضلة باسطة الابهام القصيرة
+
+Musculus extensor hallucis longus
+
+عضلة باسطة ابهام القدم الطويلة
+
+Musculus extensor digitorum
+
+عضلة باسطة الاصابع
+
+Musculus extensor digitorum longus
+
+عضلة باسطة اصابع القدم الطويلة
+
+Musculus extensor digitorum brevis
+
+عضلة باسطة اصابع القدم القصيرة
+
+Musculus extensor carpi ulnaris
+
+عضلة باسطة الرسغ الزندية
+
+Musculus carpi ulnaris longus
+
+عضلة باسطة الرسغ الطويلة
+
+Musculus carpi radialis brevis
+
+عضلة باسطة الرسغ الكعبرية القصيرة
+
+Musculus extensor indicis
+
+عضلة باسطة السبابة
+
+Musculus bulbospongiosus
+
+عضلة بصلية اسفنجية
+
+Musculus obliquus abdominis
+
+عضلة بطنية مائلة
+
+Musculus obliquus externus abdominis
+
+عضلة بطنية مائلة ظاهرة
+
+Musculus interspinalis
+
+عضلات بين السناسن
+
+Musculus interosseus plantaris
+
+عضلات بين العظام الاخمصية
+
+Musculus interosseus palmaris
+
+عضلات بين العظام الراحية
+
+Musculus interosseus
+
+عضلات بين عظام القدم
+
+Musculus interosseus dorsalis
+
+عضلات بين العظام الظهرية
+
+Musculus interosseus dorsalis pedis
+
+عضلات بين عظام القدم الظهرية
+

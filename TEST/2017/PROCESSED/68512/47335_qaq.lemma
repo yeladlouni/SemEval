@@ -1,0 +1,12 @@
+أنا عمري 16 وطلعت في وجهي حبوب أريد حل "علاج"
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: وطلعت	Lemma: طَلَعَ	BW: TalaEa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: وجهي	Lemma: وَجْه	BW: wajoh
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: حل	Lemma: حَلّ	BW: Hal~
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

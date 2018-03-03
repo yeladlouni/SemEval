@@ -1,0 +1,19 @@
+السؤال أمي تعاني من مشكلة وهو صلع الرأس حيث أصبحت لها بقع لا توجد بها شعر.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: وهو	Lemma: هُوَ	BW: huwa
+		Word: صلع	Lemma: صَلَّعَ	BW: Sal~aEa
+		Word: الرأس	Lemma: رَأْس	BW: ra>os
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: أصبحت	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: لها	Lemma: لِي	BW: liy
+		Word: بقع	Lemma: بُقْعَة	BW: buqoEap
+		Word: لا	Lemma: لَا	BW: laA
+		Word: توجد	Lemma: وَجَدَ	BW: wajada
+		Word: بها	Lemma: بِي	BW: biy
+		Word: شعر	Lemma: شَعَرَ	BW: $aEara
+	------------------------

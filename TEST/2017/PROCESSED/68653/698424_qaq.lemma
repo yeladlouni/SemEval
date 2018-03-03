@@ -1,0 +1,31 @@
+ابنة اختي عمرها 3 سنوات وأربعة أشهر تعاني من ضعف في عمل الكلى ووصل هذا القصور إلى 19%. هل من حل لعلاجها و إعادتها إلى وضعها الطبيعي وشكرا على المساعدة
+	##Lemmatization results:
+		Word: ابنة	Lemma: ابْن	BW: Abon
+		Word: اختي	Lemma: خَتَا	BW: xataA
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وأربعة	Lemma: أَرْبَع	BW: >arobaE
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ضعف	Lemma: ضِعْف	BW: DiEof
+		Word: في	Lemma: فِي	BW: fiy
+		Word: عمل	Lemma: عَمَل	BW: Eamal
+		Word: الكلى	Lemma: كُلْيَة	BW: kuloyap
+		Word: ووصل	Lemma: وَصَلَ	BW: waSala
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: القصور	Lemma: قَصْر	BW: qaSor
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حل	Lemma: حَلّ	BW: Hal~
+		Word: لعلاجها	Lemma: عِلَاج	BW: EilaAj
+		Word: و	Lemma: و	BW: w
+		Word: إعادتها	Lemma: إِعَادَة	BW: <iEaAdap
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: وضعها	Lemma: وَضْع	BW: waDoE
+		Word: الطبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: المساعدة	Lemma: مُسَاعَدَة	BW: musaAEadap
+	------------------------

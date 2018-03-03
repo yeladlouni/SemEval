@@ -1,0 +1,13 @@
+الحل هو تقليل الأكل وتقليل الممارسة ، وممارسة هوايت تشغل وقتك.
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: تقليل	Lemma: تَقْلِيل	BW: taqoliyl
+		Word: الأكل	Lemma: أَكْل	BW: >akol
+		Word: وتقليل	Lemma: تَقْلِيل	BW: taqoliyl
+		Word: الممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: وممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: هوايت	Lemma: هوايت	BW: hwAyt
+		Word: تشغل	Lemma: شَغَلَ	BW: $agala
+		Word: وقتك	Lemma: وَقْت	BW: waqot
+	------------------------

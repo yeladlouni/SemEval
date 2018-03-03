@@ -1,0 +1,18 @@
+. يوجد عندي ألم في الخصية اليسرى، ويوجد انتفاخ في الخصية اليسرى، ولا توجد أعراض أخرى
+	##Lemmatization results:
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الخصية	Lemma: خُصْيَة	BW: xuSoyap
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: ويوجد	Lemma: وَجَدَ	BW: wajada
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الخصية	Lemma: خُصْيَة	BW: xuSoyap
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: توجد	Lemma: وَجَدَ	BW: wajada
+		Word: أعراض	Lemma: عِرْض	BW: EiroD
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+	------------------------

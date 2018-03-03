@@ -1,0 +1,28 @@
+انا فتاة عمري 20 سنة وزني 51 و طولي 164 اريد زيادة وزني ماهي الادوية التي يمكن ان استعملها و لا تكون لها اثار جانبية انا من المغرب
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: و	Lemma: و	BW: w
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: زيادة	Lemma: زِيَادَة	BW: ziyaAdap
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: ماهي	Lemma: مَاهّ	BW: maAh~
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: ان	Lemma: ان	BW: An
+		Word: استعملها	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: و	Lemma: و	BW: w
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: لها	Lemma: لِي	BW: liy
+		Word: اثار	Lemma: اثار	BW: AvAr
+		Word: جانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: انا	Lemma: انا	BW: AnA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المغرب	Lemma: مَغْرِب	BW: magorib
+	------------------------

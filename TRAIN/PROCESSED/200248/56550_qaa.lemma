@@ -1,0 +1,38 @@
+ان التشخيص الذي تكتبين أتوقع انه تم عن طريق طبيب لذلك يجب إعطاء الدواء المناسب...اما اذا لم يتم عرضه على طبيب ...يجب استشارة الأخصائي بأسرع وقت ممكن...لا يمكن إعطاء العلاج بدون التشخيص الصحيح
+	##Lemmatization results:
+		Word: ان	Lemma: ان	BW: An
+		Word: التشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تكتبين	Lemma: تَكَتُّب	BW: takat~ub
+		Word: أتوقع	Lemma: تَوَقَّعَ	BW: tawaq~aEa
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: تم	Lemma: تَمَّ	BW: tam~a
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: طريق	Lemma: طَرِيق	BW: Tariyq
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: إعطاء	Lemma: إِعْطَاء	BW: <iEoTaA'
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: اما	Lemma: اما	BW: AmA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: عرضه	Lemma: عَرَضَ	BW: EaraDa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: استشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الأخصائي	Lemma: الأخصائي	BW: Al>xSA}y
+		Word: بأسرع	Lemma: أَسْرَع	BW: >asoraE
+		Word: وقت	Lemma: وَقْت	BW: waqot
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: إعطاء	Lemma: إِعْطَاء	BW: <iEoTaA'
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: التشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+		Word: الصحيح	Lemma: صَحِيح	BW: SaHiyH
+	------------------------

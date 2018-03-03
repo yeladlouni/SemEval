@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - خدمات طبية
+
+#  المصطلحات الطبية - خدمات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Ambulance
+
+سيارة الاسعاف
+
+Paramedical
+
+طبابي
+
+Paradental
+
+طبابي الاسنان
+
+Braille
+
+طريقة برايل
+
+Apothecary
+
+عطار
+
+Ward
+
+قاعة
+
+Preclinical
+
+قبل السريري
+
+Nursery
+
+مركز الحضانة
+
+Health center
+
+مركز صحي
+
+Outpatient
+
+مريض خارجي
+
+Ancillary, auxiliary, adjuvant
+
+مساعد
+
+Consultant
+
+مستشار
+
+Infirmary, hospital
+
+مستشفى
+
+Evacuation hospital
+
+مستشفى الاخلاء
+
+Teaching hospital
+
+مستشفى تعليمي
+
+General hospital
+
+مستشفى عام
+
+Camp hospital
+
+مستشفى المعسكر
+
+Closed hospital
+
+مستشفى مغلق
+
+Field hospital
+
+مستشفى الميدان
+
+Supervisor
+
+مشرف
+

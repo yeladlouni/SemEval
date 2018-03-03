@@ -1,0 +1,15 @@
+# علاجات الجلد
+
+اسم العلاج | Treatment Name  
+---|---  
+فتح قنوات فالوب  |  Salpingostomy  
+جراحة موس  |  Mohs surgery  
+علاج الضعف الجنسي  |  Penile Prostheses  
+الاجهاض  |  Abortion (Pregnancy Termination) Procedure  
+استئصال الرحم  |  Hysterectomy  
+شد الوجه  |  Face lift Surgery  
+ازالة الشعر بالليزر  |  Laser Hair Removal  
+علاج الندب  |  Scar Revision Surgery  
+إزالة الوشم بالليزر  |  Laser Tattoo Removal  
+جراحة الورم الميلانيني  |  Surgical treatment of malignant melanoma
+

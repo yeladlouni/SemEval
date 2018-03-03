@@ -1,0 +1,27 @@
+دكتور انا عمري 16 سنة .. بمجرد أن أرى صورة أو أتحدث مع فتاة لمدة -نصف ساعة مثلاً- يخرج كمية بسيطة من المذي .. هل هو طبيعي 
+	##Lemmatization results:
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: بمجرد	Lemma: مُجَرَّد	BW: mujar~ad
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: أرى	Lemma: رَأَى	BW: ra>aY
+		Word: صورة	Lemma: صُورَة	BW: Suwrap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أتحدث	Lemma: تَحَدَّثَ	BW: taHad~ava
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: مثلًا	Lemma: مَثَل	BW: maval
+		Word: يخرج	Lemma: أَخْرَجَ	BW: >axoraja
+		Word: كمية	Lemma: كَمِّيَّة	BW: kam~iy~ap
+		Word: بسيطة	Lemma: بَسِيط	BW: basiyT
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المذي	Lemma: مَذْي	BW: ma*oy
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+	------------------------

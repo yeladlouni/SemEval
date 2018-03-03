@@ -1,0 +1,39 @@
+السؤال سمعنا في الفترة الأخيرة أن تناول المصل ضد مرض (N1H1) يسبب أعراضاً جانبية وخطيرة أكثر من الإصابة بالمرض لاحتوائه على مادة مضرة كما سمعنا أن كثيراً من الأطباء الأجانب امتنعوا عن أخذ المصل خوفاً من الأضرار.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: سمعنا	Lemma: سَمِعَ	BW: samiEa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الفترة	Lemma: فَتْرَة	BW: fatorap
+		Word: الأخيرة	Lemma: أَخِير	BW: >axiyr
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: المصل	Lemma: مَصْل	BW: maSol
+		Word: ضد	Lemma: ضِدّ	BW: Did~
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: يسبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: أعراضًا	Lemma: عِرْض	BW: EiroD
+		Word: جانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: وخطيرة	Lemma: خَطِير	BW: xaTiyr
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الإصابة	Lemma: إِصَابَة	BW: <iSaAbap
+		Word: بالمرض	Lemma: مَرَض	BW: maraD
+		Word: لاحتوائه	Lemma: احْتِوَاء	BW: AHotiwaA'
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: مادة	Lemma: مَادَّة	BW: maAd~ap
+		Word: مضرة	Lemma: مُضِرّ	BW: muDir~
+		Word: كما	Lemma: مَا	BW: maA
+		Word: سمعنا	Lemma: سَمِعَ	BW: samiEa
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأطباء	Lemma: طَبِيب	BW: Tabiyb
+		Word: الأجانب	Lemma: أَجْنَبِيّ	BW: >ajonabiy~
+		Word: امتنعوا	Lemma: امْتَنَعَ	BW: AmotanaEa
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: أخذ	Lemma: أَخْذ	BW: >axo*
+		Word: المصل	Lemma: مِصَلّ	BW: miSal~
+		Word: خوفًا	Lemma: خَوْف	BW: xawof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأضرار	Lemma: ضَرَر	BW: Darar
+	------------------------

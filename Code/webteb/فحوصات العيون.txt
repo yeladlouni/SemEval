@@ -1,0 +1,27 @@
+# فحوصات العيون
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال العيون في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+اختبار عمى الألوان  |  Color Vision Test  
+إستجابة مستثارة  |  evoked response  
+اختبار شيرمر  |  Schirmer test  
+تخطيط كهربية الرأرأة  |  electro nystagmography  
+تنظير قاع العين  |  fundoscopy  
+تصوير قاع العين بعد حقن ICG تصوير الأوعية بخضرة الإندوسيانين  |  ICG
+angiography  
+تصوير قاع العين بعد حقن الفلوارسين Fluorescein  |  fluorescein angiography  
+صبغ العين بالفوريسئين  |  fluorescein eye stain  
+طبغرافية القرنية  |  corneal topography  
+فحص النظر  |  visual acuity test  
+التصوير للترابط البصري  |  optical coherence tomography  
+ضغط العين  |  Tonometry (Intraocular Pressure Testing)  
+فحص مجال الرؤية  |  Visual Field Test , Perimetry Test
+

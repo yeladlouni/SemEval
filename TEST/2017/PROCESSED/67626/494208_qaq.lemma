@@ -1,0 +1,35 @@
+مرحبا دكتور انا انا بنت عمري 27 متزوجة في السويد مشكلتي عندي وجع براس المعده وغثيان دائم وبحس بامتلاء المعده عملت تنظير بمستشفى عادي قالولي مافي شي بس انا مو واثقه شو اعمل؟؟
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: انا	Lemma: انا	BW: AnA
+		Word: انا	Lemma: انا	BW: AnA
+		Word: بنت	Lemma: بِنْت	BW: binot
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: متزوجة	Lemma: مُتَزَوِّج	BW: mutazaw~ij
+		Word: في	Lemma: فِي	BW: fiy
+		Word: السويد	Lemma: سَوِيد	BW: sawiyd
+		Word: مشكلتي	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: وجع	Lemma: وَجَع	BW: wajaE
+		Word: براس	Lemma: رَاس	BW: raAs
+		Word: المعده	Lemma: المعده	BW: AlmEdh
+		Word: وغثيان	Lemma: غَثَيَان	BW: gavayaAn
+		Word: دائم	Lemma: دَائِم	BW: daA}im
+		Word: وبحس	Lemma: حِسّ	BW: His~
+		Word: بامتلاء	Lemma: امْتِلَاء	BW: AmotilaA'
+		Word: المعده	Lemma: المعده	BW: AlmEdh
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: تنظير	Lemma: تَنْظِير	BW: tanoZiyr
+		Word: بمستشفى	Lemma: مُسْتَشْفَى	BW: musota$ofaY
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: قالولي	Lemma: قالولي	BW: qAlwly
+		Word: مافي	Lemma: مافي	BW: mAfy
+		Word: شي	Lemma: شَيّ	BW: $ay~
+		Word: بس	Lemma: بَسَّ	BW: bas~a
+		Word: انا	Lemma: انا	BW: AnA
+		Word: مو	Lemma: مو	BW: mw
+		Word: واثقه	Lemma: وَاثِق	BW: waAviq
+		Word: شو	Lemma: شُو	BW: $uw
+		Word: اعمل	Lemma: عَمِلَ	BW: Eamila
+	------------------------

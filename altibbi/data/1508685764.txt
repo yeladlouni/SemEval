@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Cineangiography
+
+تصوير الاوعية السينمائي
+
+Cineradiography
+
+تصوير تنظيري سينمائي
+
+Cineroentgenography
+
+تصوير تنظيري سينمائي
+
+Digital subtraction angiography
+
+تصوير الاوعية بالطرح الرقمي
+
+Parietography
+
+تصوير الجدار
+
+Fetography
+
+تصوير الجنين
+
+Hysterography
+
+تصوير الرحم الشعاعي
+
+Metrosalpingography
+
+تصوير الرحم و البوق
+
+Eog (electrooculography)
+
+تصوير العين الكهربي
+
+Hepatography
+
+تصوير الكبد الشعاعي
+
+Cystourethrography
+
+تصوير المثانة و الاحليل
+
+Cystoureterography
+
+تصوير المثانة و الحالبين
+
+Fluorography
+
+تصوير تالقي
+
+Cholecystosonography
+
+تصوير صوتي للمرارة
+
+Gynecography
+
+تصويرالاعضاءالتناسلية للمراة
+
+Microangiography
+
+تصويرالاوعية الدقيقة
+
+Microarteriography
+
+تصوير الشرايين الدقيقة
+
+Pneumoangiography
+
+تصويرالاوعية الرئوية
+
+Thermoplacentography
+
+تصويرالبؤر الحرارية فيالمشيمة
+
+Pancreatography
+
+تصويرالبنكرياس
+

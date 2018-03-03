@@ -1,0 +1,38 @@
+أنا مصاب بالزكام وأتناول مضاد أوجمنتين من 3 أيام ومن يومين أصبت باسهال هل يجب أن اتوقف عن تناول هاذا الدواء مع العلم ان حرارتي لم تنخفص الا بعد تناول الدواء وكم يحب الاستمرار في تناوله
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بالزكام	Lemma: زُكَام	BW: zukaAm
+		Word: وأتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: أوجمنتين	Lemma: أوجمنتين	BW: >wjmntyn
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: أصبت	Lemma: أَصَابَ	BW: >aSaAba
+		Word: باسهال	Lemma: باسهال	BW: bAshAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: اتوقف	Lemma: اتوقف	BW: Atwqf
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: هاذا	Lemma: هَاذّ	BW: haA*~
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: ان	Lemma: ان	BW: An
+		Word: حرارتي	Lemma: حَرَّارَة	BW: Har~aArap
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تنخفص	Lemma: تنخفص	BW: tnxfS
+		Word: الا	Lemma: الا	BW: AlA
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وكم	Lemma: كَمّ	BW: kam~
+		Word: يحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: الاستمرار	Lemma: اسْتِمْرَار	BW: AsotimoraAr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: تناوله	Lemma: تَنَاوُل	BW: tanaAwul
+	------------------------

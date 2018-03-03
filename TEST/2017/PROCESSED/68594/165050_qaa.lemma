@@ -1,0 +1,31 @@
+هذا يعتمد على درجة الاستجابة التي تتباين بين مريض وآخر وهي التي تحدد الدواء الأمثل له في حيت آخرين يستوجبون بشكل مغاير واستجابتهم تكون أفضل على دواء آخر
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: الاستجابة	Lemma: اسْتِجَابَة	BW: AsotijaAbap
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تتباين	Lemma: تَبَايَنَ	BW: tabaAyana
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: مريض	Lemma: مَرِيض	BW: mariyD
+		Word: وآخر	Lemma: آخَر	BW: |xar
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تحدد	Lemma: حَدَّدَ	BW: Had~ada
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: الأمثل	Lemma: أَمْثَل	BW: >amoval
+		Word: له	Lemma: لِي	BW: liy
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حيت	Lemma: حَاتَ	BW: HaAta
+		Word: آخرين	Lemma: آخَر	BW: |xar
+		Word: يستوجبون	Lemma: اسْتَوْجَبَ	BW: Asotawojaba
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: مغاير	Lemma: مُغَايِر	BW: mugaAyir
+		Word: واستجابتهم	Lemma: اسْتِجَابَة	BW: AsotijaAbap
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: أفضل	Lemma: أَفْضَل	BW: >afoDal
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: آخر	Lemma: آخَر	BW: |xar
+	------------------------

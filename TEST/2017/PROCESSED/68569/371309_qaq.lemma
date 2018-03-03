@@ -1,0 +1,23 @@
+اريد ان اعرف فيما يستعمل دواء Aliviar 50mg؟ وهل هو من الأدوية التي يمكن أن يدمن عليها المريض؟ ولكم مني جزيل الشكر
+	##Lemmatization results:
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: ان	Lemma: ان	BW: An
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: فيما	Lemma: فِي	BW: fiy
+		Word: يستعمل	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يدمن	Lemma: أَدْمَنَ	BW: >adomana
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: ولكم	Lemma: لَكَمَ	BW: lakama
+		Word: مني	Lemma: مِنْ	BW: mino
+		Word: جزيل	Lemma: جَزِيل	BW: jaziyl
+		Word: الشكر	Lemma: شُكْر	BW: $ukor
+	------------------------

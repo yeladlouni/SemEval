@@ -1,0 +1,36 @@
+السؤال أمي عمرها 56 عاماً ولديها 7 أولاد تعاني من الزلال في البول فما هو العلاج ولا تعاني من أي أمراض أخرى نصحها أحد الأطباء بأخذ عشبة (الملج) فما رأيكم وجزاكم الله خيراً على أعمالكم.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عامًا	Lemma: عَام	BW: EaAm
+		Word: ولديها	Lemma: لَدَى	BW: ladaY
+		Word: أولاد	Lemma: وَلَد	BW: walad
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الزلال	Lemma: زَلَّال	BW: zal~aAl
+		Word: في	Lemma: فِي	BW: fiy
+		Word: البول	Lemma: بَوْل	BW: bawol
+		Word: فما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: نصحها	Lemma: نَصَحَ	BW: naSaHa
+		Word: أحد	Lemma: أَحَد	BW: >aHad
+		Word: الأطباء	Lemma: طَبِيب	BW: Tabiyb
+		Word: بأخذ	Lemma: أَخْذ	BW: >axo*
+		Word: عشبة	Lemma: عِشْبَة	BW: Ei$obap
+		Word: الملج	Lemma: مُلَجّ	BW: mulaj~
+		Word: فما	Lemma: مَا	BW: maA
+		Word: رأيكم	Lemma: رَأْي	BW: ra>oy
+		Word: وجزاكم	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: خيرًا	Lemma: خَيْر	BW: xayor
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: أعمالكم	Lemma: عَمَل	BW: Eamal
+	------------------------

@@ -1,0 +1,22 @@
+ابني عمره 14 عام ويعاني من ثقل النوم والتبول اليلي ولقد شاهده عدد كبير من الاطباء ولم المس اي تغير
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: ويعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ثقل	Lemma: ثِقْل	BW: viqol
+		Word: النوم	Lemma: نَوْم	BW: nawom
+		Word: والتبول	Lemma: تَبَوُّل	BW: tabaw~ul
+		Word: اليلي	Lemma: اليلي	BW: Alyly
+		Word: ولقد	Lemma: قَدْ	BW: qado
+		Word: شاهده	Lemma: شَاهَدَ	BW: $aAhada
+		Word: عدد	Lemma: عَدَد	BW: Eadad
+		Word: كبير	Lemma: كَبِير	BW: kabiyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الاطباء	Lemma: اطِّبَاء	BW: AT~ibaA'
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: المس	Lemma: مَسّ	BW: mas~
+		Word: اي	Lemma: اي	BW: Ay
+		Word: تغير	Lemma: تَغَيُّر	BW: tagay~ur
+	------------------------

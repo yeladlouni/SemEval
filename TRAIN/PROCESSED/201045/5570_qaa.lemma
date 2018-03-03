@@ -1,0 +1,16 @@
+بسم الله الرحمن الرحيم هناك دراسات على هذا وإن شاء الله يتوصلو لحل
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: الرحمن	Lemma: رَحْمَن	BW: raHoman
+		Word: الرحيم	Lemma: رَحِيم	BW: raHiym
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: دراسات	Lemma: دِرَاسَة	BW: diraAsap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: وإن	Lemma: إِنْ	BW: <ino
+		Word: شاء	Lemma: شَاءَ	BW: $aA'a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: يتوصلو	Lemma: يتوصلو	BW: ytwSlw
+		Word: لحل	Lemma: حَلّ	BW: Hal~
+	------------------------

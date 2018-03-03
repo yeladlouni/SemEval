@@ -1,0 +1,33 @@
+أخي الصغير عمره 8 سنوات ويعاني من تسوس الأسنان ولديه خوف شديد من الذهاب إلى المستشفى ويحزن كثيرا ولا أريد أن اوثر على نفسيته هل تنصحني بالغاز المضحك أم التخدير الكامل
+	##Lemmatization results:
+		Word: أخي	Lemma: أَخ	BW: >ax
+		Word: الصغير	Lemma: صَغِير	BW: Sagiyr
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: ويعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تسوس	Lemma: تَسَوُّس	BW: tasaw~us
+		Word: الأسنان	Lemma: سِنّ	BW: sin~
+		Word: ولديه	Lemma: لَدَى	BW: ladaY
+		Word: خوف	Lemma: خَوْف	BW: xawof
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الذهاب	Lemma: ذَهَاب	BW: *ahaAb
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: المستشفى	Lemma: مُسْتَشْفَى	BW: musota$ofaY
+		Word: ويحزن	Lemma: حَازَ	BW: HaAza
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: اوثر	Lemma: وَثُرَ	BW: wavura
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: نفسيته	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تنصحني	Lemma: أَنْصَحَ	BW: >anoSaHa
+		Word: بالغاز	Lemma: غَاز	BW: gaAz
+		Word: المضحك	Lemma: مُضْحِك	BW: muDoHik
+		Word: أم	Lemma: أَمَّ	BW: >am~a
+		Word: التخدير	Lemma: تَخْدِير	BW: taxodiyr
+		Word: الكامل	Lemma: كَامِل	BW: kaAmil
+	------------------------

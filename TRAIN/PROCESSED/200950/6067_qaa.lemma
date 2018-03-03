@@ -1,0 +1,18 @@
+لا يوجد عدد معين ولكن يفضل من مرتين الى ثلاث مرات او كلما دعت الحاجة
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: عدد	Lemma: عَدَد	BW: Eadad
+		Word: معين	Lemma: مُعَيَّن	BW: muEay~an
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: يفضل	Lemma: أَفْضَلَ	BW: >afoDala
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: الى	Lemma: الى	BW: AlY
+		Word: ثلاث	Lemma: ثَلَاث	BW: valaAv
+		Word: مرات	Lemma: مَرَّة	BW: mar~ap
+		Word: او	Lemma: او	BW: Aw
+		Word: كلما	Lemma: كَلْم	BW: kalom
+		Word: دعت	Lemma: دَعَا	BW: daEaA
+		Word: الحاجة	Lemma: حَاجَة	BW: HaAjap
+	------------------------

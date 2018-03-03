@@ -1,0 +1,32 @@
+# علاجات السرطان
+
+اسم العلاج | Treatment Name  
+---|---  
+استئصال القولون  |  Laparascopic Total Abdominal Colectomy  
+جراحة البروستاتا  |  Laparoscopic Prostate Surgery  
+الانتباذ البطاني الرحمي  |  Laparoscopic Surgery for Endometriosis  
+زراعة البنكرياس  |  Pancreas Transplant  
+جراحة السلائل  |  Colorectal Cancer - Surgery  
+عملية الكبد  |  Hepatectomy  
+استئصال الحنجرة  |  Laryngectomy  
+زراعة نخاع العظم  |  Bone Marrow Transplantation  
+استئصال أورام الثدي  |  Lumpectomy  
+الإستئصال الجزئي للثدي  |  Partial Mastectomy  
+علاج البروستاتا  |  Radical Prostatectomy  
+زراعة الخلايا الجذعية عند الأطفال  |  Stem cells transplantation  
+تشريح الرقبة  |  Neck, metastases and neck dissection  
+الإستئصال المخروطي لعنق الرحم  |  Conization of cervix  
+الإستئصال الإسفيني لعنق الرحم  |  Conization  
+استئصال عنق الرحم  |  Lletz leep  
+استئصال الفرج  |  Vulvectomy  
+جراحة الأورام المعوية  |  Intestinal tumors - surgery  
+اورام المعدة  |  Gastric tumors, surgery  
+التجويف خلف الصفاق  |  Retroperitonal tumors surgery  
+جراحة سرطان الثدي  |  Breast tumors surgery  
+جراحة الورم الميلانيني  |  Surgical treatment of malignant melanoma  
+عملية سرطان القولون  |  Surgical management of colorectal cancer  
+استئصال النقائل  |  Metastasectomy  
+استئصال التوتة  |  Thymectomy  
+إستئصال المريء  |  Esophagectomy  
+تنظير المنصف  |  Mediastinoscopy
+

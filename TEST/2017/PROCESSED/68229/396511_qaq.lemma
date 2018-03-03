@@ -1,0 +1,33 @@
+السلام عليكم انا شاب عمري 25 سنه لما اخرج اسهال ورحت الطبيب قالي عندك التهاب خفيف اعطاني انازول500لمدة خمس ايام وخلثت العلاج ولان عادتت الحاله من جديد مع حكه بالشرج
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: لما	Lemma: لَمْ	BW: lamo
+		Word: اخرج	Lemma: خَرَجَ	BW: xaraja
+		Word: اسهال	Lemma: اسهال	BW: AshAl
+		Word: ورحت	Lemma: رَحَّ	BW: raH~a
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: قالي	Lemma: قَالَى	BW: qaAlaY
+		Word: عندك	Lemma: عِنْد	BW: Einod
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: خفيف	Lemma: خَفِيف	BW: xafiyf
+		Word: اعطاني	Lemma: اعطاني	BW: AETAny
+		Word: انازول	Lemma: انازول	BW: AnAzwl
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: خمس	Lemma: خَمْس	BW: xamos
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: وخلثت	Lemma: وخلثت	BW: wxlvt
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: ولان	Lemma: لانَ	BW: lAna
+		Word: عادتت	Lemma: عادتت	BW: EAdtt
+		Word: الحاله	Lemma: الحاله	BW: AlHAlh
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: جديد	Lemma: جَدِيد	BW: jadiyd
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: حكه	Lemma: حَكَّ	BW: Hak~a
+		Word: بالشرج	Lemma: شَرَج	BW: $araj
+	------------------------

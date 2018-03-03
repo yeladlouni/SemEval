@@ -1,0 +1,31 @@
+شاب عمري 24 سنة عندي مشكلة في المرارة ولما ذهبت للطبيب قال إنها مشكلة وظيفية وليست عضوية والمرارة لا تؤدي دورها بشكل جيد ونقص في الشهية .. ما رايكم دكتور . 
+	##Lemmatization results:
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: ولما	Lemma: مَا	BW: maA
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: للطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: إنها	Lemma: أَنَّ	BW: >an~a
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: وظيفية	Lemma: وَظِيفِيّ	BW: waZiyfiy~
+		Word: وليست	Lemma: لَيْسَ	BW: layosa
+		Word: عضوية	Lemma: عُضْوِيّ	BW: EuDowiy~
+		Word: والمرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تؤدي	Lemma: أَدَّى	BW: >ad~aY
+		Word: دورها	Lemma: دَوْر	BW: dawor
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: ونقص	Lemma: نَقْص	BW: naqoS
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشهية	Lemma: شَهِيَّة	BW: $ahiy~ap
+		Word: ما	Lemma: مَا	BW: maA
+		Word: رايكم	Lemma: رَايَة	BW: raAyap
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+	------------------------

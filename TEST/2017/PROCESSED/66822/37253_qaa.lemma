@@ -1,0 +1,12 @@
+إذا تمت العملية بشكل صحيح، فمن المفروض أنها أبدية.
+	##Lemmatization results:
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: تمت	Lemma: تَمَّ	BW: tam~a
+		Word: العملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: فمن	Lemma: مِنْ	BW: mino
+		Word: المفروض	Lemma: مَفْرُوض	BW: maforuwD
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: أبدية	Lemma: أَبَدِّيَّة	BW: >abad~iy~ap
+	------------------------

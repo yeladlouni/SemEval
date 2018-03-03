@@ -1,0 +1,15 @@
+للاسف فانه لا يوجد سوى الحبوب والادويه المتعارف عليها... التدريب اساسي كذلك
+	##Lemmatization results:
+		Word: للاسف	Lemma: للاسف	BW: llAsf
+		Word: فانه	Lemma: فَانّ	BW: faAn~
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: سوى	Lemma: سِوَى	BW: siwaY
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: والادويه	Lemma: والادويه	BW: wAlAdwyh
+		Word: المتعارف	Lemma: مُتَعَارَف	BW: mutaEaAraf
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: التدريب	Lemma: تَدْرِيب	BW: tadoriyb
+		Word: اساسي	Lemma: اساسي	BW: AsAsy
+		Word: كذلك	Lemma: ذَا	BW: *aA
+	------------------------

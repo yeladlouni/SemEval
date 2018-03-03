@@ -1,0 +1,34 @@
+آنا عمري 29 وشعري يتساقط وذهبت للمستشفى فقالت لي دكتوره أن بصيلات الشعر ميته وعندي فراغات كثيره وعملت تحاليل وكلها سليمه وكل سنه شعري يتساقط أكثر من السنه إلى راحت ماهو العلاج
+	##Lemmatization results:
+		Word: آنا	Lemma: آن	BW: |n
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: وشعري	Lemma: شَعْر	BW: $aEor
+		Word: يتساقط	Lemma: تَسَاقَطَ	BW: tasaAqaTa
+		Word: وذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: للمستشفى	Lemma: مُسْتَشْفَى	BW: musota$ofaY
+		Word: فقالت	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: دكتوره	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: بصيلات	Lemma: بُصَيْل	BW: buSayol
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: ميته	Lemma: مَيِّت	BW: may~it
+		Word: وعندي	Lemma: عِنْدَ	BW: Einoda
+		Word: فراغات	Lemma: فَرَاغ	BW: faraAg
+		Word: كثيره	Lemma: كَثِير	BW: kaviyr
+		Word: وعملت	Lemma: عَمِلَ	BW: Eamila
+		Word: تحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: وكلها	Lemma: كُلّ	BW: kul~
+		Word: سليمه	Lemma: سُلَيْم	BW: sulayom
+		Word: وكل	Lemma: كُلّ	BW: kul~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: شعري	Lemma: شِعْرِيّ	BW: $iEoriy~
+		Word: يتساقط	Lemma: تَسَاقَطَ	BW: tasaAqaTa
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السنه	Lemma: لَسَنَ	BW: lasana
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: راحت	Lemma: رَاحَ	BW: raAHa
+		Word: ماهو	Lemma: مَاهّ	BW: maAh~
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

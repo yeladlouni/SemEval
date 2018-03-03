@@ -1,0 +1,14 @@
+حاولي اعطائه عدة نقاط عصير ليمون-خمس نقاط-مع ملعقتين ماء
+	##Lemmatization results:
+		Word: حاولي	Lemma: حَاوَلَ	BW: HaAwala
+		Word: اعطائه	Lemma: اعطائه	BW: AETA}h
+		Word: عدة	Lemma: عُدَّة	BW: Eud~ap
+		Word: نقاط	Lemma: نُقْطَة	BW: nuqoTap
+		Word: عصير	Lemma: عَصِير	BW: EaSiyr
+		Word: ليمون	Lemma: مَانَ	BW: maAna
+		Word: خمس	Lemma: خَمْس	BW: xamos
+		Word: نقاط	Lemma: نُقْطَة	BW: nuqoTap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: ملعقتين	Lemma: مُلَعَّق	BW: mulaE~aq
+		Word: ماء	Lemma: مَاء	BW: maA'
+	------------------------

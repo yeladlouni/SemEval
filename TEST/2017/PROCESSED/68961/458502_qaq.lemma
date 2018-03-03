@@ -1,0 +1,21 @@
+انا هعمل عمليه ليزك والمستشفى عرضه عليا (طبيب اخصائي--طبيب استشارى--استاذ دكتور) مين الاحسن عشان يعملى العمليه ؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: هعمل	Lemma: هعمل	BW: hEml
+		Word: عمليه	Lemma: عَمَل	BW: Eamal
+		Word: ليزك	Lemma: لَيْز	BW: layoz
+		Word: والمستشفى	Lemma: مُسْتَشْفَى	BW: musota$ofaY
+		Word: عرضه	Lemma: عَرَضَ	BW: EaraDa
+		Word: عليا	Lemma: عَلَى	BW: EalaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: اخصائي	Lemma: اخصائي	BW: AxSA}y
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: استشارى	Lemma: استشارى	BW: Ast$ArY
+		Word: استاذ	Lemma: استاذ	BW: AstA*
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: مين	Lemma: مَانَ	BW: maAna
+		Word: الاحسن	Lemma: الاحسن	BW: AlAHsn
+		Word: عشان	Lemma: عَشَّ	BW: Ea$~a
+		Word: يعملى	Lemma: يعملى	BW: yEmlY
+		Word: العمليه	Lemma: العمليه	BW: AlEmlyh
+	------------------------

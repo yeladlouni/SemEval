@@ -1,0 +1,36 @@
+ننصحك بالتغذية المتوازنة الغنية بالفواكة والخضراوات, بالاضافة إلى استخدام زيوت مرطبة للشعر مثل زيت الزيتون وزيت جوز الهند وزيت اللوز, والاعتدال في غسل الشعر وتجنب استخدام مجفف الشعر واستخدام شامبو يناسب الشعر الجاف.
+	##Lemmatization results:
+		Word: ننصحك	Lemma: نَصَحَ	BW: naSaHa
+		Word: بالتغذية	Lemma: تَغْذِيَة	BW: tago*iyap
+		Word: المتوازنة	Lemma: مُتَوَازِن	BW: mutawaAzin
+		Word: الغنية	Lemma: غَنِيّ	BW: ganiy~
+		Word: بالفواكة	Lemma: بالفواكة	BW: bAlfwAkp
+		Word: والخضراوات	Lemma: أَخْضَر	BW: >axoDar
+		Word: بالاضافة	Lemma: بالاضافة	BW: bAlADAfp
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: زيوت	Lemma: زَيْت	BW: zayot
+		Word: مرطبة	Lemma: مِرْطَب	BW: miroTab
+		Word: للشعر	Lemma: شِعْر	BW: $iEor
+		Word: مثل	Lemma: مِثْل	BW: mivol
+		Word: زيت	Lemma: زَيْت	BW: zayot
+		Word: الزيتون	Lemma: زَيْتُون	BW: zayotuwn
+		Word: وزيت	Lemma: زَيْت	BW: zayot
+		Word: جوز	Lemma: جَوَّزَ	BW: jaw~aza
+		Word: الهند	Lemma: هِنْد	BW: hinod
+		Word: وزيت	Lemma: زَيْت	BW: zayot
+		Word: اللوز	Lemma: لَوْز	BW: lawoz
+		Word: والاعتدال	Lemma: اعْتِدَال	BW: AEotidaAl
+		Word: في	Lemma: فِي	BW: fiy
+		Word: غسل	Lemma: غُسْل	BW: gusol
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: وتجنب	Lemma: تَجَنُّب	BW: tajan~ub
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: مجفف	Lemma: مُجَفَّف	BW: mujaf~af
+		Word: الشعر	Lemma: شِعْر	BW: $iEor
+		Word: واستخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: شامبو	Lemma: شامبو	BW: $Ambw
+		Word: يناسب	Lemma: نَاسَبَ	BW: naAsaba
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: الجاف	Lemma: جَافّ	BW: jaAf~
+	------------------------

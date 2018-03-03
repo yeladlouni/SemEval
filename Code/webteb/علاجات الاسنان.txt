@@ -1,0 +1,14 @@
+# علاجات الاسنان
+
+اسم العلاج | Treatment Name  
+---|---  
+جراحة دواعم السن  |  Periodontal Surgery  
+علاج قناة الجذر  |  Root Canal Procedure  
+قلع الاسنان  |  Tooth Extraction  
+حشو الأسنان  |  Tooth Filling Procedure  
+تلبيس الأسنان  |  Dental Crowns  
+زراعة الاسنان  |  Dental Implants  
+تبيض الأسنان  |  Tooth whitening  
+كسوة الأسنان  |  Dental Veneers  
+غاز الضحك  |  Laughing Gas
+

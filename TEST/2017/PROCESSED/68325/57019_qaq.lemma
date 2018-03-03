@@ -1,0 +1,35 @@
+انا فتاة اعاني من التهاب تحسسي جرثومي بالعين ذهبت الى طبيب العيون وقام بصرف قطرات (توبرادكس _اوفلكس)لذلك لكن لم اشفي من المرض لانني احس انه يوجد كحبيبات داخل عيني تقوم بمذايقتي
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: تحسسي	Lemma: تَحَسَّسَ	BW: taHas~asa
+		Word: جرثومي	Lemma: جُرْثُومِيّ	BW: jurovuwmiy~
+		Word: بالعين	Lemma: عَيْن	BW: Eayon
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: الى	Lemma: الى	BW: AlY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: العيون	Lemma: عَيْن	BW: Eayon
+		Word: وقام	Lemma: قَامَ	BW: qaAma
+		Word: بصرف	Lemma: صَرْف	BW: Sarof
+		Word: قطرات	Lemma: قَطْرَة	BW: qaTorap
+		Word: توبرادكس	Lemma: توبرادكس	BW: twbrAdks
+		Word: اوفلكس	Lemma: اوفلكس	BW: Awflks
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: اشفي	Lemma: شَفَى	BW: $afaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: لانني	Lemma: لانني	BW: lAnny
+		Word: احس	Lemma: حَسَى	BW: HasaY
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: كحبيبات	Lemma: حَبِيب	BW: Habiyb
+		Word: داخل	Lemma: دَاخِل	BW: daAxil
+		Word: عيني	Lemma: عَيْن	BW: Eayon
+		Word: تقوم	Lemma: قَامَ	BW: qaAma
+		Word: بمذايقتي	Lemma: بمذايقتي	BW: bm*Ayqty
+	------------------------

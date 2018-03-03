@@ -1,0 +1,20 @@
+اكتب لي اسم الدواء كما هو مكتوب علىه ولا تترجمه اي اكتبه بلغته الاصلية بالانكليزية حتى افهمه
+	##Lemmatization results:
+		Word: اكتب	Lemma: كَتَبَ	BW: kataba
+		Word: لي	Lemma: لِي	BW: liy
+		Word: اسم	Lemma: اسْم	BW: Asom
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: كما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مكتوب	Lemma: مَكْتُوب	BW: makotuwb
+		Word: علىه	Lemma: علىه	BW: ElYh
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: تترجمه	Lemma: تَرْجَمَ	BW: tarojama
+		Word: اي	Lemma: اي	BW: Ay
+		Word: اكتبه	Lemma: كَتَبَ	BW: kataba
+		Word: بلغته	Lemma: بَلَغَ	BW: balaga
+		Word: الاصلية	Lemma: الاصلية	BW: AlASlyp
+		Word: بالانكليزية	Lemma: بالانكليزية	BW: bAlAnklyzyp
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: افهمه	Lemma: فَهِمَ	BW: fahima
+	------------------------

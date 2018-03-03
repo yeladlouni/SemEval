@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Stromuhr
+
+مقياس التيار
+
+Gravimeter
+
+مقياس الثقل النوعي
+
+Orthometer
+
+مقياس الجحوظ
+
+Sizer
+
+مقياس الحجم
+
+Thermoscope
+
+مقياس الحرارة التفريقي
+
+Self-registering thermometer
+
+مقياس الحرارة الذاتي التسجيل
+
+Cryometer
+
+مقياس الحرارة المنخفضة
+
+Resistance thermometer
+
+مقياس الحرارة ذو المقاومة
+
+Orchidometer
+
+مقياس الخصية
+
+Encephalometer
+
+مقياس الدماغ
+
+Cephalometer
+
+مقياس الراس
+
+Hysterometer
+
+مقياس الرحم
+
+Psychrometer
+
+مقياس الرطوبة
+
+Goniometer
+
+مقياس الزوايا
+
+Stereocampimeter
+
+مقياس الساحة البصرية التجسيمي
+
+Campimeter
+
+مقياس الساحة البصرية المركزية
+
+Glucometer
+
+مقياس السكر
+
+Ochrometer
+
+مقياس الشحوب
+
+Thoracometer
+
+مقياس الصدر
+
+Candle-meter
+
+مقياس الضوء
+

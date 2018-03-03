@@ -1,0 +1,17 @@
+المعلوماتمتوفر عند الصيدليات و لكن اغلب الاسماء التجاريه ذات جوده عاليه و اسعار منخفضه
+	##Lemmatization results:
+		Word: المعلوماتمتوفر	Lemma: المعلوماتمتوفر	BW: AlmElwmAtmtwfr
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: الصيدليات	Lemma: صَيْدَلِيَّة	BW: Sayodaliy~ap
+		Word: و	Lemma: و	BW: w
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اغلب	Lemma: غَلَبَ	BW: galaba
+		Word: الاسماء	Lemma: الاسماء	BW: AlAsmA'
+		Word: التجاريه	Lemma: التجاريه	BW: AltjAryh
+		Word: ذات	Lemma: ذُو	BW: *uw
+		Word: جوده	Lemma: جَادَّ	BW: jaAd~a
+		Word: عاليه	Lemma: عَالَى	BW: EaAlaY
+		Word: و	Lemma: و	BW: w
+		Word: اسعار	Lemma: اسعار	BW: AsEAr
+		Word: منخفضه	Lemma: مُنْخَفَض	BW: munoxafaD
+	------------------------

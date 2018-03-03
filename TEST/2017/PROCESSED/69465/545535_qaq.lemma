@@ -1,0 +1,18 @@
+انا عمري 20 سنه و وزني 56 و طولي 150 هل اذا استخدمت ابر القروث يزيد من طولي
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: و	Lemma: و	BW: w
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+		Word: و	Lemma: و	BW: w
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: استخدمت	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: ابر	Lemma: بَرَى	BW: baraY
+		Word: القروث	Lemma: القروث	BW: Alqrwv
+		Word: يزيد	Lemma: زَادَ	BW: zaAda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: طولي	Lemma: طُول	BW: Tuwl
+	------------------------

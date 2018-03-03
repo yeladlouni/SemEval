@@ -1,0 +1,34 @@
+هل هي حبوب بارزة أو بقع على مستوى الجلد هل من الخارج أم من الداخل هل هي على الشفة العلوية فقط أم حول الفم هل يصاحبها حكة أو ألم أم لا 
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: بارزة	Lemma: بَارِز	BW: baAriz
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: بقع	Lemma: بُقْعَة	BW: buqoEap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: مستوى	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: الجلد	Lemma: جِلْد	BW: jilod
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الخارج	Lemma: خَارِج	BW: xaArij
+		Word: أم	Lemma: أُمّ	BW: >um~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الداخل	Lemma: دَاخِل	BW: daAxil
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الشفة	Lemma: شَفَة	BW: $afap
+		Word: العلوية	Lemma: عُلْوِيّ	BW: Eulowiy~
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: حول	Lemma: حَوْل	BW: Hawol
+		Word: الفم	Lemma: فَم	BW: fam
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يصاحبها	Lemma: صَاحَبَ	BW: SaAHaba
+		Word: حكة	Lemma: حَكَّة	BW: Hak~ap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: ألم	Lemma: لَمْ	BW: lamo
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: لا	Lemma: لَا	BW: laA
+	------------------------

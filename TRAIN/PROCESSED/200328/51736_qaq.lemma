@@ -1,0 +1,32 @@
+امراه عمرها 42 سنه لديها الم في الراس والاذن والسن واللوزتين في الجهه اليسرى من الراس مع الم قوي يستمر لمدة ساعتين او اقل ثم يزول ويرجع .ماهي هذه الحاله 
+	##Lemmatization results:
+		Word: امراه	Lemma: امراه	BW: AmrAh
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: لديها	Lemma: لَدَى	BW: ladaY
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الراس	Lemma: رَاسّ	BW: raAs~
+		Word: والاذن	Lemma: والاذن	BW: wAlA*n
+		Word: والسن	Lemma: سَنّ	BW: san~
+		Word: واللوزتين	Lemma: لَوْزَة	BW: lawozap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجهه	Lemma: الجهه	BW: Aljhh
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الراس	Lemma: رَاسّ	BW: raAs~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: قوي	Lemma: قَوِيّ	BW: qawiy~
+		Word: يستمر	Lemma: اسْتَمَرَّ	BW: Asotamar~a
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: ساعتين	Lemma: سَاعَة	BW: saAEap
+		Word: او	Lemma: او	BW: Aw
+		Word: اقل	Lemma: قَلِيَ	BW: qaliya
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: يزول	Lemma: زَالَ	BW: zaAla
+		Word: ويرجع	Lemma: رَجَعَ	BW: rajaEa
+		Word: ماهي	Lemma: مَاهّ	BW: maAh~
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحاله	Lemma: الحاله	BW: AlHAlh
+	------------------------

@@ -1,0 +1,20 @@
+انا شاب عمري 18 سنه اعاني من السلس البولي بشكل يومي مستمر منذ فتره ايش العلاج بأيش تنصحوني
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السلس	Lemma: سَلِس	BW: salis
+		Word: البولي	Lemma: بَوْلِيّ	BW: bawoliy~
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: يومي	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: مستمر	Lemma: مُسْتَمِرّ	BW: musotamir~
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: فتره	Lemma: تَرّ	BW: tar~
+		Word: ايش	Lemma: ايش	BW: Ay$
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: بأيش	Lemma: بأيش	BW: b>y$
+		Word: تنصحوني	Lemma: أَنْصَحَ	BW: >anoSaHa
+	------------------------

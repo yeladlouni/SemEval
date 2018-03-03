@@ -1,0 +1,15 @@
+ممكن لكن معطيات الفحص الطبي السريري نبغي أن يوضح الحالة بشكل أدق
+	##Lemmatization results:
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: معطيات	Lemma: مُعَطَّاة	BW: muEaT~aAp
+		Word: الفحص	Lemma: فَحْص	BW: faHoS
+		Word: الطبي	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: السريري	Lemma: سَرِيرِيّ	BW: sariyriy~
+		Word: نبغي	Lemma: أَبْغَى	BW: >abogaY
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يوضح	Lemma: وَضَّحَ	BW: waD~aHa
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: أدق	Lemma: دَقَّ	BW: daq~a
+	------------------------

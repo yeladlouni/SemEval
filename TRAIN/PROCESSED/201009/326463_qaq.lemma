@@ -1,0 +1,30 @@
+السؤال أصيب ابني البالغ من العمر 23 عاماً بالحصبة الألماني من حوالي خمسة أيام واليوم يشعر باحتكاك شديد في أجزاء جسمه ويريد أن يأخذ حماماً فهل يمكنه ذلك 
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أصيب	Lemma: أَصَابَ	BW: >aSaAba
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: البالغ	Lemma: بَالِغ	BW: baAlig
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: عامًا	Lemma: عَام	BW: EaAm
+		Word: بالحصبة	Lemma: حِصْبَة	BW: HiSobap
+		Word: الألماني	Lemma: أَلْمَانِيّ	BW: >alomaAniy~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حوالي	Lemma: حِوَال	BW: HiwaAl
+		Word: خمسة	Lemma: خَمْس	BW: xamos
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: واليوم	Lemma: يَوْم	BW: yawom
+		Word: يشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: باحتكاك	Lemma: احْتِكَاك	BW: AHotikaAk
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: أجزاء	Lemma: جُزْء	BW: juzo'
+		Word: جسمه	Lemma: جِسْم	BW: jisom
+		Word: ويريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: حمامًا	Lemma: حَمَّام	BW: Ham~aAm
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: يمكنه	Lemma: مَكَّنَ	BW: mak~ana
+		Word: ذلك	Lemma: ذَا	BW: *aA
+	------------------------

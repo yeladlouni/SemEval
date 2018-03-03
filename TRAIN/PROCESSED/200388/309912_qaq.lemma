@@ -1,0 +1,46 @@
+السؤال أبي يتبرز برازاً مختلطاً بدم فقال له الطبيب: بأن عليه أن يأخذ دواء (Pentasa) طوال حياته شفي منه بعض الأشهر ثم عاد إليه المرض من جديد مع أنه لا زال يأخذ الدواء فما هو مرض أبي وهل هناك من علاج ولكم جزيل الشكر.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أبي	Lemma: بِي	BW: biy
+		Word: يتبرز	Lemma: تَبَرَّزَ	BW: tabar~aza
+		Word: برازًا	Lemma: بَرَّاز	BW: bar~aAz
+		Word: مختلطًا	Lemma: مُخْتَلِط	BW: muxotaliT
+		Word: بدم	Lemma: دَم	BW: dam
+		Word: فقال	Lemma: قَالَ	BW: qaAla
+		Word: له	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: بأن	Lemma: أَنَّ	BW: >an~a
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: طوال	Lemma: طَوَال	BW: TawaAl
+		Word: حياته	Lemma: حَيَاة	BW: HayaAp
+		Word: شفي	Lemma: شَفَى	BW: $afaY
+		Word: منه	Lemma: مِنْ	BW: mino
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الأشهر	Lemma: شَهْر	BW: $ahor
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: عاد	Lemma: عَادَ	BW: EaAda
+		Word: إليه	Lemma: إِلَى	BW: <ilaY
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: جديد	Lemma: جَدِيد	BW: jadiyd
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: زال	Lemma: زَالَ	BW: zaAla
+		Word: يأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: فما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: أبي	Lemma: بِي	BW: biy
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: ولكم	Lemma: لَكَمَ	BW: lakama
+		Word: جزيل	Lemma: جَزِيل	BW: jaziyl
+		Word: الشكر	Lemma: شُكْر	BW: $ukor
+	------------------------

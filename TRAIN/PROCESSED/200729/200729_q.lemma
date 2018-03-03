@@ -1,0 +1,33 @@
+انا عمري 75 سنة. لدي الام في اكف القدمين. طبيب العظام العام لم يجد اي شيء. هل يجب التوجة الى اخصائي العظام المتخصص في كف القدم ماذا يمكن ان تكون المشكلة 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: الام	Lemma: الام	BW: AlAm
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اكف	Lemma: كَفَى	BW: kafaY
+		Word: القدمين	Lemma: قَدَم	BW: qadam
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: العظام	Lemma: عَظِيم	BW: EaZiym
+		Word: العام	Lemma: عَام	BW: EaAm
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يجد	Lemma: وَجَدَ	BW: wajada
+		Word: اي	Lemma: اي	BW: Ay
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: التوجة	Lemma: تَوْجَة	BW: tawojap
+		Word: الى	Lemma: الى	BW: AlY
+		Word: اخصائي	Lemma: اخصائي	BW: AxSA}y
+		Word: العظام	Lemma: عَظْم	BW: EaZom
+		Word: المتخصص	Lemma: مُتَخَصِّص	BW: mutaxaS~iS
+		Word: في	Lemma: فِي	BW: fiy
+		Word: كف	Lemma: كَفّ	BW: kaf~
+		Word: القدم	Lemma: قَدَم	BW: qadam
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: ان	Lemma: ان	BW: An
+		Word: تكون	Lemma: تَكَوَّنَ	BW: takaw~ana
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+	------------------------

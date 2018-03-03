@@ -1,0 +1,45 @@
+# فحوصات صحة المرأة
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال صحة المرأة في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+تصوير الثدي  |  mammography  
+البروجستيرون  |  progesterone  
+هورمون الملوتن  |  luteinizing hormone  
+الهورمون الدريقي  |  PTH  
+فحص الهرمون المنبه للغدة الدرقية (TSH)  |  Thyroid Stimulating Hormone  
+الفحص الحوضي  |  Pelvic exam  
+فحص البطن والحوض بواسطة الأمواج فوق الصوتية  |  Ultrasound of abdomen and
+pelvis  
+فحص الثدي بواسطة الأمواج فوق الصوتية  |  Breast ultrasound  
+الاستروجين  |  estrogen  
+نزح (تصريف) كيسة الثدي  |  
+تنظير المهبل  |  Colposcopy  
+خزعة المهبل  |  Biopsy of the vagina  
+الاختبار التالي للجماع  |  Post Coital Test  
+موجهة الغدد التناسلية المشيمائية بيتا  |  beta Human chorionic gonadotropin  
+مستوى الديهيدرو إيبي اندروستيرون سلفات  |  dehydroepiandrosterone sulfate  
+الأشعة الملونة للرحم  |  hysterosalpinography  
+فحص البرولاكتين  |  prolactin  
+خزعة الثدي  |  Breast Biopsy  
+التصوير الشعاعي للثدي  |  Mammography  
+كثافة العظام  |  Bone Mineral Density Test, DEXA  
+فيتامين د  |  25-OH Vitamin D  
+اعتيان من الزغابات المشيمائية  |  Chorionic Villous Sampling, CVS  
+تحمل الجلوكوز  |  OGTT-Oral Glucose Challenge Test  
+اختبار الحمل  |  Pregnancy Test, Beta-hCG  
+فحص الحديد  |  Iron Test  
+لطاخة بابا نيكولاو  |  Pap Smear, Papanicolaou Test  
+كالسيوم الدم  |  Blood Calcium  
+الحميراء  |  Rubella Virus Antibodies  
+فيروس الهربس  |  Herpes Virus Antibodies  
+فحص هرمون الغدة الدرقية  |  thyroxine - T4  
+المتدثرة  |  chlamydia diagnostic tests
+

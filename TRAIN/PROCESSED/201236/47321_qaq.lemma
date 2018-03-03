@@ -1,0 +1,24 @@
+لي اخت عمرها 22 سنة لها يومين لا تعرف ما يحدث معها تاكل وتفضل تشعر بالجوع مع انها تشعر ان بطنها ممتلء 
+	##Lemmatization results:
+		Word: لي	Lemma: لِي	BW: liy
+		Word: اخت	Lemma: خَتَا	BW: xataA
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: لها	Lemma: لِي	BW: liy
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: معها	Lemma: مَعَ	BW: maEa
+		Word: تاكل	Lemma: تاكل	BW: tAkl
+		Word: وتفضل	Lemma: أَفْضَلَ	BW: >afoDala
+		Word: تشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالجوع	Lemma: جُوع	BW: juwE
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: تشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: ان	Lemma: ان	BW: An
+		Word: بطنها	Lemma: بَطْن	BW: baTon
+		Word: ممتلء	Lemma: مُمْتَلء	BW: mumotal'
+	------------------------

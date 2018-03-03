@@ -1,0 +1,47 @@
+السؤال جدتي عمرها 77 عامًا; أصابتها جلطة دماغية في الجهة اليسرى أفقدتها الحركة في اليد والرجل; مع العلم أن الطبيب الخاص قال: إنها تخطت الجلطة; ولا أرى تحسنًا في اليد والرجل; مع العلم أنها تخطت الأسبوع منذ الإصابة; ولا أرى أي تحرك في اليد والرجل.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: جدتي	Lemma: جِدّ	BW: jid~
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عامًا	Lemma: عَام	BW: EaAm
+		Word: أصابتها	Lemma: أَصَابَ	BW: >aSaAba
+		Word: جلطة	Lemma: جُلْطَة	BW: juloTap
+		Word: دماغية	Lemma: دِمَاغِيّ	BW: dimaAgiy~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجهة	Lemma: جِهَة	BW: jihap
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: أفقدتها	Lemma: أَفْقَدَ	BW: >afoqada
+		Word: الحركة	Lemma: حَرَكَة	BW: Harakap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليد	Lemma: يَد	BW: yad
+		Word: والرجل	Lemma: رَجُل	BW: rajul
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: الخاص	Lemma: خَاصّ	BW: xaAS~
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: إنها	Lemma: أَنَّ	BW: >an~a
+		Word: تخطت	Lemma: تَخَطَّى	BW: taxaT~aY
+		Word: الجلطة	Lemma: جُلْطَة	BW: juloTap
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أرى	Lemma: رَأَى	BW: ra>aY
+		Word: تحسنًا	Lemma: تَحَسُّن	BW: taHas~un
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليد	Lemma: يَد	BW: yad
+		Word: والرجل	Lemma: رَجُل	BW: rajul
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: تخطت	Lemma: تَخَطَّى	BW: taxaT~aY
+		Word: الأسبوع	Lemma: أُسْبُوع	BW: >usobuwE
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: الإصابة	Lemma: إِصَابَة	BW: <iSaAbap
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أرى	Lemma: رَأَى	BW: ra>aY
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: تحرك	Lemma: تَحَرَّكَ	BW: taHar~aka
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليد	Lemma: يَد	BW: yad
+		Word: والرجل	Lemma: رَجُل	BW: rajul
+	------------------------

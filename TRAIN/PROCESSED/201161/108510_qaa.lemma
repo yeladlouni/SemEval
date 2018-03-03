@@ -1,0 +1,36 @@
+: مرحبا أخي الفاضل ; نرجو توضيح المزيد لنتمكن من إفادتك : هل تعاني من حرقان بالبول هل تعاني من ألم أسفل البطن هل تعاني من حكة هل تتناول كثير من الماء (لترين على الأقل ) تحياتي .
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أخي	Lemma: أَخ	BW: >ax
+		Word: الفاضل	Lemma: فَاضِل	BW: faADil
+		Word: نرجو	Lemma: رَجَا	BW: rajaA
+		Word: توضيح	Lemma: تَوْضِيح	BW: tawoDiyH
+		Word: المزيد	Lemma: مَزِيد	BW: maziyd
+		Word: لنتمكن	Lemma: تَمَكَّنَ	BW: tamak~ana
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: إفادتك	Lemma: إِفَادَة	BW: <ifaAdap
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حرقان	Lemma: حَرْق	BW: Haroq
+		Word: بالبول	Lemma: بَوْل	BW: bawol
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ألم	Lemma: لَمْ	BW: lamo
+		Word: أسفل	Lemma: أَسْفَل	BW: >asofal
+		Word: البطن	Lemma: بَطْن	BW: baTon
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حكة	Lemma: حَكَّة	BW: Hak~ap
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: كثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: لترين	Lemma: وَرَى	BW: waraY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الأقل	Lemma: أَقَلّ	BW: >aqal~
+		Word: تحياتي	Lemma: تَحِيَّة	BW: taHiy~ap
+	------------------------

@@ -1,0 +1,35 @@
+أولا هذا الدواء يحتوي على الميتفورمين (metformin) ,المستخدم بكثرة لدى مرضى السكري ولكن من الممكن استخدامه في انقاص الوزن بعد استشارة الطبيب حيث أن لديه الكثير من الاثار الجانبية كإضطرابات المعدة والاسهال وغيرها ....
+	##Lemmatization results:
+		Word: أولا	Lemma: أَوَّل	BW: >aw~al
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: يحتوي	Lemma: احْتَوَى	BW: AHotawaY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الميتفورمين	Lemma: الميتفورمين	BW: Almytfwrmyn
+		Word: المستخدم	Lemma: مُسْتَخْدَم	BW: musotaxodam
+		Word: بكثرة	Lemma: كَثْرَة	BW: kavorap
+		Word: لدى	Lemma: لَدَى	BW: ladaY
+		Word: مرضى	Lemma: مَرِيض	BW: mariyD
+		Word: السكري	Lemma: سُكَّرِيّ	BW: suk~ariy~
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: استخدامه	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: في	Lemma: فِي	BW: fiy
+		Word: انقاص	Lemma: انْقَاصَ	BW: AnoqaASa
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: استشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: لديه	Lemma: لَدَى	BW: ladaY
+		Word: الكثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الاثار	Lemma: الاثار	BW: AlAvAr
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: كإضطرابات	Lemma: كإضطرابات	BW: k<DTrAbAt
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: والاسهال	Lemma: والاسهال	BW: wAlAshAl
+		Word: وغيرها	Lemma: غَيْر	BW: gayor
+	------------------------

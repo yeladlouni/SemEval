@@ -1,0 +1,22 @@
+يوجد عندي حبوب صغيرة في منطقة الصدر وقليل منها في اليدين .مع العلم اني كنت أشرب الخميرة كيف أعالجه
+	##Lemmatization results:
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: صغيرة	Lemma: صَغِير	BW: Sagiyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: منطقة	Lemma: مِنْطَقَة	BW: minoTaqap
+		Word: الصدر	Lemma: صَدْر	BW: Sador
+		Word: وقليل	Lemma: قَلِيل	BW: qaliyl
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليدين	Lemma: يَد	BW: yad
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: أشرب	Lemma: شَرْب	BW: $arob
+		Word: الخميرة	Lemma: خِمِّير	BW: xim~iyr
+		Word: كيف	Lemma: كَيْفَ	BW: kayofa
+		Word: أعالجه	Lemma: عَالَجَ	BW: EaAlaja
+	------------------------

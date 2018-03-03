@@ -1,0 +1,31 @@
+انا عمري ٢٧ عاما ومشكلتي اعاني منها منذ سنة تقريبا ، هي عباره عن احساس بالاخراج ولا يوجد اخراج ، على العلم انه لا يوجد امساك ، هناك الام بمنطقة فتحة الفرج
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عاما	Lemma: عَامّ	BW: EaAm~
+		Word: ومشكلتي	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: عباره	Lemma: عَبَّار	BW: Eab~aAr
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: احساس	Lemma: احساس	BW: AHsAs
+		Word: بالاخراج	Lemma: بالاخراج	BW: bAlAxrAj
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: اخراج	Lemma: اخْرَاجَّ	BW: AxoraAj~a
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: امساك	Lemma: امساك	BW: AmsAk
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: الام	Lemma: الام	BW: AlAm
+		Word: بمنطقة	Lemma: مِنْطَقَة	BW: minoTaqap
+		Word: فتحة	Lemma: فَتْحَة	BW: fatoHap
+		Word: الفرج	Lemma: فَرَج	BW: faraj
+	------------------------

@@ -1,0 +1,27 @@
+انا اتلقى الدورة كل 21 يوما. انا لا استعمل وسائل منع الحمل. ممارسة الجنس عندي ليست ثابتة. تلقيت الدورة مرتين في الشهر. هل هذا طبيعي 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اتلقى	Lemma: اتلقى	BW: AtlqY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: يوما	Lemma: يَوْم	BW: yawom
+		Word: انا	Lemma: انا	BW: AnA
+		Word: لا	Lemma: لَا	BW: laA
+		Word: استعمل	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: وسائل	Lemma: وَسِيلَة	BW: wasiylap
+		Word: منع	Lemma: مَنْع	BW: manoE
+		Word: الحمل	Lemma: حَمْل	BW: Hamol
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: الجنس	Lemma: جِنْس	BW: jinos
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: ليست	Lemma: لَيْسَ	BW: layosa
+		Word: ثابتة	Lemma: ثَابِت	BW: vaAbit
+		Word: تلقيت	Lemma: تَلَقَّى	BW: talaq~aY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+	------------------------

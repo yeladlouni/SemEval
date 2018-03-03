@@ -1,0 +1,91 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Viscera
+
+احشاء
+
+Situs inversus viscerum.
+
+احشاء مقلوبة الموضع
+
+Situs transversus viscerum
+
+احشاء مقلوبة الموضع
+
+Alopetic
+
+احص
+
+Statistics
+
+احصاء
+
+Biostatistics
+
+احصاء حيوي
+
+Demographic statistics
+
+احصاء سكاني
+
+Medical statistics
+
+احصاء طبي
+
+Statistic
+
+احصائية
+
+Block
+
+احصار
+
+(تَقْييد)
+
+Axillary block
+
+احصار ابطي
+
+Atrioventricular block
+
+احصار اذيني بطيني
+
+Ventricular block
+
+احصار البطينات
+
+Arborization block
+
+احصار التشجر
+
+(إِحْصارُ القَلْبِ داخِلَ البُطَين , إِحْصارٌ حَولَ الاحْتِشاء , إِحْصارٌ
+جِدارِيّ)
+
+Bundle branch block
+
+احصار الحزيمة
+
+Left bundle branch block
+
+احصار الحزيمة اليسرى
+
+Right bundle branch block
+
+احصار الحزيمة اليمنى
+
+Phase ii block
+
+احصار الطور الثاني
+
+Phase i block
+
+احصار الطورالاول
+
+Heart block
+
+احصار القلب
+

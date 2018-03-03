@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Tissue-specific antigen
+
+مستضد مناوع للنسيج
+
+Incomplete antigen
+
+مستضد ناقص
+
+Tumor antigen
+
+مستضد ورمي
+
+Oncofetal antigen
+
+مستضد ورمي جنيني
+
+Histocompatibility antigen
+
+مستضد التوافق النسيجي
+
+Adterminal
+
+مستطرف
+
+Beta-adrenergic receptor
+
+مستقبل ادرينالي الفعل بيتا
+
+Adrenergic receptor
+
+مستقبل ادريني
+
+Opiate receptor
+
+مستقبل افيوني
+
+Tactoreceptor
+
+مستقبل حشي
+
+Nmda receptor( n-methyl-d-aspartate receptor)
+
+مستقبل د اسبارتات ن ميثيل
+
+Nociceptive
+
+مستقبلة الاذية
+
+Nociceptor
+
+مستقبلة الاذية
+
+Stretch receptor
+
+مستقبلة الشد
+
+Alpha-adrenergic receptor
+
+مستقبلة الفعل الادرينالي الفا
+
+Cholinoreceptor
+
+مستقبلة الكولين
+
+Adrenoreceptor
+
+مستقبلة ادرينية
+
+Alpha-receptor
+
+مستقبلة الفا
+
+Beta-receptor
+
+مستقبلة بيتا
+
+Exteroceptor
+
+مستقبلة خارجية
+

@@ -1,0 +1,37 @@
+أنا ذكر عمري 24 سنة و طولي 1.70 م ووزني 62 كلغ لكنني اظهر صغير في وجهي والنصف العلوي لجسمي كما لو أن عمري أقل من 18 سنة. ماهي مشكلتي و ما الطبيب الذي يجب علي زيارته وشكرا. 
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: ذكر	Lemma: ذَكَرَ	BW: *akara
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: طولي	Lemma: طُول	BW: Tuwl
+		Word: م	Lemma: م	BW: m
+		Word: ووزني	Lemma: وَزْن	BW: wazon
+		Word: كلغ	Lemma: كلغ	BW: klg
+		Word: لكنني	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اظهر	Lemma: ظَهِرَ	BW: Zahira
+		Word: صغير	Lemma: صَغِير	BW: Sagiyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: وجهي	Lemma: وَجْه	BW: wajoh
+		Word: والنصف	Lemma: نِصْف	BW: niSof
+		Word: العلوي	Lemma: عُلْوِيّ	BW: Eulowiy~
+		Word: لجسمي	Lemma: جِسْم	BW: jisom
+		Word: كما	Lemma: مَا	BW: maA
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: أن	Lemma: أَنّ	BW: >an~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: أقل	Lemma: أَقَلَّ	BW: >aqal~a
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ماهي	Lemma: مَاهّ	BW: maAh~
+		Word: مشكلتي	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: و	Lemma: و	BW: w
+		Word: ما	Lemma: مَا	BW: maA
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: علي	Lemma: عَلَى	BW: EalaY
+		Word: زيارته	Lemma: زِيَارَة	BW: ziyaArap
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

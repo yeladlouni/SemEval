@@ -1,0 +1,30 @@
+ربما تعاني من التهاب في المعدة يزداد الالم بعد تناول الطعام لذا يجب مراجعة طبيب جهاز هضمي ربما بحاجة الى تنظير للمكعدة لمعرفة السبب وعلاجه بشكل صحيح
+	##Lemmatization results:
+		Word: ربما	Lemma: رُبَّ	BW: rub~a
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المعدة	Lemma: مَعِدَة	BW: maEidap
+		Word: يزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: الطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: لذا	Lemma: ذَا	BW: *aA
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: جهاز	Lemma: جِهَاز	BW: jihaAz
+		Word: هضمي	Lemma: هَضْمِيّ	BW: haDomiy~
+		Word: ربما	Lemma: رُبَّ	BW: rub~a
+		Word: بحاجة	Lemma: حَاجَة	BW: HaAjap
+		Word: الى	Lemma: الى	BW: AlY
+		Word: تنظير	Lemma: تَنْظِير	BW: tanoZiyr
+		Word: للمكعدة	Lemma: للمكعدة	BW: llmkEdp
+		Word: لمعرفة	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: وعلاجه	Lemma: عِلَاج	BW: EilaAj
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+	------------------------

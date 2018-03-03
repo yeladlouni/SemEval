@@ -1,0 +1,30 @@
+هل ممارسة العاده السرية مرتين بالشهر تضر الجسم بشكل كبير وقد كنت أمارسها بكثره من قبل وقد حاولت التخلص منها لكن بدون فائده ولكن نجحت فى تقليلها
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: العاده	Lemma: العاده	BW: AlEAdh
+		Word: السرية	Lemma: سِرِّيَّة	BW: sir~iy~ap
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: بالشهر	Lemma: شَهْر	BW: $ahor
+		Word: تضر	Lemma: أَضَرَّ	BW: >aDar~a
+		Word: الجسم	Lemma: جِسْم	BW: jisom
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: كبير	Lemma: كَبِير	BW: kabiyr
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: أمارسها	Lemma: مَارَسَ	BW: maArasa
+		Word: بكثره	Lemma: كَثْر	BW: kavor
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: حاولت	Lemma: حَاوَلَ	BW: HaAwala
+		Word: التخلص	Lemma: تَخَلُّص	BW: taxal~uS
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: فائده	Lemma: أَدَى	BW: >adaY
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: نجحت	Lemma: نَجَحَ	BW: najaHa
+		Word: فى	Lemma: فى	BW: fY
+		Word: تقليلها	Lemma: تَقْلِيل	BW: taqoliyl
+	------------------------

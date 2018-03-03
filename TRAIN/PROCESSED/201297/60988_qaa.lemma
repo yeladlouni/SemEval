@@ -1,0 +1,36 @@
+الحل الامثل هو استشارة اخصائي التغذية او الطبيب حول نظام غذائي صحي وممارسة الرياضة بشكل منتظم ; وإخبار الطبيب بجميع الادوية التي تتناولها والامراض التي تعاني منها لمعرفة سبب فرط الشهية ووصف العلاج المناسب
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: الامثل	Lemma: الامثل	BW: AlAmvl
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: استشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: اخصائي	Lemma: اخصائي	BW: AxSA}y
+		Word: التغذية	Lemma: تَغْذِيَة	BW: tago*iyap
+		Word: او	Lemma: او	BW: Aw
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: حول	Lemma: حَوْل	BW: Hawol
+		Word: نظام	Lemma: نِظَام	BW: niZaAm
+		Word: غذائي	Lemma: غِذَائِيّ	BW: gi*aA}iy~
+		Word: صحي	Lemma: صِحِّيّ	BW: SiH~iy~
+		Word: وممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: منتظم	Lemma: مُنْتَظِم	BW: munotaZim
+		Word: وإخبار	Lemma: إِخْبَار	BW: <ixobaAr
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: بجميع	Lemma: جَمِيع	BW: jamiyE
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تتناولها	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: والامراض	Lemma: والامراض	BW: wAlAmrAD
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: لمعرفة	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: سبب	Lemma: سَبَب	BW: sabab
+		Word: فرط	Lemma: فَرْط	BW: faroT
+		Word: الشهية	Lemma: شَهِيَّة	BW: $ahiy~ap
+		Word: ووصف	Lemma: وَصْف	BW: waSof
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+	------------------------

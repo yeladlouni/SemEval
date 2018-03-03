@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - علم الاشعة
+
+#  المصطلحات الطبية - علم الاشعة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Collimation
+
+استيزاء
+
+Radiographic projection
+
+اسقاط الاشعة
+
+Radiation
+
+اشعاع
+
+Primary radiation
+
+اشعاع اولي
+
+Stray radiation
+
+اشعاع تائه
+
+Radiation ifrared
+
+اشعاع تحت الاحمر
+
+Mitogenic radiation
+
+اشعاع تفتلي
+
+Radiation secondary
+
+اشعاع ثانوي
+
+Hard radiation
+
+اشعاع ثقيل
+
+Gamma radiation
+
+اشعاع جاما
+
+Radiation corpuscular
+
+اشعاع جسيمات
+
+Narrow beam radiation
+
+اشعاع حزمة ضيقة
+
+Broad beam radiation
+
+اشعاع حزمة عريضة
+
+Radiation background
+
+اشعاع خلفي
+
+Dispersed radiation
+
+اشعاع خلفي مبعثر
+
+Solar radiation
+
+اشعاع شمسي
+
+Ultraviolet radiation
+
+اشعاع فوق البنفسجي
+
+Electromagnetic radiation
+
+اشعاع كهرومغناطيسي
+
+Photochemical radiation
+
+اشعاع كيميائي ضوئي
+
+Flourescent radiation
+
+اشعاع لصفي
+

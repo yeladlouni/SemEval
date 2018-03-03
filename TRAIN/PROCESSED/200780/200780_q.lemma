@@ -1,0 +1,41 @@
+انا عمري 48 سنة. منذ نحو سنة دورتي الشهرية غير منتظمة. منذ عدة اشهر لدي نوبات حرارة. لدي لولب منذ 7 سنوات. وكان من المفترض ان يتم استبداله قبل عامين. لدي شهر تاخير في الدورة. هل من الممكن انني حامل 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: نحو	Lemma: نَحْو	BW: naHow
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: دورتي	Lemma: دَوْرَة	BW: daworap
+		Word: الشهرية	Lemma: شَهْرِيّ	BW: $ahoriy~
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: منتظمة	Lemma: مُنْتَظِم	BW: munotaZim
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: عدة	Lemma: عِدَّة	BW: Eid~ap
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: نوبات	Lemma: نَوْبَة	BW: nawobap
+		Word: حرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: لولب	Lemma: وَلَبَ	BW: walaba
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وكان	Lemma: كَانَ	BW: kaAna
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المفترض	Lemma: مُفْتَرَض	BW: mufotaraD
+		Word: ان	Lemma: ان	BW: An
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: استبداله	Lemma: اسْتِبْدَال	BW: AsotibodaAl
+		Word: قبل	Lemma: قَبْل	BW: qabol
+		Word: عامين	Lemma: عَام	BW: EaAm
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: تاخير	Lemma: تاخير	BW: tAxyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: انني	Lemma: انني	BW: Anny
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+	------------------------

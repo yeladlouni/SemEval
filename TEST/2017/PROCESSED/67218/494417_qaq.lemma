@@ -1,0 +1,27 @@
+انا شاب عمري 17 سنه اعاني من انتفاخ في حلمات الثدي ولكن عندما أشعر بالبرد أو عند السباحه تنكمش الحلمات ؟ هل هذا طبيعي؟ وما الحل؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حلمات	Lemma: حَلْمَة	BW: Halomap
+		Word: الثدي	Lemma: ثَدْي	BW: vadoy
+		Word: ولكن	Lemma: لَكِنْ	BW: lakino
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: أشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالبرد	Lemma: بَرِيد	BW: bariyd
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: السباحه	Lemma: السباحه	BW: AlsbAHh
+		Word: تنكمش	Lemma: انْكَمَشَ	BW: Anokama$a
+		Word: الحلمات	Lemma: حَلْمَة	BW: Halomap
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: وما	Lemma: مَا	BW: maA
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+	------------------------

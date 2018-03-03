@@ -1,0 +1,38 @@
+ابنتي عمرها أربعة سنوات ونصف تدرس في روضة للأطفال عندما تطلب منها المعلمة كتابة أي حرف من الأحرف التي تعلمتهم تكتبه بالمقلوب (مقلوب رأسي) هل لديها مشكلة نفسية أو أنها لم تتعود بعد على الكتابة
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: أربعة	Lemma: أَرْبَع	BW: >arobaE
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: ونصف	Lemma: نِصْف	BW: niSof
+		Word: تدرس	Lemma: دَرَسَ	BW: darasa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: روضة	Lemma: رَوْضَة	BW: rawoDap
+		Word: للأطفال	Lemma: طِفْل	BW: Tifol
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: تطلب	Lemma: طَلَبَ	BW: Talaba
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: المعلمة	Lemma: مُعَلِّم	BW: muEal~im
+		Word: كتابة	Lemma: كِتَاب	BW: kitaAb
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: حرف	Lemma: حَرْف	BW: Harof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأحرف	Lemma: حَرْف	BW: Harof
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تعلمتهم	Lemma: تَعَلُّمَة	BW: taEal~umap
+		Word: تكتبه	Lemma: تَكَتُّب	BW: takat~ub
+		Word: بالمقلوب	Lemma: مَقْلُوب	BW: maqoluwb
+		Word: مقلوب	Lemma: مَقْلُوب	BW: maqoluwb
+		Word: رأسي	Lemma: رَأْس	BW: ra>os
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: لديها	Lemma: لَدَى	BW: ladaY
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: نفسية	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تتعود	Lemma: تَعَوَّدَ	BW: taEaw~ada
+		Word: بعد	Lemma: بَعْد	BW: baEod
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الكتابة	Lemma: كِتَاب	BW: kitaAb
+	------------------------

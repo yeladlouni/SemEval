@@ -1,0 +1,35 @@
+السلام عليكم دكتور ارجو المساعده انا اعاني من مشكله نسيان الكلمات بحيث عندما اريد التحدث لا استطيع ان اتحدث جمله كامله احس بان الافكار في عقلي مشتته اي اضع كلمه مكان اخرى
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: ارجو	Lemma: ارجو	BW: Arjw
+		Word: المساعده	Lemma: المساعده	BW: AlmsAEdh
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكله	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: نسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: الكلمات	Lemma: كَلِمَة	BW: kalimap
+		Word: بحيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: التحدث	Lemma: تَحَدُّث	BW: taHad~uv
+		Word: لا	Lemma: لَا	BW: laA
+		Word: استطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: ان	Lemma: ان	BW: An
+		Word: اتحدث	Lemma: اتحدث	BW: AtHdv
+		Word: جمله	Lemma: جُمْلَة	BW: jumolap
+		Word: كامله	Lemma: كامِل	BW: kAmil
+		Word: احس	Lemma: حَسَى	BW: HasaY
+		Word: بان	Lemma: بَان	BW: baAn
+		Word: الافكار	Lemma: الافكار	BW: AlAfkAr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: عقلي	Lemma: عَقْل	BW: Eaqol
+		Word: مشتته	Lemma: مُشَتّ	BW: mu$at~
+		Word: اي	Lemma: اي	BW: Ay
+		Word: اضع	Lemma: ضَعَا	BW: DaEaA
+		Word: كلمه	Lemma: لَمّ	BW: lam~
+		Word: مكان	Lemma: مَكَان	BW: makaAn
+		Word: اخرى	Lemma: اخرى	BW: AxrY
+	------------------------

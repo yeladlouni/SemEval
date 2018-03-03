@@ -1,0 +1,17 @@
+انا مصاب بمرض السكر ولكن لا أدري ما لفرق بين النوع الأول و الثاني
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: ولكن	Lemma: لَكِنْ	BW: lakino
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أدري	Lemma: دَرَى	BW: daraY
+		Word: ما	Lemma: مَا	BW: maA
+		Word: لفرق	Lemma: فِرْقَة	BW: firoqap
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: النوع	Lemma: نَوْع	BW: nawoE
+		Word: الأول	Lemma: أَوَّل	BW: >aw~al
+		Word: و	Lemma: و	BW: w
+		Word: الثاني	Lemma: ثَان	BW: vaAn
+	------------------------

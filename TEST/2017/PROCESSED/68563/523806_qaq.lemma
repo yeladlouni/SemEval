@@ -1,0 +1,21 @@
+انا عمري 23 سنة اعاني من الم في جهة اليسار من الصدر ، هل هذا يعني أنه الم من القلب؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: جهة	Lemma: جِهَة	BW: jihap
+		Word: اليسار	Lemma: يَسَار	BW: yasaAr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الصدر	Lemma: صَدْر	BW: Sador
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: القلب	Lemma: قَلْب	BW: qalob
+	------------------------

@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - جراحة عامة
+
+#  المصطلحات الطبية - جراحة عامة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Contusion
+
+رض
+
+Trauma
+
+رضح
+
+Traumatic
+
+رضحي
+
+Traumatogenic
+
+رضحي المنشا
+
+Traumatology
+
+رضحيات
+
+Urethrorrhaphy
+
+رفو الاحليل
+
+Symphysiorrhaphy
+
+رفو الارتفاق
+
+Vasorrhaphy
+
+رفو الاسهر
+
+Typhlorrhaphy
+
+رفو الاعور
+
+Aneuresmorrhaphy
+
+رفو ام الدم
+
+Enterorraphy
+
+رفو الامعاء
+
+Laparorrhaphy
+
+رفو البطن
+
+Omentorrhaphy
+
+رفو الثرب
+
+Tracheorrhaphy
+
+رفو الرغامى
+
+Commissurorrhaphy
+
+رفو الصوار
+
+Perineorrhaphy, episiorrhaphy
+
+رفو العجان
+
+Myorrhaphy
+
+رفو العضل
+
+Duodenorrhaphy
+
+رفو العفج
+
+Herniorrhaphy
+
+رفو الفتق
+
+Bronchorrhaphy
+
+رفو القصبة
+

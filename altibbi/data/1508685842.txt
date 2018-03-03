@@ -1,0 +1,88 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Tonotropic
+
+موجه للتوتر
+
+Dermatotropic
+
+موجه للجلد
+
+Dermotropic
+
+موجه للجلد
+
+Parathyrotropic
+
+موجه للدريقات
+
+Hemotropic
+
+موجه للدم
+
+Musculotropic
+
+موجه للعضل
+
+Gastrotropic
+
+موجه للمعدة
+
+Oncotropic
+
+موجه للورم
+
+Other-directed
+
+موجه من الآخر
+
+Luteotropic
+
+موجهة الجسم الاصفر
+
+Thyrotroph
+
+موجهة الدرقية
+
+Human menopausal gonadotropin
+
+موجهة الغدد التناسلية الاياسية البشرية
+
+Chorionic gonadotropin
+
+موجهة الغدد التناسلية المشيمائية
+
+Human chorionic gonadotrop
+
+موجهة الغدد التناسلية المشيمائية البشرية
+
+Human chorionic gonadotropin
+
+موجهة الغدد التناسلية المشيمائية البشرية
+
+(هرمون الحمل)
+
+Anterior pituitary gonadotropin
+
+موجهة الغدد التناسليةفي النخامية الامامية
+
+Adrenotropin
+
+موجهة الكظر
+
+Somatomammotropin
+
+موجهة جسدية ثديية
+
+Estrogenic
+
+مودق
+
+Moore, stanford
+
+مور ستانفورد
+

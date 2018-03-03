@@ -1,0 +1,20 @@
+مرحبا أختاه فضلا هل يمكنك إعادة صياغة السؤال بشكل أكثر وضوحا شكر الك وتمنياتنا لك بتمام العافية
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أختاه	Lemma: خَتّ	BW: xat~
+		Word: فضلا	Lemma: فَضْل	BW: faDol
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يمكنك	Lemma: أَمْكَنَ	BW: >amokana
+		Word: إعادة	Lemma: إِعَادَة	BW: <iEaAdap
+		Word: صياغة	Lemma: صِيَاغَة	BW: SiyaAgap
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: وضوحا	Lemma: وُضُوح	BW: wuDuwH
+		Word: شكر	Lemma: شُكْر	BW: $ukor
+		Word: الك	Lemma: لَكِيَ	BW: lakiya
+		Word: وتمنياتنا	Lemma: تَمَنِّيَة	BW: taman~iyap
+		Word: لك	Lemma: لِي	BW: liy
+		Word: بتمام	Lemma: تَمَام	BW: tamaAm
+		Word: العافية	Lemma: عَافِيَة	BW: EaAfiyap
+	------------------------

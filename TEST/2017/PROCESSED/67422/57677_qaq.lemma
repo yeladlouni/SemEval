@@ -1,0 +1,36 @@
+أنا شاب عمري 20 سنة مصاب بداء السكري مند سنة ونصف استخدم الانسولين مرتين في اليوم اوقفت الأنسولين مند 3 أيام وافحص سكر بعد 9 ساعة من الصيام فأجد 123-125 فهل لدي سكر نوع 1 أم نوع 2 وشكراً
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بداء	Lemma: دَاء	BW: daA'
+		Word: السكري	Lemma: سُكَّرِيّ	BW: suk~ariy~
+		Word: مند	Lemma: مُنْد	BW: munod
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ونصف	Lemma: نِصْف	BW: niSof
+		Word: استخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: الانسولين	Lemma: الانسولين	BW: AlAnswlyn
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: اوقفت	Lemma: اوقفت	BW: Awqft
+		Word: الأنسولين	Lemma: الأنسولين	BW: Al>nswlyn
+		Word: مند	Lemma: مُنْد	BW: munod
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: وافحص	Lemma: فَحَصَ	BW: faHaSa
+		Word: سكر	Lemma: سُكَّر	BW: suk~ar
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الصيام	Lemma: صِيَام	BW: SiyaAm
+		Word: فأجد	Lemma: أَجَدَ	BW: >ajada
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: سكر	Lemma: سُكَّر	BW: suk~ar
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: أم	Lemma: أَمَّ	BW: >am~a
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

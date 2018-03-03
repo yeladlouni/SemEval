@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Orad
+
+متجه للفم
+
+Hepatopetal
+
+متجه للكبد
+
+Radiad
+
+متجه للكعبرة
+
+Axipetal
+
+متجه للمحور
+
+Myelopetal
+
+متجه للنخاع
+
+Nucleopetal
+
+متجه للنواة
+
+Dextrotropic
+
+متجه لليمين
+
+Cellulipetal
+
+متجه نحو الخلية
+
+Basad
+
+متجه نحو القاعدة
+
+Basipetal
+
+متجه نحو القاعدة
+
+Corticipetal
+
+متجه نحو القشرة
+
+Peripherad
+
+متجه نحو المحيط
+
+Rostrad
+
+متجه نحو المنقار
+
+Wandering
+
+متجول
+
+Monocephalus
+
+متحد الراسين
+
+Syncephalus
+
+متحد الراسين
+
+Vertebrodidymus
+
+متحد الصلبين
+
+Craniopagus
+
+متحد القحفين
+
+Biparental
+
+متحدر من والدين
+
+Mobile, motile
+
+متحرك
+

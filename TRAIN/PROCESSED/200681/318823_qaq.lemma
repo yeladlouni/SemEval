@@ -1,0 +1,46 @@
+السؤال أريد أن أسأل عن دواء برايم روز 500 عمري 25 ووزني 52 وأعاني دائما من أعراض الطمث الشديدة ومغص شديد هل يعالج هذا الدواء هذه المشكلة إذا تم أخذه لمدة 5 أشهر قبل أسبوعين من الدورة وهل يؤثر على الوزن لأني لا أريد أن يزيد وزني.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أسأل	Lemma: سَأَلَ	BW: sa>ala
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: برايم	Lemma: برايم	BW: brAym
+		Word: روز	Lemma: رَوْز	BW: rawoz
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: ووزني	Lemma: وَزْن	BW: wazon
+		Word: وأعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أعراض	Lemma: عِرْض	BW: EiroD
+		Word: الطمث	Lemma: طَمْث	BW: Tamov
+		Word: الشديدة	Lemma: شَدِيد	BW: $adiyd
+		Word: ومغص	Lemma: مَغَص	BW: magaS
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يعالج	Lemma: عَالَجَ	BW: EaAlaja
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: تم	Lemma: تَمَّ	BW: tam~a
+		Word: أخذه	Lemma: أَخْذ	BW: >axo*
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: قبل	Lemma: قَبْل	BW: qabol
+		Word: أسبوعين	Lemma: أُسْبُوع	BW: >usobuwE
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: يؤثر	Lemma: أَثَّرَ	BW: >av~ara
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: لأني	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يزيد	Lemma: زَادَ	BW: zaAda
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+	------------------------

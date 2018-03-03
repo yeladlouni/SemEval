@@ -1,0 +1,17 @@
+لا أعتقد أنه يضر ولكن الحليب الفاتر أفضل وأقرب لحليب الأم في درجة الحرارة.
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أعتقد	Lemma: اعْتَقَدَ	BW: AEotaqada
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يضر	Lemma: ضَرَّ	BW: Dar~a
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: الفاتر	Lemma: فَاتِر	BW: faAtir
+		Word: أفضل	Lemma: أَفْضَل	BW: >afoDal
+		Word: وأقرب	Lemma: أَقْرَب	BW: >aqorab
+		Word: لحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: الأم	Lemma: أُمّ	BW: >um~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: الحرارة	Lemma: حَرَارَة	BW: HaraArap
+	------------------------

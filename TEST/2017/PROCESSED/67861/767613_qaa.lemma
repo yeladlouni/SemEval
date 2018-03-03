@@ -1,0 +1,19 @@
+الحل هو تقليل الأكل و ممارسة هوايات جديدة مثل المطالعة والرياضة ، والانشغال بهوايات تحبها وأشياء مفيدة.
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: تقليل	Lemma: تَقْلِيل	BW: taqoliyl
+		Word: الأكل	Lemma: أَكْل	BW: >akol
+		Word: و	Lemma: و	BW: w
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: هوايات	Lemma: هِوَايَة	BW: hiwaAyap
+		Word: جديدة	Lemma: جَدِيد	BW: jadiyd
+		Word: مثل	Lemma: مَثَّلَ	BW: mav~ala
+		Word: المطالعة	Lemma: مُطَالَعَة	BW: muTaAlaEap
+		Word: والرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: والانشغال	Lemma: انْشِغَال	BW: Ano$igaAl
+		Word: بهوايات	Lemma: هِوَايَة	BW: hiwaAyap
+		Word: تحبها	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: وأشياء	Lemma: شَيْء	BW: $ayo'
+		Word: مفيدة	Lemma: مُفِيد	BW: mufiyd
+	------------------------

@@ -1,0 +1,42 @@
+السؤال لدي طفل في الصف الخامس حنون جداً ومؤدب ولكن مشكلتي معه بأنه هادئ وكثير السرحان والنسيان إلى درجة أن مدرساته في المدرسة يشتكين من هذا السرحان والنسيان وهذا الأمر يجعلني عصبية معه أحياناً . فأرجو مساعدتي لحل هذه المشكلة .
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: طفل	Lemma: طِفْل	BW: Tifol
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصف	Lemma: صَفّ	BW: Saf~
+		Word: الخامس	Lemma: خَامِس	BW: xaAmis
+		Word: حنون	Lemma: حَنُون	BW: Hanuwn
+		Word: جدًا	Lemma: جَدَا	BW: jadaA
+		Word: ومؤدب	Lemma: مُؤَدَّب	BW: mu&ad~ab
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: مشكلتي	Lemma: مُشْكِل	BW: mu$okil
+		Word: معه	Lemma: مَعَ	BW: maEa
+		Word: بأنه	Lemma: أَنَّ	BW: >an~a
+		Word: هادئ	Lemma: هَادِئ	BW: haAdi}
+		Word: وكثير	Lemma: كَثِير	BW: kaviyr
+		Word: السرحان	Lemma: سِرْحَان	BW: siroHaAn
+		Word: والنسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: مدرساته	Lemma: مُدَرِّس	BW: mudar~is
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المدرسة	Lemma: مَدْرَسَة	BW: madorasap
+		Word: يشتكين	Lemma: اشْتَكَى	BW: A$otakaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: السرحان	Lemma: سِرْحَان	BW: siroHaAn
+		Word: والنسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: الأمر	Lemma: أَمْر	BW: >amor
+		Word: يجعلني	Lemma: جَعَلَ	BW: jaEala
+		Word: عصبية	Lemma: عَصَبِيَّة	BW: EaSabiy~ap
+		Word: معه	Lemma: مَعَ	BW: maEa
+		Word: أحيانًا	Lemma: حِين	BW: Hiyn
+		Word: فأرجو	Lemma: رَجَا	BW: rajaA
+		Word: مساعدتي	Lemma: مُسَاعَدَة	BW: musaAEadap
+		Word: لحل	Lemma: حَلّ	BW: Hal~
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+	------------------------

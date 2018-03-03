@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Storage
+
+تخزين
+
+Nicking
+
+تخصر
+
+Arteriovenous nicking
+
+تخصرشرياني وريدي
+
+Tonography
+
+تخطيط التوتر
+
+Eeg (electroencephalogram)
+
+تخطيط الدماغ الكهربائي
+
+Cervicography
+
+تخطيط الرقبة
+
+Axonography
+
+تخطيط المحوار
+
+electroaxonography
+
+تخطيط المحوار
+
+Polysomnography
+
+تخطيط النوم
+
+Aneurysmogram
+
+تخطيط ام الدم
+
+Sonography
+
+تخطيط تصواتي
+
+Hysterography
+
+تخطيط رحمي
+
+Echoaortography
+
+تخطيط صدى الابهر
+
+Electro-oculography
+
+تخطيط كهربية العين
+
+Hepatography
+
+تخطيط نبضان الكبد
+
+Auxanography
+
+تخطيط الاستنماء
+
+Phonoangiography
+
+تخطيط الاصوات الشريانية
+
+Microplethysmography
+
+تخطيط التحجم المكروي
+
+Radarkymography
+
+تخطيط التموج الراداري
+
+Magnetoencephalography
+
+تخطيط الدماغ المغناطيسي
+

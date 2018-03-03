@@ -1,0 +1,37 @@
+انا اخذ دواء الاسبرين 100 (Aspirin) ملغ في اليوم بسبب تضييق في الشريان السباتي (Carotis). قبل بضعة اشهر قرات ان استخدام الاسبرين واوميغا 3 خطر. لذلك توقفت عن اخذ الاوميغا 3. سؤالي: هل هذا الافتراض صحيح واود تفسيرا لذلك.
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: الاسبرين	Lemma: الاسبرين	BW: AlAsbryn
+		Word: ملغ	Lemma: مُلْغ	BW: mulog
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: بسبب	Lemma: سَبَب	BW: sabab
+		Word: تضييق	Lemma: تَضْيِيق	BW: taDoyiyq
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشريان	Lemma: شِرْيَان	BW: $iroyaAn
+		Word: السباتي	Lemma: سُبَاتِيّ	BW: subaAtiy~
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: بضعة	Lemma: بِضْع	BW: biDoE
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: قرات	Lemma: قَرَّة	BW: qar~ap
+		Word: ان	Lemma: ان	BW: An
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: الاسبرين	Lemma: الاسبرين	BW: AlAsbryn
+		Word: واوميغا	Lemma: واوميغا	BW: wAwmygA
+		Word: خطر	Lemma: خَطَر	BW: xaTar
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: توقفت	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: الاوميغا	Lemma: الاوميغا	BW: AlAwmygA
+		Word: سؤالي	Lemma: سُؤَال	BW: su&aAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الافتراض	Lemma: افْتِرَاض	BW: AfotiraAD
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: واود	Lemma: واود	BW: wAwd
+		Word: تفسيرا	Lemma: تَفْسِير	BW: tafosiyr
+		Word: لذلك	Lemma: ذَا	BW: *aA
+	------------------------

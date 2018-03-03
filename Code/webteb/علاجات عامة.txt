@@ -1,0 +1,32 @@
+# علاجات عامة
+
+اسم العلاج | Treatment Name  
+---|---  
+علاج سلس البول  |  Urinary Incontinence Men surgery  
+جراحة البروستاتا  |  Laparoscopic Prostate Surgery  
+إصلاح هبوط جدار المهبل  |  Repair of Vaginal Wall Prolapse (Vaginal Vault
+Prolapse)  
+جراحة البواسير  |  Hemorrhoidectomy for Hemorrhoids  
+استئصال الطحال  |  Laparoscopic splenectomy  
+اختزاع الكبد  |  Liver biopsy  
+جراحة الجيوب الأنفية  |  Traditional sinus surgery for sinusitis  
+عملية الفتق الأربي  |  Laparoscopic inguinal hernia repair  
+المكياج الدائم  |  Cosmetic Tattooing (Lips, Eyebrows, Eyeliner)  
+إرتفاق الأصابع  |  Webbed finger or toe repair  
+علاج فرط التعرق  |  Sympathectomy  
+علاج الضعف الجنسي  |  Penile Prostheses  
+الولادة القيصرية  |  Cesarean (“C”) Section  
+تصغير الثدي  |  Breast Reduction Surgery  
+جراحة الفكين  |  Mentoplasty  
+علاج تساقط الشعر  |  Hair Loss Treatment  
+زراعة خلايا جذعية ذاتية  |  Autologous stem cell transplantation  
+تبديل الدم  |  Exchange transfusion  
+طعم  |  Graft  
+زراعة الأعضاء  |  Transplantation  
+الجراحة بواسطة التنظير  |  Endoscopic surgery  
+فرط التعرق الأولي  |  Primary hyperhidrosis  
+جراحة تقليل حجم الرئة  |  Lung volume reduction surgery  
+استئصال الرئة  |  Pneumonectomy  
+علاج الصرع  |  Epilepsy surgery  
+الأعصاب الطرفية  |  Peripheral nerves, operations
+

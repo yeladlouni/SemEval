@@ -1,0 +1,32 @@
+المريض المصاب ب antigen positive او antigen negative يعني انه مصاب ب الكبد الوبائي ب المزمن لكن اذا خسر المريص antigen وربح antibody هذا يعني ان كمية الفيروس ليست كثيرة وفي هذه الحالة يجب فحص HBV DNA
+	##Lemmatization results:
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: المصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: ب	Lemma: ب	BW: b
+		Word: او	Lemma: او	BW: Aw
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: ب	Lemma: ب	BW: b
+		Word: الكبد	Lemma: كَبِد	BW: kabid
+		Word: الوبائي	Lemma: وَبَائِيّ	BW: wabaA}iy~
+		Word: ب	Lemma: ب	BW: b
+		Word: المزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: خسر	Lemma: خَسِرَ	BW: xasira
+		Word: المريص	Lemma: المريص	BW: AlmryS
+		Word: وربح	Lemma: رِبْح	BW: riboH
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: ان	Lemma: ان	BW: An
+		Word: كمية	Lemma: كَمِّيَّة	BW: kam~iy~ap
+		Word: الفيروس	Lemma: الفيروس	BW: Alfyrws
+		Word: ليست	Lemma: لَيْسَ	BW: layosa
+		Word: كثيرة	Lemma: كَثِير	BW: kaviyr
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+	------------------------

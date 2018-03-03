@@ -1,0 +1,13 @@
+كم عمر الوالده ,وما هي الامراض المزمنه التي تعاني منها?
+	##Lemmatization results:
+		Word: كم	Lemma: كَمّ	BW: kam~
+		Word: عمر	Lemma: عُمَر	BW: Eumar
+		Word: الوالده	Lemma: الوالده	BW: AlwAldh
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: الامراض	Lemma: الامراض	BW: AlAmrAD
+		Word: المزمنه	Lemma: المزمنه	BW: Almzmnh
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: منها	Lemma: مِنْ	BW: mino
+	------------------------

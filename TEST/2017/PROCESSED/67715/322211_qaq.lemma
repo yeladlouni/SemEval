@@ -1,0 +1,17 @@
+اختي تبلغ من العمر 10 سنوات وزنها اقل من 23 كيلو لا تشكو من اي مرض
+	##Lemmatization results:
+		Word: اختي	Lemma: خَتَا	BW: xataA
+		Word: تبلغ	Lemma: تَبَلَّغَ	BW: tabal~aga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وزنها	Lemma: وَزْن	BW: wazon
+		Word: اقل	Lemma: قَلِيَ	BW: qaliya
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تشكو	Lemma: شَكَا	BW: $akaA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اي	Lemma: اي	BW: Ay
+		Word: مرض	Lemma: مَرَض	BW: maraD
+	------------------------

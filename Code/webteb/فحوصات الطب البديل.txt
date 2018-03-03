@@ -1,0 +1,44 @@
+# فحوصات الطب البديل
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال الطب البديل في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+الأشعة السينية  |  X-Ray  
+فحص الدم  |  Blood Test  
+تصوير العظام  |  Bone Scan  
+فحص تعداد الدم  |  Complete Blood Count, CBC  
+فحص البول  |  Urine Test  
+الدم الخفي في البراز  |  Occult Blood Test  
+تنظير المعدة  |  Esophago-gastro-duedenoscopy, Upper Endoscopy  
+تنظير القولون  |  Colonoscopy, Sigmoidoscopy  
+فحص الحديد  |  Iron Test  
+فحص البروستاتا  |  Prostate Biopsy  
+التصوير بالرنين المغناطيسي  |  Magnetic Resonance Imaging - MRI  
+اختبار السمع  |  Subjective Hearing Tests  
+تصوير الوجه  |  Sinuses X-Ray  
+حساسية الجلد  |  Allergy Skin Tests  
+اختبار الجلد  |  skin tests  
+تنظير الإحليل والمثانة  |  urethro-cystoscopy  
+البروجستيرون  |  progesterone  
+اختبار تحمل اللاكتوز  |  lactose tolerance test  
+اختبار تحمل الجلوكوز  |  glucose tolerance test  
+أضداد النوى  |  antinuclear antibody  
+مضاد الإنسولين  |  insulin antibody  
+تنظير المفصل  |  arthroscopy  
+اختبار السلين الجلدي  |  Mantoux test  
+قياس الضغط  |  manometry  
+النبض  |  pulse  
+الاستروجين  |  estrogen  
+التشخيص النفسي  |  psychodiagnosis  
+استدقاق إصبع القدم  |  Tip toeing  
+تخطيط كهربية العضل  |  Electromyography  
+تصوير الجهاز الهضمي  |  Imaging of the gastrointestinal tract  
+التنظير السيني  |  Sigmoidoscopy
+

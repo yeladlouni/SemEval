@@ -1,0 +1,26 @@
+ابنتي عمرها 19 عام ووزنها 109 كيلو وتتابع مع دكتورة غذاء وعلاج طبيعي للحميه ..وبقياس السكر وجد انه 89 ...فهل هذا طبيعي ..وما هو الحل...شكرا
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: ووزنها	Lemma: وَزْن	BW: wazon
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: وتتابع	Lemma: تَابَعَ	BW: taAbaEa
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: دكتورة	Lemma: دُكْتُور	BW: dukotuwr
+		Word: غذاء	Lemma: غِذَاء	BW: gi*aA'
+		Word: وعلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: للحميه	Lemma: حَمْي	BW: Hamoy
+		Word: وبقياس	Lemma: قِيَاس	BW: qiyaAs
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: وجد	Lemma: وَجَدَ	BW: wajada
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: شكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

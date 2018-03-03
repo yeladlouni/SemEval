@@ -1,0 +1,30 @@
+ااذا تبين وجود التهاب فى ضرس العقل ننصح بتناول ادويه خاصه للالتاهابات ومسكنات للالم ومضمضات طبيه لمدة ثلاثة ايام على الاقل ومن ثم مراجعة طبيب الاسنان لقلعه
+	##Lemmatization results:
+		Word: ااذا	Lemma: ااذا	BW: AA*A
+		Word: تبين	Lemma: بَيَّنَ	BW: bay~ana
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: فى	Lemma: فى	BW: fY
+		Word: ضرس	Lemma: ضَرْس	BW: Daros
+		Word: العقل	Lemma: عَقْل	BW: Eaqol
+		Word: ننصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: بتناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: ادويه	Lemma: ادويه	BW: Adwyh
+		Word: خاصه	Lemma: خَاصّ	BW: xaAS~
+		Word: للالتاهابات	Lemma: للالتاهابات	BW: llAltAhAbAt
+		Word: ومسكنات	Lemma: مَسْكَنَة	BW: masokanap
+		Word: للالم	Lemma: للالم	BW: llAlm
+		Word: ومضمضات	Lemma: مَضْمَضَة	BW: maDomaDap
+		Word: طبيه	Lemma: طَبْي	BW: Taboy
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الاقل	Lemma: الاقل	BW: AlAql
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: ثم	Lemma: ثَمَّ	BW: vam~a
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: الاسنان	Lemma: الاسنان	BW: AlAsnAn
+		Word: لقلعه	Lemma: قَلِعَ	BW: qaliEa
+	------------------------

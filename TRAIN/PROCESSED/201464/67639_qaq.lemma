@@ -1,0 +1,15 @@
+قمت بفحص النظر والقيم sph -0.25 cyl -0.25 axis 80 sph -0.25 ipd 60 اريد معرفة النتيجه وهل احتاج نظاره ام لا 
+	##Lemmatization results:
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بفحص	Lemma: فَحْص	BW: faHoS
+		Word: النظر	Lemma: نَظَر	BW: naZar
+		Word: والقيم	Lemma: قِيمَة	BW: qiymap
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: معرفة	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: النتيجه	Lemma: النتيجه	BW: Alntyjh
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: احتاج	Lemma: احْتَاجَ	BW: AHotaAja
+		Word: نظاره	Lemma: نُظَّار	BW: nuZ~aAr
+		Word: ام	Lemma: ام	BW: Am
+		Word: لا	Lemma: لَا	BW: laA
+	------------------------

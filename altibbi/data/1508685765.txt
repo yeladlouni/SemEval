@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Mediastinography
+
+تصويرالمنصف
+
+Myelotomography
+
+تصويرالنخاع المقطعي
+
+Pneumomyelography
+
+تصويرالنخاع المحقون بالغاز
+
+Cavography
+
+تصويرالوريد الاجوف
+
+Azygography
+
+تصويرالوريد الفرد
+
+Nuclear magnetic resonance imaging
+
+تصوير رنيني مغناطيسي نووي
+
+Nuclear magnetic resonance imaging
+
+تصوير رنين نووي مغناطيسي
+
+Functional magnetic resonance imaging
+
+تصويربالرنين المغناطيسي الوظيفي
+
+Nephrostogram
+
+تصوير بفغر الكلية
+
+Stereocinefluorography
+
+تصويرتالقي سينمائي مجسم
+
+Holography
+
+تصويرثلاثي الابعاد
+
+Pelvicephalography
+
+تصوير راس الجنين وحوض الام
+
+Microcinematography
+
+تصوير سينمائي مجهري
+
+Electron radiography
+
+تصوير شعاعي الكتروني
+
+Teleroentgenography
+
+تصوير شعاعي بعادي
+
+Xerography
+
+تصوير شعاعي جاف
+
+Electrophotography
+
+تصوير شعاعي كهرضوئي
+
+Radiocinematography
+
+تصوير شعاعي سينمائي
+
+Serial radiography
+
+تصوير شعاعي متسلسل
+
+Stereoradiography
+
+تصوير شعاعي مجسم
+

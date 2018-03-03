@@ -1,0 +1,43 @@
+السؤال السلام عليكم ورحمة الله وبركاته وبعد:أنا مريضة بمرض يسمى تصلب الشرايين وذلك منذ تسع سنوات وليس له أي علاج وقد ذهبت إلى المستشفيات المتخصصة وإلى الآن أصاب بالشلل فهل يوجد علاج لذلك خاصة أن لدي ثلاثة أطفال.وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: ورحمة	Lemma: رَحْمَة	BW: raHomap
+		Word: الله	Lemma: الله	BW: Allh
+		Word: وبركاته	Lemma: بَرَكَة	BW: barakap
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: مريضة	Lemma: مَرِيض	BW: mariyD
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: يسمى	Lemma: سَمَّى	BW: sam~aY
+		Word: تصلب	Lemma: صَلَّبَ	BW: Sal~aba
+		Word: الشرايين	Lemma: شِرْيَان	BW: $iroyaAn
+		Word: وذلك	Lemma: ذَا	BW: *aA
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: تسع	Lemma: تِسْع	BW: tisoE
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وليس	Lemma: لَيْسَ	BW: layosa
+		Word: له	Lemma: لِي	BW: liy
+		Word: أي	Lemma: أَيْ	BW: >ayo
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: المستشفيات	Lemma: مُسْتَشْفَى	BW: musota$ofaY
+		Word: المتخصصة	Lemma: مُتَخَصِّص	BW: mutaxaS~iS
+		Word: وإلى	Lemma: إِلَى	BW: <ilaY
+		Word: الآن	Lemma: آن	BW: |n
+		Word: أصاب	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بالشلل	Lemma: شَلَل	BW: $alal
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: خاصة	Lemma: خَاصَّة	BW: xaAS~ap
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: أطفال	Lemma: طِفْل	BW: Tifol
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

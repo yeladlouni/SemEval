@@ -1,0 +1,34 @@
+مرحبا انا شابة ابلغ من العمر 20 سنة. سؤالي لكم هو كالتالي: في حالات نقص الفيتامينB12 فما الغذاء الذي يوصى باكله ما عدا المنتجات الغذائية الحيوانية ملاحظة: انا اتناول اقراصا تحت اللسان
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شابة	Lemma: شَابّ	BW: $aAb~
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: سؤالي	Lemma: سُؤَال	BW: su&aAl
+		Word: لكم	Lemma: لِي	BW: liy
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: كالتالي	Lemma: تَال	BW: taAl
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حالات	Lemma: حَالَة	BW: HaAlap
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: الفيتامين	Lemma: فِيتَامِين	BW: fiytaAmiyn
+		Word: فما	Lemma: مَا	BW: maA
+		Word: الغذاء	Lemma: غِذَاء	BW: gi*aA'
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يوصى	Lemma: وَصَى	BW: waSaY
+		Word: باكله	Lemma: بَاكِل	BW: baAkil
+		Word: ما	Lemma: مَا	BW: maA
+		Word: عدا	Lemma: عَدَا	BW: EadaA
+		Word: المنتجات	Lemma: مُنْتَج	BW: munotaj
+		Word: الغذائية	Lemma: غِذَائِيّ	BW: gi*aA}iy~
+		Word: الحيوانية	Lemma: حَيَوَانِيّ	BW: HayawaAniy~
+		Word: ملاحظة	Lemma: مُلَاحَظَة	BW: mulaAHaZap
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اتناول	Lemma: اتناول	BW: AtnAwl
+		Word: اقراصا	Lemma: اقراصا	BW: AqrASA
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: اللسان	Lemma: لِسَان	BW: lisaAn
+	------------------------

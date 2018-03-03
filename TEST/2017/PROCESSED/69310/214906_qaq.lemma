@@ -1,0 +1,47 @@
+السلام عليكم لدي طفل عمره 4 أشهر رجل اليمنى منتفخة قليلة لا تشبه رجله اليسرى مع العلم أنها لا تألمه ويحركها ذهبت به إلى طبيبة مختصة في الأطفال الرضع وقمت بالتحاليل الازمة وقالت أن التحاليل إيجابية ولكن هي منتفخة شهرين وأنا الان مشوشة بماذا تنصحني
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: طفل	Lemma: طِفْل	BW: Tifol
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: رجل	Lemma: رَجُل	BW: rajul
+		Word: اليمنى	Lemma: يُمْنَى	BW: yumonaY
+		Word: منتفخة	Lemma: مُنْتَفِخ	BW: munotafix
+		Word: قليلة	Lemma: قَلِيل	BW: qaliyl
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تشبه	Lemma: شَبَّهَ	BW: $ab~aha
+		Word: رجله	Lemma: رَجُل	BW: rajul
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تألمه	Lemma: تَأَلَّمَ	BW: ta>al~ama
+		Word: ويحركها	Lemma: أَحَارَ	BW: >aHaAra
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: به	Lemma: بِي	BW: biy
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: طبيبة	Lemma: طَبِيب	BW: Tabiyb
+		Word: مختصة	Lemma: مُخْتَصّ	BW: muxotaS~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الأطفال	Lemma: طِفْل	BW: Tifol
+		Word: الرضع	Lemma: رَضِيع	BW: raDiyE
+		Word: وقمت	Lemma: قَمَّ	BW: qam~a
+		Word: بالتحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: الازمة	Lemma: الازمة	BW: AlAzmp
+		Word: وقالت	Lemma: قَالَ	BW: qaAla
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: التحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: إيجابية	Lemma: إِيجَابِيّ	BW: <iyjaAbiy~
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: منتفخة	Lemma: مُنْتَفِخ	BW: munotafix
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: وأنا	Lemma: أَنَا	BW: >anaA
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: مشوشة	Lemma: مُشَوِّش	BW: mu$aw~i$
+		Word: بماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: تنصحني	Lemma: أَنْصَحَ	BW: >anoSaHa
+	------------------------

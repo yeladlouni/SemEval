@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Thecoma
+
+ورم قرابي
+
+Haarscheibe tumor
+
+ورم قرص الشعرة
+
+Trichodiscoma
+
+ورم قرص الشعرة
+
+Angiokeratoma
+
+ورم قرني وعائي
+
+Sycoma
+
+ورم قنبيطي ثؤلولوم
+
+Pseudoneoplasm
+
+ورم كاذب
+
+Pseudotumor
+
+ورم كاذب
+
+Pseudotumor
+
+ورم كاذب
+
+Hepatoma
+
+ورم كبدي
+
+Malignant hepatoma
+
+ورم كبدي خبيث
+
+Glomus jugulare tumor
+
+ورم كبي وداجي
+
+Ecchymoma
+
+ورم كدمي
+
+Coccidioidoma
+
+ورم كرواني
+
+Krukenberg's tumor
+
+ورم كروكنبيرغ
+
+Hypernephroma
+
+ورم كظري
+
+Nephroma
+
+ورم كلوي
+
+Mesonephroma
+
+ورم كلوي موسطي
+
+Cholesteatoma
+
+ورم كولسترولي
+
+Cholesteatoma tympani
+
+ورم كولسترولي طبلي
+
+Cystoma
+
+ورم كيسي
+

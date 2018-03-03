@@ -1,0 +1,36 @@
+عندما يأكل المريض شيئا معينا و بطريقة معينة لا يعيد الكرة مرة أخرى . أنا آسف فأنت فقط قلت تتعور و لم أفهم : هل تشعر بالمغص , أو هل تظهر عليها عوارض الحساسية ؟ أرجو التوضيح .
+	##Lemmatization results:
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: يأكل	Lemma: أَكَلَ	BW: >akala
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: شيئا	Lemma: شَيْء	BW: $ayo'
+		Word: معينا	Lemma: مُعِين	BW: muEiyn
+		Word: و	Lemma: و	BW: w
+		Word: بطريقة	Lemma: طَرِيقَة	BW: Tariyqap
+		Word: معينة	Lemma: مُعَيَّن	BW: muEay~an
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يعيد	Lemma: أَعَادَ	BW: >aEaAda
+		Word: الكرة	Lemma: كَرّ	BW: kar~
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: آسف	Lemma: آسِف	BW: |sif
+		Word: فأنت	Lemma: أَنْتَ	BW: >anota
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: قلت	Lemma: قَالَ	BW: qaAla
+		Word: تتعور	Lemma: تَعَوَّرَ	BW: taEaw~ara
+		Word: و	Lemma: و	BW: w
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: أفهم	Lemma: فَهِمَ	BW: fahima
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالمغص	Lemma: مَغَص	BW: magaS
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: عوارض	Lemma: عَارِض	BW: EaAriD
+		Word: الحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: أرجو	Lemma: رَجَا	BW: rajaA
+		Word: التوضيح	Lemma: تَوْضِيح	BW: tawoDiyH
+	------------------------

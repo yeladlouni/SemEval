@@ -1,0 +1,35 @@
+عمري 23 سنه اعاني من زياده في حجم الخصيه اليمني وعندما زهبت الي الطبيب بعد الفحوصات اخبرني بانها قيله مائيه لاكني اشعر بانها صلبه لدرجه اذا ضغت عليها لا اشعر بالم وزوجتي حامل
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: زياده	Lemma: زِياد	BW: ziyAd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حجم	Lemma: حَجْم	BW: Hajom
+		Word: الخصيه	Lemma: لَخَصَ	BW: laxaSa
+		Word: اليمني	Lemma: يَمَنِيّ	BW: yamaniy~
+		Word: وعندما	Lemma: عِنْدَ	BW: Einoda
+		Word: زهبت	Lemma: زهبت	BW: zhbt
+		Word: الي	Lemma: الي	BW: Aly
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: الفحوصات	Lemma: فَحْص	BW: faHoS
+		Word: اخبرني	Lemma: خَبِرَ	BW: xabira
+		Word: بانها	Lemma: بَان	BW: baAn
+		Word: قيله	Lemma: قَالَ	BW: qaAla
+		Word: مائيه	Lemma: مَاءَى	BW: maA'aY
+		Word: لاكني	Lemma: لَاكِن	BW: laAkin
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بانها	Lemma: بَان	BW: baAn
+		Word: صلبه	Lemma: صَلَّبَ	BW: Sal~aba
+		Word: لدرجه	Lemma: دُرْج	BW: duroj
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: ضغت	Lemma: ضَغَا	BW: DagaA
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالم	Lemma: بَالِم	BW: baAlim
+		Word: وزوجتي	Lemma: زَوْجَة	BW: zawojap
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+	------------------------

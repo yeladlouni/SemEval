@@ -1,0 +1,37 @@
+انا عمري 14 سنة وتلقيت الدورة الشهرية قبل 7 شهور. في هذا الشهر انا الان في اليوم ال- 30 ولم اتلقى الدورة بعد. اخبروني من فضلكم ما يمكن ان يكون سبب ذلك وما يجب علي ان افعل.
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وتلقيت	Lemma: تَلَقَّى	BW: talaq~aY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: الشهرية	Lemma: شَهْرِيّ	BW: $ahoriy~
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: في	Lemma: فِي	BW: fiy
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: انا	Lemma: انا	BW: AnA
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: ال	Lemma: ال	BW: Al
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: اتلقى	Lemma: اتلقى	BW: AtlqY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: اخبروني	Lemma: خَبِرَ	BW: xabira
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: فضلكم	Lemma: فَضْل	BW: faDol
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: ان	Lemma: ان	BW: An
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: سبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: وما	Lemma: مَا	BW: maA
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: علي	Lemma: عَلَى	BW: EalaY
+		Word: ان	Lemma: ان	BW: An
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+	------------------------

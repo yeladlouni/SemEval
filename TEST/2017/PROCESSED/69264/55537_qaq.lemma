@@ -1,0 +1,39 @@
+لماذا يظهر احيان حبوب في رجلي...تكون صغيرة وتحك كتيرا كتيرا....وبعد ذلك تجف وتقشر....كانت تظهر لي بالقدمان معا ولكن بعد فترة اصبحت تظهر بقدم واحدة وهي اليمنى....تظهر فترات وتختفي فترات اخرى...ما هذه؟؟
+	##Lemmatization results:
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: يظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: احيان	Lemma: احيان	BW: AHyAn
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: رجلي	Lemma: رَجُل	BW: rajul
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: صغيرة	Lemma: صَغِير	BW: Sagiyr
+		Word: وتحك	Lemma: حَكَى	BW: HakaY
+		Word: كتيرا	Lemma: كتيرا	BW: ktyrA
+		Word: كتيرا	Lemma: كتيرا	BW: ktyrA
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: تجف	Lemma: جَفَّ	BW: jaf~a
+		Word: وتقشر	Lemma: تَقَشُّر	BW: taqa$~ur
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: لي	Lemma: لِي	BW: liy
+		Word: بالقدمان	Lemma: قِدْمَان	BW: qidomaAn
+		Word: معا	Lemma: مَعَّ	BW: maE~a
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: فترة	Lemma: فَتْرَة	BW: fatorap
+		Word: اصبحت	Lemma: اصبحت	BW: ASbHt
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: بقدم	Lemma: قَدَم	BW: qadam
+		Word: واحدة	Lemma: وَاحِد	BW: waAHid
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: اليمنى	Lemma: يُمْنَى	BW: yumonaY
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: فترات	Lemma: فَتْرَة	BW: fatorap
+		Word: وتختفي	Lemma: اخْتَفَى	BW: AxotafaY
+		Word: فترات	Lemma: فَتْرَة	BW: fatorap
+		Word: اخرى	Lemma: اخرى	BW: AxrY
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هذه	Lemma: ذَا	BW: *aA
+	------------------------

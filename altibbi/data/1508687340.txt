@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Oscillometer
+
+مقياس الذبذبة
+
+Osmometer
+
+مقياس الرائحة
+
+Hygrometer
+
+مقياس الرطوبة
+
+Butyrometer
+
+مقياس الزبدة
+
+Tachymeter
+
+مقياس السرعة
+
+Planimeter
+
+مقياس السطح
+
+Saccharimeter
+
+مقياس السكر
+
+Audiometer
+
+مقياس السمع
+
+Rachiometer
+
+مقياس السيساء
+
+Adipometer
+
+مقياس الشحم
+
+Intensimeter
+
+مقياس الشدة
+
+Arteriometer
+
+مقياس الشرايين
+
+Radiometer
+
+مقياس شعاعي
+
+Olfactometer
+
+مقياس الشم
+
+Inspirometer
+
+مقياس الشهيق
+
+Sonometer
+
+مقياس الصن
+
+Manometer
+
+مقياس الضغط
+
+Barometer
+
+مقياس الضغط الجوي
+
+Sphygmo-manometer
+
+مقياس ضغط الدم
+
+Ophthalmodynamometer
+
+مقياس ضغط الشريان العيني
+

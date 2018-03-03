@@ -1,0 +1,3 @@
+GW_QA	subtask_D_primary	 0.6116
+UPC-USMBA	subtask_D_primary	 0.5773
+QU_BIGIR	subtask_D_primary	 0.5669

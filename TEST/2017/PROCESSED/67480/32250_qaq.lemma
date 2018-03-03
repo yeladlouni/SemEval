@@ -1,0 +1,46 @@
+- الجنس : ذكر - العمر: 31 - الوزن و الطول التقريبيان : 84كجم &173سم - الحالة الاجتماعية : متزوج - هل أنت مدخن؟ لا - هل تشرب الكحول؟لا - هل أنت حامل؟لا - هل تعاني من أي مرض مزمن : ارتفاع أو انخفاض الضغط / السكري / القلب والشرايين لا - هل لديك فكرة إذا كانت
+	##Lemmatization results:
+		Word: الجنس	Lemma: جِنْس	BW: jinos
+		Word: ذكر	Lemma: ذَكَرَ	BW: *akara
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: و	Lemma: و	BW: w
+		Word: الطول	Lemma: طُول	BW: Tuwl
+		Word: التقريبيان	Lemma: التقريبيان	BW: AltqrybyAn
+		Word: كجم	Lemma: جَمّ	BW: jam~
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: الاجتماعية	Lemma: اجْتِمَاعِيّ	BW: AjotimaAEiy~
+		Word: متزوج	Lemma: مُتَزَوِّج	BW: mutazaw~ij
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: أنت	Lemma: أَنْتَ	BW: >anota
+		Word: مدخن	Lemma: مَدْخَن	BW: madoxan
+		Word: لا	Lemma: لَا	BW: laA
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تشرب	Lemma: تَشَرَّبَ	BW: ta$ar~aba
+		Word: الكحول	Lemma: كُحُول	BW: kuHuwl
+		Word: لا	Lemma: لَا	BW: laA
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: أنت	Lemma: أَنْتَ	BW: >anota
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: لا	Lemma: لَا	BW: laA
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: مزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: انخفاض	Lemma: انْخِفَاض	BW: AnoxifaAD
+		Word: الضغط	Lemma: ضَغْط	BW: DagoT
+		Word: السكري	Lemma: سُكَّرِيّ	BW: suk~ariy~
+		Word: القلب	Lemma: قَلْب	BW: qalob
+		Word: والشرايين	Lemma: شِرْيَان	BW: $iroyaAn
+		Word: لا	Lemma: لَا	BW: laA
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: لديك	Lemma: لَدَى	BW: ladaY
+		Word: فكرة	Lemma: فِكْرَة	BW: fikorap
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+	------------------------

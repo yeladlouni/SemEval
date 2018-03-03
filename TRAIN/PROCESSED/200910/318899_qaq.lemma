@@ -1,0 +1,42 @@
+السؤال أنا شاب عمري (22) عاماً أعاني من إسهال منذ (20) يوماً ويصاحب هذا الإسهال دوخة وصداعا يجعلني غير متوازن وأشعر أيضاً بألم في أسفل المعدة وفي أسفل الظهر وأيضاً عملت فحوصات للبراز والبول والنتائج سليمة ما تفسير هذه الأعراض وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عامًا	Lemma: عَام	BW: EaAm
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: إسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: يومًا	Lemma: يَوْم	BW: yawom
+		Word: ويصاحب	Lemma: صَاحَبَ	BW: SaAHaba
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الإسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: دوخة	Lemma: دَوْخَة	BW: dawoxap
+		Word: وصداعا	Lemma: صَدَّاع	BW: Sad~aAE
+		Word: يجعلني	Lemma: جَعَلَ	BW: jaEala
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: متوازن	Lemma: مُتَوَازِن	BW: mutawaAzin
+		Word: وأشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: أيضًا	Lemma: أَيْض	BW: >ayoD
+		Word: بألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: أسفل	Lemma: أَسْفَل	BW: >asofal
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: أسفل	Lemma: أَسْفَل	BW: >asofal
+		Word: الظهر	Lemma: ظُهْر	BW: Zuhor
+		Word: وأيضًا	Lemma: أَيْض	BW: >ayoD
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: فحوصات	Lemma: فَحْص	BW: faHoS
+		Word: للبراز	Lemma: بَرَّاز	BW: bar~aAz
+		Word: والبول	Lemma: بَوْل	BW: bawol
+		Word: والنتائج	Lemma: نَتِيجَة	BW: natiyjap
+		Word: سليمة	Lemma: سَلِيم	BW: saliym
+		Word: ما	Lemma: مَا	BW: maA
+		Word: تفسير	Lemma: تَفْسِير	BW: tafosiyr
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الأعراض	Lemma: عِرْض	BW: EiroD
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

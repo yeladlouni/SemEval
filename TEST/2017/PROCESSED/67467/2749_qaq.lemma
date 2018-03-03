@@ -1,0 +1,26 @@
+ابني يبلغ من العمر 11 سنة و لكنه نحيف جدا ووزنه 25 كغ مع انه ياكل جيدا الا انه ليس لديه رغبة بالاكل فما العمل؟
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: من	Lemma: مَنْ	BW: mano
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: لكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: نحيف	Lemma: نَحِيف	BW: naHiyf
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: ووزنه	Lemma: وَزْن	BW: wazon
+		Word: كغ	Lemma: كغ	BW: kg
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: ياكل	Lemma: ياكل	BW: yAkl
+		Word: جيدا	Lemma: جَيِّد	BW: jay~id
+		Word: الا	Lemma: الا	BW: AlA
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: لديه	Lemma: لَدَى	BW: ladaY
+		Word: رغبة	Lemma: رَغْبَة	BW: ragobap
+		Word: بالاكل	Lemma: بالاكل	BW: bAlAkl
+		Word: فما	Lemma: مَا	BW: maA
+		Word: العمل	Lemma: عَمَل	BW: Eamal
+	------------------------

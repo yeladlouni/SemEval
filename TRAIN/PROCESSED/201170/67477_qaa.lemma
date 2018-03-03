@@ -1,0 +1,13 @@
+هناك انواع من هذه الحبوب تسخدم للتقليل من حدة التكيس
+	##Lemmatization results:
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: انواع	Lemma: انواع	BW: AnwAE
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: تسخدم	Lemma: تسخدم	BW: tsxdm
+		Word: للتقليل	Lemma: تَقْلِيل	BW: taqoliyl
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حدة	Lemma: حِدَّة	BW: Hid~ap
+		Word: التكيس	Lemma: تَكَيُّس	BW: takay~us
+	------------------------

@@ -1,0 +1,45 @@
+السؤال السلام عليكم. يا دكتور: أمي عمرها 52 عاما; وعندها الضغط; وتأخذ حبوبا له; ووضعها مستقر ولله الحمد; وعندها أيضا ارتفاع في ضغط الأذن; فهل تستطيع الركوب في الطائرة وهل ثمة أدوية تأخذها قبل الركوب فأنا قلقة جدا لأننا سنسافر بعد 3 أسابيع. وشكرا.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: يا	Lemma: يَا	BW: yaA
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عاما	Lemma: عَامّ	BW: EaAm~
+		Word: وعندها	Lemma: عِنْدَ	BW: Einoda
+		Word: الضغط	Lemma: ضَغْط	BW: DagoT
+		Word: وتأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: حبوبا	Lemma: حَبّ	BW: Hab~
+		Word: له	Lemma: لِي	BW: liy
+		Word: ووضعها	Lemma: وَضْع	BW: waDoE
+		Word: مستقر	Lemma: مُسْتَقِرّ	BW: musotaqir~
+		Word: ولله	Lemma: الله	BW: Allh
+		Word: الحمد	Lemma: حَمْد	BW: Hamod
+		Word: وعندها	Lemma: عِنْدَ	BW: Einoda
+		Word: أيضا	Lemma: أَيْض	BW: >ayoD
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: الأذن	Lemma: أُذُن	BW: >u*un
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: تستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: الركوب	Lemma: رَاكِب	BW: raAkib
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الطائرة	Lemma: طَائِرَة	BW: TaA}irap
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: ثمة	Lemma: ثَمَّةَ	BW: vam~apa
+		Word: أدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: تأخذها	Lemma: أَخَذَ	BW: >axa*a
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: الركوب	Lemma: رُكُوب	BW: rukuwb
+		Word: فأنا	Lemma: أَنَا	BW: >anaA
+		Word: قلقة	Lemma: قَلِق	BW: qaliq
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: لأننا	Lemma: أَنَّ	BW: >an~a
+		Word: سنسافر	Lemma: سَافَرَ	BW: saAfara
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: أسابيع	Lemma: أُسْبُوع	BW: >usobuwE
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

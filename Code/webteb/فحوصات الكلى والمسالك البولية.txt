@@ -1,0 +1,48 @@
+# فحوصات الكلى والمسالك البولية
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال الكلى والمسالك البولية في ويب
+طب. متى يجب الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص البول  |  Urine Test  
+الأسمولالية  |  osmolality  
+تنظير الإحليل والمثانة  |  urethro-cystoscopy  
+تحليل المخدرات في البول  |  urine toxicoloy screen  
+نشاط إنزيم الرينين في بلازما الدم  |  plasma renin activity  
+خزعة البروستاتا  |  prostate biopsy  
+الخزعة الزليلية  |  Synovial biopsy  
+استدقاق إصبع القدم  |  Tip toeing  
+التصوير المقطعي بالإصدار البوزتروني  |  PET scan  
+تصوير الـ MIBG  |  MIBG scan  
+الاميكاسين  |  amikacin level  
+كرياتنين  |  creatinine (Cr)  
+تقييم ديناميكا البول  |  Urodynamic evaluation  
+فحص ديناميكا البول  |  Urodynamics study  
+فحص الخصية بالأمواج فوق الصوتية  |  Testis US  
+فحص المسالك البولية لدى الأطفال، بالأمواج فوق الصوتية  |  Ultrasound of the
+urinary tract in children  
+تصوير المثانة  |  Nuclear Cystography  
+اختبار أضداد الحالة العقدية O  |  antistreptolysin O  
+الأجسام المضادة لغشاء خلايا الكلى  |  anti glomerular basement membrane ab  
+الفجوة الأنيونية - فجوة الصواعد  |  anion gap  
+تصوير الكلى بالنظائر المشعة  |  Kidney Scan  
+فحص اليوريا  |  urea  
+الانتصاب الليلي  |  Nocturnal Penile Tumescence  
+الهورمون المضاد لاٍدرار البول  |  anti diuretic hormone  
+تصوير الجهاز البولي عن طريق الوريد  |  intravenous urography  
+خزعة الكلية  |  kidney biopsy  
+فحص قياس المثانة  |  cystometry  
+تحليل البول  |  urinanalysis  
+ألدوستيرون  |  aldosterone  
+زراعة البول  |  Urine Culture  
+فحص PSA  |  Prostate-Specific Antigen Test  
+تحليل السائل المنوي  |  Semen Analysis  
+تصوير الكلى  |  Kidney Scan  
+فحص البروستاتا  |  Prostate Biopsy
+

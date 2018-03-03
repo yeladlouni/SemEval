@@ -1,0 +1,18 @@
+كيف يكون شكل علبة دواء ovamaxوكم حبة تحتوي .لقد وصفها لي الطبيب باخذ حبتين يوميا 
+	##Lemmatization results:
+		Word: كيف	Lemma: كَيْفَ	BW: kayofa
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: شكل	Lemma: شَكْل	BW: $akol
+		Word: علبة	Lemma: عُلْبَة	BW: Eulobap
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وكم	Lemma: كَمّ	BW: kam~
+		Word: حبة	Lemma: حَبّ	BW: Hab~
+		Word: تحتوي	Lemma: احْتَوَى	BW: AHotawaY
+		Word: لقد	Lemma: قَدْ	BW: qado
+		Word: وصفها	Lemma: وَصَفَ	BW: waSafa
+		Word: لي	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: باخذ	Lemma: باخذ	BW: bAx*
+		Word: حبتين	Lemma: حَبّ	BW: Hab~
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+	------------------------

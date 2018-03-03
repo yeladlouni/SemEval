@@ -1,0 +1,30 @@
+انا فتاة عمري 23 سنه وزني 88 وطولي 152 اتبع حميه 1200 سعره وامارس الرياضة لمدة ساعه يوميا.هل يمكنني تناول حبوب الشاي الأخضر للتخسيس هل هي امنه للاستخدام او لا
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: اتبع	Lemma: اتَّبَعَ	BW: At~abaEa
+		Word: حميه	Lemma: حَمَا	BW: HamaA
+		Word: سعره	Lemma: سِعْر	BW: siEor
+		Word: وامارس	Lemma: وامارس	BW: wAmArs
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: ساعه	Lemma: سَاعَى	BW: saAEaY
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يمكنني	Lemma: أَمْكَنَ	BW: >amokana
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: الشاي	Lemma: الشاي	BW: Al$Ay
+		Word: الأخضر	Lemma: أَخْضَر	BW: >axoDar
+		Word: للتخسيس	Lemma: تَخْسِيس	BW: taxosiys
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: امنه	Lemma: مَنَى	BW: manaY
+		Word: للاستخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: او	Lemma: او	BW: Aw
+		Word: لا	Lemma: لَا	BW: laA
+	------------------------

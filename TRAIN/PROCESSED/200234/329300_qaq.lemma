@@ -1,0 +1,44 @@
+السؤال أريد دواء للقلق; وعدم التركيز; والخوف من الأمراض والمستقبل; حيث إنني أعاني من هذا المرض منذ حوالي 8 سنوات بسبب السمنة; وعدم الثقة بنفسي لشكلي الغير لائق. ولله الحمد نزل وزني; ولكن النفسية كما هي; بالعكس سابقا كانت الأعراض أخف بكثير.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: للقلق	Lemma: قَلَق	BW: qalaq
+		Word: وعدم	Lemma: عَدَم	BW: Eadam
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+		Word: والخوف	Lemma: خَوْف	BW: xawof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأمراض	Lemma: مَرَض	BW: maraD
+		Word: والمستقبل	Lemma: مُسْتَقْبَل	BW: musotaqobal
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: إنني	Lemma: أَنَّ	BW: >an~a
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: حوالي	Lemma: حِوَال	BW: HiwaAl
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: بسبب	Lemma: سَبَب	BW: sabab
+		Word: السمنة	Lemma: سِمْنَة	BW: simonap
+		Word: وعدم	Lemma: عَدَم	BW: Eadam
+		Word: الثقة	Lemma: ثِقَة	BW: viqap
+		Word: بنفسي	Lemma: نَفْس	BW: nafos
+		Word: لشكلي	Lemma: شَكْل	BW: $akol
+		Word: الغير	Lemma: غَيْر	BW: gayor
+		Word: لائق	Lemma: لَائِق	BW: laA}iq
+		Word: ولله	Lemma: الله	BW: Allh
+		Word: الحمد	Lemma: حَمْد	BW: Hamod
+		Word: نزل	Lemma: نَزَلَ	BW: nazala
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: النفسية	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: كما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: بالعكس	Lemma: عَكْس	BW: Eakos
+		Word: سابقا	Lemma: سَابِق	BW: saAbiq
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: الأعراض	Lemma: عِرْض	BW: EiroD
+		Word: أخف	Lemma: أَخَفّ	BW: >axaf~
+		Word: بكثير	Lemma: كَثِير	BW: kaviyr
+	------------------------

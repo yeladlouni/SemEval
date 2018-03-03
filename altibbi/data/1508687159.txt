@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Myocytoma
+
+ورم عضلي الخلايا
+
+Fibroleiomyoma
+
+ورم عضلي املس ليفي
+
+Leiomyofibroma
+
+ورم عضلي املس ليفي
+
+Angioleiomyoma
+
+ورم عضلي املس وعائي
+
+Vascular leiomyoma
+
+ورم عضلي املس وعائي
+
+Dermatomyoma
+
+ورم عضلي جلدي
+
+Hysteromyoma
+
+ورم عضلي رحمي
+
+Adenofibromyoma
+
+ورم عضلي ليفي غدي
+
+Hydromyoma
+
+ورم عضلي موهي
+
+Organoid tumor
+
+ورم عضوي الشكل
+
+Osteoma
+
+ورم عظمي
+
+Endosteoma
+
+ورم عظمي بطاني
+
+Ganglioma
+
+ورم عقدي
+
+Acinar cell tumor
+
+ورم عنيبي خلية
+
+Gastrinoma
+
+ورم غاستريني
+
+Chromophil adenoma
+
+ورم غدي اليف للون
+
+Mastadenoma
+
+ورم غدي ثديي
+
+Acidophil adenoma
+
+ورم غدي حمض
+
+Villous adenoma
+
+ورم غدي زغابي
+
+Sebaceous adenoma
+
+ورم غدي زهمي
+

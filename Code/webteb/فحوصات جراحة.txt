@@ -1,0 +1,47 @@
+# فحوصات جراحة
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال جراحة في ويب طب. متى يجب الخضوع
+لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص البروستاتا  |  Prostate Biopsy  
+تصوير الوجه  |  Sinuses X-Ray  
+تصوير الأوردة  |  venography  
+خزعة العضل  |  Muscle Biops  
+فحص دوبلر (الأمواج فوق الصوتية) للشرايين السباتية  |  US - Doppler of carotid
+arteries  
+اختبار السمع  |  Subjective Hearing Tests  
+العقد الليمفاوية  |  Lymph Node Biopsy  
+فحص الثدي بواسطة الأمواج فوق الصوتية  |  Breast ultrasound  
+فحص الأوردة بالدوبلر (الأمواج فوق الصوتية)  |  Ultrasound - doppler of veins  
+تصوير الخصية الديناميكي  |  Dynamic testicular scan  
+مسح التفريغ المعدي (ردب ميكل - المعوي)  |  Meckel’s diverticulum scan  
+المسح الكبدي الصفراوي  |  Hepatobiliary scan  
+فحص المستقيم  |  Rectal examination  
+الخزعة الرئوية المفتوحة  |  Open lung biopsy  
+فحص البراز  |  Feces analysis  
+قياس ضغط المريء  |  Manometry of the esoplagus and ano-rectum  
+فحص الأمعاء  |  
+المجازة المعدية  |  Gastric bypass  
+التنظير السيني  |  Sigmoidoscopy  
+فحص البراز المجهري  |  Microscopic stool examination  
+نزح (تصريف) كيسة الثدي  |  
+فصيلة الدم  |  Blood type Testing  
+فحص السمع  |  audiometry  
+تنظير الجيب الداخلي  |  sinus endoscopy  
+تصوير الثدي  |  mammography  
+التصوير بالرنين المغناطيسي  |  Magnetic Resonance Imaging - MRI  
+فحص CT  |  CT - Computed Tomography  
+الخزعة  |  Biopsy  
+تصوير البطن  |  Abdominal X-Ray  
+تنظير المعدة  |  Esophago-gastro-duedenoscopy, Upper Endoscopy  
+تنظير القولون  |  Colonoscopy, Sigmoidoscopy  
+خزعة الكبد  |  Liver Biopsy  
+فحص PSA  |  Prostate-Specific Antigen Test
+

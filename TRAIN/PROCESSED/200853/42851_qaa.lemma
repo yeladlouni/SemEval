@@ -1,0 +1,39 @@
+نعم يمكن استخدامه لكن تحت إشراف طبي مع الإلتزام الدقيق بتوصيات الصيدلي لأن هذا لدواء يتطلب حيطة كبيرة في حفطه وتنازله وينبغي أن يحفظ في علبته الأصلية دائما وعندما تفتح ينبغي تستنفذ خلال60 يوما من فتحها
+	##Lemmatization results:
+		Word: نعم	Lemma: نَعَم	BW: naEam
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: استخدامه	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: لكن	Lemma: كَانَ	BW: kaAna
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: إشراف	Lemma: إِشْرَاف	BW: <i$oraAf
+		Word: طبي	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الإلتزام	Lemma: الإلتزام	BW: Al<ltzAm
+		Word: الدقيق	Lemma: دَقِيق	BW: daqiyq
+		Word: بتوصيات	Lemma: تَوْصِيَة	BW: tawoSiyap
+		Word: الصيدلي	Lemma: صَيْدَلِيّ	BW: Sayodaliy~
+		Word: لأن	Lemma: أَنَّ	BW: >an~a
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: لدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: يتطلب	Lemma: تَطَلَّبَ	BW: taTal~aba
+		Word: حيطة	Lemma: حَيْطَة	BW: HayoTap
+		Word: كبيرة	Lemma: كَبِير	BW: kabiyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حفطه	Lemma: حفطه	BW: HfTh
+		Word: وتنازله	Lemma: نَازَلَ	BW: naAzala
+		Word: وينبغي	Lemma: انْبَغَى	BW: AnobagaY
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يحفظ	Lemma: حَفِظَ	BW: HafiZa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: علبته	Lemma: عُلْبَة	BW: Eulobap
+		Word: الأصلية	Lemma: أَصْلِيّ	BW: >aSoliy~
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: وعندما	Lemma: عِنْدَ	BW: Einoda
+		Word: تفتح	Lemma: فَتَحَ	BW: fataHa
+		Word: ينبغي	Lemma: انْبَغَى	BW: AnobagaY
+		Word: تستنفذ	Lemma: تستنفذ	BW: tstnf*
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: يوما	Lemma: يَوْم	BW: yawom
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: فتحها	Lemma: فَتْح	BW: fatoH
+	------------------------

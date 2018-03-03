@@ -1,0 +1,24 @@
+السؤال والدي توفي وأمي تعاني من مرض (الزهايمر) ودائمًا تنسى أنه توفي فماذا نقول لها علماً أن الوفاة كانت منذ أسبوعين.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: والدي	Lemma: وَالِد	BW: waAlid
+		Word: توفي	Lemma: تَوَفَّى	BW: tawaf~aY
+		Word: وأمي	Lemma: أَمَا	BW: >amaA
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: الزهايمر	Lemma: الزهايمر	BW: AlzhAymr
+		Word: ودائمًا	Lemma: دَائِم	BW: daA}im
+		Word: تنسى	Lemma: نَسِيَ	BW: nasiya
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: توفي	Lemma: تَوَفَّى	BW: tawaf~aY
+		Word: فماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: نقول	Lemma: قَالَ	BW: qaAla
+		Word: لها	Lemma: لِي	BW: liy
+		Word: علمًا	Lemma: عِلْم	BW: Eilom
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: الوفاة	Lemma: وَفَاة	BW: wafaAp
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: أسبوعين	Lemma: أُسْبُوع	BW: >usobuwE
+	------------------------

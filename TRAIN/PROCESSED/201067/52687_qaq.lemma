@@ -1,0 +1,30 @@
+أعاني من احمرار في وجهي مصحوبا ببعض النقاط تقريبا سوداء و في يدي هناك بعض النقاط حمراء و بنية و يقل هذا الاحمرار عندما يكون الجو بارد . 
+	##Lemmatization results:
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: احمرار	Lemma: احْمِرَار	BW: AHomiraAr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: وجهي	Lemma: وَجْه	BW: wajoh
+		Word: مصحوبا	Lemma: مَصْحُوب	BW: maSoHuwb
+		Word: ببعض	Lemma: بَعْض	BW: baEoD
+		Word: النقاط	Lemma: نُقْطَة	BW: nuqoTap
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: سوداء	Lemma: سَوْدَاء	BW: sawodaA'
+		Word: و	Lemma: و	BW: w
+		Word: في	Lemma: فِي	BW: fiy
+		Word: يدي	Lemma: يَد	BW: yad
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: النقاط	Lemma: نُقْطَة	BW: nuqoTap
+		Word: حمراء	Lemma: حَمْرَاء	BW: HamoraA'
+		Word: و	Lemma: و	BW: w
+		Word: بنية	Lemma: نِيَّة	BW: niy~ap
+		Word: و	Lemma: و	BW: w
+		Word: يقل	Lemma: أَقَلَّ	BW: >aqal~a
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الاحمرار	Lemma: احْمِرَار	BW: AHomiraAr
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: الجو	Lemma: جَوّ	BW: jaw~
+		Word: بارد	Lemma: بَارِد	BW: baArid
+	------------------------

@@ -1,0 +1,27 @@
+أنا عمري 17 وشهرين وطول قضيبي 12.5سم هل هذا طبيعي ولسه هي نمو ولا ايه بعد الشكر لجميع الاطباء أنا خايف ..وربنا يوفقكم لعمل الخير...
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: وشهرين	Lemma: شَهْر	BW: $ahor
+		Word: وطول	Lemma: طَوْل	BW: Tawol
+		Word: قضيبي	Lemma: قَضِيب	BW: qaDiyb
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: ولسه	Lemma: وَلَسَ	BW: walasa
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: نمو	Lemma: نُمُوّ	BW: numuw~
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: ايه	Lemma: ايه	BW: Ayh
+		Word: بعد	Lemma: بَعُدَ	BW: baEuda
+		Word: الشكر	Lemma: شُكْر	BW: $ukor
+		Word: لجميع	Lemma: جَمِيع	BW: jamiyE
+		Word: الاطباء	Lemma: اطِّبَاء	BW: AT~ibaA'
+		Word: أنا	Lemma: أَنَا	BW: >anaA
+		Word: خايف	Lemma: خَايِف	BW: xaAyif
+		Word: وربنا	Lemma: رَابَ	BW: raAba
+		Word: يوفقكم	Lemma: وَفَّقَ	BW: waf~aqa
+		Word: لعمل	Lemma: عَمَل	BW: Eamal
+		Word: الخير	Lemma: خَيْر	BW: xayor
+	------------------------

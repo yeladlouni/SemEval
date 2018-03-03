@@ -1,0 +1,45 @@
+عضو : انا مصاب بمرض السكري استعمل الحبوب ونسبة السكر في دمي تتراوح بين1.4 و1.8 في الغالب الا انني اعني من برود جنسي بالرغم من استعمال بعض الادوية المنشطة التي تحتوي على الجينسيغ الا انني لا زلت اعاني من المشكل انصحوني جزاكم الله
+	##Lemmatization results:
+		Word: عضو	Lemma: عُضْو	BW: EuDow
+		Word: انا	Lemma: انا	BW: AnA
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: السكري	Lemma: سُكَّرِيّ	BW: suk~ariy~
+		Word: استعمل	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: ونسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: في	Lemma: فِي	BW: fiy
+		Word: دمي	Lemma: دَم	BW: dam
+		Word: تتراوح	Lemma: تَرَاوَحَ	BW: taraAwaHa
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: و	Lemma: و	BW: w
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الغالب	Lemma: غَالِب	BW: gaAlib
+		Word: الا	Lemma: الا	BW: AlA
+		Word: انني	Lemma: انني	BW: Anny
+		Word: اعني	Lemma: عَنَى	BW: EanaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: برود	Lemma: بَرُود	BW: baruwd
+		Word: جنسي	Lemma: جِنْسِيّ	BW: jinosiy~
+		Word: بالرغم	Lemma: رَغْم	BW: ragom
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: المنشطة	Lemma: مُنَشِّط	BW: muna$~iT
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تحتوي	Lemma: احْتَوَى	BW: AHotawaY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الجينسيغ	Lemma: الجينسيغ	BW: Aljynsyg
+		Word: الا	Lemma: الا	BW: AlA
+		Word: انني	Lemma: انني	BW: Anny
+		Word: لا	Lemma: لَا	BW: laA
+		Word: زلت	Lemma: زَالَ	BW: zaAla
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المشكل	Lemma: مُشْكِل	BW: mu$okil
+		Word: انصحوني	Lemma: نَصَحَ	BW: naSaHa
+		Word: جزاكم	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+	------------------------

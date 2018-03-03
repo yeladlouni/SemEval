@@ -1,0 +1,31 @@
+مرحبا بنتي عمرها سنة و سبعة اشهر وزنها 10 كيلو و طولها 77 سم شهيتها قليلة جدا بس تشرب رضعتين في اليوم و بعطيها حليب ابتاميل و بدياشور..بماذا تنصحوني
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: بنتي	Lemma: بِنْت	BW: binot
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: سبعة	Lemma: سَبْع	BW: saboE
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: وزنها	Lemma: وَزْن	BW: wazon
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: و	Lemma: و	BW: w
+		Word: طولها	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: شهيتها	Lemma: شَهِيّ	BW: $ahiy~
+		Word: قليلة	Lemma: قَلِيل	BW: qaliyl
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: بس	Lemma: بَسَّ	BW: bas~a
+		Word: تشرب	Lemma: تَشَرَّبَ	BW: ta$ar~aba
+		Word: رضعتين	Lemma: رَضْعَة	BW: raDoEap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: و	Lemma: و	BW: w
+		Word: بعطيها	Lemma: عَطّ	BW: EaT~
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: ابتاميل	Lemma: ابتاميل	BW: AbtAmyl
+		Word: و	Lemma: و	BW: w
+		Word: بدياشور	Lemma: بدياشور	BW: bdyA$wr
+		Word: بماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: تنصحوني	Lemma: أَنْصَحَ	BW: >anoSaHa
+	------------------------

@@ -1,0 +1,14 @@
+ما هو المرض الذي يسببه الأعراض التالية : صداع شديد مع غثيان ؟
+	##Lemmatization results:
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يسببه	Lemma: سَبَّبَ	BW: sab~aba
+		Word: الأعراض	Lemma: عِرْض	BW: EiroD
+		Word: التالية	Lemma: تَالِيَة	BW: taAliyap
+		Word: صداع	Lemma: صُدَاع	BW: SudaAE
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: غثيان	Lemma: غَثَيَان	BW: gavayaAn
+	------------------------

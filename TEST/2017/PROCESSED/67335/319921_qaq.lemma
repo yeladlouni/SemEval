@@ -1,0 +1,26 @@
+عمري 46 سنه. ووزني 60 وطولي 156 وعندي السكر والكولسترول وكتب الطبيب نيوروفيت سؤالي هل هذه الحبوب تزيد من وزن الجسم والا عادي وهل لازم استخدمها
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: ووزني	Lemma: وَزْنِيّ	BW: wazoniy~
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: وعندي	Lemma: عِنْدَ	BW: Einoda
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: والكولسترول	Lemma: والكولسترول	BW: wAlkwlstrwl
+		Word: وكتب	Lemma: كِتَاب	BW: kitaAb
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: نيوروفيت	Lemma: نيوروفيت	BW: nywrwfyt
+		Word: سؤالي	Lemma: سُؤَال	BW: su&aAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: تزيد	Lemma: زَادَ	BW: zaAda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وزن	Lemma: وَزْن	BW: wazon
+		Word: الجسم	Lemma: جِسْم	BW: jisom
+		Word: والا	Lemma: والا	BW: wAlA
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: لازم	Lemma: لَازِم	BW: laAzim
+		Word: استخدمها	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+	------------------------

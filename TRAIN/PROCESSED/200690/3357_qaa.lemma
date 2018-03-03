@@ -1,0 +1,46 @@
+في هذا العمر قد تظهر أمراض العمر المزمنة مثل اسكري وارتفاع الضغط وأمراض القلب والكولسترول. وفي البلاد العربية الغالب أن الشخص يدخن أيضاً ولا يمارس الرياضة فإذا ابتعد عن هذه الأشياء فلا يوجد مشكلة المهم ممارسة الرياضة اليومية والاهتمام بالتغذية الموازنة وعدم التدخين.
+	##Lemmatization results:
+		Word: في	Lemma: فِي	BW: fiy
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: تظهر	Lemma: أَظْهَرَ	BW: >aZohara
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: العمر	Lemma: عُمُر	BW: Eumur
+		Word: المزمنة	Lemma: مُزْمِن	BW: muzomin
+		Word: مثل	Lemma: مِثْل	BW: mivol
+		Word: اسكري	Lemma: سَكِرَ	BW: sakira
+		Word: وارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: الضغط	Lemma: ضَغْط	BW: DagoT
+		Word: وأمراض	Lemma: مَرَض	BW: maraD
+		Word: القلب	Lemma: قَلْب	BW: qalob
+		Word: والكولسترول	Lemma: والكولسترول	BW: wAlkwlstrwl
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: البلاد	Lemma: بِلَاد	BW: bilaAd
+		Word: العربية	Lemma: عَرَبِيّ	BW: Earabiy~
+		Word: الغالب	Lemma: غَالِب	BW: gaAlib
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: الشخص	Lemma: شَخْص	BW: $axoS
+		Word: يدخن	Lemma: دَخَّنَ	BW: dax~ana
+		Word: أيضًا	Lemma: أَيْض	BW: >ayoD
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: يمارس	Lemma: مَارَسَ	BW: maArasa
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: فإذا	Lemma: إِذَا	BW: <i*aA
+		Word: ابتعد	Lemma: ابْتَعَدَ	BW: AbotaEada
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الأشياء	Lemma: شَيْء	BW: $ayo'
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: المهم	Lemma: مُهِمّ	BW: muhim~
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: اليومية	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: والاهتمام	Lemma: اهْتِمَام	BW: AhotimaAm
+		Word: بالتغذية	Lemma: تَغْذِيَة	BW: tago*iyap
+		Word: الموازنة	Lemma: مُوَازَنَة	BW: muwaAzanap
+		Word: وعدم	Lemma: عَدَم	BW: Eadam
+		Word: التدخين	Lemma: تَدْخِين	BW: tadoxiyn
+	------------------------

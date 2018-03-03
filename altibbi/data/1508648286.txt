@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تشخيص
+
+#  المصطلحات الطبية - تشخيص
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Consecutive symptom
+
+عرض عاقب
+
+General symptom
+
+عرض عام
+
+Deficiency symptom
+
+عرض العوز
+
+Indirect symptom
+
+عرض لامباشر
+
+Direct symptom
+
+عرض مباشر
+
+Inducedsymptom
+
+عرض محدث
+
+Concomitant symptom
+
+عرض مرافق
+
+Equivocal symptom
+
+عرض ملتبس
+
+Characteristic symptom
+
+عرض مميز
+
+Localizing symptom
+
+عرض موضع
+
+Objective symptom
+
+عرض موضوعي
+
+Precutsory symptom
+
+عرض منذر
+
+Local symptom
+
+عرض وضعي
+
+Rationale
+
+عرض منطقي
+
+Symptomatic
+
+عرضي
+
+Musculus deltoideus
+
+عضلة دالية
+
+Musculus quadratus plantaris
+
+عضلة مربعة اخمصية
+
+Examination
+
+فحص
+
+Macroscopy
+
+فحص عياني
+
+Heperthermia, hyperpyrexia
+
+فرط الحرارة
+

@@ -1,0 +1,13 @@
+انا عمري 16 الصف العاشر اشلون اعرف اني بالغ او لا
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: الصف	Lemma: صَفّ	BW: Saf~
+		Word: العاشر	Lemma: عَاشِر	BW: EaA$ir
+		Word: اشلون	Lemma: شَلَا	BW: $alaA
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: اني	Lemma: اني	BW: Any
+		Word: بالغ	Lemma: بَالَغَ	BW: baAlaga
+		Word: او	Lemma: او	BW: Aw
+		Word: لا	Lemma: لَا	BW: laA
+	------------------------

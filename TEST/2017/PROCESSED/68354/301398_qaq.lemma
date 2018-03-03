@@ -1,0 +1,32 @@
+ابنتي عمرها سنه تعاني من امساك وعندما تريد ان تذهب للحمام تبكي وتنام على بطنها مالحل مع العلم اني لاارضعها وتاخذ ببرونه عصير ولبن وحليب ليس حليب صناعي **بودره**
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: امساك	Lemma: امساك	BW: AmsAk
+		Word: وعندما	Lemma: عِنْدَ	BW: Einoda
+		Word: تريد	Lemma: أَرَادَ	BW: >araAda
+		Word: ان	Lemma: ان	BW: An
+		Word: تذهب	Lemma: ذَهَبَ	BW: *ahaba
+		Word: للحمام	Lemma: حَمَام	BW: HamaAm
+		Word: تبكي	Lemma: بَكَى	BW: bakaY
+		Word: وتنام	Lemma: نَامَ	BW: naAma
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: بطنها	Lemma: بَطْن	BW: baTon
+		Word: مالحل	Lemma: مالحل	BW: mAlHl
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: لاارضعها	Lemma: لاارضعها	BW: lAArDEhA
+		Word: وتاخذ	Lemma: تَاخِذ	BW: taAxi*
+		Word: ببرونه	Lemma: ببرونه	BW: bbrwnh
+		Word: عصير	Lemma: عَصِير	BW: EaSiyr
+		Word: ولبن	Lemma: لَبِنَ	BW: labina
+		Word: وحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: صناعي	Lemma: صِنَاعِيّ	BW: SinaAEiy~
+		Word: بودره	Lemma: وَدْر	BW: wador
+	------------------------

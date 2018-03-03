@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Peptidolytic
+
+حال الببتيد
+
+Proteolytic
+
+حال البروتين
+
+Bacteriolytic
+
+حال الجراثيم
+
+Thrombolytic
+
+حال الخثرة
+
+Cytolytic
+
+حال الخلية
+
+Hemolytic
+
+حال الدم
+
+Lipophagic
+
+حال الشحم
+
+Adipolytic, lipolytic
+
+حال الشحم
+
+Ceruminolytic
+
+حال الصملاخ
+
+Keratolytic
+
+حال الطبقة القرنية
+
+Osteolytic
+
+حال العظم
+
+Fibinogenolytic
+
+حال الفبرينوجين
+
+Fibrinolytic
+
+حال الفيبرين
+
+Collagenolytic
+
+حال الكولاجين
+
+Cholinolytic
+
+حال الكولين
+
+Vagolytic, parasympatholytic
+
+حال اللاودي
+
+Fibrillolytic
+
+حال اللييفات
+
+Vagolytic
+
+حال المبهم
+
+Spasmolytic
+
+حال النسج
+
+Sympatholytic
+
+حال الودي
+

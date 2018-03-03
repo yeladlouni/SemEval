@@ -1,0 +1,34 @@
+انا شاب عمري 25، اعاني من ألم في الصدر عند تحريك اليدين، الألم يخف تدريجيا خلال اليوم، فحوصات القلب والرئة سليمة، طبيبي قال انه ألم عضلي، علما ان الألم يرافقني منذ شهرين.
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصدر	Lemma: صَدْر	BW: Sador
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: تحريك	Lemma: تَحْرِيك	BW: taHoriyk
+		Word: اليدين	Lemma: يَد	BW: yad
+		Word: الألم	Lemma: أَلَم	BW: >alam
+		Word: يخف	Lemma: أَخْفَى	BW: >axofaY
+		Word: تدريجيا	Lemma: تَدْرِيجِيّ	BW: tadoriyjiy~
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: فحوصات	Lemma: فَحْص	BW: faHoS
+		Word: القلب	Lemma: قَلْب	BW: qalob
+		Word: والرئة	Lemma: رِئَة	BW: ri}ap
+		Word: سليمة	Lemma: سَلِيم	BW: saliym
+		Word: طبيبي	Lemma: طَبِيب	BW: Tabiyb
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: عضلي	Lemma: عَضَلِيّ	BW: EaDaliy~
+		Word: علما	Lemma: عَلَم	BW: Ealam
+		Word: ان	Lemma: ان	BW: An
+		Word: الألم	Lemma: أَلَم	BW: >alam
+		Word: يرافقني	Lemma: رَافَقَ	BW: raAfaqa
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+	------------------------

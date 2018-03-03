@@ -1,0 +1,35 @@
+يااخي انا اعاني من مرض ضعف العضلات من 5 سنوات وهذا مرض يزيد تدهوره كل عامين.عضلات مصابة هي:عضلة كتف و يدعلويةوضهروعضلةكويس ضعيفة جدا وانا ابلغ سن 18مازلت امشي عادي.اريد علاج
+	##Lemmatization results:
+		Word: يااخي	Lemma: يااخي	BW: yAAxy
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: ضعف	Lemma: ضُعْف	BW: DuEof
+		Word: العضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: يزيد	Lemma: زَادَ	BW: zaAda
+		Word: تدهوره	Lemma: دَهْوَرَ	BW: dahowara
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: عامين	Lemma: عَام	BW: EaAm
+		Word: عضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: مصابة	Lemma: مُصَاب	BW: muSaAb
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: عضلة	Lemma: عَضَلَة	BW: EaDalap
+		Word: كتف	Lemma: كَتِف	BW: katif
+		Word: و	Lemma: و	BW: w
+		Word: يدعلويةوضهروعضلةكويس	Lemma: يدعلويةوضهروعضلةكويس	BW: ydElwypwDhrwEDlpkwys
+		Word: ضعيفة	Lemma: ضَعِيف	BW: DaEiyf
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: وانا	Lemma: وانا	BW: wAnA
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: سن	Lemma: سِنّ	BW: sin~
+		Word: مازلت	Lemma: مازلت	BW: mAzlt
+		Word: امشي	Lemma: مَشَى	BW: ma$aY
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

@@ -1,0 +1,29 @@
+انا ما اعرف حليب النكتاليا لكن اذا حليبك خفيف اهتمي بأكلك اولا ليصبح مفيد لها ورضعيها كل ساعتين ولاداعي لماء الارز لانه ممكن يسبب لعا امساك
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: ما	Lemma: مَا	BW: maA
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: النكتاليا	Lemma: النكتاليا	BW: AlnktAlyA
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: حليبك	Lemma: حَلِيب	BW: Haliyb
+		Word: خفيف	Lemma: خَفِيف	BW: xafiyf
+		Word: اهتمي	Lemma: اهْتَمَّ	BW: Ahotam~a
+		Word: بأكلك	Lemma: أُكْل	BW: >ukol
+		Word: اولا	Lemma: اولا	BW: AwlA
+		Word: ليصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: مفيد	Lemma: مُفِيد	BW: mufiyd
+		Word: لها	Lemma: لِي	BW: liy
+		Word: ورضعيها	Lemma: رَضَع	BW: raDaE
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: ساعتين	Lemma: سَاعَة	BW: saAEap
+		Word: ولاداعي	Lemma: ولاداعي	BW: wlAdAEy
+		Word: لماء	Lemma: مَاء	BW: maA'
+		Word: الارز	Lemma: الارز	BW: AlArz
+		Word: لانه	Lemma: نَهِيَ	BW: nahiya
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: يسبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: لعا	Lemma: وَلَعَ	BW: walaEa
+		Word: امساك	Lemma: امساك	BW: AmsAk
+	------------------------

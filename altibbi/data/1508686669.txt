@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Gentianophil
+
+اليف الجنطيان
+
+Gentianophilous
+
+اليف الجنطيان
+
+Siderophil
+
+اليف الحديد
+
+Siderophilous
+
+اليف الحديد
+
+Thermophile
+
+اليف الحرارة
+
+Mesophil
+
+اليف الحرارة المعتدلة
+
+Cytophilic
+
+اليف الخلايا
+
+Homocytotropic
+
+اليف الخلايا المثلية
+
+Lipophil
+
+اليف الشحم
+
+Barophilic
+
+اليف الضغط
+
+Argentophil
+
+اليف الفضة
+
+Argentophile
+
+اليف الفضة
+
+Fuchsinophil
+
+اليف الفوكسين
+
+Fuchsinophilic
+
+اليف الفوكسين
+
+Fuchsinophilous
+
+اليف الفوكسين
+
+Carminophil
+
+اليف القرمز
+
+Azurophil
+
+اليف اللازورد
+
+Nucleophile
+
+اليف النواة
+
+Microaerophil
+
+اليف الهواء القليل
+
+Microaerophilic
+
+اليف الهواء القليل
+

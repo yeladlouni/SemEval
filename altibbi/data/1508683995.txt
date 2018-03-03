@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Radiation secondary
+
+اشعاع ثانوي
+
+Hard radiation
+
+اشعاع ثقيل
+
+Gamma radiation
+
+اشعاع جاما
+
+Radiation corpuscular
+
+اشعاع جسيمات
+
+Narrow beam radiation
+
+اشعاع حزمة ضيقة
+
+Broad beam radiation
+
+اشعاع حزمة عريضة
+
+Stereotactic external-beam radiation
+
+اشعاع حزمي خارجي توضيعي تجسيمي
+
+Radiation background
+
+اشعاع خلفي
+
+Dispersed radiation
+
+اشعاع خلفي مبعثر
+
+X-radiation
+
+اشعاع سيني
+
+Solar radiation
+
+اشعاع شمسي
+
+Ultraviolet radiation
+
+اشعاع فوق البنفسجي
+
+Electromagnetic radiation
+
+اشعاع كهرومغناطيسي
+
+Photochemical radiation
+
+اشعاع كيميائي ضوئي
+
+Flourescent radiation
+
+اشعاع لصفي
+
+Radioactive radiation
+
+اشعاع له طاقة اشعاعية
+
+Ionizing radiation
+
+اشعاع مؤين
+
+Direct radiation
+
+اشعاع مباشر
+
+Scatterd radiation
+
+اشعاع مبعثر
+
+Homogeneous radiation
+
+اشعاع متجانس
+

@@ -1,0 +1,36 @@
+انا اذا استخدمت البخار احس برجفه مع العلم اني سليمه من الربو وغيره بس استخدمته لان لديه سعال مع بلغلم...اما ابنتي اتمت الخمس سنوات ولديها حساسيه بصدر هذا على حسب اقوال الاطباء
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: استخدمت	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: البخار	Lemma: بُخَار	BW: buxaAr
+		Word: احس	Lemma: حَسَى	BW: HasaY
+		Word: برجفه	Lemma: رَجْف	BW: rajof
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: سليمه	Lemma: سَلِيم	BW: saliym
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الربو	Lemma: رَبْو	BW: rabow
+		Word: وغيره	Lemma: غَيْر	BW: gayor
+		Word: بس	Lemma: بَسَّ	BW: bas~a
+		Word: استخدمته	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: لان	Lemma: لانَ	BW: lAna
+		Word: لديه	Lemma: لَدَى	BW: ladaY
+		Word: سعال	Lemma: سُعَال	BW: suEaAl
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: بلغلم	Lemma: بلغلم	BW: blglm
+		Word: اما	Lemma: اما	BW: AmA
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: اتمت	Lemma: اتمت	BW: Atmt
+		Word: الخمس	Lemma: خَمْس	BW: xamos
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: ولديها	Lemma: لَدَى	BW: ladaY
+		Word: حساسيه	Lemma: حُسَاس	BW: HusaAs
+		Word: بصدر	Lemma: صَدْر	BW: Sador
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: اقوال	Lemma: اقوال	BW: AqwAl
+		Word: الاطباء	Lemma: اطِّبَاء	BW: AT~ibaA'
+	------------------------

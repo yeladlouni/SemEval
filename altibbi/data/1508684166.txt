@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Impaction lesion
+
+آفة انحشارية
+
+Focal lesion
+
+آفة بؤرية
+
+Primary lesion
+
+آفة بدئية
+
+Structural lesion
+
+آفة بنيوية
+
+Degenerative lesion
+
+آفة تنكسية
+
+Secondary lesion
+
+آفة ثانوية
+
+Pratial lesion
+
+آفة جزئية
+
+Molecular lesion
+
+آفة جزيئية
+
+Janeway lesion
+
+آفة جينواي
+
+Coin lesion of lungs
+
+آفة درهمية في الرئة
+
+Traumatic lesion
+
+آفة رضحية
+
+Total lesion
+
+آفة شاملة
+
+Radiolesion
+
+آفة شعاعية
+
+Gross macroscopical lesion
+
+آفة عيانية
+
+Ghon’s primary lesion
+
+آفة غون البدئية
+
+Precancerous lesion
+
+آفة قبل سرطانية
+
+Mallory-weiss lesion
+
+آفة مالوري وايس
+
+Mallory-weiss lesion
+
+آفة مالوري وايس
+
+Systemic lesion
+
+آفة مجموعية
+
+Micrscopical lesion
+
+آفة مجهرية
+

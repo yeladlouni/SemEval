@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تشخيص
+
+#  المصطلحات الطبية - تشخيص
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pharyngoscopy
+
+تنظير البلعوم
+
+Fluoroscopy
+
+تنظير التالق
+
+Pleuroscopy
+
+تنظير الجنبة
+
+Laparoscopy, peritoneoscopy
+
+تنظير جوف البطن
+
+Pupilloscopy
+
+تنظير الحدقة
+
+Laryngoscopy
+
+تنظير الحنجرة
+
+Endoscopy
+
+تنظير داخلي
+
+Tracheoscopy
+
+تنظير الرغامى
+
+Tracheobronchoscopy
+
+تنظير الرغامى والقصبات
+
+Amnioscopy
+
+تنظير السلى
+
+Sigmoidoscopy
+
+تنظير السيني
+
+Proctosigmoidoscopy
+
+تنظير السيني والمستقيم
+
+Skiascopy , retinoscopy
+
+تنظير الشبكية
+
+Screening, radioscopy
+
+تنظير شعاعي
+
+Peritoneoscopy
+
+تنظير الصفاق
+
+Spectroscopy
+
+تنظير الطيف
+
+Ophthalmoscopy
+
+تنظير العين
+
+Bronchoscopy
+
+تنظير القصبات
+
+Colonoscopy
+
+تنظير القولون
+
+Electrocardioscopy
+
+تنظير كهربائيةالقلب
+

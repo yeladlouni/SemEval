@@ -1,0 +1,35 @@
+أنا عمري 13 سنة أبلغت طولي الآن 145 سم قيل لي بأن الشخص إذا أبلغ لا يطول يعني هل سيظل طولي هكذا وإذا كان سيزداد طولي فكم سيزداد ؟ هذا الموضوع يشغل تفكيري فرجاء المساعدة؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: أبلغت	Lemma: أَبْلَغَ	BW: >abolaga
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: الآن	Lemma: آن	BW: |n
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: قيل	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: بأن	Lemma: أَنْ	BW: >ano
+		Word: الشخص	Lemma: شَخْص	BW: $axoS
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: أبلغ	Lemma: بَلَغَ	BW: balaga
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يطول	Lemma: طَالَ	BW: TaAla
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: سيظل	Lemma: أَظَلَّ	BW: >aZal~a
+		Word: طولي	Lemma: طُول	BW: Tuwl
+		Word: هكذا	Lemma: ذَا	BW: *aA
+		Word: وإذا	Lemma: إِذَا	BW: <i*aA
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: سيزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: فكم	Lemma: كَمّ	BW: kam~
+		Word: سيزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الموضوع	Lemma: مَوْضُوع	BW: mawoDuwE
+		Word: يشغل	Lemma: شَغَلَ	BW: $agala
+		Word: تفكيري	Lemma: تَفْكِير	BW: tafokiyr
+		Word: فرجاء	Lemma: رَجَاء	BW: rajaA'
+		Word: المساعدة	Lemma: مُسَاعَدَة	BW: musaAEadap
+	------------------------

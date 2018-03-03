@@ -1,0 +1,19 @@
+طفلي عمره ثمان شهور ونصف يحب يشرب ماء كثير ولكنه عند الشرب يكح ويرجع ما السبب
+	##Lemmatization results:
+		Word: طفلي	Lemma: طِفْل	BW: Tifol
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: ثمان	Lemma: ثَمَّان	BW: vam~aAn
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: ونصف	Lemma: نِصْف	BW: niSof
+		Word: يحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: يشرب	Lemma: شَرِبَ	BW: $ariba
+		Word: ماء	Lemma: مَاء	BW: maA'
+		Word: كثير	Lemma: كَثِير	BW: kaviyr
+		Word: ولكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: الشرب	Lemma: شُرْب	BW: $urob
+		Word: يكح	Lemma: كَحَّ	BW: kaH~a
+		Word: ويرجع	Lemma: رَجَعَ	BW: rajaEa
+		Word: ما	Lemma: مَا	BW: maA
+		Word: السبب	Lemma: سَبَب	BW: sabab
+	------------------------

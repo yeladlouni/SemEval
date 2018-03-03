@@ -1,0 +1,16 @@
+يبدأ الحل باستئصال الدوالي وبعدها يتم الفحص مرة أخرى وعمل اللازم حسب الموجود.
+	##Lemmatization results:
+		Word: يبدأ	Lemma: بَدَأَ	BW: bada>a
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+		Word: باستئصال	Lemma: اسْتِئْصَال	BW: Asoti}oSaAl
+		Word: الدوالي	Lemma: الدوالي	BW: AldwAly
+		Word: وبعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: الفحص	Lemma: فَحْص	BW: faHoS
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: وعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: اللازم	Lemma: لَازِم	BW: laAzim
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: الموجود	Lemma: مَوْجُود	BW: mawojuwd
+	------------------------

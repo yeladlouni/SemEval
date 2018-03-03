@@ -1,0 +1,33 @@
+أمي تبلغ من العمر 50 سنة تعاني إنخفاض في الضغط الشرياني في حدود 10.7 مع الشعور بالتعب و الدوار مع العلم أنها تعالج مرض خمول الغدة الدرقية......أرجو منكم تشخيص حالة أمي
+	##Lemmatization results:
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: تبلغ	Lemma: تَبَلَّغَ	BW: tabal~aga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: إنخفاض	Lemma: إنخفاض	BW: <nxfAD
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الضغط	Lemma: ضَغْط	BW: DagoT
+		Word: الشرياني	Lemma: شِرْيَانِيّ	BW: $iroyaAniy~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حدود	Lemma: حَدّ	BW: Had~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الشعور	Lemma: شُعُور	BW: $uEuwr
+		Word: بالتعب	Lemma: تَعَب	BW: taEab
+		Word: و	Lemma: و	BW: w
+		Word: الدوار	Lemma: دَوَّار	BW: daw~aAr
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: تعالج	Lemma: عَالَجَ	BW: EaAlaja
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: خمول	Lemma: خُمُول	BW: xumuwl
+		Word: الغدة	Lemma: غُدَّة	BW: gud~ap
+		Word: الدرقية	Lemma: الدرقية	BW: Aldrqyp
+		Word: أرجو	Lemma: رَجَا	BW: rajaA
+		Word: منكم	Lemma: مِنْ	BW: mino
+		Word: تشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: أمي	Lemma: أُمّ	BW: >um~
+	------------------------

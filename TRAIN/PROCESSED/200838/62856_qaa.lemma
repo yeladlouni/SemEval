@@ -1,0 +1,31 @@
+اكتب ما هي الادوية التي تناولتها او تتناولها بالتفصيل كم ومنذ متى وهكذا وهل اجريت فحص ال H Pylori اي الجرثومة الحلزونية اذا اجريتها اعلمني بالنتيجة واذا لا . يجب اجرائها
+	##Lemmatization results:
+		Word: اكتب	Lemma: كَتَبَ	BW: kataba
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تناولتها	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: او	Lemma: او	BW: Aw
+		Word: تتناولها	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: بالتفصيل	Lemma: تَفْصِيل	BW: tafoSiyl
+		Word: كم	Lemma: كَمّ	BW: kam~
+		Word: ومنذ	Lemma: مُنْذُ	BW: muno*u
+		Word: متى	Lemma: مَتَى	BW: mataY
+		Word: وهكذا	Lemma: ذَا	BW: *aA
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: اجريت	Lemma: اجريت	BW: Ajryt
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+		Word: ال	Lemma: ال	BW: Al
+		Word: اي	Lemma: اي	BW: Ay
+		Word: الجرثومة	Lemma: جُرْثُومَة	BW: jurovuwmap
+		Word: الحلزونية	Lemma: الحلزونية	BW: AlHlzwnyp
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: اجريتها	Lemma: اجريتها	BW: AjrythA
+		Word: اعلمني	Lemma: عَلَمَ	BW: Ealama
+		Word: بالنتيجة	Lemma: نَتِيجَة	BW: natiyjap
+		Word: واذا	Lemma: واذا	BW: wA*A
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: اجرائها	Lemma: اجرائها	BW: AjrA}hA
+	------------------------

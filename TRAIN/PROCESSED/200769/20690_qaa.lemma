@@ -1,0 +1,13 @@
+بسم الله الرحمن الرحيم هذا يعتمد ولكن خلال ثلاثة اسلبيع
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: الرحمن	Lemma: رَحْمَن	BW: raHoman
+		Word: الرحيم	Lemma: رَحِيم	BW: raHiym
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: اسلبيع	Lemma: اسلبيع	BW: AslbyE
+	------------------------

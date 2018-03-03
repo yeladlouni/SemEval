@@ -1,0 +1,40 @@
+لماذا لا أستطيع شرب الماء مع شعوري بالعطش الشديد وأشعر بصعوبة في شربه لكن أستطيع شربه بنكهة : قطرات ليمون مثلا ، وقد لا تتجاوز كمية الماء الذي أشربه كوبا واحدا مع العلم أني لا أعاني من أيّ مرض؟
+	##Lemmatization results:
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: شرب	Lemma: شَرِبَ	BW: $ariba
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: شعوري	Lemma: شُعُورِيّ	BW: $uEuwriy~
+		Word: بالعطش	Lemma: عَطِش	BW: EaTi$
+		Word: الشديد	Lemma: شَدِيد	BW: $adiyd
+		Word: وأشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بصعوبة	Lemma: صُعُوبَة	BW: SuEuwbap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: شربه	Lemma: شُرْب	BW: $urob
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: أستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: شربه	Lemma: شُرْب	BW: $urob
+		Word: بنكهة	Lemma: نَكْهَة	BW: nakohap
+		Word: قطرات	Lemma: قَطْرَة	BW: qaTorap
+		Word: ليمون	Lemma: مَانَ	BW: maAna
+		Word: مثلا	Lemma: مَثَل	BW: maval
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تتجاوز	Lemma: تَجَاوَزَ	BW: tajaAwaza
+		Word: كمية	Lemma: كَمِّيَّة	BW: kam~iy~ap
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: أشربه	Lemma: شَرْب	BW: $arob
+		Word: كوبا	Lemma: كَوْب	BW: kawob
+		Word: واحدا	Lemma: وَاحِد	BW: waAHid
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أني	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أيّ	Lemma: أَيّ	BW: >ay~
+		Word: مرض	Lemma: مَرَض	BW: maraD
+	------------------------

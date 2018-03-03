@@ -1,0 +1,22 @@
+لا يفضل تناول الدواء بعد انتهاء مدته لان ذلك يشكل خطرا على الجسملانه قد يصبح ذات اثر عكسي لعمله
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يفضل	Lemma: أَفْضَلَ	BW: >afoDala
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: انتهاء	Lemma: انْتِهَاء	BW: AnotihaA'
+		Word: مدته	Lemma: مَادَ	BW: maAda
+		Word: لان	Lemma: لانَ	BW: lAna
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: يشكل	Lemma: شَكَّلَ	BW: $ak~ala
+		Word: خطرا	Lemma: خَطَر	BW: xaTar
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الجسملانه	Lemma: الجسملانه	BW: AljsmlAnh
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: يصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: ذات	Lemma: ذَا	BW: *aA
+		Word: اثر	Lemma: ثَرِيَ	BW: variya
+		Word: عكسي	Lemma: عَكْسِيّ	BW: Eakosiy~
+		Word: لعمله	Lemma: عَمَل	BW: Eamal
+	------------------------

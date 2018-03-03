@@ -1,0 +1,41 @@
+مريض باركنسون 67 عام.....يأخذ براميبكسول وليفودوبا وبيراسيتام....هل تؤخذ هذه الأدوية على معدة فارغة أو ممتلئة وحديثا يعاني المريض من هلاوس بصرية ويتكلم مع نفسه...فما سببها ...مع العلم أنه أخذ حديثا دواء للسلس البولي وهو(بروبيفيرين هيدروكلورايد) 
+	##Lemmatization results:
+		Word: مريض	Lemma: مَرِيض	BW: mariyD
+		Word: باركنسون	Lemma: باركنسون	BW: bArknswn
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: يأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: براميبكسول	Lemma: براميبكسول	BW: brAmybkswl
+		Word: وليفودوبا	Lemma: وليفودوبا	BW: wlyfwdwbA
+		Word: وبيراسيتام	Lemma: وبيراسيتام	BW: wbyrAsytAm
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تؤخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: معدة	Lemma: مُعَدّ	BW: muEad~
+		Word: فارغة	Lemma: فَارِغ	BW: faArig
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: ممتلئة	Lemma: مُمْتَلِئ	BW: mumotali}
+		Word: وحديثا	Lemma: حَدِيث	BW: Hadiyv
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: هلاوس	Lemma: هلاوس	BW: hlAws
+		Word: بصرية	Lemma: بَصَرِيّ	BW: baSariy~
+		Word: ويتكلم	Lemma: تَكَلَّمَ	BW: takal~ama
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: نفسه	Lemma: نَفْس	BW: nafos
+		Word: فما	Lemma: مَا	BW: maA
+		Word: سببها	Lemma: سَبَب	BW: sabab
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: أخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: حديثا	Lemma: حَدِيث	BW: Hadiyv
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: للسلس	Lemma: لَسْلَسَ	BW: lasolasa
+		Word: البولي	Lemma: بَوْلِيّ	BW: bawoliy~
+		Word: وهو	Lemma: هُو	BW: huw
+		Word: بروبيفيرين	Lemma: بروبيفيرين	BW: brwbyfyryn
+		Word: هيدروكلورايد	Lemma: هيدروكلورايد	BW: hydrwklwrAyd
+	------------------------

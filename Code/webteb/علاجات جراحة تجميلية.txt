@@ -1,0 +1,36 @@
+# علاجات جراحة تجميلية
+
+اسم العلاج | Treatment Name  
+---|---  
+ترميم الثدي  |  Breast Reconstruction Without Implants  
+نفخ الشفاه  |  Lip Augmentation  
+زرع الشعر  |  Hair Replacement Surgery grafting and scalp reduction  
+تسحيج الجلد  |  Dermabration  
+تجديد سطح الجلد بالليزر  |  Laser Skin Resurfacing  
+ملء التجاعيد  |  Injectable Fillers (Wrinkle fillers)  
+جراحة الوجه  |  Cheek, Jaw, and Chin Implants  
+شفط الدهون من الذقن  |  Liposuction (Under Chin)  
+إزالة الأوردة عروق العنكبوت وتوسع الأوردة  |  Spider Veins and Varicose Veins  
+المكياج الدائم  |  Cosmetic Tattooing (Lips, Eyebrows, Eyeliner)  
+إرتفاق الأصابع  |  Webbed finger or toe repair  
+رأب الجفن  |  Blepharoplasty  
+جراحة الجفون  |  Blepharoplasty  
+جراحة الأنف  |  Rhinoplasty  
+تكبير الثدي  |  Breast Augmentation Surgery  
+تصغير الثدي  |  Breast Reduction Surgery  
+اعادة بناء الثدي  |  Breast Reconstruction Surgery  
+شد الوجه  |  Face lift Surgery  
+حقن البوتوكس  |  Botox Injection  
+شفط الدهون  |  Liposuction Surgery  
+شد البطن  |  Abdominoplasty (“Tummy Tuck”)  
+ازالة الشعر بالليزر  |  Laser Hair Removal  
+رفع الحواجب  |  Brow lift Surgery  
+شد الرقبة  |  Neck lift Surgery  
+عملية شد الذراعين  |  Brachioplasty (Upper Arm Lift)  
+علاج الندب  |  Scar Revision Surgery  
+إذابة الدهون  |  Laser Lipolysis  
+رفع الثدي  |  Breast Lift  
+تقشير البشرة  |  Mechanical, Chemical, Enzymatic - Peelings for every skin
+type  
+إزالة الوشم بالليزر  |  Laser Tattoo Removal
+

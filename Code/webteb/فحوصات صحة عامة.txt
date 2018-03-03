@@ -1,0 +1,92 @@
+# فحوصات صحة عامة
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال صحة عامة في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فيتامين د  |  25-OH Vitamin D  
+الأشعة السينية  |  X-Ray  
+فحص الحديد  |  Iron Test  
+التصوير بالرنين المغناطيسي  |  Magnetic Resonance Imaging - MRI  
+نقص فيتامين ب12  |  Vitamin B12 Testing  
+الأسمولالية  |  osmolality  
+خلل الوظائف المستقلة العائلي  |  Familial dysautonomy  
+فحص فيروس نقص المناعة  |  HIV test  
+يوروبيلينوجين  |  urobilinogen  
+اختبار الجلد  |  skin tests  
+خلايا T  |  T helper  
+حساسية الجلد  |  Allergy Skin Tests  
+القدرة على ربط الحديد بالترانسفيرين  |  TIBC  
+فحص الغلوبولينات البردية  |  cryoglobulins  
+فحص الكالسيتونين  |  calcitonin  
+فحص الفيريتين  |  ferritin  
+تنميط نسيجي  |  tissue typing  
+امتصاص اليود المشع  |  radioactive iodine uptake test  
+اضداد من نوع IgA  |  IgA  
+كثرة الوحيدات العدوائية  |  mono spot  
+تصوير الأوردة  |  venography  
+اختبار التنسيلون  |  tensilon test  
+فحص الكورتيزول  |  cortisol  
+مستوى الباراسيتامول  |  paracetamol level  
+إنزيم الأميلاز  |  amylase (Ami)  
+التصوير الإشعاعي التدخلي  |  Interventional radiology  
+تصوير الغدة الدرقية  |  Thyroid gland imaging  
+فحص البطن والحوض بواسطة الأمواج فوق الصوتية  |  Ultrasound of abdomen and
+pelvis  
+تخطيط الصدى بالتنظير الداخلي  |  Endoscopic ultrasonography, Endoscopic
+ultrasound  
+التصوير الطبي  |  Diagnostic medical imaging  
+فحص عينات سوائل الجسم  |  
+نزح (تصريف) كيسة الثدي  |  
+التصوير المقطعي بالإصدار البوزيتروني  |  positron emission tomography  
+اختبار كربوكسي هيموغلوبين  |  carboxyhemoglobin  
+درجة الحرارة  |  Temperature  
+البوتاسيوم K  |  kalium (K)  
+فحص البرولاكتين  |  prolactin  
+فحص البورفرينات  |  porphyrins  
+فسفتاز حمضي  |  acid phosphatase  
+الفسفتاز القلوي  |  alkaline phosphatase (Alk Phos)  
+العدلات، الكريات البيضاء المفصصة النوى العدلة  |  neutrophils,
+polymorphonuclears  
+فحص الكيتونات  |  ketones  
+فحص الزنك  |  zinc level  
+ناقلات الألانين  |  alanine transaminase  
+ألدولاز  |  aldolase  
+فحص السمع  |  audiometry  
+اختبار الاستعداد المناعي للمضادات الحيوية  |  antibiotic susceptibility test  
+البكتيريا العقدية  |  Quick streptococcus A antigen test  
+فحص الرحلان المناعي الكهربائي  |  immunoelectrophoresis - IEP  
+كيتوستيرويدات - 17  |  17 -ketosteroids  
+زراعة الدم  |  blood culture  
+فحص هرمون الغدة الدرقية  |  thyroxine - T4  
+نواتج انشطار الفيبرينوجين  |  fibrinogen split products  
+المتدثرة  |  chlamydia diagnostic tests  
+تصوير النخاع الشوكي بالموجات فوق الصوتية  |  Spinal Ultrasound  
+فحص حمى النيل الغربي  |  West - Nile Virus Test  
+العقد الليمفاوية  |  Lymph Node Biopsy  
+هرمون التستوستيرون  |  Testosterone Test  
+تصوير الوجه  |  Sinuses X-Ray  
+الهيموجلوبين  |  Hemoglobin Test  
+اختبار التقصي  |  Screening Test  
+ضغط العين  |  Tonometry (Intraocular Pressure Testing)  
+كالسيوم الدم  |  Blood Calcium  
+فحص CT  |  CT - Computed Tomography  
+فحص الدم  |  Blood Test  
+معدل ترسيب كريات الدم الحمراء  |  Erythrocyte Sedimentation Rate  
+النمط النووي  |  Karyotype test  
+زرع للحلق  |  Throat Culture  
+درجة إشباع الدم بالأوكسجين  |  O2 Saturation  
+كيمياء الدم  |  Blood chemistry  
+فحص تعداد الدم  |  Complete Blood Count, CBC  
+فحص البول  |  Urine Test  
+الدم الخفي في البراز  |  Occult Blood Test  
+دوبلر  |  (Doppler Ultrasound, Dupplex)  
+الموجات فوق الصوتية  |  Ultrasound  
+الدهنيات في الدم  |  Cholesterol and Triglycerides Test, Lipid Profile
+

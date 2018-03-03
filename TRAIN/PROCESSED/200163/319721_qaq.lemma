@@ -1,0 +1,24 @@
+السؤال أعاني من آلام في المعدة مع حموضة راجعت الطبيب قال إنه ارتجاع في المريء لكن الحموضة مستمرة معي منذ شهر.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: آلام	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المعدة	Lemma: مَعِدَة	BW: maEidap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: حموضة	Lemma: حُمُوض	BW: HumuwD
+		Word: راجعت	Lemma: رَاجَعَ	BW: raAjaEa
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: إنه	Lemma: أَنَّ	BW: >an~a
+		Word: ارتجاع	Lemma: ارْتِجَاع	BW: ArotijaAE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المريء	Lemma: مَرِيء	BW: mariy'
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الحموضة	Lemma: حُمُوض	BW: HumuwD
+		Word: مستمرة	Lemma: مُسْتَمِرّ	BW: musotamir~
+		Word: معي	Lemma: مَعَّ	BW: maE~a
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+	------------------------

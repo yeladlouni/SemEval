@@ -1,0 +1,42 @@
+# فحوصات العظام والمفاصل
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال العظام والمفاصل في ويب طب. متى
+يجب الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+تصوير العظام  |  Bone Scan  
+فحص الكالسيتونين  |  calcitonin  
+أضداد النوى  |  antinuclear antibody  
+اضداد من نوع IgA  |  IgA  
+تنظير المفصل  |  arthroscopy  
+تصوير القنوات الصفراوية عن طريق الجلد  |  percutaneous cholangiography  
+تصوير القنوات الصفراوية عن طريق الوريد  |  intravenous cholangiography  
+خزعة نقي العظم  |  bone marrow biopsy  
+الخزعة الزليلية  |  Synovial biopsy  
+خزعة العضل  |  Muscle Biops  
+استدقاق إصبع القدم  |  Tip toeing  
+العامل الروماتويدي  |  rheumatoid factor  
+البروتين المتفاعل C  |  CRP  
+الفسفور  |  phosphorus (P)  
+راصة دموية برودية  |  cold hemagglutinins  
+الأجسام المضادة للعضلات الملساء  |  anti smooth muscle antibody  
+المتممة  |  complement  
+أضداد ضد DNA  |  anti DNA antibody  
+أضداد من نوع IgM  |  IgM  
+أضداد من نوع IgG  |  IgG  
+اضداد من نوع IgE  |  IgE  
+التخطيط الكهربائي للعضلات  |  electromyography  
+الأضداد المضادة للفوسفوليبيد  |  anti phospholipid antibody  
+معدل ترسيب كريات الدم الحمراء  |  Erythrocyte Sedimentation Rate  
+كثافة العظام  |  Bone Mineral Density Test, DEXA  
+كالسيوم الدم  |  Blood Calcium  
+التصوير بالرنين المغناطيسي  |  Magnetic Resonance Imaging - MRI  
+تصوير النخاع الشوكي بالموجات فوق الصوتية  |  Spinal Ultrasound  
+الذئبة الحمامية  |  LE cell test
+

@@ -1,0 +1,15 @@
+لا ينصح الا اذا تتطلب حاله الام و ذلك حسب تعليمات الطبيب
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: ينصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: الا	Lemma: الا	BW: AlA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: تتطلب	Lemma: تَطَلَّبَ	BW: taTal~aba
+		Word: حاله	Lemma: حَال	BW: HaAl
+		Word: الام	Lemma: الام	BW: AlAm
+		Word: و	Lemma: و	BW: w
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: تعليمات	Lemma: تَعْلِيم	BW: taEoliym
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+	------------------------

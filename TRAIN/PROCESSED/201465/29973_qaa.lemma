@@ -1,0 +1,20 @@
+يتم كتابة اسم الدواء بالاسم العلمي ولكل دواء علمي مجموعة من الاسماء التجارية الموجودة ضمن معلومات الدواء
+	##Lemmatization results:
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: كتابة	Lemma: كِتَابَة	BW: kitaAbap
+		Word: اسم	Lemma: اسْم	BW: Asom
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: بالاسم	Lemma: اسْم	BW: Asom
+		Word: العلمي	Lemma: عِلْمِيّ	BW: Eilomiy~
+		Word: ولكل	Lemma: كُلّ	BW: kul~
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: علمي	Lemma: عِلْمِيّ	BW: Eilomiy~
+		Word: مجموعة	Lemma: مَجْمُوعَة	BW: majomuwEap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الاسماء	Lemma: الاسماء	BW: AlAsmA'
+		Word: التجارية	Lemma: تِجَارِيّ	BW: tijaAriy~
+		Word: الموجودة	Lemma: مَوْجُود	BW: mawojuwd
+		Word: ضمن	Lemma: ضِمْن	BW: Dimon
+		Word: معلومات	Lemma: مَعْلُومَة	BW: maEoluwmap
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+	------------------------

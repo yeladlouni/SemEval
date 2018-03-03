@@ -1,0 +1,38 @@
+: مرحبا أختي الفاضلة ; نرجو منكي الاجابة عن بعض الاسئلة : ما هو وزنك ; طولك هل تعانين من تورم اصبع رجلك هل تعانين من احمرار في اصبع رجلك هل قمتى بفحص حمض اليوريك في انتظار اجابتك . تحياتي .
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أختي	Lemma: خَتّ	BW: xat~
+		Word: الفاضلة	Lemma: فَاضِل	BW: faADil
+		Word: نرجو	Lemma: رَجَا	BW: rajaA
+		Word: منكي	Lemma: مَنْكِيّ	BW: manokiy~
+		Word: الاجابة	Lemma: الاجابة	BW: AlAjAbp
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الاسئلة	Lemma: الاسئلة	BW: AlAs}lp
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: وزنك	Lemma: زَانَ	BW: zaAna
+		Word: طولك	Lemma: طَوْل	BW: Tawol
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعانين	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تورم	Lemma: أَوْرَمَ	BW: >aworama
+		Word: اصبع	Lemma: صَبَعَ	BW: SabaEa
+		Word: رجلك	Lemma: رَجُل	BW: rajul
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعانين	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: احمرار	Lemma: احْمِرَار	BW: AHomiraAr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اصبع	Lemma: صَبَعَ	BW: SabaEa
+		Word: رجلك	Lemma: رَجُل	BW: rajul
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: قمتى	Lemma: قمتى	BW: qmtY
+		Word: بفحص	Lemma: فَحْص	BW: faHoS
+		Word: حمض	Lemma: حَمْض	BW: HamoD
+		Word: اليوريك	Lemma: اليوريك	BW: Alywryk
+		Word: في	Lemma: فِي	BW: fiy
+		Word: انتظار	Lemma: انْتِظَار	BW: AnotiZaAr
+		Word: اجابتك	Lemma: اجابتك	BW: AjAbtk
+		Word: تحياتي	Lemma: تَحِيَّة	BW: taHiy~ap
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Colonopathy
+
+اعتلال القولون
+
+Hepatopathy
+
+اعتلال الكبد
+
+Hepatosplenopathy
+
+اعتلال الكبد و الطحال
+
+Diabetic nephropathy
+
+اعتلال الكلى السكري
+
+Renopathy
+
+اعتلال الكلية
+
+Glossopathy
+
+اعتلال اللسان
+
+Choridopathy
+
+اعتلال المشيمية
+
+Phonopathy
+
+اعتلال المصاوت
+
+Gastropathy
+
+اعتلال المعدة
+
+Hypertrophic hypersecretory gastropathy
+
+اعتلال المعدة الضخامي لفرط الافراز
+
+Arthro-ophthalmopathy
+
+اعتلال المفاصل و العين
+
+Hereditary progressive arthro-ophthalmopathy
+
+اعتلال المفاصل و العين الوراثي المترقي
+
+Tabetic arthropathy
+
+اعتلال المفصل التابسي
+
+Static arthropathy
+
+اعتلال المفصل السكوني
+
+Vaginopathy
+
+اعتلال المهبل
+
+Myeloradiculopathy
+
+اعتلال النخاع و الجذور
+
+Myeloradiculopathy.
+
+اعتلال النخاع و الجذور
+
+Chromaffinopathy
+
+اعتلال اليفات الكروم
+
+Enzymopathy
+
+اعتلال انزيمي
+
+Internal ophthalmopathy
+
+اعتلال باطن العين
+

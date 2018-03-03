@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Crystallography
+
+مبحث البلورات
+
+Anesthesiology
+
+مبحث التبنيج
+
+Radiodiagnostics
+
+مبحث التشخيص الشعاعي
+
+Leprology
+
+مبحث الجذام
+
+Craniognomy
+
+مبحث الجماجم
+
+Sexology
+
+مبحث الجنس
+
+Lymphology
+
+مبحث الجهاز اللمفي
+
+Virology
+
+مبحث الحمات
+
+Balaneutics
+
+مبحث الحمامات
+
+Laryngology
+
+مبحث الحنجرة
+
+Colpocytology
+
+مبحث الخلويات المهبلي
+
+Semantics
+
+مبحث الدلالات
+
+Helminthology
+
+مبحث الديدان
+
+Rheumatology
+
+مبحث الرثويات
+
+Traumatology
+
+مبحث الرضوح
+
+Phthisiology
+
+مبحث السل
+
+Audiology
+
+مبحث السمع
+
+Myology
+
+مبحث العضل
+
+Osteology
+
+مبحث العظام
+
+Ultrasonics
+
+مبحث الفوق صوتيات
+

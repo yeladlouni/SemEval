@@ -1,0 +1,23 @@
+ابنتي عمرها ثمانية اشهر و٦ ايام وتعضني كلما انا حاولت ر وحتى انها صارت تعض اي شخص ومن اي مكان
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: ثمانية	Lemma: ثَمَان	BW: vamaAn
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: و	Lemma: و	BW: w
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: وتعضني	Lemma: عَضَّى	BW: EaD~aY
+		Word: كلما	Lemma: كُلّ	BW: kul~
+		Word: انا	Lemma: انا	BW: AnA
+		Word: حاولت	Lemma: حَاوَلَ	BW: HaAwala
+		Word: ر	Lemma: وَرِيَ	BW: wariya
+		Word: وحتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: صارت	Lemma: صَارَ	BW: SaAra
+		Word: تعض	Lemma: عَضَّى	BW: EaD~aY
+		Word: اي	Lemma: اي	BW: Ay
+		Word: شخص	Lemma: شَخْص	BW: $axoS
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: اي	Lemma: اي	BW: Ay
+		Word: مكان	Lemma: مَكَان	BW: makaAn
+	------------------------

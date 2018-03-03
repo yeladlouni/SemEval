@@ -1,0 +1,33 @@
+ابني عمره 4 شهور لكنه مولود في اول الاسبوع 34 .... وزنه 5830 غرام .. طوله 59 سم .. محيط رأسه 40.. عند الولادة: وزنه 2480 غ .. طوله 45 سم.. محيط رأسه 32 هل هذا جيد مع العلم انه يرضع طبيعي ... 
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: لكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: مولود	Lemma: مَوْلُود	BW: mawoluwd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اول	Lemma: اول	BW: Awl
+		Word: الاسبوع	Lemma: الاسبوع	BW: AlAsbwE
+		Word: وزنه	Lemma: زَنّ	BW: zan~
+		Word: غرام	Lemma: غَرَام	BW: garaAm
+		Word: طوله	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: محيط	Lemma: مُحِيط	BW: muHiyT
+		Word: رأسه	Lemma: رَأْس	BW: ra>os
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: الولادة	Lemma: وِلَاد	BW: wilaAd
+		Word: وزنه	Lemma: زَنّ	BW: zan~
+		Word: غ	Lemma: غ	BW: g
+		Word: طوله	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: محيط	Lemma: مُحِيط	BW: muHiyT
+		Word: رأسه	Lemma: رَأْس	BW: ra>os
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: يرضع	Lemma: أَرْضَعَ	BW: >aroDaEa
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+	------------------------

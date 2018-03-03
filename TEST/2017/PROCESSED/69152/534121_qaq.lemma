@@ -1,0 +1,34 @@
+السلام عليكم انا فتاه ابلغ من العمر ٢٠ ومن كذا اسبوع حالتي النفسيه سيئه جدا وليس لدي شهيه على الاطلاق وكثيره البكاء وقليلة نوم ولدي شعور بضيق التنفس لا استطيع التخلص منها
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: فتاه	Lemma: فَتَا	BW: fataA
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: كذا	Lemma: ذَا	BW: *aA
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: حالتي	Lemma: حَالَة	BW: HaAlap
+		Word: النفسيه	Lemma: النفسيه	BW: Alnfsyh
+		Word: سيئه	Lemma: سَيَّأَ	BW: say~a>a
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: وليس	Lemma: لَيْسَ	BW: layosa
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: شهيه	Lemma: شَهِيّ	BW: $ahiy~
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الاطلاق	Lemma: اطِّلَاق	BW: AT~ilaAq
+		Word: وكثيره	Lemma: كَثِير	BW: kaviyr
+		Word: البكاء	Lemma: بُكَاء	BW: bukaA'
+		Word: وقليلة	Lemma: قَلِيل	BW: qaliyl
+		Word: نوم	Lemma: نَوْم	BW: nawom
+		Word: ولدي	Lemma: لَدَى	BW: ladaY
+		Word: شعور	Lemma: شُعُور	BW: $uEuwr
+		Word: بضيق	Lemma: ضِيق	BW: Diyq
+		Word: التنفس	Lemma: تَنَفُّس	BW: tanaf~us
+		Word: لا	Lemma: لَا	BW: laA
+		Word: استطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: التخلص	Lemma: تَخَلُّص	BW: taxal~uS
+		Word: منها	Lemma: مِنْ	BW: mino
+	------------------------

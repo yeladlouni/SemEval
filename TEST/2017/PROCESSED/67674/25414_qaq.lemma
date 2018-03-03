@@ -1,0 +1,32 @@
+أنا شاب عمري 20 سنة!طولي164سم!أعاني من قصر قامتي.أعاني ببسبب هذا المشكل جدا!كيف أزيد من طول قامتي!أرجوك دكتور أريد حلا بالتفصيل يخرجني من مشكلتي أرجووووك!!!!
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: طولي	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قصر	Lemma: قَصْر	BW: qaSor
+		Word: قامتي	Lemma: قَامَة	BW: qaAmap
+		Word: أعاني	Lemma: عَانّ	BW: EaAn~
+		Word: ببسبب	Lemma: ببسبب	BW: bbsbb
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: المشكل	Lemma: مُشْكِل	BW: mu$okil
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: كيف	Lemma: كَيْفَ	BW: kayofa
+		Word: أزيد	Lemma: أَزْيَد	BW: >azoyad
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: طول	Lemma: طُول	BW: Tuwl
+		Word: قامتي	Lemma: قَامَة	BW: qaAmap
+		Word: أرجوك	Lemma: رَجْو	BW: rajow
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: حلا	Lemma: حَلّ	BW: Hal~
+		Word: بالتفصيل	Lemma: تَفْصِيل	BW: tafoSiyl
+		Word: يخرجني	Lemma: أَخْرَجَ	BW: >axoraja
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكلتي	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: أرجووووك	Lemma: أرجووووك	BW: >rjwwwwk
+	------------------------

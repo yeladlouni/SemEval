@@ -1,0 +1,13 @@
+: مرحبا اختى الكريمة... أرجو إيضاح المشكلة لنتمكن من مساعدتك تحياتي
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: اختى	Lemma: اختى	BW: AxtY
+		Word: الكريمة	Lemma: كَرِيم	BW: kariym
+		Word: أرجو	Lemma: رَجَا	BW: rajaA
+		Word: إيضاح	Lemma: إِيضَاح	BW: <iyDaAH
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: لنتمكن	Lemma: تَمَكَّنَ	BW: tamak~ana
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مساعدتك	Lemma: مُسَاعَدَة	BW: musaAEadap
+		Word: تحياتي	Lemma: تَحِيَّة	BW: taHiy~ap
+	------------------------

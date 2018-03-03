@@ -1,0 +1,32 @@
+لو سمحت يا دكتور انا اشرب الماء كثيرا ولكن لا أتبرل كثيرا مع انني لا أشوكو من اي ألم ولا أوجاع ولق لكنت اخذ دواء مدر للبول ولكن لاشيء
+	##Lemmatization results:
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحت	Lemma: سَمَحَ	BW: samaHa
+		Word: يا	Lemma: يَا	BW: yaA
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اشرب	Lemma: شَرِبَ	BW: $ariba
+		Word: الماء	Lemma: مَاء	BW: maA'
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: ولكن	Lemma: لَكِنْ	BW: lakino
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أتبرل	Lemma: أتبرل	BW: >tbrl
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: انني	Lemma: انني	BW: Anny
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أشوكو	Lemma: أشوكو	BW: >$wkw
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اي	Lemma: اي	BW: Ay
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أوجاع	Lemma: وَجَع	BW: wajaE
+		Word: ولق	Lemma: وَقَى	BW: waqaY
+		Word: لكنت	Lemma: كَانَ	BW: kaAna
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مدر	Lemma: مَدِرَ	BW: madira
+		Word: للبول	Lemma: بَوْل	BW: bawol
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لاشيء	Lemma: لاشيء	BW: lA$y'
+	------------------------

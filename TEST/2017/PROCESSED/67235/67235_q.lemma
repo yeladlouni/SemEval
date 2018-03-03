@@ -1,0 +1,19 @@
+اخي عمره 25 سنة ويعاني من عدم ضهور اللحيه قام بحلق وجهه كل اسبوع ولكن دون فائدة ؟
+	##Lemmatization results:
+		Word: اخي	Lemma: اخي	BW: Axy
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ويعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: ضهور	Lemma: ضَهْر	BW: Dahor
+		Word: اللحيه	Lemma: اللحيه	BW: AllHyh
+		Word: قام	Lemma: قَامَ	BW: qaAma
+		Word: بحلق	Lemma: حَلَق	BW: Halaq
+		Word: وجهه	Lemma: وَجْه	BW: wajoh
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: دون	Lemma: دُون	BW: duwn
+		Word: فائدة	Lemma: فَائِدَة	BW: faA}idap
+	------------------------

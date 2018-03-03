@@ -1,0 +1,19 @@
+السلام وعليكم انا عمري ٢٢ سنه الي فتره بحس جسمي هزلان وبحس بتعب ومرخي وما عندي نشاط.
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: وعليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: الي	Lemma: الي	BW: Aly
+		Word: فتره	Lemma: تَرّ	BW: tar~
+		Word: بحس	Lemma: حِسّ	BW: His~
+		Word: جسمي	Lemma: جَسَّمَ	BW: jas~ama
+		Word: هزلان	Lemma: هَزَّلَ	BW: haz~ala
+		Word: وبحس	Lemma: حِسّ	BW: His~
+		Word: بتعب	Lemma: تَعَب	BW: taEab
+		Word: ومرخي	Lemma: مَرْخِيّ	BW: maroxiy~
+		Word: وما	Lemma: مَا	BW: maA
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: نشاط	Lemma: نَشَاط	BW: na$aAT
+	------------------------

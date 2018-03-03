@@ -1,0 +1,27 @@
+السؤال قمت بعمل تحليل فيروس (c) فثبت وجوده ثم قمت بعمل تحليل Pcr فكانت النسبة 1800 فهل ممكن أن يكون هناك علاج لهذه الحالة وجزاكم الله خيراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بعمل	Lemma: عَمَل	BW: Eamal
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: فيروس	Lemma: رَاسَ	BW: raAsa
+		Word: فثبت	Lemma: ثَبَتَ	BW: vabata
+		Word: وجوده	Lemma: وُجُود	BW: wujuwd
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: بعمل	Lemma: عَمَل	BW: Eamal
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: فكانت	Lemma: كَانَ	BW: kaAna
+		Word: النسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: لهذه	Lemma: ذَا	BW: *aA
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: وجزاكم	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: خيرًا	Lemma: خَيْر	BW: xayor
+	------------------------

@@ -1,0 +1,55 @@
+# فحوصات الجهاز الهضمي
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال الجهاز الهضمي في ويب طب. متى
+يجب الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+تنظير المعدة  |  Esophago-gastro-duedenoscopy, Upper Endoscopy  
+تنظير القولون  |  Colonoscopy, Sigmoidoscopy  
+يوروبيلينوجين  |  urobilinogen  
+فحص السيرولوبلازمين  |  ceruloplasmin  
+فحص الفيريتين  |  ferritin  
+إنزيم الأميلاز  |  amylase (Ami)  
+اختبار تحمل الزايلوز  |  xylose tolerance test  
+اختبار تحمل اللاكتوز  |  lactose tolerance test  
+تخطيط الصدى بالتنظير الداخلي  |  Endoscopic ultrasonography, Endoscopic
+ultrasound  
+تصوير الجهاز الهضمي  |  Imaging of the gastrointestinal tract  
+قياس الضغط  |  manometry  
+تصوير الكبد والطحال بالنظائر المشعة  |  liver and spleen scan  
+الليباز  |  lipase  
+مراقبة الحموضة في المريء  |  esophageal pH monitoring  
+حمض 5- هيدروكسي أندول استيك  |  5 hydroxyindolacetic acid  
+تصوير البنكرياس والقنوات الصفراوية بالتنظير الباطني بالطريق الراجع  |  ERCP  
+تصوير القنوات الصفراوية عن طريق الجلد  |  percutaneous cholangiography  
+تصوير القنوات الصفراوية عن طريق الوريد  |  intravenous cholangiography  
+التنظير السيني  |  Sigmoidoscopy  
+اضداد لالتهاب الكبد من نوع A  |  hepatitis A Ab  
+أجسام مضادة موجهة ضد الإنزيم نازع كربوكسيل  |  anti GAD ab  
+فحص البراز المجهري  |  Microscopic stool examination  
+الجاسترين  |  gastrin  
+مسح التفريغ المعدي (ردب ميكل - المعوي)  |  Meckel’s diverticulum scan  
+الفحص بأشعة شربة الحليب  |  Milk scan  
+فحص تفريغ المعدة بواسطة التصوير الومضاني  |  Gastric emptying scintigraphy  
+فحص المستقيم  |  Rectal examination  
+قياس ضغط المريء  |  Manometry of the esoplagus and ano-rectum  
+فحص الأمعاء  |  
+المجازة المعدية  |  Gastric bypass  
+نحاس  |  copper  
+اختبار امتصاص د-زايلوز  |  d-xylose absorption test  
+اختبار الفيبرينوجين  |  fibrinogen  
+تصوير البطن  |  Abdominal X-Ray  
+التنظير القولوني الإفتراضي  |  Virtual Colonoscopy  
+تنظير الجهاز الهضمي  |  Video Capsule Endocopy, VCE  
+خزعة الكبد  |  Liver Biopsy  
+فحص التهاب الكبد  |  Hepatitis Test  
+وظائف الكبد  |  Liver Function Test  
+الجرثومة الملوية البوابية  |  helicobacter pylori tests  
+زراعة البراز  |  stool culture
+

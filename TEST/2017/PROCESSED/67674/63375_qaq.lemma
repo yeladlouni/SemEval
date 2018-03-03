@@ -1,0 +1,27 @@
+انا شاب عمري 20 سنة مشكلتي ان الخصيتان يختلفتان في الحجم حيث ان اليسرى اكبر بكثير من اليمنى تقريبا ضعف حجمها تقريبا فهل هذا طبيعي
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: مشكلتي	Lemma: مُشَكِّل	BW: mu$ak~il
+		Word: ان	Lemma: ان	BW: An
+		Word: الخصيتان	Lemma: خُصْيَة	BW: xuSoyap
+		Word: يختلفتان	Lemma: يختلفتان	BW: yxtlftAn
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحجم	Lemma: حَجْم	BW: Hajom
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: ان	Lemma: ان	BW: An
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: اكبر	Lemma: كَبِرَ	BW: kabira
+		Word: بكثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اليمنى	Lemma: يُمْنَى	BW: yumonaY
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: ضعف	Lemma: ضِعْف	BW: DiEof
+		Word: حجمها	Lemma: حَجْم	BW: Hajom
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+	------------------------

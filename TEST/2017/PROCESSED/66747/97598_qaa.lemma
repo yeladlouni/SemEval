@@ -1,0 +1,28 @@
+لا نعرف إن كنت قد استخدمت بعض الأدوية لمعالجتها, فإن كان كذلك أي لم تستجب لأي دواء وتتسبب بأعراض مزعجة فلا بد من علاجها بالكوي
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: نعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: استخدمت	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: لمعالجتها	Lemma: مُعَالَجَة	BW: muEaAlajap
+		Word: فإن	Lemma: إِنْ	BW: <ino
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: كذلك	Lemma: ذَا	BW: *aA
+		Word: أي	Lemma: أَيْ	BW: >ayo
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تستجب	Lemma: اسْتَجَابَ	BW: AsotajaAba
+		Word: لأي	Lemma: أَيّ	BW: >ay~
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وتتسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: بأعراض	Lemma: عِرْض	BW: EiroD
+		Word: مزعجة	Lemma: مُزْعِج	BW: muzoEij
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: بد	Lemma: بُدّ	BW: bud~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: علاجها	Lemma: عِلَاج	BW: EilaAj
+		Word: بالكوي	Lemma: بالكوي	BW: bAlkwy
+	------------------------

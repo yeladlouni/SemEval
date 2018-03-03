@@ -1,0 +1,37 @@
+السؤال وصف لي الطبيب دواء ريتان لحب الشباب أخبرني بعدم تناول فتامين (أ) وأنا أعاني من نقص في الحديد شديد والآن أتناول الدواء وأريد أن أعرف ماذا يحصل لو تناولت فتامين (أ) مع الدواء.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: وصف	Lemma: وَصْف	BW: waSof
+		Word: لي	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ريتان	Lemma: رِيَة	BW: riyap
+		Word: لحب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: أخبرني	Lemma: أَخْبَرَ	BW: >axobara
+		Word: بعدم	Lemma: عَدَم	BW: Eadam
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: فتامين	Lemma: تَامّ	BW: taAm~
+		Word: أ	Lemma: أ	BW: >
+		Word: وأنا	Lemma: أَنَا	BW: >anaA
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحديد	Lemma: حَدِيد	BW: Hadiyd
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: والآن	Lemma: آن	BW: |n
+		Word: أتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وأريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: يحصل	Lemma: حَصَلَ	BW: HaSala
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: تناولت	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: فتامين	Lemma: تَامّ	BW: taAm~
+		Word: أ	Lemma: أ	BW: >
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+	------------------------

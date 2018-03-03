@@ -1,0 +1,20 @@
+إن أي طبيب يستطيع الكشف عن السرطان ولكن المتابعة والعلاج تكون فقط مع طبيب مختص بالأورام السرطانية.
+	##Lemmatization results:
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: يستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: الكشف	Lemma: كَشْف	BW: ka$of
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: السرطان	Lemma: سَرَطَان	BW: saraTaAn
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: المتابعة	Lemma: مُتَابَعَة	BW: mutaAbaEap
+		Word: والعلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: مختص	Lemma: مُخْتَصّ	BW: muxotaS~
+		Word: بالأورام	Lemma: وَرَم	BW: waram
+		Word: السرطانية	Lemma: سَرَطَانِيَّة	BW: saraTaAniy~ap
+	------------------------

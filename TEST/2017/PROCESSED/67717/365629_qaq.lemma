@@ -1,0 +1,38 @@
+عمري 17 سنة و اعاني من حب الشباب منذ اكثر من سنتين , و جربت الكثير من الحلول لكنه لم يذهب و حاليا استخدم monodoks و كنت اضع (ماء الورد) على وجهي ليلا لكنه ازداد سوء لذلك توقفت
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: اكثر	Lemma: كَثُرَ	BW: kavura
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سنتين	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: جربت	Lemma: جَرَّبَ	BW: jar~aba
+		Word: الكثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الحلول	Lemma: حُلُول	BW: Huluwl
+		Word: لكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يذهب	Lemma: ذَهَبَ	BW: *ahaba
+		Word: و	Lemma: و	BW: w
+		Word: حاليا	Lemma: حَالِيّ	BW: HaAliy~
+		Word: استخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: و	Lemma: و	BW: w
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: اضع	Lemma: ضَعَا	BW: DaEaA
+		Word: ماء	Lemma: مَاء	BW: maA'
+		Word: الورد	Lemma: وَرْد	BW: warod
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: وجهي	Lemma: وَجْه	BW: wajoh
+		Word: ليلا	Lemma: لَيْل	BW: layol
+		Word: لكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: ازداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: سوء	Lemma: سُوء	BW: suw'
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: توقفت	Lemma: تَوَقَّفَ	BW: tawaq~afa
+	------------------------

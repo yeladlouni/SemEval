@@ -1,0 +1,21 @@
+الحل هو وقف الدواء لأن هذا من آثاره الجانبية أو مراجعة الطبيب لتغييره أو تغيير الجرعة وإيجاد حل 
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: وقف	Lemma: وَقْف	BW: waqof
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: لأن	Lemma: أَنَّ	BW: >an~a
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: آثاره	Lemma: أَثَر	BW: >avar
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: لتغييره	Lemma: تَغْيِير	BW: tagoyiyr
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: تغيير	Lemma: تَغْيِير	BW: tagoyiyr
+		Word: الجرعة	Lemma: جُرْعَة	BW: juroEap
+		Word: وإيجاد	Lemma: إِيجَاد	BW: <iyjaAd
+		Word: حل	Lemma: حَلّ	BW: Hal~
+	------------------------

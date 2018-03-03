@@ -1,0 +1,36 @@
+السؤال أعاني من مشكلة منذ شهرين احتار فيها الأطباء فقد قالوا لي: إن عندك توقف حمل. ثم عادوا وقالوا: إنه يكبر بدون جنين مع العلم أني لا أدمي وأحس بالتقيؤ فما الحل وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: احتار	Lemma: احتار	BW: AHtAr
+		Word: فيها	Lemma: فِي	BW: fiy
+		Word: الأطباء	Lemma: طَبِيب	BW: Tabiyb
+		Word: فقد	Lemma: قَدْ	BW: qado
+		Word: قالوا	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: عندك	Lemma: عِنْدَ	BW: Einoda
+		Word: توقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: حمل	Lemma: حَمَّلَ	BW: Ham~ala
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: عادوا	Lemma: عَادَ	BW: EaAda
+		Word: وقالوا	Lemma: قَالَ	BW: qaAla
+		Word: إنه	Lemma: أَنَّ	BW: >an~a
+		Word: يكبر	Lemma: أَكْبَرَ	BW: >akobara
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: جنين	Lemma: جَنَى	BW: janaY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أني	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أدمي	Lemma: دَمِيّ	BW: damiy~
+		Word: وأحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بالتقيؤ	Lemma: تَقَيُّؤ	BW: taqay~u&
+		Word: فما	Lemma: مَا	BW: maA
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

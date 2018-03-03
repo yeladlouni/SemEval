@@ -1,0 +1,19 @@
+السؤال السلام عليكم ورحمة الله وبرمكاته سؤالي لكم: كيف أميز بين الشامة وغيرها ولكم جزيل الشكر.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: ورحمة	Lemma: رَحْمَة	BW: raHomap
+		Word: الله	Lemma: الله	BW: Allh
+		Word: وبرمكاته	Lemma: رَمْكَة	BW: ramokap
+		Word: سؤالي	Lemma: سُؤَال	BW: su&aAl
+		Word: لكم	Lemma: لِي	BW: liy
+		Word: كيف	Lemma: كَيْفَ	BW: kayofa
+		Word: أميز	Lemma: مَيَّزَ	BW: may~aza
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: الشامة	Lemma: شَامّ	BW: $aAm~
+		Word: وغيرها	Lemma: غَيْر	BW: gayor
+		Word: ولكم	Lemma: لَكَمَ	BW: lakama
+		Word: جزيل	Lemma: جَزِيل	BW: jaziyl
+		Word: الشكر	Lemma: شُكْر	BW: $ukor
+	------------------------

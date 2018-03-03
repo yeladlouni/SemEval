@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - جراحة عامة
+
+#  المصطلحات الطبية - جراحة عامة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Hemigastrectomy
+
+استئصال المعدة الجزئي
+
+Necrectomy
+
+استئصال النخر
+
+Lymphoidectomy
+
+استئصال النسيج اللمفاني
+
+Necrotomy
+
+استئصال الوشيظ
+
+Lymphangiectomy
+
+استئصال الوعاء اللمفي
+
+Hepaticolithotomy
+
+استئصال حصاة القناة الكبدية
+
+Lithectomy
+
+استخراج الحصاة
+
+Lithotomy
+
+استخراج الحصاة
+
+Hepatolithectomy
+
+استخراج الحصاة الكبدية
+
+Pancreatolithectomy
+
+استخراج حصاة البنكرياس
+
+Pancreatolithotomy
+
+استخراج حصاة البنكرياس
+
+Hydropneumoperitoneum
+
+استرواح الصفاق الموهي
+
+Pneumohydroperitoneum
+
+استرواح الصفاق الموهي
+
+Pneumoretroperitoneum
+
+استرواح خلف الصفاق
+
+Pneumatosis cystoides intestinalis
+
+استرواح كيسات معوية
+
+Pneumatosis intestinalis
+
+استرواح الامعاء
+
+Proctotresia
+
+استصناع الشرج
+
+Mastopathy
+
+اعتلال الخشاء
+
+Enterolysis
+
+افتكاك الامعاء
+
+Duodenolysis
+
+افتكاك الاثناعشري
+

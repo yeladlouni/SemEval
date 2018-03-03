@@ -1,0 +1,23 @@
+# فحوصات السكري
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال السكري في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص السيرولوبلازمين  |  ceruloplasmin  
+اختبار تحمل الجلوكوز  |  glucose tolerance test  
+مضاد الإنسولين  |  insulin antibody  
+الغلوكاغون  |  glucagon  
+اختبار تحدي الجلوكوز  |  Glucose Challenge Test  
+هيموغلوبين A1C  |  Hemoglobin A1C (Hb A1C)  
+تحمل الجلوكوز  |  OGTT-Oral Glucose Challenge Test  
+فحص السكر  |  Glucose Test  
+فحص الإنسولين  |  insulin  
+فحص الكيتونات  |  ketones
+

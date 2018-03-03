@@ -1,0 +1,14 @@
+يمكن أن يكون أي شيء التزمي بتعليمات طبيبك لمعرفة ماهية الورم.
+	##Lemmatization results:
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: التزمي	Lemma: الْتَزَمَ	BW: Alotazama
+		Word: بتعليمات	Lemma: تَعْلِيم	BW: taEoliym
+		Word: طبيبك	Lemma: طَبِيب	BW: Tabiyb
+		Word: لمعرفة	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: ماهية	Lemma: مَاهِيَّة	BW: maAhiy~ap
+		Word: الورم	Lemma: وَرَم	BW: waram
+	------------------------

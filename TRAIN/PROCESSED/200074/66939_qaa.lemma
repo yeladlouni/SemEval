@@ -1,0 +1,13 @@
+السونار يمكنه اكتشاف وجود الورم ولكن الأشعة المقطعية أكثر دقة.
+	##Lemmatization results:
+		Word: السونار	Lemma: السونار	BW: AlswnAr
+		Word: يمكنه	Lemma: أَمْكَنَ	BW: >amokana
+		Word: اكتشاف	Lemma: اكْتِشَاف	BW: Akoti$aAf
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: الورم	Lemma: وَرَم	BW: waram
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الأشعة	Lemma: شُعَاع	BW: $uEaAE
+		Word: المقطعية	Lemma: مَقْطَعِيّ	BW: maqoTaEiy~
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: دقة	Lemma: دِقَّة	BW: diq~ap
+	------------------------

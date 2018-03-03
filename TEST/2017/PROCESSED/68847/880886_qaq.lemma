@@ -1,0 +1,36 @@
+إبني عمره ٣ شهور يعاني من القبض و مغص حاد و يبكي كثيرا من وقت ما بديت أعطيه الخضر والفواكه المهروسة.هل هذا غير طبيعي؟ أم يجب حذف الوجبة الاضافيه؟السلام عليكم و شكرا
+	##Lemmatization results:
+		Word: إبني	Lemma: أَبَّ	BW: >ab~a
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: القبض	Lemma: قَبْض	BW: qaboD
+		Word: و	Lemma: و	BW: w
+		Word: مغص	Lemma: مَغَص	BW: magaS
+		Word: حاد	Lemma: حَادّ	BW: HaAd~
+		Word: و	Lemma: و	BW: w
+		Word: يبكي	Lemma: بَكَى	BW: bakaY
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وقت	Lemma: وَقْت	BW: waqot
+		Word: ما	Lemma: مَا	BW: maA
+		Word: بديت	Lemma: بَدَا	BW: badaA
+		Word: أعطيه	Lemma: عَطَّى	BW: EaT~aY
+		Word: الخضر	Lemma: خَضِر	BW: xaDir
+		Word: والفواكه	Lemma: فَاكِهَة	BW: faAkihap
+		Word: المهروسة	Lemma: مَهْرُوس	BW: mahoruws
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: حذف	Lemma: حَذْف	BW: Ha*of
+		Word: الوجبة	Lemma: وَجْبَة	BW: wajobap
+		Word: الاضافيه	Lemma: الاضافيه	BW: AlADAfyh
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: و	Lemma: و	BW: w
+		Word: شكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

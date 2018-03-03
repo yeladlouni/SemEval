@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - امراض الجهاز التنفسي
+
+#  المصطلحات الطبية - امراض الجهاز التنفسي
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Sonorous rale
+
+خرخرة طنانة
+
+Cabinet
+
+خزانة
+
+Transpleural
+
+خلال الجنبة
+
+Transthoracic
+
+خلال الصدر
+
+Asbestosis
+
+داء الاسبست
+
+Beryllosis
+
+داء البريليوم
+
+Polmunary aspergllosis
+
+داء الرشاشيات التنفسي
+
+Pneumocystosis
+
+داء المتكيسات الرئوية
+
+Bechic
+
+دافع السعال
+
+Nummular
+
+درهمي
+
+Pleuropneumonia
+
+ذات الجنب والرئة
+
+Pleurisy with effusion
+
+ذات الجنب الانصبابية
+
+Interlobar pleurisy
+
+ذات الجنب بين الفصية
+
+Dry pleurisy
+
+ذات الجنب الجافة
+
+Wet pleurisy
+
+ذات الجنب الرطبة
+
+Diaphragmatic pleurisy
+
+ذات الجنب الحجابية
+
+Fibrinous pleurisy
+
+ذات الجنب الفيبرينية
+
+Purulent pleurisy
+
+ذات الجنب القيحية
+
+Encysted pleurisy
+
+ذات الجنب المتكيسة
+
+Serous pleurisy
+
+ذات الجنب المصلية
+

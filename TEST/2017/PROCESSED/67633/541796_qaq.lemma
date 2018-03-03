@@ -1,0 +1,17 @@
+انا طولي 165 سم ولكن وزني 72 كيلو كدا مناسب ولا احتاج الي ان اخس قليلا
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: طولي	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: وزني	Lemma: زَنّ	BW: zan~
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: كدا	Lemma: كَدَّ	BW: kad~a
+		Word: مناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: احتاج	Lemma: احْتَاجَ	BW: AHotaAja
+		Word: الي	Lemma: الي	BW: Aly
+		Word: ان	Lemma: ان	BW: An
+		Word: اخس	Lemma: اخس	BW: Axs
+		Word: قليلا	Lemma: قَلِيل	BW: qaliyl
+	------------------------

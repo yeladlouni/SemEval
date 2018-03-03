@@ -1,0 +1,23 @@
+من الممكن ان يرفع مستواهما بشكل بسيط اذا لم يأخذ المريض العلاج أما اذا أخذ المريض العلاج فانهما لا يتأثران
+	##Lemmatization results:
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ان	Lemma: ان	BW: An
+		Word: يرفع	Lemma: رَفَعَ	BW: rafaEa
+		Word: مستواهما	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: بسيط	Lemma: بَسِيط	BW: basiyT
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: أما	Lemma: مَا	BW: maA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: أخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: فانهما	Lemma: فَانّ	BW: faAn~
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يتأثران	Lemma: تَأَثَّرَ	BW: ta>av~ara
+	------------------------

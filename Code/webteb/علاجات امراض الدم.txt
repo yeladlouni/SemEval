@@ -1,0 +1,8 @@
+# علاجات امراض الدم
+
+اسم العلاج | Treatment Name  
+---|---  
+زراعة نخاع العظم  |  Bone Marrow Transplantation  
+تبديل الدم  |  Exchange transfusion  
+زراعة الخلايا الجذعية عند الأطفال  |  Stem cells transplantation
+

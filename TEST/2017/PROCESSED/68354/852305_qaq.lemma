@@ -1,0 +1,22 @@
+بنتي عمرها 14 شهر لا تحب الاكل وتنام بصعوبة.مازلت ارضعها رضاعة طبيعية.تحب ان ترضع فقط.مااذا افعل ساعدوني
+	##Lemmatization results:
+		Word: بنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: الاكل	Lemma: الاكل	BW: AlAkl
+		Word: وتنام	Lemma: نَامَ	BW: naAma
+		Word: بصعوبة	Lemma: صُعُوبَة	BW: SuEuwbap
+		Word: مازلت	Lemma: مازلت	BW: mAzlt
+		Word: ارضعها	Lemma: رَضِعَ	BW: raDiEa
+		Word: رضاعة	Lemma: رَضَاع	BW: raDaAE
+		Word: طبيعية	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: تحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: ان	Lemma: ان	BW: An
+		Word: ترضع	Lemma: أَرْضَعَ	BW: >aroDaEa
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: مااذا	Lemma: مااذا	BW: mAA*A
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: ساعدوني	Lemma: سَاعَدَ	BW: saAEada
+	------------------------

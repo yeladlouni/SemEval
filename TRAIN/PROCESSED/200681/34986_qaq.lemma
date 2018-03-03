@@ -1,0 +1,21 @@
+انا اتناول باليوم اكثر من 10 تفاحات فأنا احب التفاح كثيرا ..هل يؤدي ذلك الى السمنة او اي ضرر 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اتناول	Lemma: اتناول	BW: AtnAwl
+		Word: باليوم	Lemma: يَوْم	BW: yawom
+		Word: اكثر	Lemma: كَثُرَ	BW: kavura
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تفاحات	Lemma: تُفَّاح	BW: tuf~aAH
+		Word: فأنا	Lemma: أَنَا	BW: >anaA
+		Word: احب	Lemma: حَبَا	BW: HabaA
+		Word: التفاح	Lemma: تُفَّاح	BW: tuf~aAH
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يؤدي	Lemma: أَدَّى	BW: >ad~aY
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: الى	Lemma: الى	BW: AlY
+		Word: السمنة	Lemma: سِمْنَة	BW: simonap
+		Word: او	Lemma: او	BW: Aw
+		Word: اي	Lemma: اي	BW: Ay
+		Word: ضرر	Lemma: ضَرَر	BW: Darar
+	------------------------

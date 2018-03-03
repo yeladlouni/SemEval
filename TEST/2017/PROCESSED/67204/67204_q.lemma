@@ -1,0 +1,31 @@
+انا امرأة تبلغ 42 سنة والثدي اليمين يؤلم كثيرا علما بأنه لا يوجد فيه أي إفرازات ولا شيء غير طبيعي ولما اتحسسه أجد داخله تكتلات وعند الضغط عليها تؤلم ؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: امرأة	Lemma: امْرَأَة	BW: Amora>ap
+		Word: تبلغ	Lemma: بَلَغَ	BW: balaga
+		Word: سنة	Lemma: سُنَّة	BW: sun~ap
+		Word: والثدي	Lemma: ثَدْي	BW: vadoy
+		Word: اليمين	Lemma: يَمِين	BW: yamiyn
+		Word: يؤلم	Lemma: آلَمَ	BW: |lama
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: علما	Lemma: عِلْم	BW: Eilom
+		Word: بأنه	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: فيه	Lemma: فِي	BW: fiy
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: إفرازات	Lemma: إِفْرَاز	BW: <iforaAz
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: ولما	Lemma: مَا	BW: maA
+		Word: اتحسسه	Lemma: اتحسسه	BW: AtHssh
+		Word: أجد	Lemma: وَجَدَ	BW: wajada
+		Word: داخله	Lemma: دَاخِل	BW: daAxil
+		Word: تكتلات	Lemma: تَكَتُّل	BW: takat~ul
+		Word: وعند	Lemma: عِنْد	BW: Einod
+		Word: الضغط	Lemma: ضَغْط	BW: DagoT
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: تؤلم	Lemma: تَأَلَّمَ	BW: ta>al~ama
+	------------------------

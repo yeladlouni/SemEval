@@ -1,0 +1,54 @@
+# فحوصات السرطان
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال السرطان في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+خزعة الثدي  |  Breast Biopsy  
+التصوير الشعاعي للثدي  |  Mammography  
+الدم الخفي في البراز  |  Occult Blood Test  
+امتصاص اليود المشع  |  radioactive iodine uptake test  
+مسح الجاليوم  |  gallium scan  
+تصوير الغدة الدرقية بالنظائر المشعة  |  radionuclide thyroid imaging  
+التصوير المقطعي بالإصدار البوزتروني  |  PET scan  
+تصوير الـ MIBG  |  MIBG scan  
+تصوير الغاليوم  |  Gallium scan  
+التصوير الومضاني الليمفاوي  |  Lymphoscintigraphy  
+المسح الكبدي الصفراوي  |  Hepatobiliary scan  
+الخزعة الرئوية المفتوحة  |  Open lung biopsy  
+فحص البراز  |  Feces analysis  
+التنظير السيني  |  Sigmoidoscopy  
+فحص البراز المجهري  |  Microscopic stool examination  
+تحديد موقع الورم بالإبرة الرفيعة  |  Fine Needle Localization (FNL)  
+نزح (تصريف) كيسة الثدي  |  
+خزعة البروستاتا  |  prostate biopsy  
+المستضد السرطاني الجنيني  |  carcinoembrionic antigen  
+اللمفاويات  |  lymphocytes (Lym)  
+تنظير المعدة  |  Esophago-gastro-duedenoscopy, Upper Endoscopy  
+تنظير القولون  |  Colonoscopy, Sigmoidoscopy  
+خزعة الكبد  |  Liver Biopsy  
+فحص PSA  |  Prostate-Specific Antigen Test  
+تصوير الرئتين بالنظائر المشعة  |  V/Q Scan,Ventilation-Perfusion Scan, lung
+scan  
+اختبار التقصي  |  Screening Test  
+فحص البروستاتا  |  Prostate Biopsy  
+لطاخة بابا نيكولاو  |  Pap Smear, Papanicolaou Test  
+نخاع العظم  |  Bone Marrow Biopsy  
+العقد الليمفاوية  |  Lymph Node Biopsy  
+فحص الإنسولين  |  insulin  
+تصوير الثدي  |  mammography  
+التصوير المقطعي بالإصدار البوزيتروني  |  positron emission tomography  
+CA - 125  |  CA-125  
+تصوير الصدر  |  Chest X-Ray  
+التنظير القولوني الإفتراضي  |  Virtual Colonoscopy  
+تنظير القصبات  |  Bronchoscopy  
+تنظير الجهاز الهضمي  |  Video Capsule Endocopy, VCE  
+تصوير العظام  |  Bone Scan  
+الخزعة  |  Biopsy
+

@@ -1,0 +1,80 @@
+# علاجات جراحة
+
+اسم العلاج | Treatment Name  
+---|---  
+استئصال القولون  |  Laparascopic Total Abdominal Colectomy  
+الانتباذ البطاني الرحمي  |  Laparoscopic Surgery for Endometriosis  
+إصلاح هبوط جدار المهبل  |  Repair of Vaginal Wall Prolapse (Vaginal Vault
+Prolapse)  
+زراعة البنكرياس  |  Pancreas Transplant  
+استئصال أمعاء جزئي  |  Partial Colectomy for Diverticular Disease  
+جراحة البواسير  |  Hemorrhoidectomy for Hemorrhoids  
+استئصال الطحال  |  Laparoscopic splenectomy  
+اختزاع الكبد  |  Liver biopsy  
+تحويل مجرى المعدة  |  Gastric bypass  
+عملية الفتق الأربي  |  Laparoscopic inguinal hernia repair  
+علاج الشق الشرجي  |  Lateral internal sphincterotomy to heal anal fissures  
+إزالة الأوردة عروق العنكبوت وتوسع الأوردة  |  Spider Veins and Varicose Veins  
+علاج الرجفان الأذيني  |  Catheter ablation for atrial fibrillation  
+جراحة الأوعية الدموية  |  Vascular surgery  
+تغيير صمام القلب التاجي  |  Mitral valve replacement  
+الاستسقاء الدماغي  |  Congenital hydrocephalus  
+رأب طبلة الأذن  |  Tympanoplasty  
+استئصال الكلية  |  Nephrectomy  
+فتح قنوات فالوب  |  Salpingostomy  
+استئصال الحنجرة  |  Laryngectomy  
+جراحة الحول  |  Eye muscle surgery  
+حج القحف  |  Craniotomy  
+إصلاح الفتق الفخذي  |  Femoral hernia repair  
+جراحة موس  |  Mohs surgery  
+عملية استئصال زجاجية العين  |  Vitrectomy  
+علاج الشخير  |  Snoring surgery  
+إرتفاق الأصابع  |  Webbed finger or toe repair  
+علاج فرط التعرق  |  Sympathectomy  
+الفتاق  |  Umbilical hernia repair  
+تقويم نظم القلب بالصدمة الكهربائية  |  Cardioversion  
+علاج الضعف الجنسي  |  Penile Prostheses  
+رأب الجفن  |  Blepharoplasty  
+فتح مجاري الدموع  |  Blocked Tear Ducts - Surgery  
+استئصال الغشاء الزليلي  |  Synovectomy for rheumatoid arthritis  
+جراحة الجفون  |  Blepharoplasty  
+زراعة الكلى  |  Renal (Kidney) Transplantation  
+زرع جهاز تنظيم ضربات القلب  |  Pacemaker Implantation  
+الولادة القيصرية  |  Cesarean (“C”) Section  
+عملية إنفتاق القرص  |  Percutaneous Discectomy (Disc Decompression Surgery)  
+زراعة القلب  |  Heart (Cardiac) Transplant  
+اٍستبدال مفصل الركبة  |  Knee Replacement Surgery  
+استئصال الرحم  |  Hysterectomy  
+جراحة المجازة التاجية  |  Coronary Artery Bypass Surgery  
+قلع الاسنان  |  Tooth Extraction  
+عملية استئصال اللوزتين  |  Tonsillectomy  
+تنظير مفصل الركبة  |  Knee Arthroscopy  
+إستئصال المرارة  |  Cholecystectomy (Gallstone (Removal Surgery  
+زرع القرنية  |  Corneal Transplantation  
+استئصال أورام الثدي  |  Lumpectomy  
+تغيير صمام القلب  |  Valve Replacement Surgery  
+إستئصال الغدة الدرقية  |  Thyroidectomy  
+علاج البروستاتا  |  Radical Prostatectomy  
+طعم  |  Graft  
+زراعة خلايا بيتا الجزيرية  |  Beta islets cells transplantation  
+العقدة الليمفاوية الحارسة  |  Sentinel Lymph Node  
+تنظير البطن  |  Laparoscopy  
+جراحات السمنة  |  Surgical treatment for morbid obesity  
+زراعة الأعضاء  |  Transplantation  
+الجراحة بواسطة التنظير  |  Endoscopic surgery  
+فتق جدار البطن  |  Hernia repair  
+جراحة المرضى المصابين بمرض كرون  |  Surgery in Crohn's disease  
+عملية سرطان القولون  |  Surgical management of colorectal cancer  
+فرط التعرق الأولي  |  Primary hyperhidrosis  
+القفص الصدري  |  Chest wall resection  
+استئصال التوتة  |  Thymectomy  
+إستئصال المريء  |  Esophagectomy  
+استئصال القطعة  |  Segmentectomy  
+فتح المنصف  |  Anterior mediastinotomy  
+تنظير المنصف  |  Mediastinoscopy  
+تنظير الصدر  |  Thoracoscopy  
+تعرق اليدين  |  Hyperhidrosis palmaris - sympathectomy  
+تثدي الرجل  |  Gynecomastia  
+زراعة الكبد  |  Liver transplantation  
+ربط الدوالي  |  Varicose veins ligation
+

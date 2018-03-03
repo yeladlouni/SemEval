@@ -1,0 +1,26 @@
+انا عمري 13 سنة وطولي غير مناسب لعمري وقد استشرت الكثير قالوا لي اعمل رياضة وتدريبات وانا عملت ومفيش فايدة ياريت لو في حل 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وطولي	Lemma: طُول	BW: Tuwl
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: مناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: لعمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: استشرت	Lemma: اسْتَشَارَ	BW: Asota$aAra
+		Word: الكثير	Lemma: كَثِير	BW: kaviyr
+		Word: قالوا	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: اعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: رياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: وتدريبات	Lemma: تَدْرِيب	BW: tadoriyb
+		Word: وانا	Lemma: وانا	BW: wAnA
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: ومفيش	Lemma: مِفْيَش	BW: mifoya$
+		Word: فايدة	Lemma: فايدة	BW: fAydp
+		Word: ياريت	Lemma: ياريت	BW: yAryt
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حل	Lemma: حَلّ	BW: Hal~
+	------------------------

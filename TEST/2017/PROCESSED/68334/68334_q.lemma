@@ -1,0 +1,30 @@
+هل يفسد دواء اذا وضع بدرجة حرارة الغرفة 35 و هو مكتوب عليه يحفظ بدرجة حرارة أقل من 30 مع العلم أنه غير معرض للشمس و في مكان جاف؟
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يفسد	Lemma: أَفْسَدَ	BW: >afosada
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: وضع	Lemma: وَضَعَ	BW: waDaEa
+		Word: بدرجة	Lemma: دَرَجَة	BW: darajap
+		Word: حرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: الغرفة	Lemma: غُرْفَة	BW: gurofap
+		Word: و	Lemma: و	BW: w
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مكتوب	Lemma: مَكْتُوب	BW: makotuwb
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: يحفظ	Lemma: حَفِظَ	BW: HafiZa
+		Word: بدرجة	Lemma: دَرَجَة	BW: darajap
+		Word: حرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: أقل	Lemma: أَقَلَّ	BW: >aqal~a
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: معرض	Lemma: مَعْرِض	BW: maEoriD
+		Word: للشمس	Lemma: شَمْس	BW: $amos
+		Word: و	Lemma: و	BW: w
+		Word: في	Lemma: فِي	BW: fiy
+		Word: مكان	Lemma: مَكَان	BW: makaAn
+		Word: جاف	Lemma: جَافَى	BW: jaAfaY
+	------------------------

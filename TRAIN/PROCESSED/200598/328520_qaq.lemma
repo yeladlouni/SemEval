@@ -1,0 +1,46 @@
+السؤال أمي مريضة بسرطان المعدة عمرها 62 سنة تسبب في انتفاخ الكبد وهي فاقدة لشهية الطعام وتعاني من الإقياء وقد نقص وزنها وأيضاً تعاني مؤخراً من انتفاخ في القدمين وهل هناك أمل في علاجها وكيف نتعامل مع حالتها نحن أهلها وجزاكم الله كل خير.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: مريضة	Lemma: مَرِيض	BW: mariyD
+		Word: بسرطان	Lemma: سَرَطَان	BW: saraTaAn
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: تسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: في	Lemma: فِي	BW: fiy
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: الكبد	Lemma: كَبِد	BW: kabid
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: فاقدة	Lemma: فَاقِد	BW: faAqid
+		Word: لشهية	Lemma: شَهِيّ	BW: $ahiy~
+		Word: الطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: وتعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الإقياء	Lemma: الإقياء	BW: Al<qyA'
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: وزنها	Lemma: وَزْن	BW: wazon
+		Word: وأيضًا	Lemma: أَيْض	BW: >ayoD
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: مؤخرًا	Lemma: مُؤَخَّر	BW: mu&ax~ar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: في	Lemma: فِي	BW: fiy
+		Word: القدمين	Lemma: قَدَم	BW: qadam
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: أمل	Lemma: أَمَل	BW: >amal
+		Word: في	Lemma: فِي	BW: fiy
+		Word: علاجها	Lemma: عِلَاج	BW: EilaAj
+		Word: وكيف	Lemma: كَيْفَ	BW: kayofa
+		Word: نتعامل	Lemma: تَعَامَلَ	BW: taEaAmala
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: حالتها	Lemma: حَالَة	BW: HaAlap
+		Word: نحن	Lemma: نَحْنُ	BW: naHonu
+		Word: أهلها	Lemma: أَهْل	BW: >ahol
+		Word: وجزاكم	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: خير	Lemma: خَيْر	BW: xayor
+	------------------------

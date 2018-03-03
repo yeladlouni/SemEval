@@ -1,0 +1,9 @@
+"""هل علاج كونكور 2.5ملجم له اضرار؟
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: كونكور	Lemma: كونكور	BW: kwnkwr
+		Word: ملجم	Lemma: مُلْجَم	BW: mulojam
+		Word: له	Lemma: لِي	BW: liy
+		Word: اضرار	Lemma: اضرار	BW: ADrAr
+	------------------------

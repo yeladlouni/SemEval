@@ -1,0 +1,27 @@
+# فحوصات الصحة النفسية
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال الصحة النفسية في ويب طب. متى
+يجب الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+السيروتونين  |  serotonin  
+إختبار الذكاء  |  IQ  
+حمض 5- هيدروكسي أندول استيك  |  5 hydroxyindolacetic acid  
+التشخيص النفسي  |  psychodiagnosis  
+تقييم الحالة النفسية لكبار السن  |  Psychogeriatic examination/evaluation  
+التخطيط الكهربائي للدماغ  |  EEG - Electroencephalography  
+مستوى الهيدانتوين ثنائي الفينيل  |  diphenylhydantoin level  
+اختبار بندر  |  Bender Test  
+الليثيوم  |  lithium  
+تحليل المخدرات في البول  |  urine toxicoloy screen  
+تشتت الانتباه  |  Test of Variables of Attention  
+اضطرابات النوم  |  sleep test  
+فحص الكحول  |  alcohol level  
+اختبار رورشاخ  |  Rorschach test
+

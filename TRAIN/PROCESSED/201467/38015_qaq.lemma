@@ -1,0 +1,33 @@
+اذا كان الوزن 65 كلغ و الطول 165 سم و العمر 30 سنة للفتاة هل هذا الوزن مناسب واذا كان غير مناسب ما هو الوزن المناسب وما هو الرجيم المناسب والرياضة المناسبة وشكرا 
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: كلغ	Lemma: كلغ	BW: klg
+		Word: و	Lemma: و	BW: w
+		Word: الطول	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: و	Lemma: و	BW: w
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: للفتاة	Lemma: فَتَاة	BW: fataAp
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: مناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: واذا	Lemma: واذا	BW: wA*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: مناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: وما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: الرجيم	Lemma: رَجِيم	BW: rajiym
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: والرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: المناسبة	Lemma: مُنَاسَبَة	BW: munaAsabap
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

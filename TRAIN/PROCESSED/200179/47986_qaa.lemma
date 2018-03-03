@@ -1,0 +1,13 @@
+يرجى تحويل هذا السؤال إما للصيدلاني أو لإختصاصي الأمراض النفسية.
+	##Lemmatization results:
+		Word: يرجى	Lemma: رَجَا	BW: rajaA
+		Word: تحويل	Lemma: تَحْوِيل	BW: taHowiyl
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: إما	Lemma: إِنْ	BW: <ino
+		Word: للصيدلاني	Lemma: صَيْدَلَانِيّ	BW: SayodalaAniy~
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: لإختصاصي	Lemma: لإختصاصي	BW: l<xtSASy
+		Word: الأمراض	Lemma: مَرَض	BW: maraD
+		Word: النفسية	Lemma: نَفْسِيّ	BW: nafosiy~
+	------------------------

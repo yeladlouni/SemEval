@@ -1,0 +1,13 @@
+إريد معرفة إن كان نوع الغذاء يأثر على حليب الام 
+	##Lemmatization results:
+		Word: إريد	Lemma: إريد	BW: <ryd
+		Word: معرفة	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: إن	Lemma: إِنْ	BW: <ino
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: الغذاء	Lemma: غِذَاء	BW: gi*aA'
+		Word: يأثر	Lemma: أَثِرَ	BW: >avira
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: الام	Lemma: الام	BW: AlAm
+	------------------------

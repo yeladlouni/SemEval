@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - الامراض الجلدية
+
+#  المصطلحات الطبية - الامراض الجلدية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pemphigoid
+
+فقاعاني
+
+Bulla
+
+فقاعة
+
+Ethmoidal bulla
+
+فقاعة غربالية
+
+Bullous
+
+فقاعي
+
+Scale
+
+فلس
+
+Albugo
+
+فوف
+
+Preeruptive
+
+قبل الطفح
+
+Madura foot
+
+قدم مادورية
+
+Trophic ulcer
+
+قرحة اغتذائية
+
+Phagedenic ulcer
+
+قرحة آكلة
+
+Callous ulcer
+
+قرحة ثفنية
+
+Follicular ulcer
+
+قرحة جريبية
+
+Varicose ulcer
+
+قرحة دوالية
+
+Hard ulcer
+
+قرحة صلبة
+
+Symptomatic ulcer
+
+قرحة عرضية
+
+Neurogenic ulcer
+
+قرحة عصبية المنشا
+
+Mycotic ulcer
+
+قرحة فطرية
+
+Dentritic ulcer
+
+قرحة متشجرة
+
+Girdle ulcer
+
+قرحة مطوقة
+
+Gouty ulcer
+
+قرحة نقرسية
+

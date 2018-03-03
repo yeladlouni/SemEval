@@ -1,0 +1,19 @@
+ابني مصاب بمرض الربو درجة أولي ويبلغ من العمر 5سنوات في أي عمر يمكنه أن يتعافي
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: مصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: الربو	Lemma: رَبْو	BW: rabow
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: أولي	Lemma: أَوَّل	BW: >aw~al
+		Word: ويبلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: عمر	Lemma: عُمْر	BW: Eumor
+		Word: يمكنه	Lemma: أَمْكَنَ	BW: >amokana
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: يتعافي	Lemma: يتعافي	BW: ytEAfy
+	------------------------

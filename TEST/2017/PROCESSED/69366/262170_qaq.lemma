@@ -1,0 +1,14 @@
+ابنتي عمرها سبع اشهر عندما تأكل اوتشرب تستفرغ كل ما أكلته
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سبع	Lemma: سَبْع	BW: saboE
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: تأكل	Lemma: أَكَلَ	BW: >akala
+		Word: اوتشرب	Lemma: اوتشرب	BW: Awt$rb
+		Word: تستفرغ	Lemma: اسْتَفْرَغَ	BW: Asotaforaga
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: ما	Lemma: مَا	BW: maA
+		Word: أكلته	Lemma: أَكَلَ	BW: >akala
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Distal myopathy
+
+اعتلال عضلي قاص
+
+Centronuclear myopathy
+
+اعتلال عضلي مركزي النوى
+
+Rod myopathy
+
+اعتلال عضلي نبوتي
+
+Myotubular myopathy
+
+اعتلال عضلي نبيبي
+
+Osteopathia
+
+اعتلال عظمي
+
+Osteopathy
+
+اعتلال عظمي
+
+Osteopathia striata
+
+اعتلال عظمي مخطط
+
+Osteopathia condensans
+
+اعتلال عظمي مكثف
+
+Osteopathia condensans
+
+اعتلال عظمي مكثف
+
+Lymphadenopathy
+
+اعتلال عقدي لمفي
+
+Gammopathy
+
+اعتلال غامي
+
+Chondropathy
+
+اعتلال غضروفي
+
+Spondylopathy
+
+اعتلال فقاري
+
+Craniopathy
+
+اعتلال قحفي
+
+Metabolic craniopathy
+
+اعتلال قحفي استقلابي
+
+Discopathy
+
+اعتلال قرصي
+
+Traumatic discopathy
+
+اعتلال قرصي رضحي
+
+Bronchopathy
+
+اعتلال قصبي
+
+Fatty cardiopathy
+
+اعتلال قلبي دهني
+
+Glomerulopathy
+
+اعتلال كبيبات الكلى
+

@@ -1,0 +1,15 @@
+هو ابن عمه فيروس الإيدر قريب من فيروس الهربس ولكنهما مرضان مختلفان.
+	##Lemmatization results:
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: ابن	Lemma: ابْن	BW: Abon
+		Word: عمه	Lemma: عَمّ	BW: Eam~
+		Word: فيروس	Lemma: رَاسَ	BW: raAsa
+		Word: الإيدر	Lemma: الإيدر	BW: Al<ydr
+		Word: قريب	Lemma: قَرِيب	BW: qariyb
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: فيروس	Lemma: رَاسَ	BW: raAsa
+		Word: الهربس	Lemma: الهربس	BW: Alhrbs
+		Word: ولكنهما	Lemma: لَكِنَّ	BW: lakin~a
+		Word: مرضان	Lemma: مَرَض	BW: maraD
+		Word: مختلفان	Lemma: مُخْتَلِف	BW: muxotalif
+	------------------------

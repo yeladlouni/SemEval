@@ -1,0 +1,27 @@
+ماذا افعل طفلي عمره سنه ونص لكن وزنه : 7 كيلو فقط ياكل كميه قليله جداً ويتوقف ويرفض بعدها الاكل نوعت له الاكل لكن لا فائده.
+	##Lemmatization results:
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: طفلي	Lemma: طِفْل	BW: Tifol
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: ونص	Lemma: نَصَّ	BW: naS~a
+		Word: لكن	Lemma: كَانَ	BW: kaAna
+		Word: وزنه	Lemma: زَنّ	BW: zan~
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: ياكل	Lemma: ياكل	BW: yAkl
+		Word: كميه	Lemma: كَمَّى	BW: kam~aY
+		Word: قليله	Lemma: قَلِيل	BW: qaliyl
+		Word: جدًا	Lemma: جَدَا	BW: jadaA
+		Word: ويتوقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: ويرفض	Lemma: رَفَضَ	BW: rafaDa
+		Word: بعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: الاكل	Lemma: الاكل	BW: AlAkl
+		Word: نوعت	Lemma: نَوَّعَ	BW: naw~aEa
+		Word: له	Lemma: لِي	BW: liy
+		Word: الاكل	Lemma: الاكل	BW: AlAkl
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: لا	Lemma: لَا	BW: laA
+		Word: فائده	Lemma: أَدَى	BW: >adaY
+	------------------------

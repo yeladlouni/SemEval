@@ -1,0 +1,42 @@
+المفروض انه اذا نسيت السيدة اخذ الحبة بالمساء ان تأخذها في الصباح بمجرد تذكرها واذا مر اكثر من 24 ساعة على نسيان الحبة فيجب استعمال وسيلة منع حمل اضافية (مثل العازل الذكري) لمدة 10 ايام مع الاستمرار على تناول الحبوب يوميا
+	##Lemmatization results:
+		Word: المفروض	Lemma: مَفْرُوض	BW: maforuwD
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: نسيت	Lemma: نَسِيَ	BW: nasiya
+		Word: السيدة	Lemma: سَيِّد	BW: say~id
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: الحبة	Lemma: حِبَّة	BW: Hib~ap
+		Word: بالمساء	Lemma: مِسَاء	BW: misaA'
+		Word: ان	Lemma: ان	BW: An
+		Word: تأخذها	Lemma: أَخَذَ	BW: >axa*a
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصباح	Lemma: صُبَاح	BW: SubaAH
+		Word: بمجرد	Lemma: مُجَرَّد	BW: mujar~ad
+		Word: تذكرها	Lemma: ذَكَرَ	BW: *akara
+		Word: واذا	Lemma: واذا	BW: wA*A
+		Word: مر	Lemma: مَارَ	BW: maAra
+		Word: اكثر	Lemma: كَثُرَ	BW: kavura
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: نسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: الحبة	Lemma: حِبَّة	BW: Hib~ap
+		Word: فيجب	Lemma: وَجَبَ	BW: wajaba
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: وسيلة	Lemma: وَسِيلَة	BW: wasiylap
+		Word: منع	Lemma: مَنْع	BW: manoE
+		Word: حمل	Lemma: حَمْل	BW: Hamol
+		Word: اضافية	Lemma: اضافية	BW: ADAfyp
+		Word: مثل	Lemma: مَثَلَ	BW: mavala
+		Word: العازل	Lemma: عَازِل	BW: EaAzil
+		Word: الذكري	Lemma: ذَكَرِيّ	BW: *akariy~
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الاستمرار	Lemma: اسْتِمْرَار	BW: AsotimoraAr
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+	------------------------

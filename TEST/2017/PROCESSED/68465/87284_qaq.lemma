@@ -1,0 +1,23 @@
+ابن أختي يبلغ من العمر 12 سنة يأكل أظافره حتى الجذور باستمرار رغم محاولاتنا المتكرر لمنعه ما السبب في ذلك دكتور
+	##Lemmatization results:
+		Word: ابن	Lemma: ابْن	BW: Abon
+		Word: أختي	Lemma: أَخ	BW: >ax
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: من	Lemma: مَنْ	BW: mano
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: يأكل	Lemma: أَكِلَ	BW: >akila
+		Word: أظافره	Lemma: ظافِر	BW: ZAfir
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: الجذور	Lemma: جِذْر	BW: ji*or
+		Word: باستمرار	Lemma: اسْتِمْرَار	BW: AsotimoraAr
+		Word: رغم	Lemma: رَغْم	BW: ragom
+		Word: محاولاتنا	Lemma: مُحَاوَلَة	BW: muHaAwalap
+		Word: المتكرر	Lemma: مُتَكَرِّر	BW: mutakar~ir
+		Word: لمنعه	Lemma: مَنْع	BW: manoE
+		Word: ما	Lemma: مَا	BW: maA
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: في	Lemma: فِي	BW: fiy
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+	------------------------

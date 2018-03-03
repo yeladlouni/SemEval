@@ -1,0 +1,17 @@
+هذا السؤال صار متكرر لي شي 20 مرة وباساليب مختلفة وتمت الاجابة عليه عدة مرات..
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: صار	Lemma: صَارَ	BW: SaAra
+		Word: متكرر	Lemma: مُتَكَرِّر	BW: mutakar~ir
+		Word: لي	Lemma: لِي	BW: liy
+		Word: شي	Lemma: شَيّ	BW: $ay~
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: وباساليب	Lemma: وباساليب	BW: wbAsAlyb
+		Word: مختلفة	Lemma: مُخْتَلِف	BW: muxotalif
+		Word: وتمت	Lemma: تَمَّ	BW: tam~a
+		Word: الاجابة	Lemma: الاجابة	BW: AlAjAbp
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: عدة	Lemma: عِدَّة	BW: Eid~ap
+		Word: مرات	Lemma: مَرَّة	BW: mar~ap
+	------------------------

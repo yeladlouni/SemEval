@@ -1,0 +1,16 @@
+كل دواء له آثار جانبية ويستحسن قراءة النشرة المرافقة. واستشارة الرياضيين حول الموضوع.
+	##Lemmatization results:
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: له	Lemma: لِي	BW: liy
+		Word: آثار	Lemma: أَثَر	BW: >avar
+		Word: جانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: ويستحسن	Lemma: اسْتَحْسَنَ	BW: AsotaHosana
+		Word: قراءة	Lemma: قِرَاءَة	BW: qiraA'ap
+		Word: النشرة	Lemma: نَشْرَة	BW: na$orap
+		Word: المرافقة	Lemma: مُرَافِق	BW: muraAfiq
+		Word: واستشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الرياضيين	Lemma: رِيَاضِيّ	BW: riyaADiy~
+		Word: حول	Lemma: حَوْل	BW: Hawol
+		Word: الموضوع	Lemma: مَوْضُوع	BW: mawoDuwE
+	------------------------

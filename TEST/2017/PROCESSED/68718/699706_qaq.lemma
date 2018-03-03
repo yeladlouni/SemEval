@@ -1,0 +1,32 @@
+رجل عمري 23 سنة قبل ما يقارب الشهرين عملت عملية قلب مفتوح استبدال الصمام والشريان الابهر . والآن اعاني من الم عند البلع تحت القفص الصدري والم مع نهاية النفس القميق
+	##Lemmatization results:
+		Word: رجل	Lemma: رَجُل	BW: rajul
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: قبل	Lemma: قَبِلَ	BW: qabila
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يقارب	Lemma: قَارَبَ	BW: qaAraba
+		Word: الشهرين	Lemma: شَهْر	BW: $ahor
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: عملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: قلب	Lemma: قَلْب	BW: qalob
+		Word: مفتوح	Lemma: مَفْتُوح	BW: mafotuwH
+		Word: استبدال	Lemma: اسْتِبْدَال	BW: AsotibodaAl
+		Word: الصمام	Lemma: صِمَام	BW: SimaAm
+		Word: والشريان	Lemma: شَرِيّ	BW: $ariy~
+		Word: الابهر	Lemma: الابهر	BW: AlAbhr
+		Word: والآن	Lemma: آن	BW: |n
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: البلع	Lemma: بَلْع	BW: baloE
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: القفص	Lemma: قَفَص	BW: qafaS
+		Word: الصدري	Lemma: صَدْرِيّ	BW: Sadoriy~
+		Word: والم	Lemma: لَمَا	BW: lamaA
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: نهاية	Lemma: نِهَايَة	BW: nihaAyap
+		Word: النفس	Lemma: نَفْس	BW: nafos
+		Word: القميق	Lemma: القميق	BW: Alqmyq
+	------------------------

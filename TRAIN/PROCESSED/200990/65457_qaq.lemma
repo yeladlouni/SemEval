@@ -1,0 +1,35 @@
+امي عندها 42 ومريضه سرطان نخاع العظام وسمعت ان هذا المرض لا يشفا المريض منه شفاء تام هل هذا صحيح ام انه ممكن اشفاء وكل كم ايام يجب ان يتفاقد نسبه الدم لديه 
+	##Lemmatization results:
+		Word: امي	Lemma: امي	BW: Amy
+		Word: عندها	Lemma: عِنْدَ	BW: Einoda
+		Word: ومريضه	Lemma: مَرِيض	BW: mariyD
+		Word: سرطان	Lemma: سَرَطَان	BW: saraTaAn
+		Word: نخاع	Lemma: نُخَاع	BW: nuxaAE
+		Word: العظام	Lemma: عَظْم	BW: EaZom
+		Word: وسمعت	Lemma: سَمِعَ	BW: samiEa
+		Word: ان	Lemma: ان	BW: An
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يشفا	Lemma: أَشَفَّ	BW: >a$af~a
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: منه	Lemma: مِنْ	BW: mino
+		Word: شفاء	Lemma: شِفَاء	BW: $ifaA'
+		Word: تام	Lemma: تَامّ	BW: taAm~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: ام	Lemma: ام	BW: Am
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: اشفاء	Lemma: اشفاء	BW: A$fA'
+		Word: وكل	Lemma: كُلّ	BW: kul~
+		Word: كم	Lemma: كَمّ	BW: kam~
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: ان	Lemma: ان	BW: An
+		Word: يتفاقد	Lemma: تَفَاقَدَ	BW: tafaAqada
+		Word: نسبه	Lemma: نَسَبَ	BW: nasaba
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: لديه	Lemma: لَدَى	BW: ladaY
+	------------------------

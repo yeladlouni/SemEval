@@ -1,0 +1,14 @@
+السؤال هل صبغ الشعر بأي لون يزيد من أعداد الشعر الأبيض 
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: صبغ	Lemma: صَبَغَ	BW: Sabaga
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: بأي	Lemma: أَيّ	BW: >ay~
+		Word: لون	Lemma: لَوْن	BW: lawon
+		Word: يزيد	Lemma: زَادَ	BW: zaAda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أعداد	Lemma: عَدَد	BW: Eadad
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: الأبيض	Lemma: أَبْيَض	BW: >aboyaD
+	------------------------

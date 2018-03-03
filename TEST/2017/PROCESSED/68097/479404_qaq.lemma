@@ -1,0 +1,34 @@
+اخي الاصغر عمره ١٨. من ثلاث ايام يعاني من الم في قدميه وتنميل لدرجه لا يستطيع الوقوف والمشي مع العلم انه بدين. راجع الطبيب افاده بأنه يعاني من التهاب في المسالك البوليه؟
+	##Lemmatization results:
+		Word: اخي	Lemma: اخي	BW: Axy
+		Word: الاصغر	Lemma: الاصغر	BW: AlASgr
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ثلاث	Lemma: ثَلَاث	BW: valaAv
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: قدميه	Lemma: قَدَم	BW: qadam
+		Word: وتنميل	Lemma: تَنْمِيل	BW: tanomiyl
+		Word: لدرجه	Lemma: دُرْج	BW: duroj
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: الوقوف	Lemma: وُقُوف	BW: wuquwf
+		Word: والمشي	Lemma: مَشْي	BW: ma$oy
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: بدين	Lemma: دِين	BW: diyn
+		Word: راجع	Lemma: رَاجَعَ	BW: raAjaEa
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: افاده	Lemma: افاده	BW: AfAdh
+		Word: بأنه	Lemma: أَنَّ	BW: >an~a
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المسالك	Lemma: مَسْلَك	BW: masolak
+		Word: البوليه	Lemma: البوليه	BW: Albwlyh
+	------------------------

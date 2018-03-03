@@ -1,0 +1,44 @@
+السؤال عند مراجعة الطبيب النفسي قال: إن الحالة زيادة أو خلل في شيء في كهرباء الدماغ ووصف لنا دواء (الريسبيريدال). المشكلة تكمن أنه في حالة التوقف عن الدواء لا تلبث أن تعود الحالة لا أستطيع وصفها لأنها ليست معي ما الحل 
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: النفسي	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: الحالة	Lemma: حَال	BW: HaAl
+		Word: زيادة	Lemma: زِيَادَة	BW: ziyaAdap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: خلل	Lemma: خَلَل	BW: xalal
+		Word: في	Lemma: فِي	BW: fiy
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: في	Lemma: فِي	BW: fiy
+		Word: كهرباء	Lemma: كَهْرَبَاء	BW: kahorabaA'
+		Word: الدماغ	Lemma: دِمَاغ	BW: dimaAg
+		Word: ووصف	Lemma: وَصْف	BW: waSof
+		Word: لنا	Lemma: لِي	BW: liy
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: الريسبيريدال	Lemma: الريسبيريدال	BW: AlrysbyrydAl
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: تكمن	Lemma: كَمَنَ	BW: kamana
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: التوقف	Lemma: تَوَقُّف	BW: tawaq~uf
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تلبث	Lemma: لَبِثَ	BW: labiva
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: تعود	Lemma: عَادَ	BW: EaAda
+		Word: الحالة	Lemma: حَال	BW: HaAl
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: وصفها	Lemma: وَصَفَ	BW: waSafa
+		Word: لأنها	Lemma: أَنَّ	BW: >an~a
+		Word: ليست	Lemma: لَيْسَ	BW: layosa
+		Word: معي	Lemma: مَعَّ	BW: maE~a
+		Word: ما	Lemma: مَا	BW: maA
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+	------------------------

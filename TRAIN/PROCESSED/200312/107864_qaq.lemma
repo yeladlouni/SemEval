@@ -1,0 +1,36 @@
+عضو : مرحباً : أنا فتاة عمري 22 سنة. دائماً تأتي فكرة على ذهني وتزعجني كثيراً ولا أستطيع التخلّص منها رغم إنّني لا أهتم بها عندما تأتي إلى فكري وأريد نسيان هذه الفكرة فما هو العمل
+	##Lemmatization results:
+		Word: عضو	Lemma: عُضْو	BW: EuDow
+		Word: مرحبًا	Lemma: مُرْحِب	BW: muroHib
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: دائمًا	Lemma: دَائِم	BW: daA}im
+		Word: تأتي	Lemma: أَتَى	BW: >ataY
+		Word: فكرة	Lemma: فِكْرَة	BW: fikorap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: ذهني	Lemma: ذِهْنِيّ	BW: *ihoniy~
+		Word: وتزعجني	Lemma: أَزْعَجَ	BW: >azoEaja
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: التخلّص	Lemma: تَخَلُّص	BW: taxal~uS
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: رغم	Lemma: رَغْم	BW: ragom
+		Word: إنّني	Lemma: أَنَّ	BW: >an~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أهتم	Lemma: اهْتَمَّ	BW: Ahotam~a
+		Word: بها	Lemma: بِي	BW: biy
+		Word: عندما	Lemma: عِنْدَ	BW: Einoda
+		Word: تأتي	Lemma: أَتَى	BW: >ataY
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: فكري	Lemma: فِكْرِيّ	BW: fikoriy~
+		Word: وأريد	Lemma: أَرَادَ	BW: >araAda
+		Word: نسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الفكرة	Lemma: فِكْرَة	BW: fikorap
+		Word: فما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: العمل	Lemma: عَمَل	BW: Eamal
+	------------------------

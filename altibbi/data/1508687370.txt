@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Idiogram
+
+مخطط الصبغيات
+
+Echogram, ultrasonogram
+
+مخطط الصدى
+
+Phonogram
+
+مخطط الصوت
+
+Phono-myogram
+
+مخطط صوت العضل
+
+Myogram
+
+مخطط العضل
+
+Cardiogram
+
+مخطط القلب
+
+Vector-cardiogram
+
+مخطط القلب الاتجاهي
+
+Ballisto-cardiogram
+
+مخطط القلب الزمني
+
+Telecardiogram
+
+مخطط قلبي بعادي
+
+Electro-encephalogram
+
+مخطط كهربائية الدماغ
+
+Electro-myogram
+
+مخطط كهربائية العضل
+
+Electro-oculogram
+
+مخطط كهربائية العين
+
+Electrocardiogram
+
+مخطط كهربائية القلب
+
+Nomogram
+
+مخطط المعادلة
+
+Sphygmogram
+
+مخطط النبض
+
+Phlebogram
+
+مخطط وريدي
+
+Graphic
+
+مخططي
+
+Striomuscular
+
+مخططي عضلي
+
+Striocerebellar
+
+مخططي مخيخي
+
+Diluent
+
+مخفف
+

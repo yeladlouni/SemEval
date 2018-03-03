@@ -1,0 +1,15 @@
+هل استخدام حبوب {الكلومييد} بعد اربعة اشهر من استخدامها. تسبب عقم للمراه ؟
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: الكلومييد	Lemma: الكلومييد	BW: Alklwmyyd
+		Word: بعد	Lemma: بَعُدَ	BW: baEuda
+		Word: اربعة	Lemma: اربعة	BW: ArbEp
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: استخدامها	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: تسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: عقم	Lemma: عُقْم	BW: Euqom
+		Word: للمراه	Lemma: مَرَّاه	BW: mar~aAh
+	------------------------

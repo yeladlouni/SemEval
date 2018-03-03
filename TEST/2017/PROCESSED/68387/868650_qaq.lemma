@@ -1,0 +1,39 @@
+والدتي عمرها 56 عام تعاني من إسهال مزمن منذ فترة طويلة، ولا تأكل أي شيء حتى الحليب لا تشربه خوفا من الإسهال. وتأخذ علاجات كثيرة لكن بلا فائدة وهي مريضة سكر وعندها فيروس سي . ما العلاج المناسب ؟
+	##Lemmatization results:
+		Word: والدتي	Lemma: وَالِد	BW: waAlid
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: إسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: مزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: فترة	Lemma: فَتْرَة	BW: fatorap
+		Word: طويلة	Lemma: طَوِيل	BW: Tawiyl
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: تأكل	Lemma: أَكَلَ	BW: >akala
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: الحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تشربه	Lemma: أَشْرَبَ	BW: >a$oraba
+		Word: خوفا	Lemma: خَوْف	BW: xawof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الإسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: وتأخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: علاجات	Lemma: عِلَاج	BW: EilaAj
+		Word: كثيرة	Lemma: كَثِير	BW: kaviyr
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: بلا	Lemma: لَا	BW: laA
+		Word: فائدة	Lemma: فَائِدَة	BW: faA}idap
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: مريضة	Lemma: مَرِيض	BW: mariyD
+		Word: سكر	Lemma: سُكَّر	BW: suk~ar
+		Word: وعندها	Lemma: عِنْدَ	BW: Einoda
+		Word: فيروس	Lemma: رَاسَ	BW: raAsa
+		Word: سي	Lemma: وَسَى	BW: wasaY
+		Word: ما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+	------------------------

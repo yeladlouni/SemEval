@@ -1,0 +1,32 @@
+ابني عمره 17 (لاعب كرة القدم) تعرض لتمزق في الغضروف المفصلي. اريد ان اسال ما اذا كان يجب عليه اجراء جراحة او ان العلاج الطبيعي ان وجد يمكن ان يساعد.
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: لاعب	Lemma: لَاعِب	BW: laAEib
+		Word: كرة	Lemma: كُرَة	BW: kurap
+		Word: القدم	Lemma: قَدَم	BW: qadam
+		Word: تعرض	Lemma: تَعَرَّضَ	BW: taEar~aDa
+		Word: لتمزق	Lemma: مَزَقَ	BW: mazaqa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الغضروف	Lemma: غُضْرُوف	BW: guDoruwf
+		Word: المفصلي	Lemma: مَفْصِلِيّ	BW: mafoSiliy~
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: ان	Lemma: ان	BW: An
+		Word: اسال	Lemma: اسال	BW: AsAl
+		Word: ما	Lemma: مَا	BW: maA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: اجراء	Lemma: اجراء	BW: AjrA'
+		Word: جراحة	Lemma: جِرَاحَة	BW: jiraAHap
+		Word: او	Lemma: او	BW: Aw
+		Word: ان	Lemma: ان	BW: An
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: الطبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: ان	Lemma: ان	BW: An
+		Word: وجد	Lemma: وَجَدَ	BW: wajada
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: ان	Lemma: ان	BW: An
+		Word: يساعد	Lemma: سَاعَدَ	BW: saAEada
+	------------------------

@@ -1,0 +1,26 @@
+تبدأ بتحاليل عامة CBC;SGPT;SGOT;Uria; Creatinine;Glucose; Cholesterol;Triglycerides;LDH;LDL;Chest X- Ray;Abdominal ultrasound; هذه تحاليل عامة ليست فقط للكشف عن أورام بل إطمئنان على كافة الجسم ووظائف الأعضاء ويمكن اضافة شيء حسب الشكوى
+	##Lemmatization results:
+		Word: تبدأ	Lemma: بَدَأَ	BW: bada>a
+		Word: بتحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: عامة	Lemma: عَامّ	BW: EaAm~
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: تحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: عامة	Lemma: عَامّ	BW: EaAm~
+		Word: ليست	Lemma: لَيْسَ	BW: layosa
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: للكشف	Lemma: كَشْف	BW: ka$of
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: أورام	Lemma: وَرَم	BW: waram
+		Word: بل	Lemma: بَلْ	BW: balo
+		Word: إطمئنان	Lemma: إطمئنان	BW: <Tm}nAn
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: كافة	Lemma: كَافَّة	BW: kaAf~ap
+		Word: الجسم	Lemma: جِسْم	BW: jisom
+		Word: ووظائف	Lemma: وَظِيفَة	BW: waZiyfap
+		Word: الأعضاء	Lemma: عُضْو	BW: EuDow
+		Word: ويمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: اضافة	Lemma: اضافة	BW: ADAfp
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: الشكوى	Lemma: شَكْوَى	BW: $akowaY
+	------------------------

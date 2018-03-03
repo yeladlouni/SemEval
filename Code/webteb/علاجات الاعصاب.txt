@@ -1,0 +1,13 @@
+# علاجات الاعصاب
+
+اسم العلاج | Treatment Name  
+---|---  
+الاستسقاء الدماغي  |  Congenital hydrocephalus  
+استئصال عيب محدد  |  Lesionectomy  
+استئصال نصف الكرة المخية  |  Functional Hemispherectomy  
+حج القحف  |  Craniotomy  
+علاج فرط التعرق  |  Sympathectomy  
+خزعة باستخدام التوجه اللمسي  |  Stereotactic needle biopsy  
+علاج الصرع  |  Epilepsy surgery  
+الأعصاب الطرفية  |  Peripheral nerves, operations
+

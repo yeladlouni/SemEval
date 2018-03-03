@@ -1,0 +1,32 @@
+21 أشعر بألم في محل الطحال وصعوبة في التنفس مع أنني مستئصلة الطحال منذ خمس سنين ولم آخذ بعد العملية أي أدوية ما عدا ابرة بنسلين شهرية لمدة سنة فقط 
+	##Lemmatization results:
+		Word: أشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: محل	Lemma: مَحَلّ	BW: maHal~
+		Word: الطحال	Lemma: طَحَّال	BW: TaH~aAl
+		Word: وصعوبة	Lemma: صُعُوبَة	BW: SuEuwbap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: التنفس	Lemma: تَنَفُّس	BW: tanaf~us
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: أنني	Lemma: أَنَّ	BW: >an~a
+		Word: مستئصلة	Lemma: مستئصلة	BW: mst}Slp
+		Word: الطحال	Lemma: طَحَّال	BW: TaH~aAl
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: خمس	Lemma: خَمْس	BW: xamos
+		Word: سنين	Lemma: سَنَة	BW: sanap
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: آخذ	Lemma: آخَذَ	BW: |xa*a
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: العملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: أدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: ما	Lemma: مَا	BW: maA
+		Word: عدا	Lemma: عَدَا	BW: EadaA
+		Word: ابرة	Lemma: ابرة	BW: Abrp
+		Word: بنسلين	Lemma: نَسْل	BW: nasol
+		Word: شهرية	Lemma: شَهْرِيّ	BW: $ahoriy~
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+	------------------------

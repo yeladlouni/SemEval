@@ -1,0 +1,12 @@
+# علاجات الجهاز الهضمي
+
+اسم العلاج | Treatment Name  
+---|---  
+استئصال القولون  |  Laparascopic Total Abdominal Colectomy  
+استئصال أمعاء جزئي  |  Partial Colectomy for Diverticular Disease  
+استئصال المعي اللفائفي  |  Ileoanal Anastomosis  
+جراحة البواسير  |  Hemorrhoidectomy for Hemorrhoids  
+جراحة الأورام المعوية  |  Intestinal tumors - surgery  
+اورام المعدة  |  Gastric tumors, surgery  
+جراحة المرضى المصابين بمرض كرون  |  Surgery in Crohn's disease
+

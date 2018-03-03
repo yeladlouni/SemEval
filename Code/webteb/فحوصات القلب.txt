@@ -1,0 +1,39 @@
+# فحوصات القلب
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال القلب في ويب طب. متى يجب الخضوع
+لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+قياس ضغط الدم  |  Blood Pressure Check  
+النبض  |  pulse  
+ثلاثيات الغليسيريد  |  triglycerides (Trig)  
+فسفوكيناز الكرياتين  |  creatine phospho kinase (CPK, CK)  
+الفحص البدني للقلب والأوعية الدموية  |  Physical examination of the
+cardiovascular system  
+اختبار الفيزيولوجية الكهربية لمنظومة الموصلات  |  Electrophysiological testing
+of the conducting system  
+فحص تخطيط كهربية القلب خلال الجهد  |  Electrocardiographic stress test  
+تخطيط صدى القلب عبر المريء  |  Transesophageal Echocardiography  
+مخطط صدى القلب  |  Echocardiogram  
+الشرايين التاجية  |  Coronary Angiogram, Heart Catheterization  
+هولتر  |  Holter ECG  
+اختبار الجهد  |  Cardiac Stress Test  
+وظائف الرئتين  |  Pulmonary Function Tests  
+فحص القلب  |  SPECT PET , Heart Perfusion Scan, Blood Pool Scan, MUGA Scan  
+الدهنيات في الدم  |  Cholesterol and Triglycerides Test, Lipid Profile  
+علامات النوبة القلبية  |  Serum Cardiac Biomarkers  
+اختبار الإجهاد  |  stress test  
+تخطيط كهربية القلب السامح بالتجول  |  ambulatory E.C.G  
+قثطرة القلب  |  coronary catheterization  
+تخطيط القلب الكهربائي  |  electrocardiogram  
+تخطيط كهربية القلب  |  EKG  
+البروتينات الشحمية وضيعة الكثافة  |  very low density lipoproteins  
+الهوموسيستئين  |  homocysteine  
+مستوى الديجوكسين  |  digoxin level
+

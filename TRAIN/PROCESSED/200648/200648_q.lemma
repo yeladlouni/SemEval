@@ -1,0 +1,36 @@
+عمري 25 سنة. قبل اسبوع بدات لدي حكه في الراس الظاهرة التي لم تحدث لدي من قبل. انا احك راسي واشعر بحرقة; هذا غير مريح ومزعج. انا لا اعرف ماذا افعل واي دواء اخذ.
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: بدات	Lemma: بَدَّة	BW: bad~ap
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: حكه	Lemma: حَاكَ	BW: HaAka
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الراس	Lemma: رَاسّ	BW: raAs~
+		Word: الظاهرة	Lemma: ظَاهِرَة	BW: ZaAhirap
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: انا	Lemma: انا	BW: AnA
+		Word: احك	Lemma: حَكَى	BW: HakaY
+		Word: راسي	Lemma: رَاس	BW: raAs
+		Word: واشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بحرقة	Lemma: حُرْقَة	BW: Huroqap
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: مريح	Lemma: مُرِيح	BW: muriyH
+		Word: ومزعج	Lemma: مُزْعِج	BW: muzoEij
+		Word: انا	Lemma: انا	BW: AnA
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: واي	Lemma: واي	BW: wAy
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+	------------------------

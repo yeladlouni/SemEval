@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Hypophysioprivic
+
+متعلق بحرمان النخامية
+
+Renoprival
+
+متعلق بحرمان الوظائف الكلوية
+
+Hygienic
+
+متعلق بحفظ الصحة
+
+Endothermic
+
+متعلق بداخلي الاستحرار
+
+Dipterous
+
+متعلق بذوات الجناحين
+
+Quadrigeminal
+
+متعلق برباعي التوائم
+
+Geriatric
+
+متعلق بطب الشيوخ
+
+Ectosteal
+
+متعلق بظاهر العظم
+
+Hypervolemia
+
+متعلق بفرط حجم الدم
+
+Basifacial
+
+متعلق بقاعدة الوجه
+
+Choledochal
+
+متعلق بقناة الصفراء
+
+Gravimetric
+
+متعلق بقياس الثقل النوعي
+
+Diaphemetric
+
+متعلق بقياس حس اللمس
+
+Erythroblastotic
+
+متعلق بكثرة ارومات الحمر
+
+Electrodermal
+
+متعلق بكهربية الجلد
+
+Myoelectric
+
+متعلق بكهربية العضل
+
+Centrostaltic
+
+متعلق بمركز الحركة
+
+Centrencephalic
+
+متعلق بمركز الدماغ
+
+Perimetric
+
+متعلق بمصلية الرحم
+
+Procephalic
+
+متعلق بمقدم الراس
+

@@ -1,0 +1,23 @@
+السلام عليكم / انا شاب عمري 27 سنة أعاني من ألم في الرأس مع احمرار في العينين و نسيان و عدم التركيز
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الرأس	Lemma: رَأْس	BW: ra>os
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: احمرار	Lemma: احْمِرَار	BW: AHomiraAr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: العينين	Lemma: عَيْن	BW: Eayon
+		Word: و	Lemma: و	BW: w
+		Word: نسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: و	Lemma: و	BW: w
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+	------------------------

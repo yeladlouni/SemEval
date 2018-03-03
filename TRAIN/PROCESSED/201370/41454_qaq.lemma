@@ -1,0 +1,9 @@
+LH =11 FSH =4 العمر 36 ما رأيكم في هذه التحاليل 
+	##Lemmatization results:
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: ما	Lemma: مَا	BW: maA
+		Word: رأيكم	Lemma: رَأْي	BW: ra>oy
+		Word: في	Lemma: فِي	BW: fiy
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: التحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+	------------------------

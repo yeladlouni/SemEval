@@ -1,0 +1,15 @@
+بسم الله الرحمن الرحيم هذه جيدة لبعض حالات وليس جيد لكل شيء
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: الرحمن	Lemma: رَحْمَن	BW: raHoman
+		Word: الرحيم	Lemma: رَحِيم	BW: raHiym
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: جيدة	Lemma: جَيِّدَة	BW: jay~idap
+		Word: لبعض	Lemma: بَعْض	BW: baEoD
+		Word: حالات	Lemma: حَالَة	BW: HaAlap
+		Word: وليس	Lemma: لَيْسَ	BW: layosa
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: لكل	Lemma: كُلّ	BW: kul~
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+	------------------------

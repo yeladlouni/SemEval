@@ -1,0 +1,47 @@
+انا سيدة متزوجة عمري 36 سنة ولا أعمل من شهر بدأت أشعر بأني لو مشيت مشوار ليس طويل بان رجلي اليمين لا تتحرك جيدا ولو كنت مرتدية كعب ليس عاليا تخرج رجلي من الحذاء ورجلي اليمين لا استطيع هزها وقد اصبت بالعصب السابع مرتين بوجهي؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: سيدة	Lemma: سَيِّدَة	BW: say~idap
+		Word: متزوجة	Lemma: مُتَزَوِّج	BW: mutazaw~ij
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنة	Lemma: سِنَة	BW: sinap
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: أشعر	Lemma: أَشْعَرَ	BW: >a$oEara
+		Word: بأني	Lemma: أَنَّ	BW: >an~a
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: مشيت	Lemma: مَشَى	BW: ma$aY
+		Word: مشوار	Lemma: مِشْوَار	BW: mi$owaAr
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: طويل	Lemma: طَوِيل	BW: Tawiyl
+		Word: بان	Lemma: بَان	BW: baAn
+		Word: رجلي	Lemma: رَجُل	BW: rajul
+		Word: اليمين	Lemma: يَمِين	BW: yamiyn
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تتحرك	Lemma: تَحَرَّكَ	BW: taHar~aka
+		Word: جيدا	Lemma: جَيِّد	BW: jay~id
+		Word: ولو	Lemma: لَوْ	BW: lawo
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: مرتدية	Lemma: مُرْتَدِيَة	BW: murotadiyap
+		Word: كعب	Lemma: كَعْب	BW: kaEob
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: عاليا	Lemma: عَالَى	BW: EaAlaY
+		Word: تخرج	Lemma: أَخْرَجَ	BW: >axoraja
+		Word: رجلي	Lemma: رَجُل	BW: rajul
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الحذاء	Lemma: حِذَاء	BW: Hi*aA'
+		Word: ورجلي	Lemma: رَجَل	BW: rajal
+		Word: اليمين	Lemma: يَمِين	BW: yamiyn
+		Word: لا	Lemma: لَا	BW: laA
+		Word: استطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: هزها	Lemma: وَهَزَ	BW: wahaza
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: اصبت	Lemma: اصبت	BW: ASbt
+		Word: بالعصب	Lemma: عَصْب	BW: EaSob
+		Word: السابع	Lemma: سَابِع	BW: saAbiE
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: بوجهي	Lemma: وَجْه	BW: wajoh
+	------------------------

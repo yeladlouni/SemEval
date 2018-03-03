@@ -1,0 +1,42 @@
+السؤال أنا شابة أبلغ من العمر 25 سنة ذهبت عند طبيب مختص في الأمراض الجلدية بسبب وجود حبوب على مستوى الوجه فوصف لي حبوب ديان 35 لمدة 3 أشهر فهل تؤثر هذه الحبوب على الإنجاب مستقبلاً خاصة وأن زفافي بعد 6 أشهر وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شابة	Lemma: شَابّ	BW: $aAb~
+		Word: أبلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: مختص	Lemma: مُخْتَصّ	BW: muxotaS~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الأمراض	Lemma: مَرَض	BW: maraD
+		Word: الجلدية	Lemma: جِلْدِيّ	BW: jilodiy~
+		Word: بسبب	Lemma: سَبَب	BW: sabab
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: مستوى	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: الوجه	Lemma: وَجْه	BW: wajoh
+		Word: فوصف	Lemma: وَصَفَ	BW: waSafa
+		Word: لي	Lemma: لِي	BW: liy
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: ديان	Lemma: دَيّان	BW: day~An
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: تؤثر	Lemma: أَثَّرَ	BW: >av~ara
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الإنجاب	Lemma: إِنْجَاب	BW: <inojaAb
+		Word: مستقبلًا	Lemma: مُسْتَقْبَل	BW: musotaqobal
+		Word: خاصة	Lemma: خَاصَّة	BW: xaAS~ap
+		Word: وأن	Lemma: أَنَّ	BW: >an~a
+		Word: زفافي	Lemma: زَفَّاف	BW: zaf~aAf
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

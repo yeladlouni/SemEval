@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Telecardiography
+
+تخطيط قلبي بعادي
+
+Tocography
+
+تخطيط قوة المخاض
+
+Electro-myography
+
+تخطيط كهربائية العضل
+
+Stereoelectroencephalography
+
+تخطيط كهربية الدماغ ثلاثية الابعاد
+
+Electronystagmography
+
+تخطيط كهربية الراراة
+
+Electroretinography
+
+تخطيط كهربية الشبكية
+
+Electroneurography
+
+تخطيط كهربية العصب
+
+Electroneuromyography
+
+تخطيط كهربية العضلة المكهربة العصب
+
+Electro-oculography
+
+تخطيط كهربية العين
+
+Electro-cardiography
+
+تخطيط كهربية القلب
+
+Electrocochleography
+
+تخطيط كهربية القوقعة
+
+Electrocorticography
+
+تخطيط كهربية قشر الدماغ
+
+Hepatography
+
+تخطيط نبضان الكبد
+
+Lightening
+
+تخفف
+
+Dilution
+
+تخفيف
+
+Pericardial decompression
+
+تخفيف الضغط التاموري
+
+Cerebral decompression
+
+تخفيف الضغط عن الدماغ
+
+Nerve decompression
+
+تخفيف الضغط عن العصب
+
+Cardiac decompression
+
+تخفيف الضغط عن القلب
+
+Spinal decompression
+
+تخفيف الضغط عن النخاع
+

@@ -1,0 +1,13 @@
+أريد أن أقرأ نتائج هذا التحليل و ماذا تعني الأرقام: Sérologie(TPHA) négative. Sérologie(VDRL) négative. AG ANTI HCV negative=0.093. HIV negatif=0.153 Ag HBS negatif=0.616
+	##Lemmatization results:
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أقرأ	Lemma: قَرَأَ	BW: qara>a
+		Word: نتائج	Lemma: نَتِيجَة	BW: natiyjap
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: التحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: و	Lemma: و	BW: w
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: تعني	Lemma: عَنَى	BW: EanaY
+		Word: الأرقام	Lemma: أَرْقَام	BW: >aroqaAm
+	------------------------

@@ -1,0 +1,43 @@
+يتناول معظم المصابين بمرض إلتهاب القولون التقرحي عقارآ يدعى 5-ASA لتقليل عدد النوبات وتسكين المرض. ويحتاج المريض أحيانآ إلى أخذ عقاقير كابتة للمناعة. وفي الحالات الشديدة يمكن إعطاؤه أدوية ستيرويدية . وإذا فشل العلاج بالعقاقير تزال المنطقة المصابة من القولون بواسطة الجراحة.
+	##Lemmatization results:
+		Word: يتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: معظم	Lemma: مُعْظَم	BW: muEoZam
+		Word: المصابين	Lemma: مُصَاب	BW: muSaAb
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: إلتهاب	Lemma: إلتهاب	BW: <lthAb
+		Word: القولون	Lemma: القولون	BW: Alqwlwn
+		Word: التقرحي	Lemma: التقرحي	BW: AltqrHy
+		Word: عقارآ	Lemma: عقارآ	BW: EqAr|
+		Word: يدعى	Lemma: دَعَا	BW: daEaA
+		Word: لتقليل	Lemma: تَقْلِيل	BW: taqoliyl
+		Word: عدد	Lemma: عَدَد	BW: Eadad
+		Word: النوبات	Lemma: نَوْبَة	BW: nawobap
+		Word: وتسكين	Lemma: سَكَّ	BW: sak~a
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: ويحتاج	Lemma: احْتَاجَ	BW: AHotaAja
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: أحيانآ	Lemma: أحيانآ	BW: >HyAn|
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: أخذ	Lemma: أَخْذ	BW: >axo*
+		Word: عقاقير	Lemma: عَقَّار	BW: Eaq~aAr
+		Word: كابتة	Lemma: كَابِت	BW: kaAbit
+		Word: للمناعة	Lemma: مَنَاعَة	BW: manaAEap
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: الحالات	Lemma: حَالَة	BW: HaAlap
+		Word: الشديدة	Lemma: شَدِيد	BW: $adiyd
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: إعطاؤه	Lemma: إِعْطَاء	BW: <iEoTaA'
+		Word: أدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: ستيرويدية	Lemma: ستيرويدية	BW: styrwydyp
+		Word: وإذا	Lemma: إِذَا	BW: <i*aA
+		Word: فشل	Lemma: فَشِلَ	BW: fa$ila
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: بالعقاقير	Lemma: عَقَّار	BW: Eaq~aAr
+		Word: تزال	Lemma: زَالَ	BW: zaAla
+		Word: المنطقة	Lemma: مِنْطَقَة	BW: minoTaqap
+		Word: المصابة	Lemma: مُصَاب	BW: muSaAb
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: القولون	Lemma: القولون	BW: Alqwlwn
+		Word: بواسطة	Lemma: وَاسِطَة	BW: waAsiTap
+		Word: الجراحة	Lemma: جِرَاحَة	BW: jiraAHap
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pneumorrhachis
+
+استرواح السيساء
+
+Pneumohydrothorax
+
+استرواح الصدر الانصبابي
+
+Pressure pneumothorax
+
+استرواح الصدر الضاغط
+
+Spontaneous pneumothorax
+
+استرواح الصدر العفوي
+
+Pneumopyothorax
+
+استرواح الصدر القيحي
+
+Pyopneumoperitoneurn
+
+استرواح الصدر القيحي
+
+Chylopneumothorax
+
+استرواح الصدر الكيلوسي
+
+Artificial(induced) pneumothorax
+
+استرواح الصدر المحدث
+
+Pneumohemothorax
+
+استرواح الصدر المدمي
+
+Pneumoserothorax
+
+استرواح الصدر المصلي
+
+Open pneumothorax
+
+استرواح الصدر المفتوح
+
+Hydropneumothorax
+
+استرواح الصدر الموهي
+
+Pneumohydrothorax
+
+استرواح الصدر الموهي
+
+Pneumoserothorax
+
+استرواح الصدر الموهي
+
+Extrapleural pneumothorax
+
+استرواح الصدر خارج الجنبة
+
+Pneumoperitoneum
+
+استرواح الصفاق
+
+Hydropneumoperitoneum
+
+استرواح الصفاق الموهي
+
+Pneumohydroperitoneum
+
+استرواح الصفاق الموهي
+
+Pneumatocardia
+
+استرواح القلب
+
+Pneumomediastinum
+
+استرواح المنصف
+

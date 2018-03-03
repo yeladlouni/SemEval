@@ -1,0 +1,26 @@
+طفلتى عمرها عامين منذ أسبوعين أصابها إمساك شديد تبرز مثل براز الماعز ومنذ يومين لاحظت فى البراز قطع براز ابيض وهذا يقلقني جدا
+	##Lemmatization results:
+		Word: طفلتى	Lemma: طفلتى	BW: TfltY
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: عامين	Lemma: عَامّ	BW: EaAm~
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: أسبوعين	Lemma: أُسْبُوع	BW: >usobuwE
+		Word: أصابها	Lemma: أَصَابَ	BW: >aSaAba
+		Word: إمساك	Lemma: إِمْسَاك	BW: <imosaAk
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: تبرز	Lemma: أَبْرَزَ	BW: >aboraza
+		Word: مثل	Lemma: مَثَلَ	BW: mavala
+		Word: براز	Lemma: رَاز	BW: raAz
+		Word: الماعز	Lemma: مَاعِز	BW: maAEiz
+		Word: ومنذ	Lemma: مُنْذُ	BW: muno*u
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: لاحظت	Lemma: لاحَظَ	BW: lAHaZa
+		Word: فى	Lemma: فى	BW: fY
+		Word: البراز	Lemma: بَرَّاز	BW: bar~aAz
+		Word: قطع	Lemma: قَطْع	BW: qaToE
+		Word: براز	Lemma: رَاز	BW: raAz
+		Word: ابيض	Lemma: ابْيَضَّ	BW: AboyaD~a
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: يقلقني	Lemma: أَقْلَقَ	BW: >aqolaqa
+		Word: جدا	Lemma: جِدّ	BW: jid~
+	------------------------

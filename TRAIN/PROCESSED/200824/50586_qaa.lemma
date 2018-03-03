@@ -1,0 +1,42 @@
+انا لم اسمع بهذا المرض ربما هناك خطأ مطبعي في الكلمة ارجو التوضيح هل ما تقصده هو مرض الدرن او مرض كرون او كرونز ارجو التوضيح واذا كان الاسم هو ليس بالعربيى ارجو كتابته كما هو وبلغته مهما كانت
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: اسمع	Lemma: سَمِعَ	BW: samiEa
+		Word: بهذا	Lemma: ذَا	BW: *aA
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: ربما	Lemma: رُبَّ	BW: rub~a
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: خطأ	Lemma: خَطَأ	BW: xaTa>
+		Word: مطبعي	Lemma: مَطْبَع	BW: maTobaE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الكلمة	Lemma: كَلِمَة	BW: kalimap
+		Word: ارجو	Lemma: ارجو	BW: Arjw
+		Word: التوضيح	Lemma: تَوْضِيح	BW: tawoDiyH
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: ما	Lemma: مَا	BW: maA
+		Word: تقصده	Lemma: قَصَدَ	BW: qaSada
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: الدرن	Lemma: دَرْنَاء	BW: daronaA'
+		Word: او	Lemma: او	BW: Aw
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: كرون	Lemma: رَوْن	BW: rawon
+		Word: او	Lemma: او	BW: Aw
+		Word: كرونز	Lemma: كرونز	BW: krwnz
+		Word: ارجو	Lemma: ارجو	BW: Arjw
+		Word: التوضيح	Lemma: تَوْضِيح	BW: tawoDiyH
+		Word: واذا	Lemma: واذا	BW: wA*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: الاسم	Lemma: اسْم	BW: Asom
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: بالعربيى	Lemma: بالعربيى	BW: bAlErbyY
+		Word: ارجو	Lemma: ارجو	BW: Arjw
+		Word: كتابته	Lemma: كِتَابَة	BW: kitaAbap
+		Word: كما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: وبلغته	Lemma: لُغَة	BW: lugap
+		Word: مهما	Lemma: مُهِمّ	BW: muhim~
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+	------------------------

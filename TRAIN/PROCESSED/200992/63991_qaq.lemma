@@ -1,0 +1,13 @@
+EMLA Crème هل يمكن استعمال هذا الدواء لعﻻج سرعة القذف وشكرا 
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: لع	Lemma: وَعَى	BW: waEaY
+		Word: ج	Lemma: وَجَى	BW: wajaY
+		Word: سرعة	Lemma: سُرْعَة	BW: suroEap
+		Word: القذف	Lemma: قَذْف	BW: qa*of
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

@@ -1,0 +1,30 @@
+انا آخذ حبوب البروزاك صباحا وفي المساء اخذ فيتامينات اثناء تناول العشاء السؤال هو هل ممكن ان يضرني هذا الشي اخاف ممكن ذالك يوثر في شيئ ما 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: آخذ	Lemma: آخَذَ	BW: |xa*a
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: البروزاك	Lemma: البروزاك	BW: AlbrwzAk
+		Word: صباحا	Lemma: صُبَاح	BW: SubaAH
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: المساء	Lemma: مَسَاء	BW: masaA'
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: فيتامينات	Lemma: فيتامينات	BW: fytAmynAt
+		Word: اثناء	Lemma: اثِّنَاء	BW: Av~inaA'
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: العشاء	Lemma: عَشَاء	BW: Ea$aA'
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ان	Lemma: ان	BW: An
+		Word: يضرني	Lemma: ضَرَّ	BW: Dar~a
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الشي	Lemma: لَشَا	BW: la$aA
+		Word: اخاف	Lemma: اخاف	BW: AxAf
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ذالك	Lemma: ذَالّ	BW: *aAl~
+		Word: يوثر	Lemma: وَثُرَ	BW: wavura
+		Word: في	Lemma: فِي	BW: fiy
+		Word: شيئ	Lemma: شَيَّأَ	BW: $ay~a>a
+		Word: ما	Lemma: مَا	BW: maA
+	------------------------

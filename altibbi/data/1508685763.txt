@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Stratigraphy
+
+تصوير طباقي
+
+Photofluorography
+
+تصوير فوتوغرافي للصورالتنظيرية
+
+Fluorography
+
+تصوير تالقي
+
+Fluororadiography
+
+تصوير شعاعي تالقي
+
+Fluororoentgenography
+
+تصوير شعاعي تالقي
+
+Epidurography
+
+تصوير فوق الجافية
+
+Planigraphy
+
+تصوير مقطعي
+
+Planography
+
+تصوير مقطعي
+
+Body section roentgenography
+
+تصوير مقطعي للجسم
+
+Positron emission tomography
+
+تصوير مقطعي بالاصدار البوزيتروني
+
+Laminagraphy
+
+تصوير مقطعي شعاعي
+
+Polytomography
+
+تصوير مقطعي متعدد
+
+Computerized axial tomography
+
+تصوير مقطعي محوري محوسب
+
+Computerized transaxial tomography (ctat)
+
+تصوير مقطعي عمودي على المحور محوسب
+
+Computed tomography
+
+تصوير مقطعي محوسب
+
+Splenoportography
+
+تصوير وريد الباب بطريق الطحال
+
+Scintigraphy
+
+تصوير ومضاني
+
+Scintiphotography
+
+تصوير ومضاني
+
+Pharming
+
+تصيدل
+
+Hypotrophy
+
+تضاؤل الحيوية المبكر
+

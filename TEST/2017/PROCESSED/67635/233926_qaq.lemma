@@ -1,0 +1,37 @@
+أمي لديها نقص فيتامين د أما الكالسيم لدييها معتدل 104mg 2.60mmol و قال لها الطبيب لديها هشاشة العظام أرجوك دكتور أن تصف لها دواء و بمادا تنصحها في الاكل جزاك الله خيرا وجعله في ميزان حسناتك.
+	##Lemmatization results:
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: لديها	Lemma: لَدَى	BW: ladaY
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: فيتامين	Lemma: يَتَّام	BW: yat~aAm
+		Word: د	Lemma: يَدَى	BW: yadaY
+		Word: أما	Lemma: أَمّ	BW: >am~
+		Word: الكالسيم	Lemma: الكالسيم	BW: AlkAlsym
+		Word: لدييها	Lemma: دَيِيّ	BW: dayiy~
+		Word: معتدل	Lemma: مُعْتَدِل	BW: muEotadil
+		Word: و	Lemma: و	BW: w
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: لها	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: لديها	Lemma: لَدَى	BW: ladaY
+		Word: هشاشة	Lemma: هَشَاشَة	BW: ha$aA$ap
+		Word: العظام	Lemma: عَظِيم	BW: EaZiym
+		Word: أرجوك	Lemma: رَجْو	BW: rajow
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: تصف	Lemma: صَفَّ	BW: Saf~a
+		Word: لها	Lemma: لِي	BW: liy
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: و	Lemma: و	BW: w
+		Word: بمادا	Lemma: بمادا	BW: bmAdA
+		Word: تنصحها	Lemma: أَنْصَحَ	BW: >anoSaHa
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الاكل	Lemma: الاكل	BW: AlAkl
+		Word: جزاك	Lemma: جَزَّ	BW: jaz~a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: خيرا	Lemma: خَيْر	BW: xayor
+		Word: وجعله	Lemma: جَعَلَ	BW: jaEala
+		Word: في	Lemma: فِي	BW: fiy
+		Word: ميزان	Lemma: مِيزَان	BW: miyzaAn
+		Word: حسناتك	Lemma: حَسَنَة	BW: Hasanap
+	------------------------

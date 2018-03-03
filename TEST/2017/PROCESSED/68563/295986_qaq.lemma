@@ -1,0 +1,41 @@
+السلام عليكم / انا شاب عمري 23 سنة اعاني من الم اسفل الظهر منذ سنة وبعد فتره امتد الالم الى الموخرة وخلف الفخذ , ذهبت الى طبيب عظام اجرى لي اشعة سينية قال معي شد عطلي اعطاني ادوية لكن لم اتحسن .
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: اسفل	Lemma: سَفُلَ	BW: safula
+		Word: الظهر	Lemma: ظُهْر	BW: Zuhor
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: فتره	Lemma: تَرّ	BW: tar~
+		Word: امتد	Lemma: امْتَدَّ	BW: Amotad~a
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: الى	Lemma: الى	BW: AlY
+		Word: الموخرة	Lemma: الموخرة	BW: Almwxrp
+		Word: وخلف	Lemma: خَلَفَ	BW: xalafa
+		Word: الفخذ	Lemma: فَخْذ	BW: faxo*
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: الى	Lemma: الى	BW: AlY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: عظام	Lemma: عَظِيم	BW: EaZiym
+		Word: اجرى	Lemma: اجرى	BW: AjrY
+		Word: لي	Lemma: لِي	BW: liy
+		Word: اشعة	Lemma: اشعة	BW: A$Ep
+		Word: سينية	Lemma: سينية	BW: synyp
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: معي	Lemma: مَعَّ	BW: maE~a
+		Word: شد	Lemma: شَدّ	BW: $ad~
+		Word: عطلي	Lemma: عُطْلِيّ	BW: EuToliy~
+		Word: اعطاني	Lemma: اعطاني	BW: AETAny
+		Word: ادوية	Lemma: ادوية	BW: Adwyp
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: اتحسن	Lemma: اتحسن	BW: AtHsn
+	------------------------

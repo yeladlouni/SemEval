@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Sulcus terminalis atrii dextris
+
+تلم انتهائي للاذين الايمن
+
+Sulcus bicipitalis medialis
+
+تلم انسي لذات الراسين
+
+Sulcusi nfraspalpebralis
+
+تلم تحت الجفن
+
+Sulcus chiasmatis
+
+تلم تصالبي
+
+Sulcus collateralis
+
+تلم جانبي
+
+Sulcus frontalis inferior
+
+تلم جبهي سفلي
+
+Sulcus frontalis superior
+
+تلم جبهي علوي
+
+Sulcus parietooccipitalis
+
+تلم جداري قذالي
+
+Sulcus corporis callosi
+
+تلم الجسم الثفني
+
+Sulcus cinguli
+
+تلم حزامي
+
+Sulcus hippocampi
+
+تلم حصيني
+
+Sulcus interventricularis posterior
+
+التلم الخلفي بين البطينين
+
+Sulcus circularis insulae
+
+تلم دائري جزيري
+
+Sulcus lacrimalis maxillae
+
+تلم دمعي الفكي
+
+Sulcus pulmunalis thoracis
+
+تلم رئوي صدري
+
+Sulcus carpi
+
+تلم رسغي
+
+Sulcus obturatorius ossis pubis
+
+تلم سدادي لعظم العانة
+
+Alveolabial sulcus
+
+تلم سنخي شفوي
+
+Alveolingual sulcus
+
+تلم سنخي لساني
+
+Sulcus sagittalis ossis parietalis
+
+التلم السهمي للعظم الجداري
+

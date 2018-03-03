@@ -1,0 +1,19 @@
+أنا وزني 49 وطولي 160 واريد جدول رياضي يناسبي ويزيد من وزني فمن يستطيع مساعدتي وشكرا لكم جميعا
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: وزني	Lemma: زَنَى	BW: zanaY
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: واريد	Lemma: واريد	BW: wAryd
+		Word: جدول	Lemma: جَدْوَل	BW: jadowal
+		Word: رياضي	Lemma: رِيَاضِيّ	BW: riyaADiy~
+		Word: يناسبي	Lemma: يناسبي	BW: ynAsby
+		Word: ويزيد	Lemma: زَادَ	BW: zaAda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: فمن	Lemma: مِنْ	BW: mino
+		Word: يستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: مساعدتي	Lemma: مُسَاعَدَة	BW: musaAEadap
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+		Word: لكم	Lemma: لِي	BW: liy
+		Word: جميعا	Lemma: جَمِيع	BW: jamiyE
+	------------------------

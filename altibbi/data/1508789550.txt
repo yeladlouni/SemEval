@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - علم التشريح
+
+#  المصطلحات الطبية - علم التشريح
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Sentinel gland
+
+عقدة لمفية خافرة
+
+Ludwig's ganglion
+
+عقدة لودفيغ
+
+Ganglion of sympathetic trunk
+
+عقدة الجذع الودي
+
+Syncytial knot
+
+عقدة مخلوية
+
+Visceral ganglion
+
+عقدة حشوية
+
+Spinal ganglion
+
+عقدة نخاعية
+
+Dorsal root ganglion
+
+عقدة الجذر الظهراني
+
+Ciliary ganglion
+
+عقدة هدبية
+
+Hensen's node
+
+عقدة هنسن
+
+Nodule of semilunar valve
+
+عقيدةالصمام الهلالي
+
+Infertile
+
+عقيم
+
+Epicardia
+
+علاية الفؤاد
+
+Emotional illness
+
+علة انفعالية
+
+Anatomical pathology
+
+علم الامراض التشريحي
+
+Lymphangiology
+
+علم الاوعية اللمفية
+
+Esthetics
+
+علم الجماليات
+
+Buba madre
+
+عليقة ام
+
+Superclass
+
+عمارة
+
+Anterior column of spinal cord
+
+عمود امامي للنخاع شوكي
+
+Ventral column of spinal cord
+
+عمود امامي للنخاع شوكي
+

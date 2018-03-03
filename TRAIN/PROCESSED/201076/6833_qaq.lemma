@@ -1,0 +1,27 @@
+لقد ارسلت لكم عدة اسئلة وقلتم بانكم ستجيبون عنها خلال ثلاثة ايام القادة لكن اليوم العاشر ولم يتم الاجابة عنها هل هذه هي المصداقية 
+	##Lemmatization results:
+		Word: لقد	Lemma: قَدْ	BW: qado
+		Word: ارسلت	Lemma: ارسلت	BW: Arslt
+		Word: لكم	Lemma: لِي	BW: liy
+		Word: عدة	Lemma: عِدَّة	BW: Eid~ap
+		Word: اسئلة	Lemma: اسئلة	BW: As}lp
+		Word: وقلتم	Lemma: قَلِتَ	BW: qalita
+		Word: بانكم	Lemma: بَان	BW: baAn
+		Word: ستجيبون	Lemma: أَجَابَ	BW: >ajaAba
+		Word: عنها	Lemma: عَنْ	BW: Eano
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: القادة	Lemma: قَائِد	BW: qaA}id
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: العاشر	Lemma: عَاشِر	BW: EaA$ir
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: الاجابة	Lemma: الاجابة	BW: AlAjAbp
+		Word: عنها	Lemma: عَنْ	BW: Eano
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: المصداقية	Lemma: مِصْدَاقِيّ	BW: miSodaAqiy~
+	------------------------

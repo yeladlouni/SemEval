@@ -1,0 +1,40 @@
+انا عندي انحراف وقصر نظر وعند فحصه عند الطبيب تبين ان يزداد سوءا. ونصحني الطبيب بعدم الجلوس طويلا امام الكمبيوتر. فلو جلست ساعة امام الكمبيوتر ثم ساعة امام التلفاز ثم استمريت على هذا النمط. هل ينصح بذلك؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: انحراف	Lemma: انْحِرَاف	BW: AnoHiraAf
+		Word: وقصر	Lemma: قَصْر	BW: qaSor
+		Word: نظر	Lemma: نَظَر	BW: naZar
+		Word: وعند	Lemma: عِنْدَ	BW: Einoda
+		Word: فحصه	Lemma: فَحْص	BW: faHoS
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: تبين	Lemma: بَيَّنَ	BW: bay~ana
+		Word: ان	Lemma: ان	BW: An
+		Word: يزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: سوءا	Lemma: سُوء	BW: suw'
+		Word: ونصحني	Lemma: نَصَحَ	BW: naSaHa
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: بعدم	Lemma: عَدَم	BW: Eadam
+		Word: الجلوس	Lemma: جُلُوس	BW: juluws
+		Word: طويلا	Lemma: طَوِيل	BW: Tawiyl
+		Word: امام	Lemma: امام	BW: AmAm
+		Word: الكمبيوتر	Lemma: الكمبيوتر	BW: Alkmbywtr
+		Word: فلو	Lemma: لَوْ	BW: lawo
+		Word: جلست	Lemma: جَلَسَ	BW: jalasa
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: امام	Lemma: امام	BW: AmAm
+		Word: الكمبيوتر	Lemma: الكمبيوتر	BW: Alkmbywtr
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: امام	Lemma: امام	BW: AmAm
+		Word: التلفاز	Lemma: تِلْفَاز	BW: tilofaAz
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: استمريت	Lemma: اسْتَمْرَى	BW: AsotamoraY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: النمط	Lemma: نَمَط	BW: namaT
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: ينصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: بذلك	Lemma: ذَا	BW: *aA
+	------------------------

@@ -1,0 +1,14 @@
+KeLP	subtask_A_primary	 0.8843
+Beihang-MSRA	subtask_A_primary	 0.8824
+IIT-UHH	subtask_A_primary	 0.8688
+ECNU	subtask_A_primary	 0.8672
+bunji	subtask_A_primary	 0.8658
+EICA	subtask_A_primary	 0.8653
+SwissAlps	subtask_A_primary	 0.8624
+FuRongWang	subtask_A_primary	 0.8426
+FA3L	subtask_A_primary	 0.8342
+SnowMan	subtask_A_primary	 0.8184
+TakeLab-QA	subtask_A_primary	 0.8114
+LS2NSEMEVAL	subtask_A_primary	 0.8099
+TrentoTeam	subtask_A_primary	 0.7856
+MoRS	subtask_A_primary	 0.6332

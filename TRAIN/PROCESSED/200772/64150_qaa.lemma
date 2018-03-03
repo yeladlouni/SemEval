@@ -1,0 +1,20 @@
+هناك أمراض كلوية كثيرة تسبب ذلك منها التهابات متكررة والأدوية وشذوذا وعائية كلوية والفشل الكلوي وغير ذلك
+	##Lemmatization results:
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: كلوية	Lemma: لَوِيّ	BW: lawiy~
+		Word: كثيرة	Lemma: كَثِير	BW: kaviyr
+		Word: تسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: التهابات	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: متكررة	Lemma: مُتَكَرِّر	BW: mutakar~ir
+		Word: والأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: وشذوذا	Lemma: شُذُوذ	BW: $u*uw*
+		Word: وعائية	Lemma: وعائية	BW: wEA}yp
+		Word: كلوية	Lemma: لَوِيّ	BW: lawiy~
+		Word: والفشل	Lemma: فَشَل	BW: fa$al
+		Word: الكلوي	Lemma: كَلَوِيّ	BW: kalawiy~
+		Word: وغير	Lemma: غَيْر	BW: gayor
+		Word: ذلك	Lemma: ذَا	BW: *aA
+	------------------------

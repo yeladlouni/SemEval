@@ -1,0 +1,13 @@
+لا يوجد دواء للتصغير ولكن يمكنك استشاره طبيب جراحة التجميل
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: للتصغير	Lemma: تَصْغِير	BW: taSogiyr
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: يمكنك	Lemma: أَمْكَنَ	BW: >amokana
+		Word: استشاره	Lemma: اسْتِشَار	BW: Asoti$aAr
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: جراحة	Lemma: جَرَّاح	BW: jar~aAH
+		Word: التجميل	Lemma: تَجْمِيل	BW: tajomiyl
+	------------------------

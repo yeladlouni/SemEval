@@ -1,0 +1,31 @@
+ماذا أفعل مع طفلى الذى يبلغ من العمر 5 شهور ويعانى من الإسهال المزمن ولا يصلح مع أى علاج ؟ مع العلم أنه يأكل سيريلاك وبسكويت وأرز مطحون ويزن 5 كجم ؟
+	##Lemmatization results:
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: طفلى	Lemma: طفلى	BW: TflY
+		Word: الذى	Lemma: الذى	BW: Al*Y
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: من	Lemma: مَنْ	BW: mano
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: ويعانى	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الإسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: المزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: يصلح	Lemma: صَلُحَ	BW: SaluHa
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: أى	Lemma: أى	BW: >Y
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يأكل	Lemma: أَكَلَ	BW: >akala
+		Word: سيريلاك	Lemma: سيريلاك	BW: syrylAk
+		Word: وبسكويت	Lemma: وبسكويت	BW: wbskwyt
+		Word: وأرز	Lemma: أَرَزَ	BW: >araza
+		Word: مطحون	Lemma: مُطَحّ	BW: muTaH~
+		Word: ويزن	Lemma: زَانَ	BW: zaAna
+		Word: كجم	Lemma: جَمّ	BW: jam~
+	------------------------

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Atrioventricular extrasystole
+
+انقباضة خارجة اذينية بطينية
+
+Junctional extrasystole
+
+انقباضة خارجة وصلية
+
+Atrioventricular nodal extrasystole
+
+انقباضة خارجة اذينية بطينيةعقدية
+
+Nodal extrasystole
+
+انقباضة خارجة عقدية
+
+Ventricular extrasystole
+
+انقباضة خارجة بطينية
+
+Infranodal extrasystole
+
+انقباضة خارجة تحت العقدية
+
+Return extrasystole
+
+انقباضة خارجة عائدة
+
+Interpolated extrasystole
+
+انقباضة خارجة مقحمة
+
+Interpolated beat
+
+ضربة خارجة مقحمة
+
+Premature systole
+
+انقباضة مبتسرة
+
+Premature beat
+
+ضربة مبتسرة
+
+Ectopic beat
+
+ضربة منتبذة
+
+Late systole
+
+انقباضة متاخرة
+
+Prediastole
+
+سابق الانبساط
+
+Aborted systole
+
+انقباضة مجهضة
+
+Syzygy
+
+انقران
+
+Syzygium
+
+انقران
+
+Syzygium
+
+السيزية
+
+Scission
+
+انقسام
+
+Reduction division
+
+انقسام اختزالي
+

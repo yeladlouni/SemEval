@@ -1,0 +1,39 @@
+يوجد هناك مخدر ولكن دائما ينصح باستشارة الطبيب قبل استخدامه; الادوية بصفة عامة لا تخلى من الاثار الجانبية; منها ما يكون خفيف ومنها ما يكون شديد وتختلف من شخص لاخر; لذلك دائما ننصح باستشارة الطبيب المختص.
+	##Lemmatization results:
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: مخدر	Lemma: مُخَدِّر	BW: muxad~ir
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: ينصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: باستشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: استخدامه	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: بصفة	Lemma: صُفَّة	BW: Suf~ap
+		Word: عامة	Lemma: عَامّ	BW: EaAm~
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تخلى	Lemma: تَخَلَّى	BW: taxal~aY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الاثار	Lemma: الاثار	BW: AlAvAr
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: خفيف	Lemma: خَفِيف	BW: xafiyf
+		Word: ومنها	Lemma: مِنْ	BW: mino
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: وتختلف	Lemma: اخْتَلَفَ	BW: Axotalafa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شخص	Lemma: شَخْص	BW: $axoS
+		Word: لاخر	Lemma: لاخر	BW: lAxr
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: ننصح	Lemma: نَصَحَ	BW: naSaHa
+		Word: باستشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: المختص	Lemma: مُخْتَصّ	BW: muxotaS~
+	------------------------

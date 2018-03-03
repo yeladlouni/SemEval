@@ -1,0 +1,25 @@
+ما الحل لهذه المشكلة حيث انني لا استطيع المذاكرة لأكثر من خمس دقائق فعقلي يتشتت ويفكر في اشياء كثيرة واسرح اثناء المذاكرة ؟؟
+	##Lemmatization results:
+		Word: ما	Lemma: مَا	BW: maA
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: لهذه	Lemma: ذَا	BW: *aA
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: انني	Lemma: انني	BW: Anny
+		Word: لا	Lemma: لَا	BW: laA
+		Word: استطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: المذاكرة	Lemma: مُذَاكَرَة	BW: mu*aAkarap
+		Word: لأكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: خمس	Lemma: خَمْس	BW: xamos
+		Word: دقائق	Lemma: دَقِيقَة	BW: daqiyqap
+		Word: فعقلي	Lemma: عَقْل	BW: Eaqol
+		Word: يتشتت	Lemma: تَشَتَّتَ	BW: ta$at~ata
+		Word: ويفكر	Lemma: فَكَّرَ	BW: fak~ara
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اشياء	Lemma: اشياء	BW: A$yA'
+		Word: كثيرة	Lemma: كَثِير	BW: kaviyr
+		Word: واسرح	Lemma: سَرَحَ	BW: saraHa
+		Word: اثناء	Lemma: اثِّنَاء	BW: Av~inaA'
+		Word: المذاكرة	Lemma: مُذَاكَرَة	BW: mu*aAkarap
+	------------------------

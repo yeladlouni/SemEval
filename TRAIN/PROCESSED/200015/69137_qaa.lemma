@@ -1,0 +1,26 @@
+قد يصف الطبيب احد الادوية التالية: اوميبرازول لتخفيف الم المعدة ;كلاريثرومايسين (مضاد حيوي);اموكسيسيلين او ميترونيدازول لذا يفضل مراجعة الطبيب لتحديد العلاج المناسب
+	##Lemmatization results:
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: يصف	Lemma: وَصَفَ	BW: waSafa
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: احد	Lemma: حَدَى	BW: HadaY
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: التالية	Lemma: تَالِيَة	BW: taAliyap
+		Word: اوميبرازول	Lemma: اوميبرازول	BW: AwmybrAzwl
+		Word: لتخفيف	Lemma: تَخْفِيف	BW: taxofiyf
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: كلاريثرومايسين	Lemma: كلاريثرومايسين	BW: klAryvrwmAysyn
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: حيوي	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: اموكسيسيلين	Lemma: اموكسيسيلين	BW: Amwksysylyn
+		Word: او	Lemma: او	BW: Aw
+		Word: ميترونيدازول	Lemma: ميترونيدازول	BW: mytrwnydAzwl
+		Word: لذا	Lemma: ذَا	BW: *aA
+		Word: يفضل	Lemma: أَفْضَلَ	BW: >afoDala
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: لتحديد	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: المناسب	Lemma: مُنَاسِب	BW: munaAsib
+	------------------------

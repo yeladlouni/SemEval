@@ -1,0 +1,33 @@
+cefutil و curam كلاهما مضاد حيوي ويشبهان بعضهما لذلك لافائدة من استبدال احدهما بالاخر. اعتقد انكي بحاجة الى استشارة طبيب امراض صدر لاحتمال وجود التهاب قصبات او ربو قصبي لاخذ علاج كامل.
+	##Lemmatization results:
+		Word: و	Lemma: و	BW: w
+		Word: كلاهما	Lemma: كَلَا	BW: kalaA
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: حيوي	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: ويشبهان	Lemma: أَشْبَهَ	BW: >a$obaha
+		Word: بعضهما	Lemma: بَعْض	BW: baEoD
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: لافائدة	Lemma: لافائدة	BW: lAfA}dp
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: استبدال	Lemma: اسْتِبْدَال	BW: AsotibodaAl
+		Word: احدهما	Lemma: حَدَى	BW: HadaY
+		Word: بالاخر	Lemma: بالاخر	BW: bAlAxr
+		Word: اعتقد	Lemma: اعْتَقَدَ	BW: AEotaqada
+		Word: انكي	Lemma: نَكِيَ	BW: nakiya
+		Word: بحاجة	Lemma: حَاجَة	BW: HaAjap
+		Word: الى	Lemma: الى	BW: AlY
+		Word: استشارة	Lemma: اسْتِشَارَة	BW: Asoti$aArap
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: امراض	Lemma: امراض	BW: AmrAD
+		Word: صدر	Lemma: صَدَرَ	BW: Sadara
+		Word: لاحتمال	Lemma: احْتِمَال	BW: AHotimaAl
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: قصبات	Lemma: قَصْبَة	BW: qaSobap
+		Word: او	Lemma: او	BW: Aw
+		Word: ربو	Lemma: رُبُوّ	BW: rubuw~
+		Word: قصبي	Lemma: قَصَبِيّ	BW: qaSabiy~
+		Word: لاخذ	Lemma: خَذَا	BW: xa*aA
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: كامل	Lemma: كَامِل	BW: kaAmil
+	------------------------

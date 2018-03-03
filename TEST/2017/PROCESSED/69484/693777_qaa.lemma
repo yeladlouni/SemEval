@@ -1,0 +1,13 @@
+الحل هو ان تنسى الامر تماما هذا ليس بمرض ابدا.....
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: ان	Lemma: ان	BW: An
+		Word: تنسى	Lemma: نَسِيَ	BW: nasiya
+		Word: الامر	Lemma: الامر	BW: AlAmr
+		Word: تماما	Lemma: تَمَام	BW: tamaAm
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: ابدا	Lemma: ابدا	BW: AbdA
+	------------------------

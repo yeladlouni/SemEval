@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تخدير
+
+#  المصطلحات الطبية - تخدير
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Spinal analgesia
+
+تسكين نخاعي
+
+Spinal anaesthesia
+
+تخدير نخاعي
+
+Anesthetic depth
+
+عمق تخديري
+
+Ergasia
+
+عمل الشخص
+
+Electroanalgesia
+
+فقدان الالم الكهربي تسكين كهربي
+
+Amyoesthesia
+
+فقدان الحس العضلي
+
+Thermal anesthesia
+
+خدر الاحساس بالحرارة
+
+Dissociative anesthesia
+
+خدر التفارق
+
+Obdormition
+
+خدر انضغاطي
+
+Stocking anesthesia
+
+خدر جوربي التوزع
+
+Girdle anesthesia
+
+خدر حزامي
+
+Visceral anesthesia
+
+خدر حشوي
+
+Cerebral anesthesia
+
+خدر دماغي المنشا
+
+Traumatic anesthesia
+
+خدر رضحي
+
+Unilateral anesthesia
+
+خدر شقي
+
+Alternate hemianesthesia
+
+خدر شقي تبادلي
+
+Hemiparanesthesia
+
+خدر شقي سفلي
+
+Crossed hemianesthesia
+
+خدر شقي متصالب
+
+Olfactory anesthesia
+
+خدر شمي
+
+Muscular anesthesia
+
+خدر عضلي
+

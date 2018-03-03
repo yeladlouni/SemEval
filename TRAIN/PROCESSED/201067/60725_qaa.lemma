@@ -1,0 +1,20 @@
+يمكن و يمكن الانتظار لمده شهرين و اذا لو تنتظم الاغلب انها لن تنتظم لما بعد ذلك
+	##Lemmatization results:
+		Word: يمكن	Lemma: مَكَّنَ	BW: mak~ana
+		Word: و	Lemma: و	BW: w
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: الانتظار	Lemma: انْتِظَار	BW: AnotiZaAr
+		Word: لمده	Lemma: مَادَ	BW: maAda
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: و	Lemma: و	BW: w
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: تنتظم	Lemma: انْتَظَمَ	BW: AnotaZama
+		Word: الاغلب	Lemma: الاغلب	BW: AlAglb
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: لن	Lemma: لَنْ	BW: lano
+		Word: تنتظم	Lemma: انْتَظَمَ	BW: AnotaZama
+		Word: لما	Lemma: مَا	BW: maA
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: ذلك	Lemma: ذَا	BW: *aA
+	------------------------

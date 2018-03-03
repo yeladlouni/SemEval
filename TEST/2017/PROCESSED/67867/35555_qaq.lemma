@@ -1,0 +1,34 @@
+انا بنت عمري 17 عندي مشكلة في شكل الشفرتين ، فهما كبيرتين وبارزتين صارت معي مشكلة نفسية ولون الشفرتين بني داكن ولكن يجب بحس حالي عمري 60 فهل هذا طبيعي مع العلم اني عذراء؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: بنت	Lemma: بِنْت	BW: binot
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: في	Lemma: فِي	BW: fiy
+		Word: شكل	Lemma: شَكْل	BW: $akol
+		Word: الشفرتين	Lemma: شَفْر	BW: $afor
+		Word: فهما	Lemma: هَمّ	BW: ham~
+		Word: كبيرتين	Lemma: كَبِير	BW: kabiyr
+		Word: وبارزتين	Lemma: بَارِز	BW: baAriz
+		Word: صارت	Lemma: صَارَ	BW: SaAra
+		Word: معي	Lemma: مَعَّ	BW: maE~a
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: نفسية	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: ولون	Lemma: لَوْن	BW: lawon
+		Word: الشفرتين	Lemma: شَفْر	BW: $afor
+		Word: بني	Lemma: بَنِي	BW: baniy
+		Word: داكن	Lemma: دَاكِن	BW: daAkin
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: بحس	Lemma: حِسّ	BW: His~
+		Word: حالي	Lemma: حَالِيّ	BW: HaAliy~
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: عذراء	Lemma: عَذْرَاء	BW: Ea*oraA'
+	------------------------

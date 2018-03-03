@@ -1,0 +1,37 @@
+السلام عليكم، اختي تحس بصداع، تقول انه اشبه بوخز الإبر ، بعدها تحس ببروده في يسار الرأس و سخونه في يمينه ، ثم ضيق في التنفس و حكه في العين ثم لعثمه في الكلام . نرجو الإجابه..
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: اختي	Lemma: خَتَا	BW: xataA
+		Word: تحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بصداع	Lemma: صُدَاع	BW: SudaAE
+		Word: تقول	Lemma: قَالَ	BW: qaAla
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: اشبه	Lemma: شَبَا	BW: $abaA
+		Word: بوخز	Lemma: وَخْز	BW: waxoz
+		Word: الإبر	Lemma: إِبْرَة	BW: <iborap
+		Word: بعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: تحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: ببروده	Lemma: بُرُود	BW: buruwd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: يسار	Lemma: يَسَار	BW: yasaAr
+		Word: الرأس	Lemma: رَأْس	BW: ra>os
+		Word: و	Lemma: و	BW: w
+		Word: سخونه	Lemma: سُخُون	BW: suxuwn
+		Word: في	Lemma: فِي	BW: fiy
+		Word: يمينه	Lemma: يَمِين	BW: yamiyn
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: ضيق	Lemma: ضِيق	BW: Diyq
+		Word: في	Lemma: فِي	BW: fiy
+		Word: التنفس	Lemma: تَنَفُّس	BW: tanaf~us
+		Word: و	Lemma: و	BW: w
+		Word: حكه	Lemma: حَاكَ	BW: HaAka
+		Word: في	Lemma: فِي	BW: fiy
+		Word: العين	Lemma: عَيْن	BW: Eayon
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: لعثمه	Lemma: عَثِمَ	BW: Eavima
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الكلام	Lemma: كَلَام	BW: kalaAm
+		Word: نرجو	Lemma: رَجَا	BW: rajaA
+		Word: الإجابه	Lemma: الإجابه	BW: Al<jAbh
+	------------------------

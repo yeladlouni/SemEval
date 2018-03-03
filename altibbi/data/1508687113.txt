@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Afb
+
+جرثوم صامد للحمض
+
+Lysogenic bacterium
+
+جرثوم مستذيب
+
+Flesh wound
+
+جرح اللحم
+
+Gash
+
+جرح عميق
+
+Avulsed wound
+
+جرح قلعي
+
+Sucking wound
+
+جرح مصاص
+
+External traction
+
+جر خارجي
+
+Internal traction
+
+جر داخلي
+
+Dose
+
+جرعة
+
+Sd (skin dose)
+
+جرعة جلدية
+
+Erythema dose
+
+جرعة حماموية
+
+L dose
+
+جرعة ل
+
+Overdose
+
+جرعة مفرطة
+
+Tolerance dose
+
+جرعةالتحمل
+
+Skin dose
+
+جرعة جلدية
+
+Minimal reacting dose
+
+جرعة دنيا متفاعلة
+
+Minimal infecting dose
+
+جرعة دنيا معدية
+
+Minimal lethal dose
+
+جرعة دنيا مميتة
+
+Overdose
+
+جرعة زائدة
+
+Megadose
+
+جرعة ضخمة
+

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Rheotaxis
+
+انجذاب تياري
+
+Rheotropism
+
+انجذاب تياري
+
+Cytotaxis
+
+انجذاب خلوي
+
+Sitotaxis
+
+انجذاب غذائي
+
+Electrotaxis
+
+انجذاب كهربي
+
+Electrotropism
+
+توجه كهربي
+
+Lymphotaxis
+
+انجذاب لمفي
+
+Hydrotaxis
+
+انجذاب مائي
+
+Clinodactyly
+
+انحراف الاصابع
+
+Levoversion
+
+انحراف العينين لليسار
+
+Primary deviation
+
+انحراف اولي
+
+Mesioversion
+
+انحراف انسي
+
+Secondary deviation
+
+انحراف ثانوي
+
+Laterodeviation
+
+انحراف جانبي
+
+Laterotrusion
+
+انحراف جانبي
+
+Exodeviation
+
+انحراف خارجي
+
+Exodeviation
+
+حول وحشي
+
+Exotropia
+
+حول وحشي
+
+Exotropia
+
+خزر
+
+Retrodeviation
+
+انحراف خلفي
+

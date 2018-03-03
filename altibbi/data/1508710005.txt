@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - امراض الجهاز التنفسي
+
+#  المصطلحات الطبية - امراض الجهاز التنفسي
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Electrophrenic respiration
+
+تنفس كهربي حجابي
+
+Kussmaul breathing
+
+تنفس كوسماول
+
+Kussmaul respiration
+
+تنفس كوسماول
+
+Glossopharyngeal breathing
+
+تنفس لساني بلعومي
+
+Frog breathing
+
+تنفس ضفدعي
+
+Apneustic breathing
+
+تنفس متقطع
+
+Spontaneous intermittent mandatory ventilation
+
+تهوية اجبارية متقطعة تلقائية
+
+Simv (spontaneous intermittent mandatory ventilation)
+
+تهوية مفروضة متقطعة تلقائية
+
+Synchronised intermittent mandatory ventilation
+
+تهوية اجبارية متقطعة متزامنة
+
+Artificial ventilation
+
+تهوية اصطناعية
+
+Mechanical ventilation
+
+تهوية ميكانيكية
+
+Intermittent positive pressure ventilation
+
+تهوية الضغط الموجب المتقطع
+
+Continuous positive pressure breathing
+
+تنفس الضغط الموجب المستمر
+
+Continuous positive pressure ventilation
+
+تهوية الضغط الموجب المستمرة
+
+Intermittent positive pressure breathing
+
+تنفس الضغط الموجب المتقطع
+
+Controlled mechanical ventilation
+
+تهوية آلية مضبطة
+
+Intermittent mandatory ventilation
+
+تهوية زامية متقطعة
+
+Assist-control ventilation
+
+تهوية مساعدة مراقبة
+
+Controlled ventilation
+
+تهوية مضبطة
+
+Controlled respiration
+
+تنفس مضبط
+

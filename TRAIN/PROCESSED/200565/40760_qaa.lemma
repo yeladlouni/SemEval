@@ -1,0 +1,46 @@
+ليس هناك ما يمنع من استعمال هذه الادوية في مريض السكري بشكل عام . ولكن يمنع استخدام الداكتون للذين يعانون من : قصور كلوي حاد اختلال كبير في وظيفة الكلى أو زيادة في مستويات بوتاسيوم الدم; الحمل; فرط الحساسية لهذا الدواء أو لأي من مكوناته
+	##Lemmatization results:
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يمنع	Lemma: مَنَعَ	BW: manaEa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: في	Lemma: فِي	BW: fiy
+		Word: مريض	Lemma: مَرِيض	BW: mariyD
+		Word: السكري	Lemma: سُكَّرِيّ	BW: suk~ariy~
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: يمنع	Lemma: مَنَعَ	BW: manaEa
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: الداكتون	Lemma: الداكتون	BW: AldAktwn
+		Word: للذين	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يعانون	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قصور	Lemma: قَصْر	BW: qaSor
+		Word: كلوي	Lemma: لَوِيّ	BW: lawiy~
+		Word: حاد	Lemma: حَادّ	BW: HaAd~
+		Word: اختلال	Lemma: اخْتِلَال	BW: AxotilaAl
+		Word: كبير	Lemma: كَبِير	BW: kabiyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: وظيفة	Lemma: وَظِيفَة	BW: waZiyfap
+		Word: الكلى	Lemma: كُلْيَة	BW: kuloyap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: زيادة	Lemma: زِيَادَة	BW: ziyaAdap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: مستويات	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: بوتاسيوم	Lemma: بُوتَاسْيُوم	BW: buwtaAsoyuwm
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: الحمل	Lemma: حِمْل	BW: Himol
+		Word: فرط	Lemma: فَرْط	BW: faroT
+		Word: الحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: لهذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: لأي	Lemma: أَيّ	BW: >ay~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مكوناته	Lemma: مُكَوِّن	BW: mukaw~in
+	------------------------

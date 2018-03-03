@@ -1,0 +1,33 @@
+كلا لكل مرض فحص خاص فحص الدم الشامل يكشف عن مكونات الدم وخلاياه الحمراء والبيضاء واللمفية وهو قد يشير إلى بعض الخصائص العامة ولكنه لا يمكن تحديد توع الأمراض بدقة.
+	##Lemmatization results:
+		Word: كلا	Lemma: لَا	BW: laA
+		Word: لكل	Lemma: كُلّ	BW: kul~
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+		Word: خاص	Lemma: خَاصّ	BW: xaAS~
+		Word: فحص	Lemma: فَحَصَ	BW: faHaSa
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: الشامل	Lemma: شَامِل	BW: $aAmil
+		Word: يكشف	Lemma: كَشَفَ	BW: ka$afa
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: مكونات	Lemma: مُكَوِّن	BW: mukaw~in
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: وخلاياه	Lemma: خَلِيَّة	BW: xaliy~ap
+		Word: الحمراء	Lemma: حَمْرَاء	BW: HamoraA'
+		Word: والبيضاء	Lemma: بَيْضَاء	BW: bayoDaA'
+		Word: واللمفية	Lemma: واللمفية	BW: wAllmfyp
+		Word: وهو	Lemma: هُوَ	BW: huwa
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: يشير	Lemma: أَشَارَ	BW: >a$aAra
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الخصائص	Lemma: خَاصِّيَّة	BW: xaAS~iy~ap
+		Word: العامة	Lemma: عَامّ	BW: EaAm~
+		Word: ولكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: تحديد	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: توع	Lemma: وَعَى	BW: waEaY
+		Word: الأمراض	Lemma: مَرَض	BW: maraD
+		Word: بدقة	Lemma: دِقَّة	BW: diq~ap
+	------------------------

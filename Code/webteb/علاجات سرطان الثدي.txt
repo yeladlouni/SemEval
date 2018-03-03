@@ -1,0 +1,9 @@
+# علاجات سرطان الثدي
+
+اسم العلاج | Treatment Name  
+---|---  
+ترميم الثدي  |  Breast Reconstruction Without Implants  
+اعادة بناء الثدي  |  Breast Reconstruction Surgery  
+استئصال أورام الثدي  |  Lumpectomy  
+جراحة سرطان الثدي  |  Breast tumors surgery
+

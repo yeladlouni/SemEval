@@ -1,0 +1,35 @@
+انا شاب ابلغ من العمر 22 سنة اعاني منذ فترة من الم في الجهة اليسرى من الرقبة و اشعر من خلاله ان راسي ثقيل مما يسبب لي تاخر في الفهم و عدم التركيز
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: فترة	Lemma: فَتْرَة	BW: fatorap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجهة	Lemma: جِهَة	BW: jihap
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الرقبة	Lemma: رَقَبَة	BW: raqabap
+		Word: و	Lemma: و	BW: w
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: خلاله	Lemma: خِلَال	BW: xilaAl
+		Word: ان	Lemma: ان	BW: An
+		Word: راسي	Lemma: رَاس	BW: raAs
+		Word: ثقيل	Lemma: ثَقِيل	BW: vaqiyl
+		Word: مما	Lemma: مِنْ	BW: mino
+		Word: يسبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: لي	Lemma: لِي	BW: liy
+		Word: تاخر	Lemma: تاخر	BW: tAxr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الفهم	Lemma: فَهْم	BW: fahom
+		Word: و	Lemma: و	BW: w
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+	------------------------

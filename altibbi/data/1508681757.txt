@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Microrefractometer
+
+مقياس الانكسار المكروي
+
+Ohmmeter
+
+مقياس الاوم
+
+Optimeter, optometer
+
+مقياس البصر
+
+Oximeter
+
+مقياس التاكسج
+
+Fluorometer
+
+مقياس التالق
+
+Algesiometer
+
+مقياس التالم
+
+Algesimeter
+
+مقياس التالم
+
+Myokinesimeter
+
+مقياس التحرك العضلي
+
+Myometer
+
+مقياس التقلص العضلي
+
+Accomdometer
+
+مقياس التكيف
+
+Adaptometer
+
+مقياس التلاؤم
+
+Osmometer
+
+مقياس التناضح
+
+Respirometer
+
+مقياس التنفس
+
+Boncho-spirometer
+
+مقياس التنفس القصبي
+
+Microrespirometer
+
+مقياس التنفس المكروي
+
+Tonometer
+
+مقياس التوتر
+
+Orbitonometer
+
+مقياس التوتر الحجاجي
+
+Tensiometer
+
+مقياس التوتر السطحي
+
+Thermotonometer
+
+مقياس التوترية العضلية الحراري
+
+Dromograph
+
+مقياس التوصيل
+

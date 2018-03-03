@@ -1,0 +1,47 @@
+ابي الذي عمرة 70 عام; يعاني من ارتفاع ضغط الدم; ومن مستوى كلوسترول مرتفع. ياخذ الادوية التالية: بلافيكس (plavix) اينالابريل (Enalapril) سيمفاستاتين (Simvastatin). مؤخرا حدثت لدية على ما يبدو تغييرات في سلوكه: فهو يظهر الكثير من الشك. هل من الممكن ان يكون هذا هو احد الاثار الجانبية للادوية 
+	##Lemmatization results:
+		Word: ابي	Lemma: ابي	BW: Aby
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: عمرة	Lemma: عُمْرَة	BW: Eumorap
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: يعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: مستوى	Lemma: مُسْتَوًى	BW: musotawFY
+		Word: كلوسترول	Lemma: كلوسترول	BW: klwstrwl
+		Word: مرتفع	Lemma: مُرْتَفِع	BW: murotafiE
+		Word: ياخذ	Lemma: ياخذ	BW: yAx*
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: التالية	Lemma: تَالِيَة	BW: taAliyap
+		Word: بلافيكس	Lemma: بلافيكس	BW: blAfyks
+		Word: اينالابريل	Lemma: اينالابريل	BW: AynAlAbryl
+		Word: سيمفاستاتين	Lemma: سيمفاستاتين	BW: symfAstAtyn
+		Word: مؤخرا	Lemma: مُؤَخَّر	BW: mu&ax~ar
+		Word: حدثت	Lemma: حَدَثَ	BW: Hadava
+		Word: لدية	Lemma: دِيَة	BW: diyap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يبدو	Lemma: بَدَا	BW: badaA
+		Word: تغييرات	Lemma: تَغْيِير	BW: tagoyiyr
+		Word: في	Lemma: فِي	BW: fiy
+		Word: سلوكه	Lemma: سُلُوك	BW: suluwk
+		Word: فهو	Lemma: هُوَ	BW: huwa
+		Word: يظهر	Lemma: أَظْهَرَ	BW: >aZohara
+		Word: الكثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الشك	Lemma: شَكّ	BW: $ak~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ان	Lemma: ان	BW: An
+		Word: يكون	Lemma: كَوَّنَ	BW: kaw~ana
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: احد	Lemma: حَدَى	BW: HadaY
+		Word: الاثار	Lemma: الاثار	BW: AlAvAr
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: للادوية	Lemma: للادوية	BW: llAdwyp
+	------------------------

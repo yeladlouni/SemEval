@@ -1,0 +1,17 @@
+التحاليل تعمل حسب طلب الطبيب; وفحص الدم الروتيني لا يشمل فحوصات السيدا او الايدز.
+	##Lemmatization results:
+		Word: التحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: تعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: طلب	Lemma: طَلَب	BW: Talab
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وفحص	Lemma: فَحَصَ	BW: faHaSa
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: الروتيني	Lemma: الروتيني	BW: Alrwtyny
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يشمل	Lemma: شَمِلَ	BW: $amila
+		Word: فحوصات	Lemma: فَحْص	BW: faHoS
+		Word: السيدا	Lemma: السيدا	BW: AlsydA
+		Word: او	Lemma: او	BW: Aw
+		Word: الايدز	Lemma: الايدز	BW: AlAydz
+	------------------------

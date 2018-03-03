@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تجهيزات طبية
+
+#  المصطلحات الطبية - تجهيزات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Dolorimeter
+
+مقياس الالم
+
+Optimeter, optometer
+
+مقياس البصر
+
+Oximeter
+
+مقياس التاكسج
+
+Fluorometer
+
+مقياس التالق
+
+Algesimeter
+
+مقياس التالم
+
+Accomdometer
+
+مقياس التكيف
+
+Adaptometer
+
+مقياس التلاؤم
+
+Osmometer
+
+مقياس التناضح
+
+Respirometer
+
+مقياس التنفس
+
+Boncho-spirometer
+
+مقياس التنفس القصبي
+
+Tonometer
+
+مقياس التوتر
+
+Tensiometer
+
+مقياس التوتر السطحي
+
+Pachymeter
+
+مقياس الثخن
+
+Dosimeter
+
+مقياس الجرعة الشعاعية
+
+Flowmeter, rotameter
+
+مقياس الجريان
+
+Uroflowmeter uroflometer
+
+مقياس جريان البول
+
+Craniometer
+
+مقياس الجمجمة
+
+Sonometer
+
+مقياس حدة السمع
+
+Pupillometer
+
+مقياس الحدقة
+
+Thermometer
+
+مقياس الحرارة
+

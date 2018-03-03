@@ -1,0 +1,22 @@
+في بعض الحالات التي يشخصها الطبيب كالتوحد مثلا تعطى ادويه حسب مايراه الطبيب مناسبا- اما الاصحاء لا ضروره لذلك
+	##Lemmatization results:
+		Word: في	Lemma: فِي	BW: fiy
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الحالات	Lemma: حَالَة	BW: HaAlap
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يشخصها	Lemma: أَشْخَصَ	BW: >a$oxaSa
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: كالتوحد	Lemma: تَوَحُّد	BW: tawaH~ud
+		Word: مثلا	Lemma: مِثْل	BW: mivol
+		Word: تعطى	Lemma: أَعْطَى	BW: >aEoTaY
+		Word: ادويه	Lemma: ادويه	BW: Adwyh
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: مايراه	Lemma: مَايَرَ	BW: maAyara
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: مناسبا	Lemma: مُنَاسِب	BW: munaAsib
+		Word: اما	Lemma: اما	BW: AmA
+		Word: الاصحاء	Lemma: الاصحاء	BW: AlASHA'
+		Word: لا	Lemma: لَا	BW: laA
+		Word: ضروره	Lemma: ضروره	BW: Drwrh
+		Word: لذلك	Lemma: ذَا	BW: *aA
+	------------------------

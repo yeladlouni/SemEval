@@ -1,0 +1,11 @@
+بشكل عام يكفي ولكن الأمر يختلف حسب الحالة.
+	##Lemmatization results:
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: يكفي	Lemma: كَفَى	BW: kafaY
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الأمر	Lemma: أَمْر	BW: >amor
+		Word: يختلف	Lemma: اخْتَلَفَ	BW: Axotalafa
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+	------------------------

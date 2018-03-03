@@ -1,0 +1,27 @@
+أريد أن أستعمل خميرة البيرة كي أسمن وسمعت أن هناك أنواع منها عبارة غن حبوب ومنها مسحوق أيهما أفضل وكيف أستعملها وهل لها مضار؟
+	##Lemmatization results:
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أستعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: خميرة	Lemma: خِمِّير	BW: xim~iyr
+		Word: البيرة	Lemma: بِيرَة	BW: biyrap
+		Word: كي	Lemma: كَيْ	BW: kayo
+		Word: أسمن	Lemma: أَسَمَّ	BW: >asam~a
+		Word: وسمعت	Lemma: سَمِعَ	BW: samiEa
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: أنواع	Lemma: نَوْع	BW: nawoE
+		Word: منها	Lemma: مِنْ	BW: mino
+		Word: عبارة	Lemma: عِبَارَة	BW: EibaArap
+		Word: غن	Lemma: غَنّ	BW: gan~
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: ومنها	Lemma: مِنْ	BW: mino
+		Word: مسحوق	Lemma: مَسْحُوق	BW: masoHuwq
+		Word: أيهما	Lemma: أَيّ	BW: >ay~
+		Word: أفضل	Lemma: أَفْضَل	BW: >afoDal
+		Word: وكيف	Lemma: كَيْفَ	BW: kayofa
+		Word: أستعملها	Lemma: عَمِلَ	BW: Eamila
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: لها	Lemma: لِي	BW: liy
+		Word: مضار	Lemma: مَضَرَّة	BW: maDar~ap
+	------------------------

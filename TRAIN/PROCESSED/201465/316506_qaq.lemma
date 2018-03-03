@@ -1,0 +1,43 @@
+السؤال لو سمحتم لقد أعطاني الدكتور دواء Medrol وأنا حامل بالشهر الثاني وقال لي أنه مانع للإجهاض هل هذا صحيح أم أن للدواء وظائف أخرى مثبت مثلاً السؤال: أريد أن أعرف معلومات أكثر عنه. (العقار هو حبة واحدة في اليوم وباليل).
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحتم	Lemma: سَمَحَ	BW: samaHa
+		Word: لقد	Lemma: قَدْ	BW: qado
+		Word: أعطاني	Lemma: أَعْطَى	BW: >aEoTaY
+		Word: الدكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وأنا	Lemma: أَنَا	BW: >anaA
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: بالشهر	Lemma: شَهْر	BW: $ahor
+		Word: الثاني	Lemma: ثَانِي	BW: vaAniy
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: مانع	Lemma: مَانِع	BW: maAniE
+		Word: للإجهاض	Lemma: إِجْهَاض	BW: <ijohaAD
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: للدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: وظائف	Lemma: وَظِيفَة	BW: waZiyfap
+		Word: أخرى	Lemma: أُخْرَى	BW: >uxoraY
+		Word: مثبت	Lemma: مُثَبِّت	BW: muvab~it
+		Word: مثلًا	Lemma: مَثَل	BW: maval
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: معلومات	Lemma: مَعْلُومَة	BW: maEoluwmap
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: عنه	Lemma: عَنْ	BW: Eano
+		Word: العقار	Lemma: عَقَار	BW: EaqaAr
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: حبة	Lemma: حَبّ	BW: Hab~
+		Word: واحدة	Lemma: وَاحِد	BW: waAHid
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: وباليل	Lemma: يَلّ	BW: yal~
+	------------------------

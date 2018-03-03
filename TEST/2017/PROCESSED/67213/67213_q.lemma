@@ -1,0 +1,12 @@
+هل أكل حبوب المضاد الحيوي دون سبب ، يسبب أمراض ؟
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: أكل	Lemma: أَكَلَ	BW: >akala
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: المضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: الحيوي	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: دون	Lemma: دُون	BW: duwn
+		Word: سبب	Lemma: سَبَب	BW: sabab
+		Word: يسبب	Lemma: سَبَّبَ	BW: sab~aba
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+	------------------------

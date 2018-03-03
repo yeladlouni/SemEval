@@ -1,0 +1,88 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Electrogram
+
+مخطط الكهربية
+
+Cystometrogram
+
+مخطط المثانة
+
+Nomograph
+
+مخطط المعادلة
+
+Polysomnogram
+
+مخطط النوم
+
+Phonorenogram
+
+مخطط اصوات الكلية
+
+Sonogram
+
+مخطط تصواتي
+
+(مُخَْطَّطُ الأَمْوَاجِ فَوقَ الصَّوت)
+
+Cardiokymogram
+
+مخطط تموج القلب
+
+Eky (electrokymogram)
+
+مخطط تموجي كهربي
+
+Pneumotachogram
+
+مخطط سرعة التنفس
+
+Snellen chart
+
+مخطط سنيلين
+
+Echoencephalogram
+
+مخطط صدى الدماغ
+
+Echocardiogram
+
+مخطط صدى القلب
+
+Neurogram
+
+مخطط عصبي
+
+Tocodynagraph
+
+مخطط قوة المخاض
+
+Isoelectric electroencephalogram
+
+مخطط كهربية الدماغ الكهرساوي
+
+Flat electroencephalogram
+
+مخطط كهربية الدماغ المسطح
+
+Emg (electromyogram)
+
+مخطط كهربية العضل
+
+Electrocochleogram
+
+مخطط كهربية القوقعة
+
+Electrogastrogram
+
+مخطط كهربية المعدة
+
+Tanner growth chart
+
+مخطط نمو تانر
+

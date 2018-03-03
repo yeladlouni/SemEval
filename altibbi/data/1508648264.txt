@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تشخيص
+
+#  المصطلحات الطبية - تشخيص
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Tanner growth chart
+
+مخطط نمو تانر
+
+Striatonigral
+
+مخططي سودائي
+
+A-mode (amplitude mode)
+
+مدى الطرز
+
+Inoscopy
+
+معاينة الالياف
+
+Scatoscopy
+
+معاينة البراز
+
+Valsalva maneuver
+
+مناورة فالسالفا
+
+Volume index
+
+منسب حجمي
+
+Palatal index
+
+منسب حنكي
+
+Palatomaxillary index
+
+منسب حنكي فكي
+
+Vital index
+
+منسب حيوي
+
+Opsonic index
+
+منسب طهائي
+
+Cranial index
+
+منسب قحفي
+
+Pressure-volume index
+
+منسب وزني حجمي
+
+Icterus index
+
+منسب يرقاني
+
+Refractive index
+
+منسب الانكسار
+
+Phagocytic index
+
+منسب البلعمة
+
+Saturation index
+
+منسب التشبع
+
+Small increment sensitivity index
+
+منسب الحساسية للعلاوات الصغيرة
+
+Stroke work index
+
+منسب العمل للضربة
+
+Effective temperature
+
+منسب درجة الحرارة الفعالة
+

@@ -1,0 +1,15 @@
+في حالة الجرب هل تظهر حبوب قبل الحك . ام تظهر بعد الحك 
+	##Lemmatization results:
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: الجرب	Lemma: أَجْرَب	BW: >ajorab
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: قبل	Lemma: قَبْلَ	BW: qabola
+		Word: الحك	Lemma: لَحِكَ	BW: laHika
+		Word: ام	Lemma: ام	BW: Am
+		Word: تظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: الحك	Lemma: لَحِكَ	BW: laHika
+	------------------------

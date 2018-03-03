@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - امراض العيون
+
+#  المصطلحات الطبية - امراض العيون
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Ophthalmectomy
+
+استئصال العين
+
+Tarsectomy
+
+استئصال غضروف الجفن
+
+Iridocyclectomy
+
+استئصال القزحية والهدابى
+
+Canthectomy
+
+استئصال اللحاظ
+
+Canthectomy
+
+استئصال الموق
+
+Projection of light
+
+اسقاط الضوء
+
+Blepharoptosis , lid ptosis
+
+اطراف
+
+Blepharoptosis
+
+اطراق
+
+Retinopathy
+
+اعتلال الشبكية
+
+Chorioretinopathy
+
+اعتلال الشبكية والمشيمية
+
+Exudative retinopathy
+
+اعتلال الشبكية النضحي
+
+Photopathy
+
+اعتلال ضوئي
+
+Iridopathy
+
+اعتلال القزحية
+
+Choridopathy
+
+اعتلال المشيمية
+
+Blind
+
+اعمى
+
+Tritanopic
+
+اعمى الازرق
+
+Color blindness
+
+عمى الالوان
+
+Transplantation of the cornea
+
+اغتراس القرنية
+
+Iritoectomy
+
+اقتطاع القزحية
+
+Tenonectomy
+
+اقتطاع الوتر
+

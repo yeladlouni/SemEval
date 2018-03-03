@@ -1,0 +1,28 @@
+اذا قمت باستخدام دواء ولم يحدث لي اي اعراض جانبية. هل من الممكن حدوث اعراض جانبية من نفس الدواء ولكن مصنع من طرف شركة اخرى 
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: قمت	Lemma: قَامَ	BW: qaAma
+		Word: باستخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: لي	Lemma: لِي	BW: liy
+		Word: اي	Lemma: اي	BW: Ay
+		Word: اعراض	Lemma: اعراض	BW: AErAD
+		Word: جانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: حدوث	Lemma: حُدُوث	BW: Huduwv
+		Word: اعراض	Lemma: اعراض	BW: AErAD
+		Word: جانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: مصنع	Lemma: مَصْنَع	BW: maSonaE
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: طرف	Lemma: طَرَف	BW: Taraf
+		Word: شركة	Lemma: شَرِكَة	BW: $arikap
+		Word: اخرى	Lemma: اخرى	BW: AxrY
+	------------------------

@@ -1,0 +1,11 @@
+لا ااضرر من هذه الحبوب ان كنت تحتاجينها
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: ااضرر	Lemma: ااضرر	BW: AADrr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: ان	Lemma: ان	BW: An
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: تحتاجينها	Lemma: احْتَاجَ	BW: AHotaAja
+	------------------------

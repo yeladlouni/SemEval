@@ -1,0 +1,45 @@
+ابنتي تبلغ من العم 6سنوات وسبعة اشهر تعاني منذو شهر تقريبا من السعال ويزداد اثنا الضحك او النوم يصحبه طرش ملي بالبلغم ويصحب السعال عطس واحيانا صعوبة في التنفس عرضتها على طبيب وصف لها مضاد حيوي هداء السعال فتره وعاد كما كان
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: تبلغ	Lemma: تَبَلَّغَ	BW: tabal~aga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العم	Lemma: عَمّ	BW: Eam~
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وسبعة	Lemma: سَبْع	BW: saboE
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: منذو	Lemma: منذو	BW: mn*w
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: تقريبا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: ويزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: اثنا	Lemma: اثْنَا	BW: AvonaA
+		Word: الضحك	Lemma: ضَحَك	BW: DaHak
+		Word: او	Lemma: او	BW: Aw
+		Word: النوم	Lemma: نَوْم	BW: nawom
+		Word: يصحبه	Lemma: صَحِبَ	BW: SaHiba
+		Word: طرش	Lemma: أَطْرَش	BW: >aTora$
+		Word: ملي	Lemma: مَلّ	BW: mal~
+		Word: بالبلغم	Lemma: بَلْغَم	BW: balogam
+		Word: ويصحب	Lemma: صَحِبَ	BW: SaHiba
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: عطس	Lemma: عَطْس	BW: EaTos
+		Word: واحيانا	Lemma: وَاح	BW: waAH
+		Word: صعوبة	Lemma: صُعُوبَة	BW: SuEuwbap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: التنفس	Lemma: تَنَفُّس	BW: tanaf~us
+		Word: عرضتها	Lemma: عَرَضَ	BW: EaraDa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وصف	Lemma: وَصَفَ	BW: waSafa
+		Word: لها	Lemma: لِي	BW: liy
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: حيوي	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: هداء	Lemma: هَدَّاء	BW: had~aA'
+		Word: السعال	Lemma: سُعَال	BW: suEaAl
+		Word: فتره	Lemma: تَرّ	BW: tar~
+		Word: وعاد	Lemma: عَادَ	BW: EaAda
+		Word: كما	Lemma: كَمّ	BW: kam~
+		Word: كان	Lemma: كَانَ	BW: kaAna
+	------------------------

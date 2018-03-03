@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تخدير
+
+#  المصطلحات الطبية - تخدير
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Axillary block
+
+احصار ابطي
+
+Stellate block
+
+احصار نجمي
+
+Sympathetic block
+
+احصار ودي
+
+Intercostal block
+
+احصار وربي
+
+Infiltration paraneural
+
+ارتشاح جنيب العصب
+
+Paraneural infiltration
+
+ارشاح جنيب العصب
+
+Anesthesia
+
+تبنيج
+
+Basal anesthesia
+
+تبنيج اساسي
+
+Hypnosis anesthesia
+
+تبنيج تنويمي
+
+Infiltration anesthesia
+
+تبنيج ارشاحي
+
+Inhalation anesthesia
+
+تبنيج انشاقي
+
+Frost anesthesia
+
+تبنيج بالتثليج
+
+Surgical anesthesia
+
+تبنيج جراحي
+
+Peridural anesthesia
+
+تبنيبج خارج الجافية
+
+Endotracheal anesthesia
+
+تبنيج رغامي
+
+Topical anesthesia
+
+تبنيج سطحي
+
+Permeation anesthesia
+
+تبنيج السطح
+
+General anesthesia
+
+تبنيج عام
+
+Sacral anesthesia
+
+تبنيج عجزي
+
+Dissociated anesthesia
+
+تبنيج متفارق
+

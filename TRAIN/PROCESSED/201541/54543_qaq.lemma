@@ -1,0 +1,37 @@
+عمري 42 وزني 90 طولي 180 لا أعاني من أية أمراض أشعر فقط بألم في كتفي الأيسر ويزداد الألم عند ممارسة رياضة السباحة أو حمل الأثقال لدرجة أني أحس بألم في القلب ما هي الأسباب وما العلاج 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: طولي	Lemma: طَالَ	BW: TaAla
+		Word: لا	Lemma: لَا	BW: laA
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أية	Lemma: أَيّ	BW: >ay~
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: أشعر	Lemma: أَشْعَرَ	BW: >a$oEara
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: بألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: كتفي	Lemma: كَتِف	BW: katif
+		Word: الأيسر	Lemma: أَيْسَر	BW: >ayosar
+		Word: ويزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: الألم	Lemma: أَلَم	BW: >alam
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: رياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: السباحة	Lemma: سِبَاحَة	BW: sibaAHap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: حمل	Lemma: حَمْل	BW: Hamol
+		Word: الأثقال	Lemma: ثَقَل	BW: vaqal
+		Word: لدرجة	Lemma: دَرَج	BW: daraj
+		Word: أني	Lemma: أَنَّ	BW: >an~a
+		Word: أحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: القلب	Lemma: قَلْب	BW: qalob
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: الأسباب	Lemma: سَبَب	BW: sabab
+		Word: وما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

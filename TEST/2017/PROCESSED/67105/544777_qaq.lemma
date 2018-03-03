@@ -1,0 +1,35 @@
+انا عمري 16 سنه وطولي 160 يعني قصير ولكن مشكلتي في مقاس قدمي 44-45 وقدمي عريضة وقال لي شخص قريب لي ان عندي فلات فوت ومقاس قدمي يسببلي احراج وسوف اصغرها حتي اذا استلزم جراحه:(
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: قصير	Lemma: قَصِير	BW: qaSiyr
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: مشكلتي	Lemma: مُشْكِل	BW: mu$okil
+		Word: في	Lemma: فِي	BW: fiy
+		Word: مقاس	Lemma: مَقَاس	BW: maqaAs
+		Word: قدمي	Lemma: قَدَم	BW: qadam
+		Word: وقدمي	Lemma: قَدَّمَ	BW: qad~ama
+		Word: عريضة	Lemma: عَرِيض	BW: EariyD
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: شخص	Lemma: شَخْص	BW: $axoS
+		Word: قريب	Lemma: قَرِيب	BW: qariyb
+		Word: لي	Lemma: لِي	BW: liy
+		Word: ان	Lemma: ان	BW: An
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: فلات	Lemma: فِلَّة	BW: fil~ap
+		Word: فوت	Lemma: فَوَّتَ	BW: faw~ata
+		Word: ومقاس	Lemma: مِقَاس	BW: miqaAs
+		Word: قدمي	Lemma: قَدَم	BW: qadam
+		Word: يسببلي	Lemma: يسببلي	BW: ysbbly
+		Word: احراج	Lemma: احراج	BW: AHrAj
+		Word: وسوف	Lemma: سَوْفَ	BW: sawofa
+		Word: اصغرها	Lemma: صَغَرَ	BW: Sagara
+		Word: حتي	Lemma: حَتِّيّ	BW: Hat~iy~
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: استلزم	Lemma: اسْتَلْزَمَ	BW: Asotalozama
+		Word: جراحه	Lemma: جُرْح	BW: juroH
+	------------------------

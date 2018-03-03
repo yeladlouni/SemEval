@@ -1,0 +1,88 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Radarkymography
+
+تخطيط التموج الراداري
+
+Roentgen kymography
+
+تخطيط التموج الشعاعي
+
+Spirography
+
+تخطيط التنفس
+
+Broncho-spirography
+
+تخطيط التنفس القصبي
+
+Tonography
+
+تخطيط التوتر
+
+Encephalography
+
+تخطيط الدماغ
+
+(تخطيط كهربية الدماغ)
+
+Eeg (electroencephalogram)
+
+تخطيط الدماغ الكهربائي
+
+Magnetoencephalography
+
+تخطيط الدماغ المغناطيسي
+
+Nystagmography
+
+تخطيط الراراة
+
+Cervicography
+
+تخطيط الرقبة
+
+Tachography
+
+تخطيط السرعة
+
+Ultrasonography
+
+تخطيط الصدى
+
+Doppler ultrasonography
+
+تخطيط الصدى الدوبلري
+
+Myography
+
+تخطيط العضل
+
+Cupulometry
+
+تخطيط القبيبة
+
+Cardiography
+
+تخطيط القلب
+
+Vectocardio-graphy
+
+تخطيط القلب الاتجاهي
+
+Doppler echocardiography
+
+تخطيط القلب الدوبلري
+
+Ballistocardio-graphy
+
+تخطيط القلب الزفني
+
+Radiocardio-graphy
+
+تخطيط القلب اللاسلكي
+

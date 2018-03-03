@@ -1,0 +1,33 @@
+عمري 42 سنة وفي الفترة الأخيرة أصبحت أعاني من ألم في عضلة الساقين الخلفية (ألم شبيه بالحرقة) وخاصة بعد الجلوس لوقت طويل نسبيا تختفي مع المشي اريد حل مع الشكر الجزيل 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وفي	Lemma: فِي	BW: fiy
+		Word: الفترة	Lemma: فَتْرَة	BW: fatorap
+		Word: الأخيرة	Lemma: أَخِير	BW: >axiyr
+		Word: أصبحت	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: عضلة	Lemma: عَضَلَة	BW: EaDalap
+		Word: الساقين	Lemma: سَاق	BW: saAq
+		Word: الخلفية	Lemma: خَلْفِيّ	BW: xalofiy~
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: شبيه	Lemma: شَبِيه	BW: $abiyh
+		Word: بالحرقة	Lemma: حِرْقَة	BW: Hiroqap
+		Word: وخاصة	Lemma: خَاصَّة	BW: xaAS~ap
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: الجلوس	Lemma: جُلُوس	BW: juluws
+		Word: لوقت	Lemma: وَقْت	BW: waqot
+		Word: طويل	Lemma: طَوِيل	BW: Tawiyl
+		Word: نسبيا	Lemma: نِسْبِيّ	BW: nisobiy~
+		Word: تختفي	Lemma: اخْتَفَى	BW: AxotafaY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: المشي	Lemma: مَشْي	BW: ma$oy
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: حل	Lemma: حِلّ	BW: Hil~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: الشكر	Lemma: شُكْر	BW: $ukor
+		Word: الجزيل	Lemma: جَزِيل	BW: jaziyl
+	------------------------

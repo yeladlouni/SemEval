@@ -1,0 +1,41 @@
+يمكن أن تشير إلى تناول طعام فاسد فسبب تسمما غذائيا، تزول هذه الأعراض خلال 48-72ساعة مع تناول دواء ميتوكلوبراميد وباراسيتامول وتناول وجبات خفيفة. اما إذا كانت هذه الأعراض متكررة فقد تكون حمى البحر الأبيض المتوسط وعلاجها كولشيسين وأندوميثاسين
+	##Lemmatization results:
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: تشير	Lemma: أَشَارَ	BW: >a$aAra
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: طعام	Lemma: طَعَام	BW: TaEaAm
+		Word: فاسد	Lemma: فَاسِد	BW: faAsid
+		Word: فسبب	Lemma: سَبَب	BW: sabab
+		Word: تسمما	Lemma: سَمَّمَ	BW: sam~ama
+		Word: غذائيا	Lemma: غِذَائِيّ	BW: gi*aA}iy~
+		Word: تزول	Lemma: زَالَ	BW: zaAla
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الأعراض	Lemma: عِرْض	BW: EiroD
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ميتوكلوبراميد	Lemma: ميتوكلوبراميد	BW: mytwklwbrAmyd
+		Word: وباراسيتامول	Lemma: وباراسيتامول	BW: wbArAsytAmwl
+		Word: وتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: وجبات	Lemma: وَجْبَة	BW: wajobap
+		Word: خفيفة	Lemma: خَفِيفَة	BW: xafiyfap
+		Word: اما	Lemma: اما	BW: AmA
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الأعراض	Lemma: عِرْض	BW: EiroD
+		Word: متكررة	Lemma: مُتَكَرِّر	BW: mutakar~ir
+		Word: فقد	Lemma: قَدْ	BW: qado
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: حمى	Lemma: حَمَى	BW: HamaY
+		Word: البحر	Lemma: بَحْر	BW: baHor
+		Word: الأبيض	Lemma: أَبْيَض	BW: >aboyaD
+		Word: المتوسط	Lemma: مُتَوَسِّط	BW: mutawas~iT
+		Word: وعلاجها	Lemma: عِلَاج	BW: EilaAj
+		Word: كولشيسين	Lemma: كولشيسين	BW: kwl$ysyn
+		Word: وأندوميثاسين	Lemma: وأندوميثاسين	BW: w>ndwmyvAsyn
+	------------------------

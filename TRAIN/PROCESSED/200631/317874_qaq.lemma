@@ -1,0 +1,25 @@
+السؤال أصبت بفيروس a ونزلت نسبة تحليل A.S.T إلى 52 والمفروض تكون 37 ونسبة تحليل A.L.T إلى 75 والمفروض تكون 50 أو أقل فهل ما زلت أحتاج إلى الراحة 
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أصبت	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بفيروس	Lemma: بفيروس	BW: bfyrws
+		Word: ونزلت	Lemma: نَزَلَ	BW: nazala
+		Word: نسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: والمفروض	Lemma: مَفْرُوض	BW: maforuwD
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: ونسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: والمفروض	Lemma: مَفْرُوض	BW: maforuwD
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أقل	Lemma: أَقَلّ	BW: >aqal~
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: ما	Lemma: مَا	BW: maA
+		Word: زلت	Lemma: زَالَ	BW: zaAla
+		Word: أحتاج	Lemma: احْتَاجَ	BW: AHotaAja
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: الراحة	Lemma: رَاحَة	BW: raAHap
+	------------------------

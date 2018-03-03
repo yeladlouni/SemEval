@@ -1,0 +1,31 @@
+مرحبا دكتور.أنا عمري تقريباً 35سنة ويوجد عندي ميول لرجال الذين تعده أعمارهم 45ومافوق ويكون كثيف الشعر أحب النظر إليهم وأشتهيه. وهذه الحالة متعبتني كتير.. أرجو حل منكم
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: دكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: تقريبًا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ويوجد	Lemma: وَجَدَ	BW: wajada
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: ميول	Lemma: مُيُول	BW: muyuwl
+		Word: لرجال	Lemma: رَجُل	BW: rajul
+		Word: الذين	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تعده	Lemma: عَدَا	BW: EadaA
+		Word: أعمارهم	Lemma: عُمْر	BW: Eumor
+		Word: ومافوق	Lemma: ومافوق	BW: wmAfwq
+		Word: ويكون	Lemma: كَانَ	BW: kaAna
+		Word: كثيف	Lemma: كَثِيف	BW: kaviyf
+		Word: الشعر	Lemma: شَعْر	BW: $aEor
+		Word: أحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: النظر	Lemma: نَظَر	BW: naZar
+		Word: إليهم	Lemma: إِلَى	BW: <ilaY
+		Word: وأشتهيه	Lemma: اشْتَهَى	BW: A$otahaY
+		Word: وهذه	Lemma: ذَا	BW: *aA
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: متعبتني	Lemma: متعبتني	BW: mtEbtny
+		Word: كتير	Lemma: كتير	BW: ktyr
+		Word: أرجو	Lemma: رَجَا	BW: rajaA
+		Word: حل	Lemma: حِلّ	BW: Hil~
+		Word: منكم	Lemma: مِنْ	BW: mino
+	------------------------

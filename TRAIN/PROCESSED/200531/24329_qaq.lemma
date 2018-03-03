@@ -1,0 +1,31 @@
+ابنتي تبلغ من العمر 6اشهر اريد ان اتبع نظام غذائي صحي ومفيد لها ولا اعرف الاطعمة التي يجب ان تتناولها مع العلم انها تتناول حليب صناعي ووزنها 9كيلو 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: تبلغ	Lemma: تَبَلَّغَ	BW: tabal~aga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: ان	Lemma: ان	BW: An
+		Word: اتبع	Lemma: اتَّبَعَ	BW: At~abaEa
+		Word: نظام	Lemma: نِظَام	BW: niZaAm
+		Word: غذائي	Lemma: غِذَائِيّ	BW: gi*aA}iy~
+		Word: صحي	Lemma: صِحِّيّ	BW: SiH~iy~
+		Word: ومفيد	Lemma: مُفِيد	BW: mufiyd
+		Word: لها	Lemma: لِي	BW: liy
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: الاطعمة	Lemma: الاطعمة	BW: AlATEmp
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: ان	Lemma: ان	BW: An
+		Word: تتناولها	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: تتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: صناعي	Lemma: صِنَاعِيّ	BW: SinaAEiy~
+		Word: ووزنها	Lemma: وَزْن	BW: wazon
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+	------------------------

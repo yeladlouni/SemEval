@@ -1,0 +1,24 @@
+السلام عليكم أنا ذكر عمري 21 سنة وعندما ابذل مجهوداً واحمل الاشياء الثقيلة او المتوسطة اشعر بيدي ترتجف بعدها فما هي المشكلة 
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: ذكر	Lemma: ذَكَرَ	BW: *akara
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وعندما	Lemma: عِنْدَ	BW: Einoda
+		Word: ابذل	Lemma: بَذَلَ	BW: ba*ala
+		Word: مجهودًا	Lemma: مَجْهُود	BW: majohuwd
+		Word: واحمل	Lemma: حَمَلَ	BW: Hamala
+		Word: الاشياء	Lemma: الاشياء	BW: AlA$yA'
+		Word: الثقيلة	Lemma: ثَقِيل	BW: vaqiyl
+		Word: او	Lemma: او	BW: Aw
+		Word: المتوسطة	Lemma: مُتَوَسِّط	BW: mutawas~iT
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بيدي	Lemma: يَد	BW: yad
+		Word: ترتجف	Lemma: ارْتَجَفَ	BW: Arotajafa
+		Word: بعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: فما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: المشكلة	Lemma: مُشْكِل	BW: mu$okil
+	------------------------

@@ -1,0 +1,29 @@
+على الأغلب أن يكون التحليل سليم إلا كان قريباً جداً واستنشق كمية كبير وهذا لا يُمكن معرفته إلا من خلال التحليل كونه يعتمد على عوامل كثيرة
+	##Lemmatization results:
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الأغلب	Lemma: أَغْلَب	BW: >agolab
+		Word: أن	Lemma: أَنّ	BW: >an~
+		Word: يكون	Lemma: كَانَ	BW: kaAna
+		Word: التحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: سليم	Lemma: سَلِيم	BW: saliym
+		Word: إلا	Lemma: إِنْ	BW: <ino
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: قريبًا	Lemma: قَرِيب	BW: qariyb
+		Word: جدًا	Lemma: جَدَا	BW: jadaA
+		Word: واستنشق	Lemma: اسْتَنْشَقَ	BW: Asotano$aqa
+		Word: كمية	Lemma: كَمِّيَّة	BW: kam~iy~ap
+		Word: كبير	Lemma: كَبِير	BW: kabiyr
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يُمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: معرفته	Lemma: مَعْرِفَة	BW: maEorifap
+		Word: إلا	Lemma: إِلَّا	BW: <il~aA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: التحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: كونه	Lemma: كَوْن	BW: kawon
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: عوامل	Lemma: عَامِل	BW: EaAmil
+		Word: كثيرة	Lemma: كَثِير	BW: kaviyr
+	------------------------

@@ -1,0 +1,19 @@
+يجب أولا أن نتأكد إن كانت الدورة منتظمة أم لا و يفضل إعاد التحليل بعد 48 ساعة.
+	##Lemmatization results:
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: أولا	Lemma: أَوَّل	BW: >aw~al
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: نتأكد	Lemma: تَأَكَّدَ	BW: ta>ak~ada
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: منتظمة	Lemma: مُنْتَظِم	BW: munotaZim
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: لا	Lemma: لَا	BW: laA
+		Word: و	Lemma: و	BW: w
+		Word: يفضل	Lemma: فَضَّلَ	BW: faD~ala
+		Word: إعاد	Lemma: إِعَاد	BW: <iEaAd
+		Word: التحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+	------------------------

@@ -1,0 +1,18 @@
+نحن نفضل ان تاكل ما تريد ولكن بكميات معتدلة وبنظام من حيث الاوقات و الكميات
+	##Lemmatization results:
+		Word: نحن	Lemma: نَحْنُ	BW: naHonu
+		Word: نفضل	Lemma: أَفْضَلَ	BW: >afoDala
+		Word: ان	Lemma: ان	BW: An
+		Word: تاكل	Lemma: تاكل	BW: tAkl
+		Word: ما	Lemma: مَا	BW: maA
+		Word: تريد	Lemma: أَرَادَ	BW: >araAda
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: بكميات	Lemma: كَمِّيَّة	BW: kam~iy~ap
+		Word: معتدلة	Lemma: مُعْتَدِل	BW: muEotadil
+		Word: وبنظام	Lemma: نِظَام	BW: niZaAm
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: الاوقات	Lemma: الاوقات	BW: AlAwqAt
+		Word: و	Lemma: و	BW: w
+		Word: الكميات	Lemma: كَمِّيَّة	BW: kam~iy~ap
+	------------------------

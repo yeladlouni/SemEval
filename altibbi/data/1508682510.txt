@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Systolic pressure
+
+ضغط انقباضي
+
+Positive pressure
+
+ضغط ايجابي
+
+Intraabdominal pressure
+
+ضغط بطني
+
+Intraventricular pressure
+
+ضغط بطيني
+
+Osmotic pressure
+
+ضغط تناضحي
+
+Effective osmotic pressure
+
+ضغط تناضحي فعال
+
+Partial pressure
+
+ضغط جزئي
+
+Athmospheric pressure
+
+ضغط جوي
+
+Critical pressure
+
+ضغط حرج
+
+Intraocular pressure
+
+ضغط داخل المقلة
+
+Cerebrospinal pressure
+
+ضغط دماغي نخاعي
+
+Back pressure
+
+ضغط رجوعي
+
+Positive end-expiratory pressure
+
+ضغط زفيري انتهائي ايجابي
+
+Negative end-expiratory pressure
+
+ضغط زفيري انتهائي سلبي
+
+Negative pressure
+
+ضغط سلبي
+
+Capillary pressure
+
+ضغط شعيري
+
+Intrathoracic pressure
+
+ضغط صدري
+
+Forcipressure
+
+ضغط ملقطي
+
+Deliberate hypotension
+
+ضغط منخفض متعمد
+
+Controlled hypotension
+
+ضغط منخفض مضبط
+

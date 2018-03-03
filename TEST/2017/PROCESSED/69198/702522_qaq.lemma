@@ -1,0 +1,23 @@
+طفلي عمره 10 شهور ولكن حجمه صغير جدا مع العلم انا ووالده طويلين القامه ماذا استطيع ان افعل حتى يصبح طويل
+	##Lemmatization results:
+		Word: طفلي	Lemma: طِفْل	BW: Tifol
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: ولكن	Lemma: كَانَ	BW: kaAna
+		Word: حجمه	Lemma: حَجْم	BW: Hajom
+		Word: صغير	Lemma: صَغِير	BW: Sagiyr
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انا	Lemma: انا	BW: AnA
+		Word: ووالده	Lemma: وَالِد	BW: waAlid
+		Word: طويلين	Lemma: طَوِيل	BW: Tawiyl
+		Word: القامه	Lemma: قَامِه	BW: qaAmih
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: استطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: ان	Lemma: ان	BW: An
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: يصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: طويل	Lemma: طَوِيل	BW: Tawiyl
+	------------------------

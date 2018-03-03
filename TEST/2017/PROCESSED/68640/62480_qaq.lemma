@@ -1,0 +1,16 @@
+انا عمري 21 وبلغت وعمري 12 سنه..ولكن اليى الان لم احتلم بتآتا..ماهو السبب؟
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: وبلغت	Lemma: بَلَغَ	BW: balaga
+		Word: وعمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اليى	Lemma: اليى	BW: AlyY
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: احتلم	Lemma: احْتَلَمَ	BW: AHotalama
+		Word: بتآتا	Lemma: بتآتا	BW: bt|tA
+		Word: ماهو	Lemma: مَاهّ	BW: maAh~
+		Word: السبب	Lemma: سَبَب	BW: sabab
+	------------------------

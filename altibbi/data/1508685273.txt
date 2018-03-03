@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Ghost cell
+
+خلية شبحية
+
+Reticular cell
+
+خلية شبكية
+
+Myoid cell
+
+خلية شبه عضلية
+
+Null cell
+
+خلية عديمة الواسمات
+
+Osteocyte
+
+خلية عظمية
+
+Gangliocyte
+
+خلية عقدية
+
+Minimal brain dysfunction
+
+خلل وظيفي دماغي بسيط
+
+Temporomandibular joint dysfunction
+
+خلل وظيفي للمفصل الصدغي الفكي
+
+Luteal cell
+
+خلية اصفرية
+
+Lutein cell
+
+خلية اصفرية
+
+Argentaffine cell
+
+خلية اليفة الفضة
+
+Labrocyte
+
+خلية بدينة
+
+Purkinje cell
+
+خلية بوركينيي
+
+Beta cell
+
+خلية بيتا
+
+Islet cell
+
+خلية جزيرية
+
+Somatic cell
+
+خلية جسدية
+
+Sex cell
+
+خلية جنسية
+
+Taste cell
+
+خلية ذوقية
+
+Pneumonocyte
+
+خلية رئوية
+
+Phagocytic pneumonocyte
+
+خلية رئوية مبلعمة
+

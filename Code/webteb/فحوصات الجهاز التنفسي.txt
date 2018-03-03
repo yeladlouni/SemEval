@@ -1,0 +1,32 @@
+# فحوصات الجهاز التنفسي
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال الجهاز التنفسي في ويب طب. متى
+يجب الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص التعرق  |  sweat test  
+اختبارات الأداء والتحدي التنفسي لدى الأطفال المرضى  |  Lung function and
+challenge tests in pediatric patients  
+قياس مستوى تأكسج الدم  |  Oxymetry  
+مستوى الأمينوفيلين  |  aminophillin level  
+اختبار الجلد للكشف عن السل  |  Tuberculin skin test  
+الخزعة الرئوية المفتوحة  |  Open lung biopsy  
+غازات الدم الشرياني  |  arterial blood gas  
+مضاد التربسين الفا-1  |  alpha-1 antitripsin  
+تصوير الصدر  |  Chest X-Ray  
+تنظير القصبات  |  Bronchoscopy  
+درجة إشباع الدم بالأوكسجين  |  O2 Saturation  
+الشرايين التاجية  |  Coronary Angiogram, Heart Catheterization  
+وظائف الرئتين  |  Pulmonary Function Tests  
+تصوير الرئتين بالنظائر المشعة  |  V/Q Scan,Ventilation-Perfusion Scan, lung
+scan  
+فحص التليف الكيسي  |  Cystic Fibrosis Genetic Testing  
+اختبار كربوكسي هيموغلوبين  |  carboxyhemoglobin  
+اختبار السلين الجلدي  |  Mantoux test
+

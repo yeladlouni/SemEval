@@ -1,0 +1,32 @@
+للاسف لايوجد حل نهائي للحساسية. احيانا يستخدم العلاج المناعي بالامصال لكن هذا العلاج ليس دائما ناجح وبه محاذير طبية. العلاج بالامصال احيانا يخفف من شدة الحساسية في الحالات الشديدة
+	##Lemmatization results:
+		Word: للاسف	Lemma: للاسف	BW: llAsf
+		Word: لايوجد	Lemma: لايوجد	BW: lAywjd
+		Word: حل	Lemma: حَلّ	BW: Hal~
+		Word: نهائي	Lemma: نِهَائِيّ	BW: nihaA}iy~
+		Word: للحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: احيانا	Lemma: احيانا	BW: AHyAnA
+		Word: يستخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: المناعي	Lemma: مَنَاعِيّ	BW: manaAEiy~
+		Word: بالامصال	Lemma: بالامصال	BW: bAlAmSAl
+		Word: لكن	Lemma: لَكِنَ	BW: lakina
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: ناجح	Lemma: نَاجِح	BW: naAjiH
+		Word: وبه	Lemma: بِي	BW: biy
+		Word: محاذير	Lemma: مَحْذُور	BW: maHo*uwr
+		Word: طبية	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: بالامصال	Lemma: بالامصال	BW: bAlAmSAl
+		Word: احيانا	Lemma: احيانا	BW: AHyAnA
+		Word: يخفف	Lemma: خَفَّفَ	BW: xaf~afa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شدة	Lemma: شِدَّة	BW: $id~ap
+		Word: الحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحالات	Lemma: حَالَة	BW: HaAlap
+		Word: الشديدة	Lemma: شَدِيد	BW: $adiyd
+	------------------------

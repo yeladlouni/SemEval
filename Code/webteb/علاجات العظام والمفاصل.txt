@@ -1,0 +1,21 @@
+# علاجات العظام والمفاصل
+
+اسم العلاج | Treatment Name  
+---|---  
+جراحة كف اليد  |  Carpal Tunnel Syndrome Surgey  
+استبدال مفصل الفخذ  |  Hip Replacement Surgery  
+استئصال الصفيحة الفقرية  |  Laminectomy and laminotomy  
+ابرة الظهر  |  Epidural steroid injections for lumbar spinal stenosis  
+جراحة العمود الفقري  |  Decompressive laminectomy for spinal stenosis  
+جراحة دمج الفقرات  |  Spinal fusion for spinal stenosis  
+إرتفاق الأصابع  |  Webbed finger or toe repair  
+استئصال الغشاء الزليلي  |  Synovectomy for rheumatoid arthritis  
+جراحة وتر العرقوب  |  Achilles Tendon Rupture Surgery  
+عملية إنفتاق القرص  |  Percutaneous Discectomy (Disc Decompression Surgery)  
+اٍستبدال مفصل الركبة  |  Knee Replacement Surgery  
+تنظير مفصل الركبة  |  Knee Arthroscopy  
+إستبدال مفصل كف اليد  |  Wrist Replacement Surgery  
+جراحة إبهام القدم الأروح  |  Bunion removal  
+بضع الأوتار  |  Tenotomy  
+تثبيت المفصل  |  Joint fusion
+

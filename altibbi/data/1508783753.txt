@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - جراحة عامة
+
+#  المصطلحات الطبية - جراحة عامة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pancreatico-jejunostomy
+
+مفاغرة معثكلية صائمية
+
+Pancreatico-duodenostom
+
+مفاغرة معثكلية عفجية
+
+Pancreatico-gastrostomy
+
+مفاغرة معثكلية معدية
+
+Pancreato-enterostomy
+
+مفاغرة معثكلية معوية
+
+Gastro-jejunostomy
+
+مفاغرة معدية –صائمية
+
+Gastro-doudenostomy
+
+مفاغرة معدية عفجية
+
+Gastro-ileostomy
+
+مفاغرة معدية لفائفية
+
+Gastro-enterostomy
+
+مفاغرة معدية معوية
+
+Entero-anastomosis
+
+مفاغرة معوية
+
+Entero-colostomy
+
+مفاغرة معوية –قولونية
+
+Entero-cholecystostomy
+
+مفاغرة معوية مرارية
+
+End to end anastomosis
+
+مفاغرة نهائية نهائية
+
+End to side anastomosis
+
+مفاغرة نهائية –جانبية
+
+Venovenostomy
+
+مفاغرة وريدية
+
+Phlebo-phlebostomy
+
+مفاغرة وريدية – وريدية
+
+Ulcerous
+
+مقروح
+
+Ventricumbent, prone
+
+مكبوب
+
+Semiprone
+
+مكبوب جزئيا
+
+False passage
+
+ممر زائف
+
+Maneuver
+
+مناورة
+

@@ -1,0 +1,26 @@
+هذا يعتمد على عمر المريض وحالته الصحية بشكل عام وعلى درجة استجابته على الأدوية المختلفة ولكل مريض خصوصية تسمح بتحديد العلاج الأفضل له
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: عمر	Lemma: عُمْر	BW: Eumor
+		Word: المريض	Lemma: مَرِيض	BW: mariyD
+		Word: وحالته	Lemma: حَالَة	BW: HaAlap
+		Word: الصحية	Lemma: صِحِّيّ	BW: SiH~iy~
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: وعلى	Lemma: عَلَى	BW: EalaY
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: استجابته	Lemma: اسْتِجَابَة	BW: AsotijaAbap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: المختلفة	Lemma: مُخْتَلِف	BW: muxotalif
+		Word: ولكل	Lemma: كُلّ	BW: kul~
+		Word: مريض	Lemma: مَرِيض	BW: mariyD
+		Word: خصوصية	Lemma: خُصُوصِيّ	BW: xuSuwSiy~
+		Word: تسمح	Lemma: سَمَحَ	BW: samaHa
+		Word: بتحديد	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: الأفضل	Lemma: أَفْضَل	BW: >afoDal
+		Word: له	Lemma: لِي	BW: liy
+	------------------------

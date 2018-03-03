@@ -1,0 +1,136 @@
+# فحوصات امراض الدم
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال امراض الدم في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص تعداد الدم  |  Complete Blood Count, CBC  
+فقر الدم فانكوني  |  Fanconi’s Anemia Testing  
+فحص الدم  |  Blood Test  
+الهيموجلوبين  |  Hemoglobin Test  
+الأسمولالية  |  osmolality  
+خلايا T  |  T helper  
+فحص السيرولوبلازمين  |  ceruloplasmin  
+فحص الفيريتين  |  ferritin  
+نشاط إنزيم الرينين في بلازما الدم  |  plasma renin activity  
+القدرة على ربط الحديد بالترانسفيرين  |  TIBC  
+فحص الغلوبولينات البردية  |  cryoglobulins  
+فحص الكالسيتونين  |  calcitonin  
+فحص الكورتيزول  |  cortisol  
+فسفتاز حمضي  |  acid phosphatase  
+تنميط نسيجي  |  tissue typing  
+مستوى الباراسيتامول  |  paracetamol level  
+السيروتونين  |  serotonin  
+أضداد الغلوبولين الدرقي  |  antithyroglobulin antibody  
+تصوير الأوردة  |  venography  
+مسح الجاليوم  |  gallium scan  
+فحص اليوريا  |  urea  
+الأجسام المضادة للجسيمات الصغيرة الدرقية  |  antithyroid microsomal antibody  
+أجسام مضادة للبيروكسيداز الدرقي  |  Thyroid Peroxidase Ab  
+خزعة نقي العظم  |  bone marrow biopsy  
+الاميكاسين  |  amikacin level  
+مستوى الأمينوفيلين  |  aminophillin level  
+تاي زاكس  |  Tay-Sachs  
+الكلور  |  chlorine  
+ثلاثيات الغليسيريد  |  triglycerides (Trig)  
+قياس مستوى تأكسج الدم  |  Oxymetry  
+التصوير الومضاني لخلايا الدم البيضاء الموسومة  |  Labeled WBC scintigraphy  
+التصوير الومضاني الليمفاوي  |  Lymphoscintigraphy  
+التصوير الومضاني بكريات الدم الحمراء الموسومة  |  Labeled red blood cells
+scintigraphy  
+اختبارات التخثر  |  Coagulation test  
+ترانسفيرين  |  transferrin  
+ثلاثي يودوثيرونين  |  tryodothyronine , free T3  
+اللمفاويات  |  lymphocytes (Lym)  
+البوتاسيوم K  |  kalium (K)  
+ناقلة أمين الأسبارتات (GOT)  |  aspartate aminotransferase (GOT)  
+اختبار أضداد الحالة العقدية O  |  antistreptolysin O  
+مستضد المستخفيات  |  cryptococcal antigen  
+المتممة  |  complement  
+الفجوة الأنيونية - فجوة الصواعد  |  anion gap  
+البروتين المتفاعل C  |  CRP  
+حمض اللاكتيك  |  lactic acid  
+حمض الفوليك  |  Folic Acid  
+الفسفور  |  phosphorus (P)  
+اختبار زمن الثرمبوبلاستين الجزئي  |  partial thromboplastin time  
+زمن البروثرومبين  |  prothrombin time  
+زمن النزف  |  bleeding time  
+اختبار تراص غيروي  |  heterophil agglutination test  
+هيموغلوبين A1C  |  Hemoglobin A1C (Hb A1C)  
+راصة دموية برودية  |  cold hemagglutinins  
+تفاعل سلسلة البوليميراز  |  polymerase chain reaction  
+الهورمون المضاد لاٍدرار البول  |  anti diuretic hormone  
+الهورمون الدريقي  |  PTH  
+فحص الهرمون المنبه للغدة الدرقية (TSH)  |  Thyroid Stimulating Hormone  
+موجهة الغدد التناسلية المشيمائية بيتا  |  beta Human chorionic gonadotropin  
+هرمون النمو  |  growth hormone  
+الهورمون الموجه لقشر الكظر  |  ACTH  
+الهوموسيستئين  |  homocysteine  
+هابتوغلوبين  |  haptoglobin  
+اختبار كبت الديكساميثازون  |  dexamethasone supression test  
+جنتاميسين  |  gentamicin level  
+نازعة هيدروجين الغلوكوز -6- فسفات  |  glucose 6 phosphate dehydrogenase  
+الجلوبيولين  |  globulin  
+غازات الدم الشرياني  |  arterial blood gas  
+المغنيسيوم  |  magnesium  
+درجة الحموضة  |  blood pH  
+الليثيوم  |  lithium  
+البروتينات الشحمية وضيعة الكثافة  |  very low density lipoproteins  
+نازعة هيدروجين اللاكتات  |  lactic dehydrogenase  
+تحليل المخدرات في البول  |  urine toxicoloy screen  
+إنزيم الأميلاز  |  amylase (Ami)  
+اختبار مقاومة فيروس نقص المناعة البشرية (HIV)  |  HIV resistance test  
+الرصاص  |  lead  
+حضانة فيروس نقص المناعة البشرية  |  HIV viral load  
+اختبار تحمل الزايلوز  |  xylose tolerance test  
+اختبار تحمل الجلوكوز  |  glucose tolerance test  
+صوديوم  |  natrium  
+فحص حجم كرة الدم الحمراء  |  mean corpuscular volume, MCH, MCHC  
+حجم البلازما  |  plasma volume  
+نحاس  |  copper  
+عدلات  |  neutrophils (PMN)  
+الأضداد المضادة للفوسفوليبيد  |  anti phospholipid antibody  
+أضداد النوى  |  antinuclear antibody  
+أضداد ضد DNA  |  anti DNA antibody  
+أضداد من نوع IgM  |  IgM  
+أضداد من نوع IgG  |  IgG  
+اضداد من نوع IgE  |  IgE  
+اضداد من نوع IgA  |  IgA  
+اضداد لالتهاب الكبد من نوع A  |  hepatitis A Ab  
+مضاد الإنسولين  |  insulin antibody  
+أجسام مضادة لفيروس ابشتاين بار  |  EBV antibodies  
+كثرة الوحيدات العدوائية  |  mono spot  
+الأجسام المضادة للعضلات الملساء  |  anti smooth muscle antibody  
+الأجسام المضادة لغشاء خلايا الكلى  |  anti glomerular basement membrane ab  
+أجسام مضادة موجهة ضد الإنزيم نازع كربوكسيل  |  anti GAD ab  
+الفسفتاز القلوي  |  alkaline phosphatase (Alk Phos)  
+العدلات، الكريات البيضاء المفصصة النوى العدلة  |  neutrophils,
+polymorphonuclears  
+اختبار كومس  |  coombs  
+البلازمينوجين - مولد البلازمين  |  plasminogen  
+اختبار الفيبرينوجين  |  fibrinogen  
+فحص البورفرينات  |  porphyrins  
+الخلايا التائية  |  T supressor  
+ناقلات الألانين  |  alanine transaminase  
+ألدولاز  |  aldolase  
+الخلايا الشبكية  |  reticulocytes  
+نواتج انشطار الفيبرينوجين  |  fibrinogen split products  
+معدل ترسيب كريات الدم الحمراء  |  Erythrocyte Sedimentation Rate  
+كريات الدم البيضاء  |  WBC  
+نخاع العظم  |  Bone Marrow Biopsy  
+فصيلة الدم  |  Blood type Testing  
+فحص الزنك  |  zinc level  
+زراعة الدم  |  blood culture  
+تجلط الدم  |  Clotting Test  
+الدم الخفي في البراز  |  Occult Blood Test  
+تنظير المعدة  |  Esophago-gastro-duedenoscopy, Upper Endoscopy  
+تنظير القولون  |  Colonoscopy, Sigmoidoscopy  
+فحص الحديد  |  Iron Test  
+إختبار شيلينغ  |  Schilling Test
+

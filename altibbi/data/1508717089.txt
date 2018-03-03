@@ -1,0 +1,88 @@
+#  المصطلحات الطبية - علم الاشعة
+
+#  المصطلحات الطبية - علم الاشعة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Radial
+
+شعي
+
+Radioparent, radiotransparent
+
+شفاف للاشعة
+
+Radiolucent
+
+شفيف للاشعة
+
+Ultrasound
+
+فائق الصوت
+
+(صوْتٌ فائِقٌ,فوْقُ صوْتِيّ,)
+
+Aortogram
+
+صورة الابهر
+
+Ventriculogram
+
+صورة البطينات
+
+Ureterogram
+
+صورة الحالب
+
+Vesiculogram
+
+صورة الحويصلات المنوية
+
+Pyelogram
+
+صورة الحويضة
+
+Encephalogram
+
+صورة الدماغ
+
+Odontoradiograph
+
+صورة السن الشعاعية
+
+Radiograph
+
+صورة شعاعية
+
+Arteriogram
+
+صورة شريانية
+
+Bronchogram
+
+صورة القصبات الملونة
+
+Choledochogram
+
+صورة قناة الصفراء
+
+Sialogram, sialograph
+
+صورة اللعابيات
+
+Lymphogram
+
+صورة لمفية
+
+Cystogram
+
+صورة للمثانة
+
+Cystoureterogram
+
+صورة المثانة والحالب
+
+Photomicrograph, micrograph
+
+صورة مجهرية الكترونية
+

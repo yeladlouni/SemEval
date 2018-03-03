@@ -1,0 +1,14 @@
+اذا كان تحليل الدم سلبي، فهذا يعني انه لا يوجد حمل.
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: سلبي	Lemma: سَلْبِيّ	BW: salobiy~
+		Word: فهذا	Lemma: ذَا	BW: *aA
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: حمل	Lemma: حَمَّلَ	BW: Ham~ala
+	------------------------

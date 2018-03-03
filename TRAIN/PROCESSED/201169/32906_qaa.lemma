@@ -1,0 +1,17 @@
+المفروض أن الغسيل يزيل الأضرار ولا يفعل الأضرار إلا إذا كانت الأدوات غير معقمة.
+	##Lemmatization results:
+		Word: المفروض	Lemma: مَفْرُوض	BW: maforuwD
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: الغسيل	Lemma: غَسِيل	BW: gasiyl
+		Word: يزيل	Lemma: أَزَالَ	BW: >azaAla
+		Word: الأضرار	Lemma: ضَرَر	BW: Darar
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: يفعل	Lemma: فَعَلَ	BW: faEala
+		Word: الأضرار	Lemma: ضَرَر	BW: Darar
+		Word: إلا	Lemma: إِلَّا	BW: <il~aA
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: الأدوات	Lemma: أَدَاة	BW: >adaAp
+		Word: غير	Lemma: غَيْرَ	BW: gayora
+		Word: معقمة	Lemma: مُعَقِّم	BW: muEaq~im
+	------------------------

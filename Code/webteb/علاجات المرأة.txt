@@ -1,0 +1,31 @@
+# علاجات المرأة
+
+اسم العلاج | Treatment Name  
+---|---  
+إصلاح القيلة المستقيمية  |  Repair of Rectocele or Enterocele  
+الانتباذ البطاني الرحمي  |  Laparoscopic Surgery for Endometriosis  
+استئصال الورم العضلي  |  Myomectomy  
+إصلاح هبوط جدار المهبل  |  Repair of Vaginal Wall Prolapse (Vaginal Vault
+Prolapse)  
+ترميم الثدي  |  Breast Reconstruction Without Implants  
+فتح قنوات فالوب  |  Salpingostomy  
+الاجهاض  |  Abortion (Pregnancy Termination) Procedure  
+تكبير الثدي  |  Breast Augmentation Surgery  
+الولادة القيصرية  |  Cesarean (“C”) Section  
+تصغير الثدي  |  Breast Reduction Surgery  
+اعادة بناء الثدي  |  Breast Reconstruction Surgery  
+استئصال الرحم  |  Hysterectomy  
+شد الوجه  |  Face lift Surgery  
+استئصال أورام الثدي  |  Lumpectomy  
+الإستئصال الجزئي للثدي  |  Partial Mastectomy  
+استئصال المبيض  |  Oophorectomy  
+رفع الثدي  |  Breast Lift  
+ربط البوق  |  Tubal ligation  
+فض غشاء البكارة  |  Hymenectomy  
+الإستئصال المخروطي لعنق الرحم  |  Conization of cervix  
+الإستئصال الإسفيني لعنق الرحم  |  Conization  
+استئصال عنق الرحم  |  Lletz leep  
+ربط قناة فالوب  |  Tubal Sterilization  
+استئصال الفرج  |  Vulvectomy  
+جراحة سرطان الثدي  |  Breast tumors surgery
+

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Soluble
+
+ذؤوبية
+
+Solute
+
+ذائبة
+
+Gustation
+
+ذائقة
+
+Self
+
+ذات
+
+Pleurisy with effusion
+
+ذات الجنب الانصبابية
+
+Dry pleurisy
+
+ذات الجنب الجافة
+
+Diaphragmatic pleurisy
+
+ذات الجنب الحجابية
+
+Wet pleurisy
+
+ذات الجنب الرطبة
+
+Fibrinous pleurisy
+
+ذات الجنب الفيبرينية
+
+Purulent pleurisy
+
+ذات الجنب القيحية
+
+Encysted pleurisy
+
+ذات الجنب المتكيسة
+
+Serous pleurisy
+
+ذات الجنب المصلية
+
+Serofibrinous pleurisy
+
+ذات الجنب المصلية الفيبرينية
+
+Interlobar pleurisy
+
+ذات الجنب بين الفصية
+
+Pleuropneumonia
+
+ذات الجنب والرئة
+
+Hypostatic pneumonia
+
+ذات الرئة الاستلقائية
+
+Aspiration pneumonia
+
+ذات الرئة الاستنشاقية
+
+Secondary pneumonia
+
+ذات الرئة الثانوية
+
+Lipid pneumonia
+
+ذات الرئة الشحمية
+
+Lobar pneumonia
+
+ذات الرئة الفصية
+

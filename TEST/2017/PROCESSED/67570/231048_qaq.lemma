@@ -1,0 +1,44 @@
+عمري 25 اعاني منذ ٥ اشهر من الم في الرقبه من الخلف ثم امتد الالم الى الكتف في الجهة اليسرى وقال الطبيب اني اعاني من تشنج واعطاني دواء دون جدوى وبصورة الاشعة تبين انه عندي نتوء بسيط بالفقرة السابعه والالم لحد الان مستمر
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الرقبه	Lemma: الرقبه	BW: Alrqbh
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الخلف	Lemma: خَلْف	BW: xalof
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: امتد	Lemma: امْتَدَّ	BW: Amotad~a
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: الى	Lemma: الى	BW: AlY
+		Word: الكتف	Lemma: كَتِف	BW: katif
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجهة	Lemma: جِهَة	BW: jihap
+		Word: اليسرى	Lemma: يُسْرَى	BW: yusoraY
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: اني	Lemma: اني	BW: Any
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تشنج	Lemma: أَشْنَجَ	BW: >a$onaja
+		Word: واعطاني	Lemma: واعطاني	BW: wAETAny
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: دون	Lemma: دُون	BW: duwn
+		Word: جدوى	Lemma: جَدْوَى	BW: jadowaY
+		Word: وبصورة	Lemma: صُورَة	BW: Suwrap
+		Word: الاشعة	Lemma: الاشعة	BW: AlA$Ep
+		Word: تبين	Lemma: بَيَّنَ	BW: bay~ana
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: نتوء	Lemma: نُتُوء	BW: nutuw'
+		Word: بسيط	Lemma: بَسِيط	BW: basiyT
+		Word: بالفقرة	Lemma: فَقْرَة	BW: faqorap
+		Word: السابعه	Lemma: السابعه	BW: AlsAbEh
+		Word: والالم	Lemma: والالم	BW: wAlAlm
+		Word: لحد	Lemma: لَحْد	BW: laHod
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: مستمر	Lemma: مُسْتَمِرّ	BW: musotamir~
+	------------------------

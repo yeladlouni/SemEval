@@ -1,0 +1,36 @@
+عمري 20 سنة اعاني من صداع غير مستمر منذ شهر أو أكثر وقبل عدة أيام بدأت اشعر بالم في الصدر في الجانب الأيسر واليوم كانت لدي سيوله في الدم وشعرت بهدها بمده بدوار بسيط ؟
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: صداع	Lemma: صُدَاع	BW: SudaAE
+		Word: غير	Lemma: غَيْرَ	BW: gayora
+		Word: مستمر	Lemma: مُسْتَمِرّ	BW: musotamir~
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: وقبل	Lemma: قِبَل	BW: qibal
+		Word: عدة	Lemma: عِدَّة	BW: Eid~ap
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بالم	Lemma: بَالِم	BW: baAlim
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصدر	Lemma: صَدْر	BW: Sador
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجانب	Lemma: جَانِب	BW: jaAnib
+		Word: الأيسر	Lemma: أَيْسَر	BW: >ayosar
+		Word: واليوم	Lemma: يَوْم	BW: yawom
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: سيوله	Lemma: سَيْل	BW: sayol
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: وشعرت	Lemma: شَعَرَ	BW: $aEara
+		Word: بهدها	Lemma: هَدّ	BW: had~
+		Word: بمده	Lemma: مُدَهّ	BW: mudah~
+		Word: بدوار	Lemma: دَوَّار	BW: daw~aAr
+		Word: بسيط	Lemma: بَسِيط	BW: basiyT
+	------------------------

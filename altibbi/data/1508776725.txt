@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تجهيزات طبية
+
+#  المصطلحات الطبية - تجهيزات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Thermoesthesiometer
+
+مقياس الاحساس بالحرارة
+
+Gnathodynamometer
+
+مقياس الاطباق
+
+Algesiometer
+
+مقياس التالم
+
+Myokinesimeter
+
+مقياس التحرك العضلي
+
+Myometer
+
+مقياس التقلص العضلي
+
+Microrespirometer
+
+مقياس التنفس المكروي
+
+Orbitonometer
+
+مقياس التوتر الحجاجي
+
+Thermotonometer
+
+مقياس التوترية العضلية الحراري
+
+Dromograph
+
+مقياس التوصيل
+
+Rheometer
+
+مقياس التيار
+
+Stromuhr
+
+مقياس التيار
+
+Gravimeter
+
+مقياس الثقل النوعي
+
+Orthometer
+
+مقياس الجحوظ
+
+Sizer
+
+مقياس الحجم
+
+Thermoscope
+
+مقياس الحرارة التفريقي
+
+Self-registering thermometer
+
+مقياس الحرارة الذاتي التسجيل
+
+Cryometer
+
+مقياس الحرارة المنخفضة
+
+Resistance thermometer
+
+مقياس الحرارة ذو المقاومة
+
+Orchidometer
+
+مقياس الخصية
+
+Encephalometer
+
+مقياس الدماغ
+

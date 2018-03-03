@@ -1,0 +1,33 @@
+هذا يعتمد على الجرعة ونوع الدواء المستخدم لكن إذا كان تحت إشراف طبي متواصل فلا يحدث أي ضرر لأن الطبيب سيوقفه أو يستبدله عند ظهور أي استجابة غير مرغوب فيها
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: الجرعة	Lemma: جُرْعَة	BW: juroEap
+		Word: ونوع	Lemma: نَوْع	BW: nawoE
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: المستخدم	Lemma: مُسْتَخْدَم	BW: musotaxodam
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: إشراف	Lemma: إِشْرَاف	BW: <i$oraAf
+		Word: طبي	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: متواصل	Lemma: مُتَوَاصِل	BW: mutawaASil
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: ضرر	Lemma: ضَرَر	BW: Darar
+		Word: لأن	Lemma: أَنَّ	BW: >an~a
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: سيوقفه	Lemma: وَقَفَ	BW: waqafa
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: يستبدله	Lemma: اسْتَبْدَلَ	BW: Asotabodala
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: ظهور	Lemma: ظُهُور	BW: Zuhuwr
+		Word: أي	Lemma: أَيّ	BW: >ay~
+		Word: استجابة	Lemma: اسْتِجَابَة	BW: AsotijaAbap
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: مرغوب	Lemma: مَرْغُوب	BW: maroguwb
+		Word: فيها	Lemma: فِي	BW: fiy
+	------------------------

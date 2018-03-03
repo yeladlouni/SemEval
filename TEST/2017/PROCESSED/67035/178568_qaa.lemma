@@ -1,0 +1,26 @@
+حلاوة الريق إما انك تتناول بعض الادوية تسبب حلاوة الريق ، واما انها إحساس نفسي فقط ، حيث يشعر الشخص المصاب نفسيا بالاشياء الغير موجودة
+	##Lemmatization results:
+		Word: حلاوة	Lemma: حَلَاوَة	BW: HalaAwap
+		Word: الريق	Lemma: رَيْق	BW: rayoq
+		Word: إما	Lemma: إِنْ	BW: <ino
+		Word: انك	Lemma: نَكِيَ	BW: nakiya
+		Word: تتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: تسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: حلاوة	Lemma: حَلَاوَة	BW: HalaAwap
+		Word: الريق	Lemma: رَيْق	BW: rayoq
+		Word: واما	Lemma: واما	BW: wAmA
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: إحساس	Lemma: إِحْسَاس	BW: <iHosaAs
+		Word: نفسي	Lemma: نَفْس	BW: nafos
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: يشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: الشخص	Lemma: شَخْص	BW: $axoS
+		Word: المصاب	Lemma: مُصَاب	BW: muSaAb
+		Word: نفسيا	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: بالاشياء	Lemma: بالاشياء	BW: bAlA$yA'
+		Word: الغير	Lemma: غَيْر	BW: gayor
+		Word: موجودة	Lemma: مَوْجُود	BW: mawojuwd
+	------------------------

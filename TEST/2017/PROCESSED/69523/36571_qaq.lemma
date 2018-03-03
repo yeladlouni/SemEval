@@ -1,0 +1,11 @@
+هل وزني مثالي أم لا؟فوزني 45 وطولي 158 وعمري 16 .
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+		Word: مثالي	Lemma: مِثَالِيّ	BW: mivaAliy~
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: لا	Lemma: لَا	BW: laA
+		Word: فوزني	Lemma: وَزْنِيّ	BW: wazoniy~
+		Word: وطولي	Lemma: طُول	BW: Tuwl
+		Word: وعمري	Lemma: عُمْر	BW: Eumor
+	------------------------

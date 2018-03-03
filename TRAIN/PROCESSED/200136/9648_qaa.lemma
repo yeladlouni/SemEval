@@ -1,0 +1,21 @@
+لا داعي للقلق لكنك لم تذكر إن كنت مدخن أو بدين أو لا تمارس أعمال يدوية أو رياضة
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: داعي	Lemma: دَاعّ	BW: daAE~
+		Word: للقلق	Lemma: قَلَق	BW: qalaq
+		Word: لكنك	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: تذكر	Lemma: ذَكَرَ	BW: *akara
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: مدخن	Lemma: مَدْخَن	BW: madoxan
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: بدين	Lemma: دِين	BW: diyn
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تمارس	Lemma: مَارَسَ	BW: maArasa
+		Word: أعمال	Lemma: عَمَل	BW: Eamal
+		Word: يدوية	Lemma: يَدَوِيّ	BW: yadawiy~
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: رياضة	Lemma: رِيَاضَة	BW: riyaADap
+	------------------------

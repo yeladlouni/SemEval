@@ -1,0 +1,14 @@
+اريد انواع الاغذية المتواجدة في الصيداليات والمحلات لمرض السيلياك مع السعر 
+	##Lemmatization results:
+		Word: اريد	Lemma: اريد	BW: Aryd
+		Word: انواع	Lemma: انواع	BW: AnwAE
+		Word: الاغذية	Lemma: الاغذية	BW: AlAg*yp
+		Word: المتواجدة	Lemma: مُتَوَاجِد	BW: mutawaAjid
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصيداليات	Lemma: الصيداليات	BW: AlSydAlyAt
+		Word: والمحلات	Lemma: مَحَلّ	BW: maHal~
+		Word: لمرض	Lemma: مَرَض	BW: maraD
+		Word: السيلياك	Lemma: السيلياك	BW: AlsylyAk
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: السعر	Lemma: سِعْر	BW: siEor
+	------------------------

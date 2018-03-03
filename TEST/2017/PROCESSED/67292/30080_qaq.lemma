@@ -1,0 +1,19 @@
+"""ماهو الطعام و الفواكه و الخضار والمشروبات و الاعشاب التي تساعد علي عملية حرق الدهون فالجسم؟
+	##Lemmatization results:
+		Word: ماهو	Lemma: مَاهّ	BW: maAh~
+		Word: الطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: و	Lemma: و	BW: w
+		Word: الفواكه	Lemma: فَاكِهَة	BW: faAkihap
+		Word: و	Lemma: و	BW: w
+		Word: الخضار	Lemma: خَضَار	BW: xaDaAr
+		Word: والمشروبات	Lemma: مَشْرُوب	BW: ma$oruwb
+		Word: و	Lemma: و	BW: w
+		Word: الاعشاب	Lemma: الاعشاب	BW: AlAE$Ab
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تساعد	Lemma: سَاعَدَ	BW: saAEada
+		Word: علي	Lemma: عَلَى	BW: EalaY
+		Word: عملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: حرق	Lemma: حَرْق	BW: Haroq
+		Word: الدهون	Lemma: دُهْن	BW: duhon
+		Word: فالجسم	Lemma: جِسْم	BW: jisom
+	------------------------

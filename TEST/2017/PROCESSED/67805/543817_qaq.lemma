@@ -1,0 +1,33 @@
+لدي طفله عمرها 14 شهر تسمع ولكنها لا تستجيب لأسمها ودائمه النظر الى الأعلى وتضحك لوحدها وتبكي لوحدها احيانا اجرينا فحص لها وتبين ان محيط الرأس لديها 45 مع العلم انها تمشي
+	##Lemmatization results:
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: طفله	Lemma: طِفْل	BW: Tifol
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: تسمع	Lemma: تَسَمَّعَ	BW: tasam~aEa
+		Word: ولكنها	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تستجيب	Lemma: اسْتَجَابَ	BW: AsotajaAba
+		Word: لأسمها	Lemma: سَمَّى	BW: sam~aY
+		Word: ودائمه	Lemma: دَائِم	BW: daA}im
+		Word: النظر	Lemma: نَظَر	BW: naZar
+		Word: الى	Lemma: الى	BW: AlY
+		Word: الأعلى	Lemma: أَعْلَى	BW: >aEolaY
+		Word: وتضحك	Lemma: ضَحِكَ	BW: DaHika
+		Word: لوحدها	Lemma: وَحْد	BW: waHod
+		Word: وتبكي	Lemma: بَكَى	BW: bakaY
+		Word: لوحدها	Lemma: وَحْد	BW: waHod
+		Word: احيانا	Lemma: احيانا	BW: AHyAnA
+		Word: اجرينا	Lemma: اجرينا	BW: AjrynA
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+		Word: لها	Lemma: لِي	BW: liy
+		Word: وتبين	Lemma: تَبَيَّنَ	BW: tabay~ana
+		Word: ان	Lemma: ان	BW: An
+		Word: محيط	Lemma: مُحِيط	BW: muHiyT
+		Word: الرأس	Lemma: رَأْس	BW: ra>os
+		Word: لديها	Lemma: لَدَى	BW: ladaY
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: تمشي	Lemma: مَشَى	BW: ma$aY
+	------------------------

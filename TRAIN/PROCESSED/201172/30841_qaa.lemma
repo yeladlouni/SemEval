@@ -1,0 +1,26 @@
+الفياغرا نوع واحد هذا اسمه وهو دواء أمريكي صناعة فايزر. وهناك الكثير من الأدوية التي لها تأثير مشابه تختلف حسب ابلدان والشركات المصنعة.
+	##Lemmatization results:
+		Word: الفياغرا	Lemma: الفياغرا	BW: AlfyAgrA
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: واحد	Lemma: وَاحِد	BW: waAHid
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: اسمه	Lemma: اسْم	BW: Asom
+		Word: وهو	Lemma: هُوَ	BW: huwa
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: أمريكي	Lemma: أَمِيرْكِيّ	BW: >amiyrokiy~
+		Word: صناعة	Lemma: صِنَاعَة	BW: SinaAEap
+		Word: فايزر	Lemma: وَزِرَ	BW: wazira
+		Word: وهناك	Lemma: هُنَا	BW: hunaA
+		Word: الكثير	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الأدوية	Lemma: دَوَاء	BW: dawaA'
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: لها	Lemma: لِي	BW: liy
+		Word: تأثير	Lemma: تَأْثِير	BW: ta>oviyr
+		Word: مشابه	Lemma: مُشَابِه	BW: mu$aAbih
+		Word: تختلف	Lemma: اخْتَلَفَ	BW: Axotalafa
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: ابلدان	Lemma: بَلَدَ	BW: balada
+		Word: والشركات	Lemma: شَرِكَة	BW: $arikap
+		Word: المصنعة	Lemma: مُصَنَّع	BW: muSan~aE
+	------------------------

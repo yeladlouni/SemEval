@@ -1,0 +1,11 @@
+انا شاب 24 سنه واعاني من ارتفاع درجات حرارة
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: واعاني	Lemma: واعاني	BW: wAEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: درجات	Lemma: دَرَجَة	BW: darajap
+		Word: حرارة	Lemma: حَرَارَة	BW: HaraArap
+	------------------------

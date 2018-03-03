@@ -1,0 +1,17 @@
+bunji	subtask_C_contrastive2	 0.1657
+IIT-UHH	subtask_C_primary	 0.1546
+IIT-UHH	subtask_C_contrastive1	 0.1543
+bunji	subtask_C_primary	 0.1471
+EICA	subtask_C_contrastive1	 0.1460
+KeLP	subtask_C_primary	 0.1435
+IIT-UHH	subtask_C_contrastive2	 0.1400
+EICA	subtask_C_primary	 0.1348
+ECNU	subtask_C_contrastive2	 0.1329
+FuRongWang	subtask_C_primary	 0.1323
+EICA	subtask_C_contrastive2	 0.1318
+ECNU	subtask_C_primary	 0.1054
+ECNU	subtask_C_contrastive1	 0.1054
+bunji	subtask_C_contrastive1	 0.0819
+_baseline	subtask_C_baseline_true	 0.0577
+_baseline	subtask_C_baseline_random	 0.0577
+_baseline	subtask_C_baseline_false	 0.0577

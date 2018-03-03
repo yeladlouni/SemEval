@@ -1,0 +1,32 @@
+انا عندي 17 سنه وبدء يظهر حبوب علي وجهي ومش عارفه اعمل ايه والحبوب مش كتير بس شكلهم بشع اوي وزقني غامقه بقالها فتره مش عارفه ايه السبب ارجوكم افيدوني
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: وبدء	Lemma: بَدْء	BW: bado'
+		Word: يظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: علي	Lemma: عَلَى	BW: EalaY
+		Word: وجهي	Lemma: وَجْه	BW: wajoh
+		Word: ومش	Lemma: مَشّ	BW: ma$~
+		Word: عارفه	Lemma: عَارِف	BW: EaArif
+		Word: اعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: ايه	Lemma: ايه	BW: Ayh
+		Word: والحبوب	Lemma: حَبّ	BW: Hab~
+		Word: مش	Lemma: مَشّ	BW: ma$~
+		Word: كتير	Lemma: كتير	BW: ktyr
+		Word: بس	Lemma: بَسَّ	BW: bas~a
+		Word: شكلهم	Lemma: شَكَل	BW: $akal
+		Word: بشع	Lemma: بَشِع	BW: ba$iE
+		Word: اوي	Lemma: اوي	BW: Awy
+		Word: وزقني	Lemma: زَقَّ	BW: zaq~a
+		Word: غامقه	Lemma: غَامِق	BW: gaAmiq
+		Word: بقالها	Lemma: بَقَّال	BW: baq~aAl
+		Word: فتره	Lemma: تَرّ	BW: tar~
+		Word: مش	Lemma: مَشّ	BW: ma$~
+		Word: عارفه	Lemma: عَارِف	BW: EaArif
+		Word: ايه	Lemma: ايه	BW: Ayh
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: ارجوكم	Lemma: رَجَا	BW: rajaA
+		Word: افيدوني	Lemma: افيدوني	BW: Afydwny
+	------------------------

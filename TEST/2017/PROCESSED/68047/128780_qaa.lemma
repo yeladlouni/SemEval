@@ -1,0 +1,14 @@
+لا داعي لذلك ! فالطول يكفي بالتأكيد، وقد ينمو حتى يتوقف النمو.
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: داعي	Lemma: دَاعّ	BW: daAE~
+		Word: لذلك	Lemma: ذَا	BW: *aA
+		Word: فالطول	Lemma: طُول	BW: Tuwl
+		Word: يكفي	Lemma: كَفَى	BW: kafaY
+		Word: بالتأكيد	Lemma: تَأْكِيد	BW: ta>okiyd
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: ينمو	Lemma: نَمَا	BW: namaA
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: يتوقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: النمو	Lemma: نُمُوّ	BW: numuw~
+	------------------------

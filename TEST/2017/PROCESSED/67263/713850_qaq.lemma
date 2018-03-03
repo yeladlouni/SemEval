@@ -1,0 +1,37 @@
+السلام عليكم انا بنت عمري 21 سنه صرلي اسبوع عم عاني من صداع براسي من وره وصاير عندي عدم تركيز وعم اشرب مسكنات وما عم يفيد لو سمحتو شو بيكون هذا وشو لازم اعمل وشكرا
+	##Lemmatization results:
+		Word: السلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: انا	Lemma: انا	BW: AnA
+		Word: بنت	Lemma: بِنْت	BW: binot
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: صرلي	Lemma: صرلي	BW: Srly
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: عم	Lemma: عَمّ	BW: Eam~
+		Word: عاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: صداع	Lemma: صُدَاع	BW: SudaAE
+		Word: براسي	Lemma: رَاس	BW: raAs
+		Word: من	Lemma: مَنْ	BW: mano
+		Word: وره	Lemma: رَأَى	BW: ra>aY
+		Word: وصاير	Lemma: وصاير	BW: wSAyr
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: تركيز	Lemma: تَرْكِيز	BW: tarokiyz
+		Word: وعم	Lemma: وَعَمَ	BW: waEama
+		Word: اشرب	Lemma: شَرَبَ	BW: $araba
+		Word: مسكنات	Lemma: مُسَكِّن	BW: musak~in
+		Word: وما	Lemma: مَا	BW: maA
+		Word: عم	Lemma: عَمّ	BW: Eam~
+		Word: يفيد	Lemma: أَفَادَ	BW: >afaAda
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحتو	Lemma: سمحتو	BW: smHtw
+		Word: شو	Lemma: شُو	BW: $uw
+		Word: بيكون	Lemma: بيكون	BW: bykwn
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: وشو	Lemma: شُو	BW: $uw
+		Word: لازم	Lemma: لَازِم	BW: laAzim
+		Word: اعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

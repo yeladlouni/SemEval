@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Microblast
+
+ارومة صغرية
+
+Megaloblast
+
+ارومة ضخمة
+
+Ectoblast
+
+ارومة ظاهرة ادمة برانية
+
+Ectomesenchyme
+
+ارومة ظاهرية متوسطية
+
+Sarcoblast
+
+ارومة عضلية
+
+Myoblast
+
+ارومة عضلية
+
+Sarcoblast myoblast
+
+ارومة عضلية
+
+Rhabdomyoblast
+
+ارومة عضلية مخططة
+
+Ganglioblast
+
+ارومة عقدية
+
+Syntrophoblast
+
+ارومة غاذوية مخلوية
+
+Trophoblast
+
+ارومة غاذية
+
+Cytotrophoblast
+
+ارومة غاذية خلوية
+
+Syncytiotrophoblast
+
+ارومة غاذية مخلوية
+
+Plasmidotrophoblast
+
+ارومة غاذية مخلوية
+
+Adenoblast
+
+ارومة غدية
+
+Chondroblast
+
+ارومة غضروفية
+
+Macroblast
+
+ارومة كبرية
+
+Lymphoblast
+
+ارومة لمفاوية
+
+Fibroblast
+
+ارومة ليفية
+
+Myofibroblast
+
+ارومة ليفية عضلية
+

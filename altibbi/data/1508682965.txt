@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pentavalent, quinquevalent
+
+خماسي التكافؤ
+
+Quinquecuspid
+
+خماسي الشرف
+
+Superinfection
+
+خمج اضافي
+
+Meningococcemia
+
+خمج الدم بالسحائيات
+
+Nosocomial infection
+
+خمج المشافي
+
+Septyic infection
+
+خمج انتاني
+
+Focal infection
+
+خمج بؤري
+
+Contact infection
+
+خمج بالتماس
+
+Simple infection
+
+خمج بسيط
+
+Secondary infection
+
+خمج ثانوي
+
+Infection
+
+خمج خارجي المنشا
+
+Inapparent infection
+
+خمج خفي
+
+Subclinical infection
+
+خمج دون السريري
+
+Autoinfection
+
+خمج ذاتي
+
+Droplet infection
+
+خمج رذاذي
+
+Total infection
+
+خمج شامل
+
+Silent infection
+
+خمج صامت
+
+Apical infection
+
+خمج قمي
+
+Pyogenic infection
+
+خمج قيحي
+
+Latent infection
+
+خمج كامن
+

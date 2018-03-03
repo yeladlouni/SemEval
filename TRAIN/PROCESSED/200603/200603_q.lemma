@@ -1,0 +1,30 @@
+امي حساسة للبنسلين (Penicillin) ولديها تلوث في المسالك البولية. ما هي المضادات الحيوية التي تناسبها تلقت وصفة طبية اموكسيسيلين (Amoxicillin) من قبل الطبيب وقال لها الصيدلي ان هذا خطير.
+	##Lemmatization results:
+		Word: امي	Lemma: امي	BW: Amy
+		Word: حساسة	Lemma: حَسَّاس	BW: Has~aAs
+		Word: للبنسلين	Lemma: للبنسلين	BW: llbnslyn
+		Word: ولديها	Lemma: لَدَى	BW: ladaY
+		Word: تلوث	Lemma: تَلَوُّث	BW: talaw~uv
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المسالك	Lemma: مَسْلَك	BW: masolak
+		Word: البولية	Lemma: بَوْلِيّ	BW: bawoliy~
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: المضادات	Lemma: مُضَادّ	BW: muDaAd~
+		Word: الحيوية	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تناسبها	Lemma: تَنَاسُب	BW: tanaAsub
+		Word: تلقت	Lemma: تَلَقَّى	BW: talaq~aY
+		Word: وصفة	Lemma: وَصْفَة	BW: waSofap
+		Word: طبية	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: اموكسيسيلين	Lemma: اموكسيسيلين	BW: Amwksysylyn
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: لها	Lemma: لِي	BW: liy
+		Word: الصيدلي	Lemma: صَيْدَلِيّ	BW: Sayodaliy~
+		Word: ان	Lemma: ان	BW: An
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: خطير	Lemma: خَطِير	BW: xaTiyr
+	------------------------

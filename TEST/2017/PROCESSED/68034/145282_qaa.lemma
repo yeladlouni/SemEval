@@ -1,0 +1,38 @@
+IgM positive; IgG negative: تمت الاصابة بالعدوى مؤخرا، ولاول مرة بالحياة. IgM negative; IgG negative : لم يتم التعرض مطلقا للفيروس. IgM negative; IgG positive : كانت هنالك اصابة بالعدوى في الماضي البعيد. IgM positive; IgG positive : حصلت الاصابة بالعدوى قبل اشهر معدودة. إذن حالتك أنك سبق أن أصبت بالفيروس منذ مدة بعيدة
+	##Lemmatization results:
+		Word: تمت	Lemma: تَمَّ	BW: tam~a
+		Word: الاصابة	Lemma: الاصابة	BW: AlASAbp
+		Word: بالعدوى	Lemma: عَدْوَى	BW: EadowaY
+		Word: مؤخرا	Lemma: مُؤَخَّر	BW: mu&ax~ar
+		Word: ولاول	Lemma: ولاول	BW: wlAwl
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: بالحياة	Lemma: حَيَاة	BW: HayaAp
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: التعرض	Lemma: تَعَرُّض	BW: taEar~uD
+		Word: مطلقا	Lemma: مُطْلَق	BW: muTolaq
+		Word: للفيروس	Lemma: للفيروس	BW: llfyrws
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: هنالك	Lemma: هُنَا	BW: hunaA
+		Word: اصابة	Lemma: اصابة	BW: ASAbp
+		Word: بالعدوى	Lemma: عَدْوَى	BW: EadowaY
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الماضي	Lemma: مَاضِي	BW: maADiy
+		Word: البعيد	Lemma: بَعِيد	BW: baEiyd
+		Word: حصلت	Lemma: حَصَلَ	BW: HaSala
+		Word: الاصابة	Lemma: الاصابة	BW: AlASAbp
+		Word: بالعدوى	Lemma: عَدْوَى	BW: EadowaY
+		Word: قبل	Lemma: قَبْلَ	BW: qabola
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: معدودة	Lemma: مَعْدُود	BW: maEoduwd
+		Word: إذن	Lemma: إِذْن	BW: <i*on
+		Word: حالتك	Lemma: حَالَة	BW: HaAlap
+		Word: أنك	Lemma: أَنَّ	BW: >an~a
+		Word: سبق	Lemma: سَبَقَ	BW: sabaqa
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أصبت	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بالفيروس	Lemma: بالفيروس	BW: bAlfyrws
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: مدة	Lemma: مُدّ	BW: mud~
+		Word: بعيدة	Lemma: بَعِيد	BW: baEiyd
+	------------------------

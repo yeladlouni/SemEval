@@ -1,0 +1,22 @@
+اذا قال لك الطبيب ان مكانهما جيد..فانني انصحك بزيادة شرب السوائل دائما الحجم باعتقادي كبير والتفتيت سيكون صعبا
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: لك	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: ان	Lemma: ان	BW: An
+		Word: مكانهما	Lemma: مَكَان	BW: makaAn
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: فانني	Lemma: فَانَى	BW: faAnaY
+		Word: انصحك	Lemma: نَصَحَ	BW: naSaHa
+		Word: بزيادة	Lemma: زِيَادَة	BW: ziyaAdap
+		Word: شرب	Lemma: شَرِبَ	BW: $ariba
+		Word: السوائل	Lemma: سَائِل	BW: saA}il
+		Word: دائما	Lemma: دَائِم	BW: daA}im
+		Word: الحجم	Lemma: حَجْم	BW: Hajom
+		Word: باعتقادي	Lemma: اعْتِقَاد	BW: AEotiqaAd
+		Word: كبير	Lemma: كَبِير	BW: kabiyr
+		Word: والتفتيت	Lemma: تَفْتِيت	BW: tafotiyt
+		Word: سيكون	Lemma: كَانَ	BW: kaAna
+		Word: صعبا	Lemma: صَعْب	BW: SaEob
+	------------------------

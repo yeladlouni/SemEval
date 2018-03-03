@@ -1,0 +1,33 @@
+أنا حامل في الاسبوع ٣٤ وأنا حامل للتلاسيميا وقوة دمي 9.7 وأخذت كورسين حديد لحتى أصبح هكذا وقالت لي الدكتورة أوقفي الحديد لآني حامل للتلاسيميا. هل هذا صحيح وماذا علي أن أفعل 
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الاسبوع	Lemma: الاسبوع	BW: AlAsbwE
+		Word: وأنا	Lemma: أَنَا	BW: >anaA
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: للتلاسيميا	Lemma: للتلاسيميا	BW: lltlAsymyA
+		Word: وقوة	Lemma: قُوَّة	BW: quw~ap
+		Word: دمي	Lemma: دَم	BW: dam
+		Word: وأخذت	Lemma: أَخَذَ	BW: >axa*a
+		Word: كورسين	Lemma: وَرَس	BW: waras
+		Word: حديد	Lemma: حَدِيد	BW: Hadiyd
+		Word: لحتى	Lemma: حَتَى	BW: HataY
+		Word: أصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: هكذا	Lemma: ذَا	BW: *aA
+		Word: وقالت	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: الدكتورة	Lemma: دُكْتُور	BW: dukotuwr
+		Word: أوقفي	Lemma: وَقْف	BW: waqof
+		Word: الحديد	Lemma: حَدِيد	BW: Hadiyd
+		Word: لآني	Lemma: آن	BW: |n
+		Word: حامل	Lemma: حَامِل	BW: HaAmil
+		Word: للتلاسيميا	Lemma: للتلاسيميا	BW: lltlAsymyA
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: وماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: علي	Lemma: عَلَى	BW: EalaY
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+	------------------------

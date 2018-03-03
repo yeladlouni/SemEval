@@ -1,0 +1,19 @@
+السؤال أمي تعاني من تنميل في ساقيها عند فردها ولا تستطيع الوقوف عليها طويلاً لأنها تؤلمها.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أمي	Lemma: أُمّ	BW: >um~
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تنميل	Lemma: تَنْمِيل	BW: tanomiyl
+		Word: في	Lemma: فِي	BW: fiy
+		Word: ساقيها	Lemma: سَاق	BW: saAq
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: فردها	Lemma: فَرْد	BW: farod
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: تستطيع	Lemma: اسْتَطَاعَ	BW: AsotaTaAEa
+		Word: الوقوف	Lemma: وُقُوف	BW: wuquwf
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: طويلًا	Lemma: طَوِيل	BW: Tawiyl
+		Word: لأنها	Lemma: أَنَّ	BW: >an~a
+		Word: تؤلمها	Lemma: آلَمَ	BW: |lama
+	------------------------

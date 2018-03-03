@@ -1,0 +1,14 @@
+ابني يبلغ من العمر 4 سنوات وزنه 14 كيلو غرام وشهيته للطعام مفقودة
+	##Lemmatization results:
+		Word: ابني	Lemma: ابْن	BW: Abon
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: من	Lemma: مَنْ	BW: mano
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: وزنه	Lemma: زَنّ	BW: zan~
+		Word: كيلو	Lemma: كِيلُو	BW: kiyluw
+		Word: غرام	Lemma: غَرَام	BW: garaAm
+		Word: وشهيته	Lemma: شَهِيّ	BW: $ahiy~
+		Word: للطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: مفقودة	Lemma: مَفْقُود	BW: mafoquwd
+	------------------------

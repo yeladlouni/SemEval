@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - جراحة عامة
+
+#  المصطلحات الطبية - جراحة عامة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Appendectomy
+
+استئصال الزائدة
+
+Umbilectomy
+
+استئصال السرة
+
+Aponeurectomy
+
+استئصال السفاق
+
+Strumectomy
+
+استئصال السلعة
+
+Polypectomy
+
+استئصال السليلة
+
+Sigmoidectomy
+
+استئصال السيني
+
+Procto-sigmoidectomy
+
+استئصال السيني والمستقيم
+
+Saphenectomy
+
+استئصال الصافن
+
+Jejunectomy
+
+استئصال الصائم
+
+Pinealectomy
+
+استئصال الصنوبرية
+
+Splenectomy
+
+استئصال الطحال
+
+Subcapsular splenectomy
+
+استئصال الطحال تحت المحفظة
+
+Arytenoidectomy
+
+استئصال الطرجهالي
+
+Fibromyomectomy
+
+استئصال العضلوم الليفي
+
+Ganglionectomy
+
+استئصال العقدة
+
+Lymphadenectomy
+
+استئصال العقدة اللمفية
+
+Stellectomy
+
+استئصال العقدة النجمية
+
+Antrectomy
+
+استئصال الغار
+
+Antroduodenectomy
+
+استئصال الغار والعفج
+
+Sialoadenectomy
+
+استئصال الغدة اللعابية
+

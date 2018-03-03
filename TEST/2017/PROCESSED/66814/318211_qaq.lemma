@@ -1,0 +1,21 @@
+لو سمحت انا عملت تحليل هرمون نمو و كانت النسبه 0.05 فهل هذا طبيعي مع العلم انا عمرى 20 سنه
+	##Lemmatization results:
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحت	Lemma: سَمَحَ	BW: samaHa
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: هرمون	Lemma: هَرِم	BW: harim
+		Word: نمو	Lemma: نُمُوّ	BW: numuw~
+		Word: و	Lemma: و	BW: w
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: النسبه	Lemma: النسبه	BW: Alnsbh
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمرى	Lemma: عُمْرَى	BW: EumoraY
+		Word: سنه	Lemma: سَنّ	BW: san~
+	------------------------

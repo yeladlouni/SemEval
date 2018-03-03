@@ -1,0 +1,35 @@
+مرحبا بنتي عمرها ثلاثة اشهر ونصف عندها اسهال لاكن لا تخروج الا مرة واحدة في اليوم خروجها له رائحة تشبه الحموضة مزعجة(رضاعة طبيعية) كان عندها فطريات من شهر وأخذت العلاج مرتين
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: بنتي	Lemma: بِنْت	BW: binot
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: ثلاثة	Lemma: ثَلَاث	BW: valaAv
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: ونصف	Lemma: نِصْف	BW: niSof
+		Word: عندها	Lemma: عِنْد	BW: Einod
+		Word: اسهال	Lemma: اسهال	BW: AshAl
+		Word: لاكن	Lemma: لَاكِن	BW: laAkin
+		Word: لا	Lemma: لَا	BW: laA
+		Word: تخروج	Lemma: تخروج	BW: txrwj
+		Word: الا	Lemma: الا	BW: AlA
+		Word: مرة	Lemma: مَرَّة	BW: mar~ap
+		Word: واحدة	Lemma: وَاحِد	BW: waAHid
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: خروجها	Lemma: خُرُوج	BW: xuruwj
+		Word: له	Lemma: لِي	BW: liy
+		Word: رائحة	Lemma: رَائِحَة	BW: raA}iHap
+		Word: تشبه	Lemma: أَشْبَهَ	BW: >a$obaha
+		Word: الحموضة	Lemma: حُمُوض	BW: HumuwD
+		Word: مزعجة	Lemma: مُزْعِج	BW: muzoEij
+		Word: رضاعة	Lemma: رَضَاع	BW: raDaAE
+		Word: طبيعية	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: عندها	Lemma: عِنْدَ	BW: Einoda
+		Word: فطريات	Lemma: فِطْرِيّ	BW: fiToriy~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: وأخذت	Lemma: أَخَذَ	BW: >axa*a
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+	------------------------

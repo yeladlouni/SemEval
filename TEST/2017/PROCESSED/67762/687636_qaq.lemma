@@ -1,0 +1,19 @@
+انا اعاني من نقص كثيف في الوزن عمري 25 كان وزني 65 خلال مده أقصاها شهرين أصبح وزني 45
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: كثيف	Lemma: كَثِيف	BW: kaviyf
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: وزني	Lemma: زَنَى	BW: zanaY
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: مده	Lemma: مَادَ	BW: maAda
+		Word: أقصاها	Lemma: أَقْصَى	BW: >aqoSaY
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: أصبح	Lemma: أَصْبَحَ	BW: >aSobaHa
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+	------------------------

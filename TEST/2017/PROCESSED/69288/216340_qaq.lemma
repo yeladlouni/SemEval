@@ -1,0 +1,35 @@
+هل يجب إزالة المرارة إذا كانت متضخمة قليلا (طولها 12 سم)، وتحتوي على 4 حصوات فقط؟ أم يمكن العلاج بدون إزالة المرارة نفسها؟ مع العلم أنها سببت الألم للمريضة أحيانا. رجاء الإجابة بالتفصيل، شكرا.
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: إزالة	Lemma: إِزَالَة	BW: <izaAlap
+		Word: المرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: متضخمة	Lemma: مُتَضَخِّم	BW: mutaDax~im
+		Word: قليلا	Lemma: قَلِيل	BW: qaliyl
+		Word: طولها	Lemma: طُول	BW: Tuwl
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: وتحتوي	Lemma: احْتَوَى	BW: AHotawaY
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: حصوات	Lemma: حَصْوَة	BW: HaSowap
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: إزالة	Lemma: إِزَالَة	BW: <izaAlap
+		Word: المرارة	Lemma: مَرَارَة	BW: maraArap
+		Word: نفسها	Lemma: نَفْس	BW: nafos
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عِلْم	BW: Eilom
+		Word: أنها	Lemma: أَنَّ	BW: >an~a
+		Word: سببت	Lemma: سَبَّبَ	BW: sab~aba
+		Word: الألم	Lemma: أَلَم	BW: >alam
+		Word: للمريضة	Lemma: مَرِيض	BW: mariyD
+		Word: أحيانا	Lemma: حِين	BW: Hiyn
+		Word: رجاء	Lemma: رَجَاء	BW: rajaA'
+		Word: الإجابة	Lemma: إِجَابَة	BW: <ijaAbap
+		Word: بالتفصيل	Lemma: تَفْصِيل	BW: tafoSiyl
+		Word: شكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

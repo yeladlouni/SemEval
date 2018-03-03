@@ -1,0 +1,21 @@
+أنا فتاة 16 سنة ، أعاني من تعب شديد و فشل ، أحس بالملل و الكآبة أحيانا نفسيتي مرهقة جدا مالعمل؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تعب	Lemma: تَعِبَ	BW: taEiba
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: و	Lemma: و	BW: w
+		Word: فشل	Lemma: فَشِلَ	BW: fa$ila
+		Word: أحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بالملل	Lemma: مَلَل	BW: malal
+		Word: و	Lemma: و	BW: w
+		Word: الكآبة	Lemma: كَآبَة	BW: ka|bap
+		Word: أحيانا	Lemma: حِين	BW: Hiyn
+		Word: نفسيتي	Lemma: نَفْسِيّ	BW: nafosiy~
+		Word: مرهقة	Lemma: مُرْهِق	BW: murohiq
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: مالعمل	Lemma: مالعمل	BW: mAlEml
+	------------------------

@@ -1,0 +1,38 @@
+صباح الخير ، أنا شاب عمري 21 أعاني من ناسور شرجي منذ 3 سنين ،عملت عملية دمل وثم ظهر أو أنه كان موجود ، و أيضا قبل فترة أجريت عملية دمل ! و الأن أشعر أنه يتضخم! ماذا أفعل ،تعبت
+	##Lemmatization results:
+		Word: صباح	Lemma: صَبَاح	BW: SabaAH
+		Word: الخير	Lemma: خَيْر	BW: xayor
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ناسور	Lemma: ناسور	BW: nAswr
+		Word: شرجي	Lemma: شَرَجِيّ	BW: $arajiy~
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سنين	Lemma: سَنَة	BW: sanap
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: عملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: دمل	Lemma: دَمْل	BW: damol
+		Word: وثم	Lemma: ثُمَّ	BW: vum~a
+		Word: ظهر	Lemma: ظَهْر	BW: Zahor
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أنه	Lemma: أَنّ	BW: >an~
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: موجود	Lemma: مَوْجُود	BW: mawojuwd
+		Word: و	Lemma: و	BW: w
+		Word: أيضا	Lemma: أَيْض	BW: >ayoD
+		Word: قبل	Lemma: قِبَل	BW: qibal
+		Word: فترة	Lemma: فَتْرَة	BW: fatorap
+		Word: أجريت	Lemma: أَجْرَى	BW: >ajoraY
+		Word: عملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: دمل	Lemma: دَمْل	BW: damol
+		Word: و	Lemma: و	BW: w
+		Word: الأن	Lemma: أَنّ	BW: >an~
+		Word: أشعر	Lemma: أَشْعَرَ	BW: >a$oEara
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يتضخم	Lemma: تَضَخَّمَ	BW: taDax~ama
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+		Word: تعبت	Lemma: تَعِبَ	BW: taEiba
+	------------------------

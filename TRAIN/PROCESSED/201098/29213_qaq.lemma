@@ -1,0 +1,13 @@
+انا عمري 15 ولم ابلغ ماذا افعل اذهب لطبيب اخذ ادوية 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: اذهب	Lemma: ذَهَبَ	BW: *ahaba
+		Word: لطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: ادوية	Lemma: ادوية	BW: Adwyp
+	------------------------

@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - امراض الجهاز الهضمي
+
+#  المصطلحات الطبية - امراض الجهاز الهضمي
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Pseudomembranous colitis
+
+التهاب القولون الغشائي الكاذب
+
+Pseudomembranous enteritis
+
+التهاب الامعاء الغشائي الكاذب
+
+Necrotizing enterocolitis
+
+التهاب معوي قولوني ناخر
+
+Pectenitis
+
+التهاب ممشط القناة الشرجية
+
+Linitis
+
+التهاب نسيجة المعدة
+
+Mallory-weiss lesion
+
+آفة مالوري وايس
+
+Mallory-weiss tear
+
+تمزق مالوري وايس
+
+Bowel sounds
+
+اصوات الامعاء
+
+Pancreatalgia
+
+الم البنكرياس
+
+Colonalgia
+
+الم القولون
+
+Hepatalgia
+
+الم الكبد
+
+Hepatalgic
+
+الم الكبد
+
+Hepatodynia
+
+الم الكبد
+
+Esophagalgia
+
+الم المريء
+
+Esophagodynia
+
+الم المريء
+
+Rectalgia
+
+الم المستقيم
+
+Proctodynia
+
+وجع مستقيمي
+
+Sphincteralgia
+
+الم المصرة
+
+Choleraic diarrhea
+
+اسهال الكوليرا
+
+Lientery
+
+اسهال تخمي
+

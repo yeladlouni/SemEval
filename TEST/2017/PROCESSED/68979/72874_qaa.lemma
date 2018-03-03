@@ -1,0 +1,21 @@
+الحل بسيط جدا ...يبدا بعمل تحليل بسيط للبول....وصورة التراساوند للكليتين للتاكد ان كل شيء على ما يرام
+	##Lemmatization results:
+		Word: الحل	Lemma: حَلّ	BW: Hal~
+		Word: بسيط	Lemma: بَسِيط	BW: basiyT
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: يبدا	Lemma: بَدَّ	BW: bad~a
+		Word: بعمل	Lemma: عَمَل	BW: Eamal
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: بسيط	Lemma: بَسِيط	BW: basiyT
+		Word: للبول	Lemma: بَوْل	BW: bawol
+		Word: وصورة	Lemma: صُورَة	BW: Suwrap
+		Word: التراساوند	Lemma: التراساوند	BW: AltrAsAwnd
+		Word: للكليتين	Lemma: كُلْيَة	BW: kuloyap
+		Word: للتاكد	Lemma: للتاكد	BW: lltAkd
+		Word: ان	Lemma: ان	BW: An
+		Word: كل	Lemma: كَلَّ	BW: kal~a
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: ما	Lemma: مَا	BW: maA
+		Word: يرام	Lemma: رَامَ	BW: raAma
+	------------------------

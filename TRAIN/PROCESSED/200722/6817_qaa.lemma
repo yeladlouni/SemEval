@@ -1,0 +1,13 @@
+بسم الله الرحمن الرحيم الجواب لا لانه هذه مشكلتين مختلفتين
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: الرحمن	Lemma: رَحْمَن	BW: raHoman
+		Word: الرحيم	Lemma: رَحِيم	BW: raHiym
+		Word: الجواب	Lemma: جَوَاب	BW: jawaAb
+		Word: لا	Lemma: لَا	BW: laA
+		Word: لانه	Lemma: نَهِيَ	BW: nahiya
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: مشكلتين	Lemma: مُشْكِل	BW: mu$okil
+		Word: مختلفتين	Lemma: مُخْتَلِف	BW: muxotalif
+	------------------------

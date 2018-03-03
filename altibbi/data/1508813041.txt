@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تخدير
+
+#  المصطلحات الطبية - تخدير
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Semi-open anesthesia
+
+تخدير نصف مفتوح
+
+Block anesthesia
+
+تخدير احصاري
+
+Saddle block anesthesia
+
+تخدير احصاري سرجي
+
+Insufflation anesthesia
+
+تخدير بالنفخ
+
+Nerve block anesthesia
+
+تخدير باحصار العصب
+
+Refrigeration anesthesia
+
+تخدير تثليجي
+
+Cryoanesthesia
+
+تخدير بالبرد
+
+Neuroleptanesthesia
+
+تخدير تسكيني تطميني
+
+Splanchnic anesthesia
+
+تخديرحشوي
+
+Retrobulbar anesthesia
+
+تخديرخلف المقلة
+
+Intranasal anesthesia
+
+تخديرداخل الانف
+
+Intraoral anesthesia
+
+تخديرداخل الفم
+
+Semi-closed anesthesia
+
+تخديرفي دارة مغلقة جزئيا
+
+Electroanesthesia
+
+تخدير كهربي
+
+Electronarcoses
+
+تخدر كهربي
+
+Rectal anesthesia
+
+تخديرمستقيمي
+
+Regional anesthetic
+
+تخديرناحي
+
+Primary anesthetic
+
+تخديرياولي
+
+Inhalation analgesia
+
+تسكين الالم الاستنشاقي
+
+Surface analgesia
+
+تسكين السطح
+

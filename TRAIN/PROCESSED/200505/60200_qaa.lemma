@@ -1,0 +1,12 @@
+هناك كريم إسمه كريم فيتامين سي وكريم اورانج دبلي tm
+	##Lemmatization results:
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: كريم	Lemma: كَرِيم	BW: kariym
+		Word: إسمه	Lemma: إسمه	BW: <smh
+		Word: كريم	Lemma: كَرِيم	BW: kariym
+		Word: فيتامين	Lemma: يَتَّام	BW: yat~aAm
+		Word: سي	Lemma: وَسَى	BW: wasaY
+		Word: وكريم	Lemma: كَرِيم	BW: kariym
+		Word: اورانج	Lemma: اورانج	BW: AwrAnj
+		Word: دبلي	Lemma: دُبْلِيّ	BW: duboliy~
+	------------------------

@@ -1,0 +1,36 @@
+انا عندى الم فى الظهر والرجل اليمنى ذهبت الى طبيب وتشخيص الطبيب كان اختناق فى العصب (العضلات ضاغطه على العصب ما العلاج)اخذت علاج لمده شهر خفيت وبعد سنه رجع الالم تانى ماالعلاج
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عندى	Lemma: عندى	BW: EndY
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: فى	Lemma: فى	BW: fY
+		Word: الظهر	Lemma: ظُهْر	BW: Zuhor
+		Word: والرجل	Lemma: رَجُل	BW: rajul
+		Word: اليمنى	Lemma: يُمْنَى	BW: yumonaY
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: الى	Lemma: الى	BW: AlY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وتشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: اختناق	Lemma: اخْتِنَاق	BW: AxotinaAq
+		Word: فى	Lemma: فى	BW: fY
+		Word: العصب	Lemma: عَصَب	BW: EaSab
+		Word: العضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: ضاغطه	Lemma: ضَاغِط	BW: DaAgiT
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: العصب	Lemma: عَصَب	BW: EaSab
+		Word: ما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: اخذت	Lemma: اخذت	BW: Ax*t
+		Word: علاج	Lemma: عِلَاج	BW: EilaAj
+		Word: لمده	Lemma: مَادَ	BW: maAda
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: خفيت	Lemma: خَفَّى	BW: xaf~aY
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: رجع	Lemma: رَجَّعَ	BW: raj~aEa
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: تانى	Lemma: تانى	BW: tAnY
+		Word: ماالعلاج	Lemma: ماالعلاج	BW: mAAlElAj
+	------------------------

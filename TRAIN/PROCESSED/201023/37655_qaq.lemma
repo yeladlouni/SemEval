@@ -1,0 +1,39 @@
+: شاب عمري ٣٨ سنة اتناول ادوية لعلاج التهابات البروستات منذ عشرة ايام وهي azithromycin 500 و gemifloxacin 320 و naproxen 500 لكن منذ يومين ظهر لدي طفح جلدي بدون حكة في منطقة الرقبة والصدر ثم الوجه واليدين على شكل حبوب حمراء ما العلاج : 
+	##Lemmatization results:
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: اتناول	Lemma: اتناول	BW: AtnAwl
+		Word: ادوية	Lemma: ادوية	BW: Adwyp
+		Word: لعلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: التهابات	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: البروستات	Lemma: البروستات	BW: AlbrwstAt
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: عشرة	Lemma: عِشْرَة	BW: Ei$orap
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: وهي	Lemma: وَهِيَ	BW: wahiya
+		Word: و	Lemma: و	BW: w
+		Word: و	Lemma: و	BW: w
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: ظهر	Lemma: ظَهَرَ	BW: Zahara
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: طفح	Lemma: طَفَحَ	BW: TafaHa
+		Word: جلدي	Lemma: جِلْدِيّ	BW: jilodiy~
+		Word: بدون	Lemma: دُون	BW: duwn
+		Word: حكة	Lemma: حَكَّة	BW: Hak~ap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: منطقة	Lemma: مِنْطَقَة	BW: minoTaqap
+		Word: الرقبة	Lemma: رَقَبَة	BW: raqabap
+		Word: والصدر	Lemma: صَدْر	BW: Sador
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: الوجه	Lemma: وَجْه	BW: wajoh
+		Word: واليدين	Lemma: يَد	BW: yad
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: شكل	Lemma: شَكْل	BW: $akol
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: حمراء	Lemma: حَمْرَاء	BW: HamoraA'
+		Word: ما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

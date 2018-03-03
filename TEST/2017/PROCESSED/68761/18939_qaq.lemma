@@ -1,0 +1,18 @@
+"""لماذا يحدث عندي الم عند الجماع في وضعية معينة فقط؟ اشعر بألم في اسفل البطن؟؟
+	##Lemmatization results:
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: عند	Lemma: عِنْد	BW: Einod
+		Word: الجماع	Lemma: جِمَاع	BW: jimaAE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: وضعية	Lemma: وَضْعِيَّة	BW: waDoEiy~ap
+		Word: معينة	Lemma: مُعَيَّن	BW: muEay~an
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: اشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بألم	Lemma: أَلَم	BW: >alam
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اسفل	Lemma: سَفُلَ	BW: safula
+		Word: البطن	Lemma: بَطْن	BW: baTon
+	------------------------

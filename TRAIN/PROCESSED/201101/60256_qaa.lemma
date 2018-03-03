@@ -1,0 +1,17 @@
+لا داعي للقلق لكن ينبغي معاودة طبيبك للتحقق إن كان هناك سبب عضوي لذلك
+	##Lemmatization results:
+		Word: لا	Lemma: لَا	BW: laA
+		Word: داعي	Lemma: دَاعّ	BW: daAE~
+		Word: للقلق	Lemma: قَلَق	BW: qalaq
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: ينبغي	Lemma: انْبَغَى	BW: AnobagaY
+		Word: معاودة	Lemma: مُعَاوَدَة	BW: muEaAwadap
+		Word: طبيبك	Lemma: طَبِيب	BW: Tabiyb
+		Word: للتحقق	Lemma: تَحَقُّق	BW: taHaq~uq
+		Word: إن	Lemma: إِنْ	BW: <ino
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: سبب	Lemma: سَبَب	BW: sabab
+		Word: عضوي	Lemma: عُضْو	BW: EuDow
+		Word: لذلك	Lemma: ذَا	BW: *aA
+	------------------------

@@ -1,0 +1,36 @@
+عمري 27سنه اعاني صداع شديد واستفراغ شديد ولا يوجد الم في المعده ..وياتي كل اسبوع مره ذهبت للطبيب وقال لي انني اتحسس من الالبان ولكن ما زال بالرغم من البعد عن اللبن ومشتقاته
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: صداع	Lemma: صُدَاع	BW: SudaAE
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: واستفراغ	Lemma: اسْتِفْرَاغ	BW: AsotiforaAg
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المعده	Lemma: المعده	BW: AlmEdh
+		Word: وياتي	Lemma: وياتي	BW: wyAty
+		Word: كل	Lemma: كَلَّ	BW: kal~a
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: مره	Lemma: مَرّ	BW: mar~
+		Word: ذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: للطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: انني	Lemma: انني	BW: Anny
+		Word: اتحسس	Lemma: اتحسس	BW: AtHss
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الالبان	Lemma: الالبان	BW: AlAlbAn
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: ما	Lemma: مَا	BW: maA
+		Word: زال	Lemma: زَالَ	BW: zaAla
+		Word: بالرغم	Lemma: رَغْم	BW: ragom
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: البعد	Lemma: بُعْد	BW: buEod
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: اللبن	Lemma: لَبَن	BW: laban
+		Word: ومشتقاته	Lemma: مُشْتَقّ	BW: mu$otaq~
+	------------------------

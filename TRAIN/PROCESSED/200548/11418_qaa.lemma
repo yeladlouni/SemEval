@@ -1,0 +1,21 @@
+بسم الله هذا يعتمد على درجة النظارة اذا اقل من 5 أو اكثر من خمسة وسوف يحددلك ذالك الطبيب
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يعتمد	Lemma: اعْتَمَدَ	BW: AEotamada
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: النظارة	Lemma: نَظَّارَة	BW: naZ~aArap
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: اقل	Lemma: قَلِيَ	BW: qaliya
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: اكثر	Lemma: كَثُرَ	BW: kavura
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: خمسة	Lemma: خَمْس	BW: xamos
+		Word: وسوف	Lemma: سَوْفَ	BW: sawofa
+		Word: يحددلك	Lemma: يحددلك	BW: yHddlk
+		Word: ذالك	Lemma: ذَالّ	BW: *aAl~
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+	------------------------

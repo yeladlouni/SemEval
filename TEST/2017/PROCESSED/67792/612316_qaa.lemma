@@ -1,0 +1,18 @@
+هذا يحدث اذا تم شد السيتون اكثر من اللازم. ولكن الالم سوف يتحسن. يجب الانتظار
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: تم	Lemma: تَمَّ	BW: tam~a
+		Word: شد	Lemma: شَدّ	BW: $ad~
+		Word: السيتون	Lemma: السيتون	BW: Alsytwn
+		Word: اكثر	Lemma: كَثُرَ	BW: kavura
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اللازم	Lemma: لَازِم	BW: laAzim
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: سوف	Lemma: سَوْفَ	BW: sawofa
+		Word: يتحسن	Lemma: تَحَسَّنَ	BW: taHas~ana
+		Word: يجب	Lemma: وَجَبَ	BW: wajaba
+		Word: الانتظار	Lemma: انْتِظَار	BW: AnotiZaAr
+	------------------------

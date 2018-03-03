@@ -1,0 +1,27 @@
+عمري 23 عام; سليمة; اتلقى الدورة منذ سن ال-14; لكن بشكل غير منتظم طوال الوقت. هل عدم الانتظام يدل على العقم ماذا تنصحوني ان افعل 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عام	Lemma: عَامّ	BW: EaAm~
+		Word: سليمة	Lemma: سَلِيم	BW: saliym
+		Word: اتلقى	Lemma: اتلقى	BW: AtlqY
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سن	Lemma: سِنّ	BW: sin~
+		Word: ال	Lemma: ال	BW: Al
+		Word: لكن	Lemma: كَانَ	BW: kaAna
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: منتظم	Lemma: مُنْتَظِم	BW: munotaZim
+		Word: طوال	Lemma: طَوَال	BW: TawaAl
+		Word: الوقت	Lemma: وَقْت	BW: waqot
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: الانتظام	Lemma: انْتِظَام	BW: AnotiZaAm
+		Word: يدل	Lemma: دَلَّ	BW: dal~a
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: العقم	Lemma: عُقْم	BW: Euqom
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: تنصحوني	Lemma: أَنْصَحَ	BW: >anoSaHa
+		Word: ان	Lemma: ان	BW: An
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+	------------------------

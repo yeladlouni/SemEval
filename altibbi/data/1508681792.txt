@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Ileocecostomy
+
+مفاغرة اللفائفي بالاعور
+
+Ileo-sigmoidostomy
+
+مفاغرة اللفائفي بالسيني
+
+Ileo-transversostomy
+
+مفاغرة اللفائفي بالمستعرض
+
+Ileo-proctostomy
+
+مفاغرة اللفائفي بالمستقيم
+
+Cholecysto-jejunostomy
+
+مفاغرة المرارة بالصائم
+
+Cholecysto-duodenostomy
+
+مفاغرة المرارة بالعفج
+
+Cholecysto-ileostomy
+
+مفاغرة المرارة باللفائفي
+
+Cholecysto-gastrostomy
+
+مفاغرة المرارة بالمعدة
+
+Cholecysto-enterostomy
+
+مفاغرة المرارة بالمعى
+
+Termino-terminal anastomosis
+
+مفاغرة النهاية بالنهاية
+
+Portoenterostomy
+
+مفاغرة بابية معوية
+
+Portoenterostomy
+
+مفاغرة بابية معوية
+
+Epididymovasostomy
+
+مفاغرة بربخية اسهرية
+
+Side to side anastomosis
+
+مفاغرة جانبية –جانبية
+
+Side to end anastomosis
+
+مفاغرة جانبية –نهائية
+
+Uretro-enterostomy
+
+مفاغرة حالبية – معوية
+
+Uretro-colostomy
+
+مفاغرة حالبية –قولونية
+
+Uretro-cystostomy
+
+مفاغرة حالبية –مثانية
+
+Uretro-procrostomy
+
+مفاغرة حالبية –مستقيمية
+
+Uretro-neopylostomy
+
+مفاغرة حالبية حويضية
+

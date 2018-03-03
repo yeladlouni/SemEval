@@ -1,0 +1,39 @@
+ابنتي عمرها 10 اشهر. قيل لي ان شفتيها الداخليتان مغلقتان. اعطوني مرهم لوضعه على المنطقة وقيل لي انه اذا لم يساعد هذا فيجب اجراء عملية جراحية. ما هي النسبة المئوية لنجاح المرهم وما نوع الجراحة التي تحتاجها 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: قيل	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: ان	Lemma: ان	BW: An
+		Word: شفتيها	Lemma: شَفَّة	BW: $af~ap
+		Word: الداخليتان	Lemma: دَاخِلِيَّة	BW: daAxiliy~ap
+		Word: مغلقتان	Lemma: مُغَلِّق	BW: mugal~iq
+		Word: اعطوني	Lemma: عَطَا	BW: EaTaA
+		Word: مرهم	Lemma: مَرّ	BW: mar~
+		Word: لوضعه	Lemma: وَضْع	BW: waDoE
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: المنطقة	Lemma: مِنْطَقَة	BW: minoTaqap
+		Word: وقيل	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يساعد	Lemma: سَاعَدَ	BW: saAEada
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: فيجب	Lemma: وَجَبَ	BW: wajaba
+		Word: اجراء	Lemma: اجراء	BW: AjrA'
+		Word: عملية	Lemma: عَمَلِيَّة	BW: Eamaliy~ap
+		Word: جراحية	Lemma: جِرَاحِيّ	BW: jiraAHiy~
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: النسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: المئوية	Lemma: مِئَوِيّ	BW: mi}awiy~
+		Word: لنجاح	Lemma: نَجَاح	BW: najaAH
+		Word: المرهم	Lemma: مَرْهَم	BW: maroham
+		Word: وما	Lemma: مَا	BW: maA
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: الجراحة	Lemma: جِرَاحَة	BW: jiraAHap
+		Word: التي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تحتاجها	Lemma: احْتَاجَ	BW: AHotaAja
+	------------------------

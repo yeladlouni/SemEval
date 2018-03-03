@@ -1,0 +1,32 @@
+أنا أعاني من انتفاخ أصابع اليد وأصابع القدم اليمنى بعد الاستيقاظ من النوم ثم يزول الانتفاخ تدريجيا بعدها وهذه الحالة ألاحظها في حالة شعوري بالبرد فما هو تفسيركم لذلك؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: أصابع	Lemma: إِصْبَع	BW: <iSobaE
+		Word: اليد	Lemma: يَد	BW: yad
+		Word: وأصابع	Lemma: إِصْبَع	BW: <iSobaE
+		Word: القدم	Lemma: قَدَم	BW: qadam
+		Word: اليمنى	Lemma: يُمْنَى	BW: yumonaY
+		Word: بعد	Lemma: بَعُدَ	BW: baEuda
+		Word: الاستيقاظ	Lemma: اسْتِيقَاظ	BW: AsotiyqaAZ
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: النوم	Lemma: نَوْم	BW: nawom
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: يزول	Lemma: زَالَ	BW: zaAla
+		Word: الانتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: تدريجيا	Lemma: تَدْرِيجِيّ	BW: tadoriyjiy~
+		Word: بعدها	Lemma: بَعْدَ	BW: baEoda
+		Word: وهذه	Lemma: ذَا	BW: *aA
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: ألاحظها	Lemma: لَاحِظ	BW: laAHiZ
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حالة	Lemma: حَالَة	BW: HaAlap
+		Word: شعوري	Lemma: شُعُورِيّ	BW: $uEuwriy~
+		Word: بالبرد	Lemma: بَرْد	BW: barod
+		Word: فما	Lemma: مَا	BW: maA
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: تفسيركم	Lemma: تَفْسِير	BW: tafosiyr
+		Word: لذلك	Lemma: ذَا	BW: *aA
+	------------------------

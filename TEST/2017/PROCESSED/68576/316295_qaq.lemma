@@ -1,0 +1,16 @@
+أنا شاب عمري 22 سنة أريد أن أزيد من طولي ماذا أفعل و شكرا؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أزيد	Lemma: أَزْيَد	BW: >azoyad
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: طولي	Lemma: طُول	BW: Tuwl
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+		Word: و	Lemma: و	BW: w
+		Word: شكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

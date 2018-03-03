@@ -1,0 +1,32 @@
+انا عمري 17 سنة أعاني من الم في الخصية اليسري وذهبت الي طبيب مختص وبعد الفحص وتصوير الخصيتين ، وصف لي دواء ( مسكن ، مضاد ) ... لكن الالم مازال مستمرا الي هذه اللحظة .
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: أعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الخصية	Lemma: خُصْيَة	BW: xuSoyap
+		Word: اليسري	Lemma: يُسْرِي	BW: yusoriy
+		Word: وذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: الي	Lemma: الي	BW: Aly
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: مختص	Lemma: مُخْتَصّ	BW: muxotaS~
+		Word: وبعد	Lemma: بَعْدَ	BW: baEoda
+		Word: الفحص	Lemma: فَحْص	BW: faHoS
+		Word: وتصوير	Lemma: تَصْوِير	BW: taSowiyr
+		Word: الخصيتين	Lemma: خُصْيَة	BW: xuSoyap
+		Word: وصف	Lemma: وَصْف	BW: waSof
+		Word: لي	Lemma: لِي	BW: liy
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مسكن	Lemma: مَسْكَن	BW: masokan
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: مازال	Lemma: مازال	BW: mAzAl
+		Word: مستمرا	Lemma: مُسْتَمِرّ	BW: musotamir~
+		Word: الي	Lemma: الي	BW: Aly
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: اللحظة	Lemma: لَحْظَة	BW: laHoZap
+	------------------------

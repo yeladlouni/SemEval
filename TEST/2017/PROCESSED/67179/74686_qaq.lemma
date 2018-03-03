@@ -1,0 +1,25 @@
+انا عندي 1.80 من السكر واريد ان اعرف اي نوع من السكر عندي وانا لا اتناول اي دواء سكر سوى الرياضة فقط وشكرا
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: واريد	Lemma: واريد	BW: wAryd
+		Word: ان	Lemma: ان	BW: An
+		Word: اعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: اي	Lemma: اي	BW: Ay
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: السكر	Lemma: سُكَّر	BW: suk~ar
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: وانا	Lemma: وانا	BW: wAnA
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اتناول	Lemma: اتناول	BW: AtnAwl
+		Word: اي	Lemma: اي	BW: Ay
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: سكر	Lemma: سُكَّر	BW: suk~ar
+		Word: سوى	Lemma: سِوَى	BW: siwaY
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

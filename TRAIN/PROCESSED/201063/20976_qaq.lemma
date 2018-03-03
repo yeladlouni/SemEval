@@ -1,0 +1,28 @@
+ابنتي عمرها 5 سنوات ولكنها لاتستطيع نطق الكلمات الصحيحه وايضا عنيده وعصبيه جداً والحمدلله صحتها جيده ولم تتعرض لاذاء وفما الحل هل اعرضها على طبيب نفسي 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: ولكنها	Lemma: لَكِنَّ	BW: lakin~a
+		Word: لاتستطيع	Lemma: لاتستطيع	BW: lAtstTyE
+		Word: نطق	Lemma: نَطَقَ	BW: naTaqa
+		Word: الكلمات	Lemma: كَلِمَة	BW: kalimap
+		Word: الصحيحه	Lemma: الصحيحه	BW: AlSHyHh
+		Word: وايضا	Lemma: وايضا	BW: wAyDA
+		Word: عنيده	Lemma: عَنِيد	BW: Eaniyd
+		Word: وعصبيه	Lemma: عَصَّبَ	BW: EaS~aba
+		Word: جدًا	Lemma: جَدَا	BW: jadaA
+		Word: والحمدلله	Lemma: والحمدلله	BW: wAlHmdllh
+		Word: صحتها	Lemma: صِحَّة	BW: SiH~ap
+		Word: جيده	Lemma: جَيِّد	BW: jay~id
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: تتعرض	Lemma: تَعَرَّضَ	BW: taEar~aDa
+		Word: لاذاء	Lemma: لاذاء	BW: lA*A'
+		Word: وفما	Lemma: فَم	BW: fam
+		Word: الحل	Lemma: حِلّ	BW: Hil~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: اعرضها	Lemma: عَرَضَ	BW: EaraDa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: نفسي	Lemma: نَفْس	BW: nafos
+	------------------------

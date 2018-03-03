@@ -1,0 +1,18 @@
+انا حللت inr وطلعت النتيجة 1 علما باننى اتناول قرص اسبرين اطفال يوميا فهل استمر فى تناوله 
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: حللت	Lemma: حَلَّلَ	BW: Hal~ala
+		Word: وطلعت	Lemma: طَلِعَ	BW: TaliEa
+		Word: النتيجة	Lemma: نَتِيجَة	BW: natiyjap
+		Word: علما	Lemma: عَلَم	BW: Ealam
+		Word: باننى	Lemma: باننى	BW: bAnnY
+		Word: اتناول	Lemma: اتناول	BW: AtnAwl
+		Word: قرص	Lemma: قُرْص	BW: quroS
+		Word: اسبرين	Lemma: اسبرين	BW: Asbryn
+		Word: اطفال	Lemma: اطفال	BW: ATfAl
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: استمر	Lemma: اسْتَمَرَّ	BW: Asotamar~a
+		Word: فى	Lemma: فى	BW: fY
+		Word: تناوله	Lemma: تَنَاوُل	BW: tanaAwul
+	------------------------

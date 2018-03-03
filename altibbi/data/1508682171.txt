@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Jejunostomy
+
+فغر الصائم
+
+Pancreatojejunostomy
+
+فغر الصائم والبنكرياس
+
+Thoracostomy
+
+فغر الصدر
+
+Tympanostomy
+
+فغر الطبلة
+
+Perineostomy
+
+فغر العجان
+
+Duodenostomy
+
+فغر العفج
+
+Ganglionostomy
+
+فغر العقدة
+
+Antrostomy
+
+فغر الغار
+
+Bronchostomy
+
+فغر القصبات
+
+Apicostomy
+
+فغر القمة
+
+Hepaticostomy
+
+فغر القناة الكبدية
+
+Hepatocholangiostomy
+
+فغر القناة الكبدية
+
+Colostomy
+
+فغر القولون
+
+Transverscolostomy
+
+فغر القولون المستعرض
+
+Lumbocolostomy
+
+فغر القولون بطريق القطن
+
+Colopexostomy
+
+فغر القولون وتثبيته
+
+Nephrostomy
+
+فغر الكلوة
+
+Hydatidostomy
+
+فغر الكيسة العدارية
+
+Iliostomy
+
+فغر اللفائفي
+
+Ovariostomy oophorostomy
+
+فغر المبيض
+

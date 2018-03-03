@@ -1,0 +1,35 @@
+عندي أخ مريض عمره 30 سنة ويتناول دواء مضاد الاكتئاب لينابيكس LINAPEX لمدة أكثر من سنة 1 2 قرص كل مساء السؤال هو هل سيمضي كل حياته يتناول هذا الدواء أم يمكن للطبيب ايقافه له وشكرا 
+	##Lemmatization results:
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: أخ	Lemma: أَخ	BW: >ax
+		Word: مريض	Lemma: مَرِيض	BW: mariyD
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ويتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: الاكتئاب	Lemma: اكْتِئَاب	BW: Akoti}aAb
+		Word: لينابيكس	Lemma: لينابيكس	BW: lynAbyks
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: أكثر	Lemma: أَكْثَر	BW: >akovar
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: قرص	Lemma: قُرْص	BW: quroS
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: مساء	Lemma: مَسَاء	BW: masaA'
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: سيمضي	Lemma: أَمْضَى	BW: >amoDaY
+		Word: كل	Lemma: كَلَّ	BW: kal~a
+		Word: حياته	Lemma: حَيَاة	BW: HayaAp
+		Word: يتناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: أم	Lemma: أَمْ	BW: >amo
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: للطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: ايقافه	Lemma: ايقافه	BW: AyqAfh
+		Word: له	Lemma: لِي	BW: liy
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

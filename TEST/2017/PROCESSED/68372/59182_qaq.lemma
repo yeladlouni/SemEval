@@ -1,0 +1,16 @@
+انا عمري 20 سنة و وزني 42 و ابي ازيده بسرعة لأن زواجي قريب أرجوووكم
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: وزني	Lemma: زَنَّى	BW: zan~aY
+		Word: و	Lemma: و	BW: w
+		Word: ابي	Lemma: ابي	BW: Aby
+		Word: ازيده	Lemma: ازيده	BW: Azydh
+		Word: بسرعة	Lemma: سُرْعَة	BW: suroEap
+		Word: لأن	Lemma: أَنَّ	BW: >an~a
+		Word: زواجي	Lemma: زَوَاج	BW: zawaAj
+		Word: قريب	Lemma: قَرِيب	BW: qariyb
+		Word: أرجوووكم	Lemma: أرجوووكم	BW: >rjwwwkm
+	------------------------

@@ -1,0 +1,22 @@
+هو دواء مركب للإنفلونزا وأعراض البرد , مضاد إحتقان +مضاد حساسية+باراسيتامول خافض حرارة إذا حدد الطبيب المعالج ,فلا مشكلة
+	##Lemmatization results:
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مركب	Lemma: مَرْكَب	BW: marokab
+		Word: للإنفلونزا	Lemma: للإنفلونزا	BW: ll<nflwnzA
+		Word: وأعراض	Lemma: عَرَض	BW: EaraD
+		Word: البرد	Lemma: بُرْد	BW: burod
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: إحتقان	Lemma: إحتقان	BW: <HtqAn
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: حساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: باراسيتامول	Lemma: باراسيتامول	BW: bArAsytAmwl
+		Word: خافض	Lemma: خَافِض	BW: xaAfiD
+		Word: حرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: إذا	Lemma: إِذَا	BW: <i*aA
+		Word: حدد	Lemma: حَدَّدَ	BW: Had~ada
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: المعالج	Lemma: مُعَالِج	BW: muEaAlij
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+	------------------------

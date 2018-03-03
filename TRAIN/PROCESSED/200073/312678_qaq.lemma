@@ -1,0 +1,37 @@
+السؤال عمر ولدي 3 سنوات و6 أشهر وكثيراً لا يأكل وإذا وضع له الأكل لا يأكل فقط يشرب حليب فراولة وأمه تأتي له بهذا المشروب ويتفرج توم وجيري كثيراً لا يستجيب لدعوته للأكل وشغلنا كثيراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: عمر	Lemma: عُمْر	BW: Eumor
+		Word: ولدي	Lemma: لَدَى	BW: ladaY
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: أشهر	Lemma: شَهْر	BW: $ahor
+		Word: وكثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يأكل	Lemma: أَكَلَ	BW: >akala
+		Word: وإذا	Lemma: إِذَا	BW: <i*aA
+		Word: وضع	Lemma: وَضَعَ	BW: waDaEa
+		Word: له	Lemma: لِي	BW: liy
+		Word: الأكل	Lemma: أَكْل	BW: >akol
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يأكل	Lemma: أَكَلَ	BW: >akala
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: يشرب	Lemma: شَرِبَ	BW: $ariba
+		Word: حليب	Lemma: حَلِيب	BW: Haliyb
+		Word: فراولة	Lemma: فراولة	BW: frAwlp
+		Word: وأمه	Lemma: أَمِهَ	BW: >amiha
+		Word: تأتي	Lemma: أَتَى	BW: >ataY
+		Word: له	Lemma: لِي	BW: liy
+		Word: بهذا	Lemma: ذَا	BW: *aA
+		Word: المشروب	Lemma: مَشْرُوب	BW: ma$oruwb
+		Word: ويتفرج	Lemma: تَفَرَّجَ	BW: tafar~aja
+		Word: توم	Lemma: تُوم	BW: tuwm
+		Word: وجيري	Lemma: جَيَر	BW: jayar
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يستجيب	Lemma: اسْتَجَابَ	BW: AsotajaAba
+		Word: لدعوته	Lemma: دَعْوَة	BW: daEowap
+		Word: للأكل	Lemma: أَكْل	BW: >akol
+		Word: وشغلنا	Lemma: شَغَلَ	BW: $agala
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+	------------------------

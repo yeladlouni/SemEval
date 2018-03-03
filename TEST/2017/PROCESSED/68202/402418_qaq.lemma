@@ -1,0 +1,36 @@
+مرحبا : عمري 26 سنة بدأت اعاني منذ سنتين من مشكلة وجود رائحة كريهة في فمي لا اعاني من اي مرض لدي ارتجاع مريء عادي- اصبت بحساسية تناول البيض في سن 12 سنة ثم شفيت منها.
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: بدأت	Lemma: بَدَأَ	BW: bada>a
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: سنتين	Lemma: سَنَة	BW: sanap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مشكلة	Lemma: مُشْكِل	BW: mu$okil
+		Word: وجود	Lemma: وُجُود	BW: wujuwd
+		Word: رائحة	Lemma: رَائِحَة	BW: raA}iHap
+		Word: كريهة	Lemma: كَرِيه	BW: kariyh
+		Word: في	Lemma: فِي	BW: fiy
+		Word: فمي	Lemma: فَم	BW: fam
+		Word: لا	Lemma: لَا	BW: laA
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اي	Lemma: اي	BW: Ay
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: ارتجاع	Lemma: ارْتِجَاع	BW: ArotijaAE
+		Word: مريء	Lemma: مُرِيء	BW: muriy'
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: اصبت	Lemma: اصبت	BW: ASbt
+		Word: بحساسية	Lemma: حَسَاسِيَّة	BW: HasaAsiy~ap
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: البيض	Lemma: بَيْض	BW: bayoD
+		Word: في	Lemma: فِي	BW: fiy
+		Word: سن	Lemma: سِنّ	BW: sin~
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: شفيت	Lemma: شَفَى	BW: $afaY
+		Word: منها	Lemma: مِنْ	BW: mino
+	------------------------

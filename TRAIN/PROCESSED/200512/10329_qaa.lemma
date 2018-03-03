@@ -1,0 +1,43 @@
+هذا الدواء ليس مضاد حيوي ولكنه دواء مرخي للعضلات يعمل بشكل مباشر على العضلات الملساء في الجهاز الهضمي ويستخدم لعلاج الالام الناتجة عن متلازمة القولون المتهيج (Irritable Bowel Syndrome). يرخي التشنج الموجود في العضلات الملساء في الامعاء دون التاثير على حركة الامعاء السليمة.
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: مضاد	Lemma: مُضَادّ	BW: muDaAd~
+		Word: حيوي	Lemma: حَيَوِيّ	BW: Hayawiy~
+		Word: ولكنه	Lemma: لَكِنَّ	BW: lakin~a
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: مرخي	Lemma: مَرْخِيّ	BW: maroxiy~
+		Word: للعضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: يعمل	Lemma: عَمِلَ	BW: Eamila
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: مباشر	Lemma: مُبَاشِر	BW: mubaA$ir
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: العضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: الملساء	Lemma: مَلْسَاء	BW: malosaA'
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الجهاز	Lemma: جِهَاز	BW: jihaAz
+		Word: الهضمي	Lemma: هَضْمِيّ	BW: haDomiy~
+		Word: ويستخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: لعلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: الالام	Lemma: الالام	BW: AlAlAm
+		Word: الناتجة	Lemma: نَاتِج	BW: naAtij
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: متلازمة	Lemma: مُتَلَازِم	BW: mutalaAzim
+		Word: القولون	Lemma: القولون	BW: Alqwlwn
+		Word: المتهيج	Lemma: مُتَهَيَّج	BW: mutahay~aj
+		Word: يرخي	Lemma: أَرْخَى	BW: >aroxaY
+		Word: التشنج	Lemma: تَشَنُّج	BW: ta$an~uj
+		Word: الموجود	Lemma: مَوْجُود	BW: mawojuwd
+		Word: في	Lemma: فِي	BW: fiy
+		Word: العضلات	Lemma: عَضَلَة	BW: EaDalap
+		Word: الملساء	Lemma: مَلْسَاء	BW: malosaA'
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الامعاء	Lemma: الامعاء	BW: AlAmEA'
+		Word: دون	Lemma: دُون	BW: duwn
+		Word: التاثير	Lemma: التاثير	BW: AltAvyr
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: حركة	Lemma: حَرَكَة	BW: Harakap
+		Word: الامعاء	Lemma: الامعاء	BW: AlAmEA'
+		Word: السليمة	Lemma: سَلِيم	BW: saliym
+	------------------------

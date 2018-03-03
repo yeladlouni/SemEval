@@ -1,0 +1,42 @@
+لدي طفلة صغيرة عمرها سنة وقت النوم تستيقظ هلعا ثم تعود للنوم بطريقة متقطعة وقلقة مع العلم انها كانت تعاني من حمى عالية احيانا وقد اجريت لها تحاليل ووجدتها جيدة وعرضتها على طبيب نفس الشيء لا شيء قال لى ؟
+	##Lemmatization results:
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: طفلة	Lemma: طَفْلَة	BW: Tafolap
+		Word: صغيرة	Lemma: صَغِير	BW: Sagiyr
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وقت	Lemma: وَقْت	BW: waqot
+		Word: النوم	Lemma: نَوْم	BW: nawom
+		Word: تستيقظ	Lemma: اسْتَيْقَظَ	BW: AsotayoqaZa
+		Word: هلعا	Lemma: هَلَع	BW: halaE
+		Word: ثم	Lemma: ثُمَّ	BW: vum~a
+		Word: تعود	Lemma: عَادَ	BW: EaAda
+		Word: للنوم	Lemma: نَوْم	BW: nawom
+		Word: بطريقة	Lemma: طَرِيقَة	BW: Tariyqap
+		Word: متقطعة	Lemma: مُتَقَطِّع	BW: mutaqaT~iE
+		Word: وقلقة	Lemma: قِلْقَة	BW: qiloqap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: حمى	Lemma: حَمَى	BW: HamaY
+		Word: عالية	Lemma: عَالِيَة	BW: EaAliyap
+		Word: احيانا	Lemma: احيانا	BW: AHyAnA
+		Word: وقد	Lemma: قَدْ	BW: qado
+		Word: اجريت	Lemma: اجريت	BW: Ajryt
+		Word: لها	Lemma: لِي	BW: liy
+		Word: تحاليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: ووجدتها	Lemma: وَجَدَ	BW: wajada
+		Word: جيدة	Lemma: جَيِّدَة	BW: jay~idap
+		Word: وعرضتها	Lemma: عَرَضَ	BW: EaraDa
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: نفس	Lemma: نَفْس	BW: nafos
+		Word: الشيء	Lemma: شَيْء	BW: $ayo'
+		Word: لا	Lemma: لَا	BW: laA
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: قال	Lemma: قَالَ	BW: qaAla
+		Word: لى	Lemma: لى	BW: lY
+	------------------------

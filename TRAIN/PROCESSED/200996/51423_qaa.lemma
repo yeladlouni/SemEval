@@ -1,0 +1,12 @@
+بسم الله الرحمن الرحيم ممكن ذالك وهذا حسب الاصابة
+	##Lemmatization results:
+		Word: بسم	Lemma: سَمّ	BW: sam~
+		Word: الله	Lemma: الله	BW: Allh
+		Word: الرحمن	Lemma: رَحْمَن	BW: raHoman
+		Word: الرحيم	Lemma: رَحِيم	BW: raHiym
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ذالك	Lemma: ذَالّ	BW: *aAl~
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: حسب	Lemma: حَسَب	BW: Hasab
+		Word: الاصابة	Lemma: الاصابة	BW: AlASAbp
+	------------------------

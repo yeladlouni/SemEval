@@ -1,0 +1,39 @@
+هناك دراسات تُشير إلى أن التأثيرات الجانبية الناجمة عن استعمال الفينيسترايد هي مؤقتة وتزول بالتوقف عن استعماله بينما هناك دراسات أحدث في ديسمبر 2008 تُشير إلى أن التأثيرات الجانبية قد تدوم حتى بعد التوقف عن تعاطي الدواء.
+	##Lemmatization results:
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: دراسات	Lemma: دِرَاسَة	BW: diraAsap
+		Word: تُشير	Lemma: أَشَارَ	BW: >a$aAra
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: التأثيرات	Lemma: تَأْثِير	BW: ta>oviyr
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: الناجمة	Lemma: نَاجِم	BW: naAjim
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: الفينيسترايد	Lemma: الفينيسترايد	BW: AlfynystrAyd
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: مؤقتة	Lemma: مُؤَقَّت	BW: mu&aq~at
+		Word: وتزول	Lemma: زَالَ	BW: zaAla
+		Word: بالتوقف	Lemma: تَوَقُّف	BW: tawaq~uf
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: استعماله	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: بينما	Lemma: بين	BW: byn
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: دراسات	Lemma: دِرَاسَة	BW: diraAsap
+		Word: أحدث	Lemma: أَحْدَثَ	BW: >aHodava
+		Word: في	Lemma: فِي	BW: fiy
+		Word: ديسمبر	Lemma: دِيسَمْبِر	BW: diysamobir
+		Word: تُشير	Lemma: أَشَارَ	BW: >a$aAra
+		Word: إلى	Lemma: إِلَى	BW: <ilaY
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: التأثيرات	Lemma: تَأْثِير	BW: ta>oviyr
+		Word: الجانبية	Lemma: جَانِبِيّ	BW: jaAnibiy~
+		Word: قد	Lemma: قَدْ	BW: qado
+		Word: تدوم	Lemma: دَامَ	BW: daAma
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: التوقف	Lemma: تَوَقُّف	BW: tawaq~uf
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: تعاطي	Lemma: تَعَاط	BW: taEaAT
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+	------------------------

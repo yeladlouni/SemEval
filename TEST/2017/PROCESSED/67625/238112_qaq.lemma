@@ -1,0 +1,22 @@
+هل تناول الملينات مثل كالاتكس او نورمالكس له اضرار علما اني استخدم هذه الادوية منذ ثلاث شهور حتى الان
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تناول	Lemma: تَنَاوَلَ	BW: tanaAwala
+		Word: الملينات	Lemma: مُلَيَّن	BW: mulay~an
+		Word: مثل	Lemma: مَثَلَ	BW: mavala
+		Word: كالاتكس	Lemma: كالاتكس	BW: kAlAtks
+		Word: او	Lemma: او	BW: Aw
+		Word: نورمالكس	Lemma: نورمالكس	BW: nwrmAlks
+		Word: له	Lemma: لِي	BW: liy
+		Word: اضرار	Lemma: اضرار	BW: ADrAr
+		Word: علما	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: استخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الادوية	Lemma: الادوية	BW: AlAdwyp
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: ثلاث	Lemma: ثَلَاث	BW: valaAv
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: الان	Lemma: الان	BW: AlAn
+	------------------------

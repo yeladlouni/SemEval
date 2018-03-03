@@ -1,0 +1,88 @@
+#  المصطلحات الطبية - علم الاشعة
+
+#  المصطلحات الطبية - علم الاشعة
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Deep x-ray therapy
+
+معالجة شعاعية عميقة
+
+Radioresistant
+
+مقاوم للاشعة
+
+Radioresistance
+
+مقاومة الاشعة
+
+Fluoroscope
+
+منظار التالق
+
+Radionecrosis
+
+نخر شعاعي
+
+Activity
+
+نشاط
+
+(فاعلية)
+
+Radioisotope
+
+نظير مشع
+
+Barium meal
+
+وجبة الباريوم
+
+Bombard
+
+يقصف
+
+Radiotherapeutic
+
+يداوى اشعاعيا
+
+Lase
+
+يليزر
+
+Radiosurgery
+
+جراحةاشعاعية
+
+Sd (skin dose)
+
+جرعة جلدية
+
+Erythema dose
+
+جرعة حماموية
+
+Skin dose
+
+جرعة جلدية
+
+Absorbed dose
+
+جرعة ممتصة
+
+Laminagraph
+
+جهاز التصوير المقطعي
+
+Fluoroscope
+
+منظار التالق
+
+Alpha ray
+
+اشعة الفا
+
+Grenz rays
+
+اشعة حدية
+

@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Geniculate ganglion
+
+عقدة ركبية
+
+Carotid ganglion
+
+عقدة سباتية
+
+Inferior ganglion of glossopharyngeal nerve
+
+عقدة سفلية للعصب اللساني البلعومي
+
+Inferior ganglion of vagus
+
+عقدة سفلية للعصب المبهم
+
+Petrous ganglion
+
+عقدة صخرية
+
+Thoracic ganglion
+
+عقدة صدرية
+
+Tympanic ganglion
+
+عقدة طبلية
+
+Sacral ganglion
+
+عقدة عجزية
+
+Coccygeal ganglion
+
+عقدة عصعصية
+
+Superior ganglion of glossopharyngeal nerve
+
+عقدة علوية للعصب اللساني البلعومي
+
+Superior ganglion of vagus
+
+عقدة علوية للعصب المبهم
+
+Lumbar ganglion
+
+عقدة قطنية
+
+Renal ganglion
+
+عقدة كلوية
+
+Cystic node
+
+عقدة كيسية
+
+Inferior mesenteric lymph node
+
+عقدة لمفية مساريقية سفلية
+
+Superior mesenteric lymph node
+
+عقدة لمفية مساريقية علوية
+
+Jugulo-omohyoid node
+
+عقدة لمفية وداجية لامية كتفية
+
+Jugulodigastric node
+
+عقدة لمفية وداجية وذات البطنين
+
+Mesenteric ganglion
+
+عقدة مساريقية
+
+Middle rectal node
+
+عقدة مستقيمية وسطى
+

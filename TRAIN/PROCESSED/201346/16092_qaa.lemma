@@ -1,0 +1,15 @@
+الاغلب لا يؤثر لكن اذا كان هنالك نزف شديد ممكن ان يؤثر
+	##Lemmatization results:
+		Word: الاغلب	Lemma: الاغلب	BW: AlAglb
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يؤثر	Lemma: أَثَّرَ	BW: >av~ara
+		Word: لكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: هنالك	Lemma: هُنَا	BW: hunaA
+		Word: نزف	Lemma: نَزْف	BW: nazof
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: ممكن	Lemma: مُمْكِن	BW: mumokin
+		Word: ان	Lemma: ان	BW: An
+		Word: يؤثر	Lemma: آثَرَ	BW: |vara
+	------------------------

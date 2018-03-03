@@ -1,0 +1,44 @@
+لدي تورم في اسناني بجانب الناب منذ 8 اشهر لم يزداد حجمه او يقل وذهبت الى الطبيب بالمس وفتح الورم ثم اغلقة بالخياطة وقال بعد يومين تعل لتاخذ عينة ونرسها الى المعمل وقال نسبة 95% لا يوجد شيء اذا لماذا يريد اخذ عينه
+	##Lemmatization results:
+		Word: لدي	Lemma: لَدَى	BW: ladaY
+		Word: تورم	Lemma: أَوْرَمَ	BW: >aworama
+		Word: في	Lemma: فِي	BW: fiy
+		Word: اسناني	Lemma: اسناني	BW: AsnAny
+		Word: بجانب	Lemma: جَانِب	BW: jaAnib
+		Word: الناب	Lemma: نَاب	BW: naAb
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يزداد	Lemma: ازْدَادَ	BW: AzodaAda
+		Word: حجمه	Lemma: حَجْم	BW: Hajom
+		Word: او	Lemma: او	BW: Aw
+		Word: يقل	Lemma: قَالَ	BW: qaAla
+		Word: وذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: الى	Lemma: الى	BW: AlY
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: بالمس	Lemma: مَسّ	BW: mas~
+		Word: وفتح	Lemma: فَتَحَ	BW: fataHa
+		Word: الورم	Lemma: وَرَم	BW: waram
+		Word: ثم	Lemma: ثَمّ	BW: vam~
+		Word: اغلقة	Lemma: اغلقة	BW: Aglqp
+		Word: بالخياطة	Lemma: خَيَّاط	BW: xay~aAT
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: يومين	Lemma: يَوْم	BW: yawom
+		Word: تعل	Lemma: عَلَى	BW: EalaY
+		Word: لتاخذ	Lemma: تَاخِذ	BW: taAxi*
+		Word: عينة	Lemma: عَيِّنَة	BW: Eay~inap
+		Word: ونرسها	Lemma: رَاسَ	BW: raAsa
+		Word: الى	Lemma: الى	BW: AlY
+		Word: المعمل	Lemma: مَعْمَل	BW: maEomal
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: نسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: يريد	Lemma: أَرَادَ	BW: >araAda
+		Word: اخذ	Lemma: خَذَا	BW: xa*aA
+		Word: عينه	Lemma: عَيْن	BW: Eayon
+	------------------------

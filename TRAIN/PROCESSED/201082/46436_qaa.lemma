@@ -1,0 +1,28 @@
+هل ياكل شئ اخر.مهو وزنه.هل نشاطه جيد.كم الكميه التى يأخذها من القنينه.بعد الاجابه على كل هذه التساؤلات.يمكن تغير نوع الحليب.
+	##Lemmatization results:
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: ياكل	Lemma: ياكل	BW: yAkl
+		Word: شئ	Lemma: شئ	BW: $}
+		Word: اخر	Lemma: اخر	BW: Axr
+		Word: مهو	Lemma: مُهَوّ	BW: muhaw~
+		Word: وزنه	Lemma: زَنّ	BW: zan~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: نشاطه	Lemma: نَشَاط	BW: na$aAT
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: كم	Lemma: كَمّ	BW: kam~
+		Word: الكميه	Lemma: لَكَمَ	BW: lakama
+		Word: التى	Lemma: التى	BW: AltY
+		Word: يأخذها	Lemma: أَخَذَ	BW: >axa*a
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: القنينه	Lemma: القنينه	BW: Alqnynh
+		Word: بعد	Lemma: بَعُدَ	BW: baEuda
+		Word: الاجابه	Lemma: الاجابه	BW: AlAjAbh
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: التساؤلات	Lemma: تَسَاؤُل	BW: tasaA&ul
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: تغير	Lemma: تَغَيُّر	BW: tagay~ur
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: الحليب	Lemma: حَلِيب	BW: Haliyb
+	------------------------

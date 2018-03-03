@@ -1,0 +1,35 @@
+سلام عليكم لو سمحتو انا اخذت حبوب فيرو 28 وحبوب كالسيفيت للكالسيوم وفيتامين (د) هل فيه ضرر استخدمهم لتقوية جسمي لاني العب حديد مع العلم اني اكل خضروات وفواكه افدوني لو سمحتو وشكرا
+	##Lemmatization results:
+		Word: سلام	Lemma: سَلَام	BW: salaAm
+		Word: عليكم	Lemma: عَلَى	BW: EalaY
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحتو	Lemma: سمحتو	BW: smHtw
+		Word: انا	Lemma: انا	BW: AnA
+		Word: اخذت	Lemma: اخذت	BW: Ax*t
+		Word: حبوب	Lemma: حَبّ	BW: Hab~
+		Word: فيرو	Lemma: رَوَى	BW: rawaY
+		Word: وحبوب	Lemma: حَبّ	BW: Hab~
+		Word: كالسيفيت	Lemma: كالسيفيت	BW: kAlsyfyt
+		Word: للكالسيوم	Lemma: كَالِسْيُوم	BW: kaAlisoyuwm
+		Word: وفيتامين	Lemma: فِيتَامِين	BW: fiytaAmiyn
+		Word: د	Lemma: يَدَى	BW: yadaY
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: فيه	Lemma: فِي	BW: fiy
+		Word: ضرر	Lemma: ضَرَر	BW: Darar
+		Word: استخدمهم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: لتقوية	Lemma: تَقْوِيَة	BW: taqowiyap
+		Word: جسمي	Lemma: جَسَّمَ	BW: jas~ama
+		Word: لاني	Lemma: لاني	BW: lAny
+		Word: العب	Lemma: عَبّ	BW: Eab~
+		Word: حديد	Lemma: حَدِيد	BW: Hadiyd
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: العلم	Lemma: عَلَم	BW: Ealam
+		Word: اني	Lemma: اني	BW: Any
+		Word: اكل	Lemma: كَلَى	BW: kalaY
+		Word: خضروات	Lemma: خضروات	BW: xDrwAt
+		Word: وفواكه	Lemma: فَاكِهَة	BW: faAkihap
+		Word: افدوني	Lemma: فَدَى	BW: fadaY
+		Word: لو	Lemma: لَوْ	BW: lawo
+		Word: سمحتو	Lemma: سمحتو	BW: smHtw
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

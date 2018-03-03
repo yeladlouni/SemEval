@@ -1,0 +1,31 @@
+انا شاب عندي 25 سنه ولكن الذي يحدث لي يصيبني بالغيظ .. كنت امتلك ذاكرة فولاذيه احسد عليها .. اما الان فالنسيان اصبح سمة من سمات حياتي .. عدم التركيز اصبح وصفي ..
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: ولكن	Lemma: لَكِنَّ	BW: lakin~a
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يحدث	Lemma: أَحْدَثَ	BW: >aHodava
+		Word: لي	Lemma: لِي	BW: liy
+		Word: يصيبني	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بالغيظ	Lemma: غَيْظ	BW: gayoZ
+		Word: كنت	Lemma: كَانَ	BW: kaAna
+		Word: امتلك	Lemma: امْتَلَكَ	BW: Amotalaka
+		Word: ذاكرة	Lemma: ذَاكِرَة	BW: *aAkirap
+		Word: فولاذيه	Lemma: وَلَّاذ	BW: wal~aA*
+		Word: احسد	Lemma: حَسَدَ	BW: Hasada
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: اما	Lemma: اما	BW: AmA
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: فالنسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: اصبح	Lemma: صَبُحَ	BW: SabuHa
+		Word: سمة	Lemma: سِمَة	BW: simap
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: سمات	Lemma: سِمَة	BW: simap
+		Word: حياتي	Lemma: حَيَاة	BW: HayaAp
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+		Word: اصبح	Lemma: صَبُحَ	BW: SabuHa
+		Word: وصفي	Lemma: صَفِيّ	BW: Safiy~
+	------------------------

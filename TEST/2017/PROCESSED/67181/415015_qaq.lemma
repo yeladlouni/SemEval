@@ -1,0 +1,20 @@
+انا شاب ابلغ من العمر ١٧ سنة عضوي صغير جدا يبلغ ٧ سم وقت الانتصاب وهذا يثير قلقي وإحراجي
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: ابلغ	Lemma: بَلَغَ	BW: balaga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: عضوي	Lemma: عُضْو	BW: EuDow
+		Word: صغير	Lemma: صَغِير	BW: Sagiyr
+		Word: جدا	Lemma: جِدّ	BW: jid~
+		Word: يبلغ	Lemma: بَلَّغَ	BW: bal~aga
+		Word: سم	Lemma: سَمّ	BW: sam~
+		Word: وقت	Lemma: وَقْت	BW: waqot
+		Word: الانتصاب	Lemma: انْتِصَاب	BW: AnotiSaAb
+		Word: وهذا	Lemma: ذَا	BW: *aA
+		Word: يثير	Lemma: أَثَارَ	BW: >avaAra
+		Word: قلقي	Lemma: قَلَق	BW: qalaq
+		Word: وإحراجي	Lemma: إِحْرَاج	BW: <iHoraAj
+	------------------------

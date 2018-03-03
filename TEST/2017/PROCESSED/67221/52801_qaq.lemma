@@ -1,0 +1,30 @@
+ما سبب أنه كلما جاءتني الدورة الشهرية يحدث لي انتفاخ شديد تحت العينين يبقى تقريباً 3 أيام .علماً أن مدة الدورة 7 أو 8 أيام . عازبة عمري ٣٥ عاماً فماذا أفعل ؟
+	##Lemmatization results:
+		Word: ما	Lemma: مَا	BW: maA
+		Word: سبب	Lemma: سَبَب	BW: sabab
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: كلما	Lemma: كُلّ	BW: kul~
+		Word: جاءتني	Lemma: جَاءَ	BW: jaA'a
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: الشهرية	Lemma: شَهْرِيّ	BW: $ahoriy~
+		Word: يحدث	Lemma: أَحْدَثَ	BW: >aHodava
+		Word: لي	Lemma: لِي	BW: liy
+		Word: انتفاخ	Lemma: انْتِفَاخ	BW: AnotifaAx
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: العينين	Lemma: عَيْن	BW: Eayon
+		Word: يبقى	Lemma: بَقِيَ	BW: baqiya
+		Word: تقريبًا	Lemma: تَقْرِيب	BW: taqoriyb
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: علمًا	Lemma: عِلْم	BW: Eilom
+		Word: أن	Lemma: أَنَّ	BW: >an~a
+		Word: مدة	Lemma: مُدّ	BW: mud~
+		Word: الدورة	Lemma: دَوْرَة	BW: daworap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: عازبة	Lemma: عَازِب	BW: EaAzib
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عامًا	Lemma: عَام	BW: EaAm
+		Word: فماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: أفعل	Lemma: فَعَلَ	BW: faEala
+	------------------------

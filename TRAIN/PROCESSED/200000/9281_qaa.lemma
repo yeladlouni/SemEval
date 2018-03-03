@@ -1,0 +1,35 @@
+مرحبا : هذه الحبوب هي من نوع حب الشباب و ناجمة عن الافرازات الدهنية . عليك استخدام صابون حب الشباب عدة مرات يوميا و استخدام مركب بنزويل بيروكسيد 10 % موضعيا مساء فقط حتى تتلاشى الحبوب .
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: نوع	Lemma: نَوْع	BW: nawoE
+		Word: حب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: و	Lemma: و	BW: w
+		Word: ناجمة	Lemma: نَاجِم	BW: naAjim
+		Word: عن	Lemma: عَنْ	BW: Eano
+		Word: الافرازات	Lemma: الافرازات	BW: AlAfrAzAt
+		Word: الدهنية	Lemma: دُهْنِيّ	BW: duhoniy~
+		Word: عليك	Lemma: عَلَى	BW: EalaY
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: صابون	Lemma: صَاب	BW: SaAb
+		Word: حب	Lemma: حُبّ	BW: Hub~
+		Word: الشباب	Lemma: شَبَاب	BW: $abaAb
+		Word: عدة	Lemma: عِدَّة	BW: Eid~ap
+		Word: مرات	Lemma: مَرَّة	BW: mar~ap
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: و	Lemma: و	BW: w
+		Word: استخدام	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+		Word: مركب	Lemma: مَرْكَب	BW: marokab
+		Word: بنزويل	Lemma: بنزويل	BW: bnzwyl
+		Word: بيروكسيد	Lemma: بيروكسيد	BW: byrwksyd
+		Word: موضعيا	Lemma: موضعيا	BW: mwDEyA
+		Word: مساء	Lemma: مَسَاء	BW: masaA'
+		Word: فقط	Lemma: فَقَطْ	BW: faqaTo
+		Word: حتى	Lemma: حَتَّى	BW: Hat~aY
+		Word: تتلاشى	Lemma: تَلاشَى	BW: talA$aY
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+	------------------------

@@ -1,0 +1,15 @@
+هذا كلام غير صحيح فلا يبطل القهوة أو الحليب مفعول أحدهما الآخر.
+	##Lemmatization results:
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: كلام	Lemma: كَلَام	BW: kalaAm
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: صحيح	Lemma: صَحِيح	BW: SaHiyH
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: يبطل	Lemma: بَطَلَ	BW: baTala
+		Word: القهوة	Lemma: قَهْوَة	BW: qahowap
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: الحليب	Lemma: حَلِيب	BW: Haliyb
+		Word: مفعول	Lemma: مَفْعُول	BW: mafoEuwl
+		Word: أحدهما	Lemma: أَحَد	BW: >aHad
+		Word: الآخر	Lemma: آخَر	BW: |xar
+	------------------------

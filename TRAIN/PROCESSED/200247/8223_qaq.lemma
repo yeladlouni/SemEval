@@ -1,0 +1,45 @@
+عمري 33 والحمدلله رياضي ووزني 80 وطولي 174 اعاني من صداع بشكل يومي عملت فحوصات من شهر فحص دم و قلب ورنين الراس وكلشي تمام ولضغط كان طبيعي وذهبت من اسبوع وعملت ضغط كان مرتفع 157 - 100 والدكتور نصحني بالدواء لكن لم استخدم الدواء اليوم كان ضغطي 122 82 
+	##Lemmatization results:
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: والحمدلله	Lemma: والحمدلله	BW: wAlHmdllh
+		Word: رياضي	Lemma: رِيَاضِيّ	BW: riyaADiy~
+		Word: ووزني	Lemma: وَزْنِيّ	BW: wazoniy~
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: صداع	Lemma: صُدَاع	BW: SudaAE
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: يومي	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: فحوصات	Lemma: فَحْص	BW: faHoS
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: شهر	Lemma: شَهْر	BW: $ahor
+		Word: فحص	Lemma: فَحَصَ	BW: faHaSa
+		Word: دم	Lemma: دَم	BW: dam
+		Word: و	Lemma: و	BW: w
+		Word: قلب	Lemma: قَلَبَ	BW: qalaba
+		Word: ورنين	Lemma: رَنَا	BW: ranaA
+		Word: الراس	Lemma: رَاسّ	BW: raAs~
+		Word: وكلشي	Lemma: وكلشي	BW: wkl$y
+		Word: تمام	Lemma: تَمَام	BW: tamaAm
+		Word: ولضغط	Lemma: ضَغْط	BW: DagoT
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: طبيعي	Lemma: طَبِيعِيّ	BW: TabiyEiy~
+		Word: وذهبت	Lemma: ذَهَبَ	BW: *ahaba
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اسبوع	Lemma: اسبوع	BW: AsbwE
+		Word: وعملت	Lemma: عَمِلَ	BW: Eamila
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: مرتفع	Lemma: مُرْتَفِع	BW: murotafiE
+		Word: والدكتور	Lemma: دُكْتُور	BW: dukotuwr
+		Word: نصحني	Lemma: نَصَحَ	BW: naSaHa
+		Word: بالدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: لكن	Lemma: لَكِنْ	BW: lakino
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: استخدم	Lemma: اسْتَخْدَمَ	BW: Asotaxodama
+		Word: الدواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اليوم	Lemma: يَوْم	BW: yawom
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: ضغطي	Lemma: ضَغْط	BW: DagoT
+	------------------------

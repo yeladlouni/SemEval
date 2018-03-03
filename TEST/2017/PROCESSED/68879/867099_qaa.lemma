@@ -1,0 +1,25 @@
+ممارسة الرياضة والغذاء المتوازن يقوي المناعة، كما وجدت بعض الدراسات أنا نبتة (echinacea purpurea) تزيد من المناعة وهي متواجدة كحبوب أو شراب في الصيدليات.
+	##Lemmatization results:
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: والغذاء	Lemma: غِذَاء	BW: gi*aA'
+		Word: المتوازن	Lemma: مُتَوَازِن	BW: mutawaAzin
+		Word: يقوي	Lemma: أَقْوَى	BW: >aqowaY
+		Word: المناعة	Lemma: مَنَاعَة	BW: manaAEap
+		Word: كما	Lemma: مَا	BW: maA
+		Word: وجدت	Lemma: وَجَدَ	BW: wajada
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الدراسات	Lemma: دِرَاسَة	BW: diraAsap
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: نبتة	Lemma: نَبْتَة	BW: nabotap
+		Word: تزيد	Lemma: زَادَ	BW: zaAda
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: المناعة	Lemma: مَنَاعَة	BW: manaAEap
+		Word: وهي	Lemma: وَهِيَ	BW: wahiya
+		Word: متواجدة	Lemma: مُتَوَاجِد	BW: mutawaAjid
+		Word: كحبوب	Lemma: حَبّ	BW: Hab~
+		Word: أو	Lemma: أَوْ	BW: >awo
+		Word: شراب	Lemma: شَرَاب	BW: $araAb
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الصيدليات	Lemma: صَيْدَلِيَّة	BW: Sayodaliy~ap
+	------------------------

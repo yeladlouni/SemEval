@@ -1,0 +1,36 @@
+ان اول مايتبادر الى ذهن طبيب الاسنان انه يوجد ضرس عقل مطمور وان صورة اشعه اسمها بانوراما ضروريه لتاكيد ذلك لذا فانه من الافضل مراجعة طبيب الاسنان ومن السهل حل المشكله خلال ايام
+	##Lemmatization results:
+		Word: ان	Lemma: ان	BW: An
+		Word: اول	Lemma: اول	BW: Awl
+		Word: مايتبادر	Lemma: مايتبادر	BW: mAytbAdr
+		Word: الى	Lemma: الى	BW: AlY
+		Word: ذهن	Lemma: ذِهْن	BW: *ihon
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: الاسنان	Lemma: الاسنان	BW: AlAsnAn
+		Word: انه	Lemma: نَهِيَ	BW: nahiya
+		Word: يوجد	Lemma: وَجَدَ	BW: wajada
+		Word: ضرس	Lemma: ضَرْس	BW: Daros
+		Word: عقل	Lemma: عَقْل	BW: Eaqol
+		Word: مطمور	Lemma: مَطْمُور	BW: maTomuwr
+		Word: وان	Lemma: وَان	BW: waAn
+		Word: صورة	Lemma: صُورَة	BW: Suwrap
+		Word: اشعه	Lemma: اشعه	BW: A$Eh
+		Word: اسمها	Lemma: اسْم	BW: Asom
+		Word: بانوراما	Lemma: بانوراما	BW: bAnwrAmA
+		Word: ضروريه	Lemma: ضَرُورِيّ	BW: Daruwriy~
+		Word: لتاكيد	Lemma: لتاكيد	BW: ltAkyd
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: لذا	Lemma: ذَا	BW: *aA
+		Word: فانه	Lemma: فَانّ	BW: faAn~
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الافضل	Lemma: الافضل	BW: AlAfDl
+		Word: مراجعة	Lemma: مُرَاجَعَة	BW: muraAjaEap
+		Word: طبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: الاسنان	Lemma: الاسنان	BW: AlAsnAn
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: السهل	Lemma: سَهْل	BW: sahol
+		Word: حل	Lemma: حِلّ	BW: Hil~
+		Word: المشكله	Lemma: المشكله	BW: Alm$klh
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: ايام	Lemma: ايام	BW: AyAm
+	------------------------

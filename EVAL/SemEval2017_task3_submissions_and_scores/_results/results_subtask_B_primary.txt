@@ -1,0 +1,13 @@
+SimBow	subtask_B_primary	 0.4722
+LearningToQuestion	subtask_B_primary	 0.4693
+KeLP	subtask_B_primary	 0.4666
+Talla	subtask_B_primary	 0.4570
+Beihang-MSRA	subtask_B_primary	 0.4478
+NLM_NIH	subtask_B_primary	 0.4462
+UINSUSKA-TiTech	subtask_B_primary	 0.4344
+IIT-UHH	subtask_B_primary	 0.4312
+SCIR-QA	subtask_B_primary	 0.4272
+FA3L	subtask_B_primary	 0.4224
+ECNU	subtask_B_primary	 0.4137
+EICA	subtask_B_primary	 0.4111
+LS2NSEMEVAL	subtask_B_primary	 0.4056

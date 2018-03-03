@@ -1,0 +1,36 @@
+امي عمرها 59 سنة تعاني من مرض الشد العضلي و ارتفاع ضغط الدم والان تشعر بأن تأتيها حالات تتعرق و تشعر بحرارة في جسمها و لكن هذه الحالة تنتهي خلال بضع دقائق فما العلاج 
+	##Lemmatization results:
+		Word: امي	Lemma: امي	BW: Amy
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: الشد	Lemma: شَدّ	BW: $ad~
+		Word: العضلي	Lemma: عَضَلِيّ	BW: EaDaliy~
+		Word: و	Lemma: و	BW: w
+		Word: ارتفاع	Lemma: ارْتِفَاع	BW: ArotifaAE
+		Word: ضغط	Lemma: ضَغْط	BW: DagoT
+		Word: الدم	Lemma: دَم	BW: dam
+		Word: والان	Lemma: والان	BW: wAlAn
+		Word: تشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بأن	Lemma: أَنَّ	BW: >an~a
+		Word: تأتيها	Lemma: أَتَى	BW: >ataY
+		Word: حالات	Lemma: حَالَة	BW: HaAlap
+		Word: تتعرق	Lemma: تَعَرَّقَ	BW: taEar~aqa
+		Word: و	Lemma: و	BW: w
+		Word: تشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بحرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: جسمها	Lemma: جِسْم	BW: jisom
+		Word: و	Lemma: و	BW: w
+		Word: لكن	Lemma: لَكِنَ	BW: lakina
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحالة	Lemma: حَالَة	BW: HaAlap
+		Word: تنتهي	Lemma: انْتَهَى	BW: AnotahaY
+		Word: خلال	Lemma: خِلَال	BW: xilaAl
+		Word: بضع	Lemma: بِضْع	BW: biDoE
+		Word: دقائق	Lemma: دَقِيقَة	BW: daqiyqap
+		Word: فما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+	------------------------

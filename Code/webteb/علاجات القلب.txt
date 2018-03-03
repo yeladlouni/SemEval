@@ -1,0 +1,22 @@
+# علاجات القلب
+
+اسم العلاج | Treatment Name  
+---|---  
+عملية مجازة الشريان التاجي  |  Coronary Artery Bypass Graft  
+علاج الرجفان الأذيني  |  Catheter ablation for atrial fibrillation  
+جراحة الأوعية الدموية  |  Vascular surgery  
+تغيير صمام القلب التاجي  |  Mitral valve replacement  
+تقويم نظم القلب بالصدمة الكهربائية  |  Cardioversion  
+زرع جهاز تنظيم ضربات القلب  |  Pacemaker Implantation  
+زراعة القلب  |  Heart (Cardiac) Transplant  
+جراحة المجازة التاجية  |  Coronary Artery Bypass Surgery  
+تغيير صمام القلب  |  Valve Replacement Surgery  
+قسطرة القلب  |  Cardiac Catheterization  
+القثطرة لعلاج الإضطرابات في نظم القلب  |  Catheter Ablation  
+بزل التأمور  |  Pericardiocentesis  
+استئصال التأمور  |  Pericardiectomy  
+فتح المنصف  |  Anterior mediastinotomy  
+جراحة الصمام الثلاثي الشرف  |  Tricuspid valve  
+عملية القلب المفتوح  |  Cardiopulmonary bypass machine  
+بضع القص  |  Sternotomy
+

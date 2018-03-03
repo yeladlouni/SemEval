@@ -1,0 +1,33 @@
+يادكتور انا شاب عمري 18 سنة و 8 شهور اعاني من قصر طولي و انا من مواليد 1997 منذ ان كان عمري 17 سنة وطولي لم يزيد هل توقف طولي ام يستمر الى سن 21
+	##Lemmatization results:
+		Word: يادكتور	Lemma: يادكتور	BW: yAdktwr
+		Word: انا	Lemma: انا	BW: AnA
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: و	Lemma: و	BW: w
+		Word: شهور	Lemma: شَهْر	BW: $ahor
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: قصر	Lemma: قَصْر	BW: qaSor
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: و	Lemma: و	BW: w
+		Word: انا	Lemma: انا	BW: AnA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: مواليد	Lemma: مَوْلُود	BW: mawoluwd
+		Word: منذ	Lemma: مُنْذُ	BW: muno*u
+		Word: ان	Lemma: ان	BW: An
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وطولي	Lemma: طَالَ	BW: TaAla
+		Word: لم	Lemma: لَمْ	BW: lamo
+		Word: يزيد	Lemma: زَادَ	BW: zaAda
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: توقف	Lemma: تَوَقَّفَ	BW: tawaq~afa
+		Word: طولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: ام	Lemma: ام	BW: Am
+		Word: يستمر	Lemma: اسْتَمَرَّ	BW: Asotamar~a
+		Word: الى	Lemma: الى	BW: AlY
+		Word: سن	Lemma: سِنّ	BW: sin~
+	------------------------

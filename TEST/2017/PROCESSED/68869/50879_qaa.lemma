@@ -1,0 +1,36 @@
+لديك نقص واضح في الوزن، والوزن الأمثل من وجهة نظر طبية يتراوح بين 43 و 56 كغ ما هي طبيعة مرض القولون الذي تعانين منه ؟ هل تعانين من اسهال مزمن؟ كيف تصفين شهيتك للطعام؟ تحياتي
+	##Lemmatization results:
+		Word: لديك	Lemma: لَدَى	BW: ladaY
+		Word: نقص	Lemma: نَقْص	BW: naqoS
+		Word: واضح	Lemma: وَاضِح	BW: waADiH
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: والوزن	Lemma: وَزْن	BW: wazon
+		Word: الأمثل	Lemma: أَمْثَل	BW: >amoval
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: وجهة	Lemma: وِجْهَة	BW: wijohap
+		Word: نظر	Lemma: نَظَر	BW: naZar
+		Word: طبية	Lemma: طِبِّيّ	BW: Tib~iy~
+		Word: يتراوح	Lemma: تَرَاوَحَ	BW: taraAwaHa
+		Word: بين	Lemma: بَيْنَ	BW: bayona
+		Word: و	Lemma: و	BW: w
+		Word: كغ	Lemma: كغ	BW: kg
+		Word: ما	Lemma: مَا	BW: maA
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: طبيعة	Lemma: طَبِيعَة	BW: TabiyEap
+		Word: مرض	Lemma: مَرَض	BW: maraD
+		Word: القولون	Lemma: القولون	BW: Alqwlwn
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: تعانين	Lemma: عَانَى	BW: EaAnaY
+		Word: منه	Lemma: مِنْ	BW: mino
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: تعانين	Lemma: عَانَى	BW: EaAnaY
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: اسهال	Lemma: اسهال	BW: AshAl
+		Word: مزمن	Lemma: مُزْمِن	BW: muzomin
+		Word: كيف	Lemma: كَيْفَ	BW: kayofa
+		Word: تصفين	Lemma: صَفُوَ	BW: Safuwa
+		Word: شهيتك	Lemma: شَهِيّ	BW: $ahiy~
+		Word: للطعام	Lemma: طَعَام	BW: TaEaAm
+		Word: تحياتي	Lemma: تَحِيَّة	BW: taHiy~ap
+	------------------------

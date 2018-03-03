@@ -1,0 +1,46 @@
+السؤال لماذا لحم الخنزير محرم ومن المعروف أنه يتسبب في أمراض وعند إجابتي على أحد الأجانب أنه يتسبب في حدوث أمراض أخبرني أنه يأكل لحم الخنزير طوال 20 سنة ولم يحدث له شيء وكذلك هناك أناس كثيرون ماتوا عند سن التسعين وكانوا يأكلون الخنزير.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: لماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: لحم	Lemma: لَحْم	BW: laHom
+		Word: الخنزير	Lemma: خِنْزِير	BW: xinoziyr
+		Word: محرم	Lemma: مُحَرَّم	BW: muHar~am
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: المعروف	Lemma: مَعْرُوف	BW: maEoruwf
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يتسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: في	Lemma: فِي	BW: fiy
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: وعند	Lemma: عِنْدَ	BW: Einoda
+		Word: إجابتي	Lemma: إِجَابَة	BW: <ijaAbap
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: أحد	Lemma: أَحَد	BW: >aHad
+		Word: الأجانب	Lemma: أَجْنَبِيّ	BW: >ajonabiy~
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يتسبب	Lemma: تَسَبَّبَ	BW: tasab~aba
+		Word: في	Lemma: فِي	BW: fiy
+		Word: حدوث	Lemma: حُدُوث	BW: Huduwv
+		Word: أمراض	Lemma: مَرَض	BW: maraD
+		Word: أخبرني	Lemma: أَخْبَرَ	BW: >axobara
+		Word: أنه	Lemma: أَنَّ	BW: >an~a
+		Word: يأكل	Lemma: أَكَلَ	BW: >akala
+		Word: لحم	Lemma: لَحْم	BW: laHom
+		Word: الخنزير	Lemma: خِنْزِير	BW: xinoziyr
+		Word: طوال	Lemma: طَوَال	BW: TawaAl
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: ولم	Lemma: لَمْ	BW: lamo
+		Word: يحدث	Lemma: حَدَثَ	BW: Hadava
+		Word: له	Lemma: لِي	BW: liy
+		Word: شيء	Lemma: شَيْء	BW: $ayo'
+		Word: وكذلك	Lemma: ذَا	BW: *aA
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: أناس	Lemma: نَاسّ	BW: naAs~
+		Word: كثيرون	Lemma: كَثِير	BW: kaviyr
+		Word: ماتوا	Lemma: مَاتَ	BW: maAta
+		Word: عند	Lemma: عِنْدَ	BW: Einoda
+		Word: سن	Lemma: سِنّ	BW: sin~
+		Word: التسعين	Lemma: تَسْع	BW: tasoE
+		Word: وكانوا	Lemma: كَانَ	BW: kaAna
+		Word: يأكلون	Lemma: أَكَلَ	BW: >akala
+		Word: الخنزير	Lemma: خِنْزِير	BW: xinoziyr
+	------------------------

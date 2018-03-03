@@ -1,0 +1,14 @@
+ليست مضرة ولا تسمن وهي مفيدة للشعر إن شاء الله تعالى.
+	##Lemmatization results:
+		Word: ليست	Lemma: لَيْسَ	BW: layosa
+		Word: مضرة	Lemma: مُضِرّ	BW: muDir~
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: تسمن	Lemma: سَمِنَ	BW: samina
+		Word: وهي	Lemma: هُوَ	BW: huwa
+		Word: مفيدة	Lemma: مُفِيد	BW: mufiyd
+		Word: للشعر	Lemma: شِعْر	BW: $iEor
+		Word: إن	Lemma: أَنَّ	BW: >an~a
+		Word: شاء	Lemma: شَاءَ	BW: $aA'a
+		Word: الله	Lemma: الله	BW: Allh
+		Word: تعالى	Lemma: تَعَالَى	BW: taEaAlaY
+	------------------------

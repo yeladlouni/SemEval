@@ -1,0 +1,86 @@
+#  مصطلحات طبية
+
+#  مصطلحات طبية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Musculus sternothyroideus
+
+عضلة قصية درقية
+
+Musculus sternohyoideus
+
+عضلة قصية لامية
+
+Musculus psoas
+
+عضلة قطنية
+
+Musculus iliopsoas
+
+عضلة قطنية حرقفية
+
+Musculus pronator teres
+
+عضلة كابة مدورة
+
+Musculus pronator quadratus
+
+عضلة كابة مربعة
+
+Musculus omohyoideus
+
+عضلة كتفية لامية
+
+Musculus piriformis
+
+عضلة كمترية
+
+Musculus hyoglossus
+
+عضلة لامية لسانية
+
+Musculi linguae
+
+عضلات اللسان
+
+Musculus uvulae
+
+عضلة اللهاة
+
+Musculus popliteus
+
+عضلة مابضية
+
+Musculus masseter
+
+عضلة ماضغة
+
+Musculus abductor policis longus
+
+عضلة مبعدة الابهام الطويلة
+
+Musculus abductor policis breves
+
+عضلة مبعدة الابهام القصيرة
+
+Musculus abductor hallucis
+
+عضلة مبعدة ابهام القدم
+
+Musculus buccinator
+
+عضلة مبوقة
+
+Musculus vastus medialis
+
+عضلة متسعة انسية
+
+Musculus vastus lateralis
+
+عضلة متسعة وحشية
+
+Musculus vastus medius
+
+عضلة متسعة وسطانية
+

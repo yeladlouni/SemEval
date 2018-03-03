@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - تشخيص
+
+#  المصطلحات الطبية - تشخيص
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Lead
+
+اتجاه
+
+Esophageal lead
+
+اتجاه مريئي
+
+Precordial lead
+
+اتجاه بركي
+
+Bipolar lead
+
+اتجاه ذو قطبين
+
+Unipolar lead
+
+اتجاه وحيد القطب
+
+Spinal centesis
+
+بزل شوكي
+
+Myography
+
+تخطيط العضل
+
+Vectocardio-graphy
+
+تخطيط القلب الاتجاهي
+
+Ballistocardio-graphy
+
+تخطيط القلب الزفني
+
+Radiocardio-graphy
+
+تخطيط القلب اللاسلكي
+
+Telecardiography
+
+تخطيط قلبي بعادي
+
+Tocography
+
+تخطيط قوة المخاض
+
+Electro-myography
+
+تخطيط كهربائية العضل
+
+Electro-cardiography
+
+تخطيط كهربية القلب
+
+Sphygmography
+
+تخطيط النبض
+
+Phlebography
+
+تخطيط الوريد
+
+Auscultation
+
+تسمع
+
+Phonendoscopy
+
+تسمع الصوت الباطن
+
+Stereoauscultation
+
+تسمع مجسم
+
+Direct auscultation
+
+تسمع مباشر
+

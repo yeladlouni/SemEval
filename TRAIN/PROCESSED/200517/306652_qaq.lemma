@@ -1,0 +1,46 @@
+السؤال طفلي عمره سبع سنوات كثير النسيان وعدم الانتباه في الحصة أثناء الدراسة في المدرسة وعند دراسة أمه في البيت تعاني كثيراً معه وعند دراسة المواد المقررة لا يحفظ ولو حفظ ينسى بعد دقائق ونعاني كثيراً من ذلك علماً بأنه يحب اللعب كثيراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: طفلي	Lemma: طِفْل	BW: Tifol
+		Word: عمره	Lemma: عُمْر	BW: Eumor
+		Word: سبع	Lemma: سَبْع	BW: saboE
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: كثير	Lemma: كَثِير	BW: kaviyr
+		Word: النسيان	Lemma: نِسْيَان	BW: nisoyaAn
+		Word: وعدم	Lemma: عَدَم	BW: Eadam
+		Word: الانتباه	Lemma: انْتِبَاه	BW: AnotibaAh
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحصة	Lemma: حِصَّة	BW: HiS~ap
+		Word: أثناء	Lemma: أَثْنَاءَ	BW: >avonaA'a
+		Word: الدراسة	Lemma: دِرَاسَة	BW: diraAsap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: المدرسة	Lemma: مَدْرَسَة	BW: madorasap
+		Word: وعند	Lemma: عِنْدَ	BW: Einoda
+		Word: دراسة	Lemma: دِرَاسَة	BW: diraAsap
+		Word: أمه	Lemma: أُمّ	BW: >um~
+		Word: في	Lemma: فِي	BW: fiy
+		Word: البيت	Lemma: بَيْت	BW: bayot
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: معه	Lemma: مَعَ	BW: maEa
+		Word: وعند	Lemma: عِنْدَ	BW: Einoda
+		Word: دراسة	Lemma: دِرَاسَة	BW: diraAsap
+		Word: المواد	Lemma: مَادَّة	BW: maAd~ap
+		Word: المقررة	Lemma: مُقَرَّر	BW: muqar~ar
+		Word: لا	Lemma: لَا	BW: laA
+		Word: يحفظ	Lemma: حَفِظَ	BW: HafiZa
+		Word: ولو	Lemma: لَوْ	BW: lawo
+		Word: حفظ	Lemma: حِفْظ	BW: HifoZ
+		Word: ينسى	Lemma: نَسِيَ	BW: nasiya
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: دقائق	Lemma: دَقِيقَة	BW: daqiyqap
+		Word: ونعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: علمًا	Lemma: عِلْم	BW: Eilom
+		Word: بأنه	Lemma: أَنَّ	BW: >an~a
+		Word: يحب	Lemma: أَحَبَّ	BW: >aHab~a
+		Word: اللعب	Lemma: لَعْب	BW: laEob
+		Word: كثيرًا	Lemma: كَثِير	BW: kaviyr
+	------------------------

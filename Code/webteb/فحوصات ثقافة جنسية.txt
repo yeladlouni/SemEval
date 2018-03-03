@@ -1,0 +1,25 @@
+# فحوصات ثقافة جنسية
+
+اليكم قائمة بجميع الفحوصات التي تنتمي الى مجال ثقافة جنسية في ويب طب. متى يجب
+الخضوع لهذه الفحوصات وماذا تعني نتائجها اليكم فيما يلي:
+
+## اسم الفحص
+
+|
+
+## Examination Name  
+  
+---|---  
+فحص فيروس نقص المناعة  |  HIV test  
+هرمون التستوستيرون  |  Testosterone Test  
+الزهري  |  Syphilis Antibodies  
+المتدثرة  |  chlamydia diagnostic tests  
+اختبار مقاومة فيروس نقص المناعة البشرية (HIV)  |  HIV resistance test  
+حضانة فيروس نقص المناعة البشرية  |  HIV viral load  
+الانتصاب الليلي  |  Nocturnal Penile Tumescence  
+مستوى الديهيدرو إيبي اندروستيرون سلفات  |  dehydroepiandrosterone sulfate  
+خزعة البروستاتا  |  prostate biopsy  
+فحص الخصية بالأمواج فوق الصوتية  |  Testis US  
+تصوير الخصية الديناميكي  |  Dynamic testicular scan  
+فيروس الهربس  |  Herpes Virus Antibodies
+

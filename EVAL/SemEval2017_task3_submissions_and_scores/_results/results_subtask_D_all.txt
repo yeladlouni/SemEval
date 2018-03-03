@@ -1,0 +1,9 @@
+GW_QA	subtask_D_primary	 0.6116
+QU_BIGIR	subtask_D_contrastive2	 0.5948
+QU_BIGIR	subtask_D_contrastive1	 0.5913
+UPC-USMBA	subtask_D_primary	 0.5773
+QU_BIGIR	subtask_D_primary	 0.5669
+UPC-USMBA	subtask_D_contrastive1	 0.5666
+_baseline	subtask_D_baseline_true	 0.4848
+_baseline	subtask_D_baseline_random	 0.4848
+_baseline	subtask_D_baseline_false	 0.4848

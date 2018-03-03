@@ -1,0 +1,86 @@
+#  المصطلحات الطبية - الامراض المعدية
+
+#  المصطلحات الطبية - الامراض المعدية
+
+تصنيف حسب : الصلة بالموضوع أ-ي A-Z الاكثر مشاهده الأقدم الأجدد
+
+Inapparent infection
+
+خمج خفي
+
+Meningococcemia
+
+خمج الدم بالسحائيات
+
+Subclinical infection
+
+خمج دون السريري
+
+Autoinfection
+
+خمج ذاتي
+
+Droplet infection
+
+خمج رذاذي
+
+Total infection
+
+خمج شامل
+
+Silent infection
+
+خمج صامت
+
+Apical infection
+
+خمج قمي
+
+Pyogenic infection
+
+خمج قيحي
+
+Latent infection
+
+خمج كامن
+
+Indirect infection
+
+خمج لا مباشر
+
+Direct infection
+
+خمج مباشر
+
+Cross infection
+
+خمج متصالب
+
+Mixed infection
+
+خمج مختلط
+
+Nosocomial infection
+
+خمج المشافي
+
+Water-borne infection
+
+خمج منقول بالماء
+
+Air-borne infection
+
+خمج منقول بالهواء
+
+Infective, infectious
+
+خمجي
+
+Quintan
+
+خمس
+
+Trichomoniasis
+
+داء المشعرات
+

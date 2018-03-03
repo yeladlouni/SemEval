@@ -1,0 +1,14 @@
+انا فتاة عمري 21 سنة وزني 42 وطولي 155 هل هو مناسب ام لا
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: فتاة	Lemma: فَتَاة	BW: fataAp
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وزني	Lemma: وَزْن	BW: wazon
+		Word: وطولي	Lemma: طُولِيّ	BW: Tuwliy~
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مناسب	Lemma: مُنَاسِب	BW: munaAsib
+		Word: ام	Lemma: ام	BW: Am
+		Word: لا	Lemma: لَا	BW: laA
+	------------------------

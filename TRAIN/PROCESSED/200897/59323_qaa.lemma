@@ -1,0 +1,16 @@
+حاولي ممارسة الرياضة نصف ساعة يوميا.بالإضافة الى تناول وجبات صغيرة طوال لبوم.
+	##Lemmatization results:
+		Word: حاولي	Lemma: حَاوَلَ	BW: HaAwala
+		Word: ممارسة	Lemma: مُمَارَسَة	BW: mumaArasap
+		Word: الرياضة	Lemma: رِيَاضَة	BW: riyaADap
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: بالإضافة	Lemma: إِضَافَة	BW: <iDaAfap
+		Word: الى	Lemma: الى	BW: AlY
+		Word: تناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: وجبات	Lemma: وَجْبَة	BW: wajobap
+		Word: صغيرة	Lemma: صَغِير	BW: Sagiyr
+		Word: طوال	Lemma: طَوَال	BW: TawaAl
+		Word: لبوم	Lemma: بُومَة	BW: buwmap
+	------------------------

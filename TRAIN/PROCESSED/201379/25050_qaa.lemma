@@ -1,0 +1,33 @@
+اذا كان هذا الشاي يتم تدواله وشربه في بلده فلا خوف من ذلك اما اذا كان يباع من تحت الطاولة فهذا يعني بان عليه تحذيرات وموانع ومحاذير فلا داعي لاستخدامه
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الشاي	Lemma: الشاي	BW: Al$Ay
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: تدواله	Lemma: تدواله	BW: tdwAlh
+		Word: وشربه	Lemma: شُرْب	BW: $urob
+		Word: في	Lemma: فِي	BW: fiy
+		Word: بلده	Lemma: بَلَد	BW: balad
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: خوف	Lemma: خَوْف	BW: xawof
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: ذلك	Lemma: ذَا	BW: *aA
+		Word: اما	Lemma: اما	BW: AmA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كان	Lemma: كَانَ	BW: kaAna
+		Word: يباع	Lemma: بَاعَ	BW: baAEa
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: تحت	Lemma: تَحْتَ	BW: taHota
+		Word: الطاولة	Lemma: طَاوِلَة	BW: TaAwilap
+		Word: فهذا	Lemma: ذَا	BW: *aA
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: بان	Lemma: بَان	BW: baAn
+		Word: عليه	Lemma: عَلَى	BW: EalaY
+		Word: تحذيرات	Lemma: تَحْذِير	BW: taHo*iyr
+		Word: وموانع	Lemma: مَانِع	BW: maAniE
+		Word: ومحاذير	Lemma: مَحْذُور	BW: maHo*uwr
+		Word: فلا	Lemma: لَا	BW: laA
+		Word: داعي	Lemma: دَاعّ	BW: daAE~
+		Word: لاستخدامه	Lemma: اسْتِخْدَام	BW: AsotixodaAm
+	------------------------

@@ -1,0 +1,17 @@
+أنا في الشهر ٤ وأحس بوجع في بطني وما الفيتامين الذي يؤخذ في هذا الشهر ؟
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+		Word: وأحس	Lemma: أَحَسَّ	BW: >aHas~a
+		Word: بوجع	Lemma: وَجَع	BW: wajaE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: بطني	Lemma: طُنّ	BW: Tun~
+		Word: وما	Lemma: مَا	BW: maA
+		Word: الفيتامين	Lemma: فِيتَامِين	BW: fiytaAmiyn
+		Word: الذي	Lemma: اَلَّذِي	BW: Aal~a*iy
+		Word: يؤخذ	Lemma: أَخَذَ	BW: >axa*a
+		Word: في	Lemma: فِي	BW: fiy
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: الشهر	Lemma: شَهْر	BW: $ahor
+	------------------------

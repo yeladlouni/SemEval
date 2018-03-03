@@ -1,0 +1,17 @@
+ماهو تحليل CA وماذا اذا كانت النتيجة ضمن الرقم المتوقع هل يعني ان التحليل سليم 
+	##Lemmatization results:
+		Word: ماهو	Lemma: مَاهّ	BW: maAh~
+		Word: تحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: وماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: كانت	Lemma: كَانَ	BW: kaAna
+		Word: النتيجة	Lemma: نَتِيجَة	BW: natiyjap
+		Word: ضمن	Lemma: ضِمْن	BW: Dimon
+		Word: الرقم	Lemma: رَقْم	BW: raqom
+		Word: المتوقع	Lemma: مُتَوَقَّع	BW: mutawaq~aE
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يعني	Lemma: عَنَى	BW: EanaY
+		Word: ان	Lemma: ان	BW: An
+		Word: التحليل	Lemma: تَحْلِيل	BW: taHoliyl
+		Word: سليم	Lemma: سَلِيم	BW: saliym
+	------------------------

@@ -1,0 +1,31 @@
+انا عمري 79 عاما. ماذا تعني النتائج التالية البنكرياس تبدو فيه كتلة بحجم 42X31 مم. في الخلاصه: يشتبه بكتلة تحتل حيز من البنكرياس. يتطلب اجراء مقارنه مع فحص تصوير اخر.
+	##Lemmatization results:
+		Word: انا	Lemma: انا	BW: AnA
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: عاما	Lemma: عَامّ	BW: EaAm~
+		Word: ماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: تعني	Lemma: عَنَى	BW: EanaY
+		Word: النتائج	Lemma: نَتِيجَة	BW: natiyjap
+		Word: التالية	Lemma: تَالِيَة	BW: taAliyap
+		Word: البنكرياس	Lemma: البنكرياس	BW: AlbnkryAs
+		Word: تبدو	Lemma: بَدَا	BW: badaA
+		Word: فيه	Lemma: فِي	BW: fiy
+		Word: كتلة	Lemma: كُتْلَة	BW: kutolap
+		Word: بحجم	Lemma: حَجْم	BW: Hajom
+		Word: مم	Lemma: مِنْ	BW: mino
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الخلاصه	Lemma: الخلاصه	BW: AlxlASh
+		Word: يشتبه	Lemma: اشْتَبَهَ	BW: A$otabaha
+		Word: بكتلة	Lemma: كُتْلَة	BW: kutolap
+		Word: تحتل	Lemma: احْتَلَّ	BW: AHotal~a
+		Word: حيز	Lemma: حَيِّز	BW: Hay~iz
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: البنكرياس	Lemma: البنكرياس	BW: AlbnkryAs
+		Word: يتطلب	Lemma: تَطَلَّبَ	BW: taTal~aba
+		Word: اجراء	Lemma: اجراء	BW: AjrA'
+		Word: مقارنه	Lemma: مُقَارِن	BW: muqaArin
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: فحص	Lemma: فَحْص	BW: faHoS
+		Word: تصوير	Lemma: تَصْوِير	BW: taSowiyr
+		Word: اخر	Lemma: اخر	BW: Axr
+	------------------------

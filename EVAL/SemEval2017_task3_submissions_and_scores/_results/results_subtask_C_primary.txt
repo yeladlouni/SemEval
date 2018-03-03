@@ -1,0 +1,6 @@
+IIT-UHH	subtask_C_primary	 0.1546
+bunji	subtask_C_primary	 0.1471
+KeLP	subtask_C_primary	 0.1435
+EICA	subtask_C_primary	 0.1348
+FuRongWang	subtask_C_primary	 0.1323
+ECNU	subtask_C_primary	 0.1054

@@ -1,0 +1,35 @@
+اعاني من إسهال وامساك معا و دوخة. عمري 26سنة وتعب وصداع وضيق التنفس ونقص الوزن. عملت منظار وقال لي الطبيب لديك التهاب المعدة والقولون. هل يمكن أن تكون جرثومة المعدة هي السبب؟
+	##Lemmatization results:
+		Word: اعاني	Lemma: اعاني	BW: AEAny
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: إسهال	Lemma: إِسْهَال	BW: <isohaAl
+		Word: وامساك	Lemma: وَامِس	BW: waAmis
+		Word: معا	Lemma: مَعَّ	BW: maE~a
+		Word: و	Lemma: و	BW: w
+		Word: دوخة	Lemma: دَوْخَة	BW: dawoxap
+		Word: عمري	Lemma: عُمْر	BW: Eumor
+		Word: سنة	Lemma: سَنَة	BW: sanap
+		Word: وتعب	Lemma: وَعَبَ	BW: waEaba
+		Word: وصداع	Lemma: صَدَّاع	BW: Sad~aAE
+		Word: وضيق	Lemma: ضِيق	BW: Diyq
+		Word: التنفس	Lemma: تَنَفُّس	BW: tanaf~us
+		Word: ونقص	Lemma: نَقْص	BW: naqoS
+		Word: الوزن	Lemma: وَزْن	BW: wazon
+		Word: عملت	Lemma: عَمِلَ	BW: Eamila
+		Word: منظار	Lemma: مِنْظَار	BW: minoZaAr
+		Word: وقال	Lemma: قَالَ	BW: qaAla
+		Word: لي	Lemma: لِي	BW: liy
+		Word: الطبيب	Lemma: طَبِيب	BW: Tabiyb
+		Word: لديك	Lemma: لَدَى	BW: ladaY
+		Word: التهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: والقولون	Lemma: والقولون	BW: wAlqwlwn
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: تكون	Lemma: كَانَ	BW: kaAna
+		Word: جرثومة	Lemma: جُرْثُومَة	BW: jurovuwmap
+		Word: المعدة	Lemma: مُعَدّ	BW: muEad~
+		Word: هي	Lemma: هُوَ	BW: huwa
+		Word: السبب	Lemma: سَبَب	BW: sabab
+	------------------------

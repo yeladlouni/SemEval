@@ -1,0 +1,13 @@
+أنا أكل التمر والرطب بشكل يومي. فهل هو مضر للكلى 
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: أكل	Lemma: أَكَلَ	BW: >akala
+		Word: التمر	Lemma: تَمْر	BW: tamor
+		Word: والرطب	Lemma: رَطْب	BW: raTob
+		Word: بشكل	Lemma: شَكْل	BW: $akol
+		Word: يومي	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: فهل	Lemma: هَلْ	BW: halo
+		Word: هو	Lemma: هُوَ	BW: huwa
+		Word: مضر	Lemma: مُضَر	BW: muDar
+		Word: للكلى	Lemma: كُلْيَة	BW: kuloyap
+	------------------------

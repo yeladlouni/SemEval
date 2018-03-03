@@ -1,0 +1,23 @@
+ابنتي عمرها شهرين و6 ايام طولها150'6 غرام وطولها 62 ومحيط راسها 38 هل هذا ممتاز ام عادي او ليس جيد بالنسبة لعمرها 
+	##Lemmatization results:
+		Word: ابنتي	Lemma: ابْن	BW: Abon
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: شهرين	Lemma: شَهْر	BW: $ahor
+		Word: و	Lemma: و	BW: w
+		Word: ايام	Lemma: ايام	BW: AyAm
+		Word: طولها	Lemma: طُول	BW: Tuwl
+		Word: غرام	Lemma: غَرَام	BW: garaAm
+		Word: وطولها	Lemma: طُول	BW: Tuwl
+		Word: ومحيط	Lemma: مُحِيط	BW: muHiyT
+		Word: راسها	Lemma: رَاسَ	BW: raAsa
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذا	Lemma: ذَا	BW: *aA
+		Word: ممتاز	Lemma: مُمْتَاز	BW: mumotaAz
+		Word: ام	Lemma: ام	BW: Am
+		Word: عادي	Lemma: عَادِيّ	BW: EaAdiy~
+		Word: او	Lemma: او	BW: Aw
+		Word: ليس	Lemma: لَيْسَ	BW: layosa
+		Word: جيد	Lemma: جَيِّد	BW: jay~id
+		Word: بالنسبة	Lemma: نِسْبَة	BW: nisobap
+		Word: لعمرها	Lemma: عُمْر	BW: Eumor
+	------------------------

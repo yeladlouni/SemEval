@@ -1,0 +1,39 @@
+أختي تبلغ من العمر 10 سنوات ومنذ 3 أيام تعاني ألم ف مؤخرتها (فتحة الشرج تحديدا) واليوم اشتد عليها الألم ولا أعرف السبب ولا كيفية التصرف. علما بأنها لاتعاني امساك والألم يتيها على هيئة تسطير شديد من الداخل ؟
+	##Lemmatization results:
+		Word: أختي	Lemma: خَتّ	BW: xat~
+		Word: تبلغ	Lemma: تَبَلَّغَ	BW: tabal~aga
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: العمر	Lemma: عُمْر	BW: Eumor
+		Word: سنوات	Lemma: سَنَة	BW: sanap
+		Word: ومنذ	Lemma: مُنْذُ	BW: muno*u
+		Word: أيام	Lemma: يَوْم	BW: yawom
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: ألم	Lemma: أَلَم	BW: >alam
+		Word: ف	Lemma: وَفَى	BW: wafaY
+		Word: مؤخرتها	Lemma: مُؤْخِر	BW: mu&oxir
+		Word: فتحة	Lemma: فَتْحَة	BW: fatoHap
+		Word: الشرج	Lemma: شَرَج	BW: $araj
+		Word: تحديدا	Lemma: تَحْدِيد	BW: taHodiyd
+		Word: واليوم	Lemma: يَوْم	BW: yawom
+		Word: اشتد	Lemma: اشْتَدَّ	BW: A$otad~a
+		Word: عليها	Lemma: عَلَى	BW: EalaY
+		Word: الألم	Lemma: أَلَم	BW: >alam
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: أعرف	Lemma: عَرَفَ	BW: Earafa
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: ولا	Lemma: لَا	BW: laA
+		Word: كيفية	Lemma: كَيْفِيَّة	BW: kayofiy~ap
+		Word: التصرف	Lemma: تَصَرُّف	BW: taSar~uf
+		Word: علما	Lemma: عِلْم	BW: Eilom
+		Word: بأنها	Lemma: أَنَّ	BW: >an~a
+		Word: لاتعاني	Lemma: لاتعاني	BW: lAtEAny
+		Word: امساك	Lemma: امساك	BW: AmsAk
+		Word: والألم	Lemma: أَلَم	BW: >alam
+		Word: يتيها	Lemma: أَتَاهَ	BW: >ataAha
+		Word: على	Lemma: عَلَى	BW: EalaY
+		Word: هيئة	Lemma: هَيْئَة	BW: hayo}ap
+		Word: تسطير	Lemma: تَسْطِير	BW: tasoTiyr
+		Word: شديد	Lemma: شَدِيد	BW: $adiyd
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الداخل	Lemma: دَاخِل	BW: daAxil
+	------------------------

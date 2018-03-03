@@ -1,0 +1,24 @@
+ابنى عمره 12سنه وحجمه صغير ويشعر بعدم التركيز فى بعض الأمور وينسى بعد نصف ساعة اين وضع حاجته. فماذا افعل له 
+	##Lemmatization results:
+		Word: ابنى	Lemma: ابنى	BW: AbnY
+		Word: عمره	Lemma: عُمُر	BW: Eumur
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: وحجمه	Lemma: حَجْم	BW: Hajom
+		Word: صغير	Lemma: صَغِير	BW: Sagiyr
+		Word: ويشعر	Lemma: شَعَرَ	BW: $aEara
+		Word: بعدم	Lemma: عَدَم	BW: Eadam
+		Word: التركيز	Lemma: تَرْكِيز	BW: tarokiyz
+		Word: فى	Lemma: فى	BW: fY
+		Word: بعض	Lemma: بَعْض	BW: baEoD
+		Word: الأمور	Lemma: أَمْر	BW: >amor
+		Word: وينسى	Lemma: نَسِيَ	BW: nasiya
+		Word: بعد	Lemma: بَعْدَ	BW: baEoda
+		Word: نصف	Lemma: نِصْف	BW: niSof
+		Word: ساعة	Lemma: سَاعَة	BW: saAEap
+		Word: اين	Lemma: اين	BW: Ayn
+		Word: وضع	Lemma: وَضْع	BW: waDoE
+		Word: حاجته	Lemma: حَاجَة	BW: HaAjap
+		Word: فماذا	Lemma: مَاذَا	BW: maA*aA
+		Word: افعل	Lemma: فَعَلَ	BW: faEala
+		Word: له	Lemma: لِي	BW: liy
+	------------------------

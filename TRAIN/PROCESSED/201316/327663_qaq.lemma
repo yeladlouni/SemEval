@@ -1,0 +1,32 @@
+السؤال أريد أن أسأل: هل هذه الحبوب (Salbocima) مفيدة لعلاج الربو هل استعمال علاجات الربو والتهاب الجيوب الأنفية يمنع حدوث الحمل حيث أني أستعمله باستمرار لوجود لحمية عندي وربو.وشكراً.
+	##Lemmatization results:
+		Word: السؤال	Lemma: سُؤَال	BW: su&aAl
+		Word: أريد	Lemma: أَرَادَ	BW: >araAda
+		Word: أن	Lemma: أَنْ	BW: >ano
+		Word: أسأل	Lemma: سَأَلَ	BW: sa>ala
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هذه	Lemma: ذَا	BW: *aA
+		Word: الحبوب	Lemma: حَبّ	BW: Hab~
+		Word: مفيدة	Lemma: مُفِيد	BW: mufiyd
+		Word: لعلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: الربو	Lemma: رَبْو	BW: rabow
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: استعمال	Lemma: اسْتِعْمَال	BW: AsotiEomaAl
+		Word: علاجات	Lemma: عِلَاج	BW: EilaAj
+		Word: الربو	Lemma: رَبْو	BW: rabow
+		Word: والتهاب	Lemma: الْتِهَاب	BW: AlotihaAb
+		Word: الجيوب	Lemma: جَيْب	BW: jayob
+		Word: الأنفية	Lemma: أَنَفِيَّة	BW: >anafiy~ap
+		Word: يمنع	Lemma: مَنَعَ	BW: manaEa
+		Word: حدوث	Lemma: حُدُوث	BW: Huduwv
+		Word: الحمل	Lemma: حِمْل	BW: Himol
+		Word: حيث	Lemma: حَيْثُ	BW: Hayovu
+		Word: أني	Lemma: أَنَّ	BW: >an~a
+		Word: أستعمله	Lemma: عَمِلَ	BW: Eamila
+		Word: باستمرار	Lemma: اسْتِمْرَار	BW: AsotimoraAr
+		Word: لوجود	Lemma: وُجُود	BW: wujuwd
+		Word: لحمية	Lemma: لَحْمِيَّة	BW: laHomiy~ap
+		Word: عندي	Lemma: عِنْدَ	BW: Einoda
+		Word: وربو	Lemma: رُبُوّ	BW: rubuw~
+		Word: وشكرًا	Lemma: شُكْر	BW: $ukor
+	------------------------

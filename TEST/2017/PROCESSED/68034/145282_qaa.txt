@@ -1,0 +1,1 @@
+IgM positive; IgG negative: تمت الاصابة بالعدوى مؤخرا، ولاول مرة بالحياة. IgM negative; IgG negative : لم يتم التعرض مطلقا للفيروس. IgM negative; IgG positive : كانت هنالك اصابة بالعدوى في الماضي البعيد. IgM positive; IgG positive : حصلت الاصابة بالعدوى قبل اشهر معدودة. إذن حالتك أنك سبق أن أصبت بالفيروس منذ مدة بعيدة

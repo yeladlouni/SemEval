@@ -1,0 +1,15 @@
+كم عمرك؟وهل انت متزوجة؟وهل لديك اولاد ؟او تستعملين موانع حمل؟
+	##Lemmatization results:
+		Word: كم	Lemma: كَمّ	BW: kam~
+		Word: عمرك	Lemma: عُمْر	BW: Eumor
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: انت	Lemma: نَتَا	BW: nataA
+		Word: متزوجة	Lemma: مُتَزَوِّج	BW: mutazaw~ij
+		Word: وهل	Lemma: هَلَّ	BW: hal~a
+		Word: لديك	Lemma: لَدَى	BW: ladaY
+		Word: اولاد	Lemma: اولاد	BW: AwlAd
+		Word: او	Lemma: او	BW: Aw
+		Word: تستعملين	Lemma: اسْتَعْمَلَ	BW: AsotaEomala
+		Word: موانع	Lemma: مَانِع	BW: maAniE
+		Word: حمل	Lemma: حَمَّلَ	BW: Ham~ala
+	------------------------

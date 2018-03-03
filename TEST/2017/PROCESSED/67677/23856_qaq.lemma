@@ -1,0 +1,46 @@
+أنا شاب عمري 22 سنه أصبت بمرض لنفوما (هودجكن ) تم تشخيص الحاله انها من الدرجه (الثالثة) وتم علاجي اولا باالعلاج الكميائي لمدة سنة . تقريبن 16 جرعه ومن ثما تم علاجي بالأشعاع 17 جلسه وانا الان تارك العلاجات لمدة 6 اشهر تقريبن سوالي؟ هل يعود المرض مره أخرا
+	##Lemmatization results:
+		Word: أنا	Lemma: أَنَّ	BW: >an~a
+		Word: شاب	Lemma: شَابّ	BW: $aAb~
+		Word: عمري	Lemma: عُمْرِيّ	BW: Eumoriy~
+		Word: سنه	Lemma: سَنّ	BW: san~
+		Word: أصبت	Lemma: أَصَابَ	BW: >aSaAba
+		Word: بمرض	Lemma: مَرَض	BW: maraD
+		Word: لنفوما	Lemma: لنفوما	BW: lnfwmA
+		Word: هودجكن	Lemma: هَوْدَج	BW: hawodaj
+		Word: تم	Lemma: تَمَّ	BW: tam~a
+		Word: تشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+		Word: الحاله	Lemma: الحاله	BW: AlHAlh
+		Word: انها	Lemma: انها	BW: AnhA
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: الدرجه	Lemma: الدرجه	BW: Aldrjh
+		Word: الثالثة	Lemma: ثَالِث	BW: vaAliv
+		Word: وتم	Lemma: تَمَّ	BW: tam~a
+		Word: علاجي	Lemma: عِلَاجِيّ	BW: EilaAjiy~
+		Word: اولا	Lemma: اولا	BW: AwlA
+		Word: باالعلاج	Lemma: باالعلاج	BW: bAAlElAj
+		Word: الكميائي	Lemma: الكميائي	BW: AlkmyA}y
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: سنة	Lemma: سُنَّة	BW: sun~ap
+		Word: تقريبن	Lemma: تقريبن	BW: tqrybn
+		Word: جرعه	Lemma: جَرَع	BW: jaraE
+		Word: ومن	Lemma: مِنْ	BW: mino
+		Word: ثما	Lemma: ثَمَّ	BW: vam~a
+		Word: تم	Lemma: تَمَّ	BW: tam~a
+		Word: علاجي	Lemma: عِلَاجِيّ	BW: EilaAjiy~
+		Word: بالأشعاع	Lemma: بالأشعاع	BW: bAl>$EAE
+		Word: جلسه	Lemma: جَلَّسَ	BW: jal~asa
+		Word: وانا	Lemma: وانا	BW: wAnA
+		Word: الان	Lemma: الان	BW: AlAn
+		Word: تارك	Lemma: تَارّ	BW: taAr~
+		Word: العلاجات	Lemma: عِلَاج	BW: EilaAj
+		Word: لمدة	Lemma: مَدَّة	BW: mad~ap
+		Word: اشهر	Lemma: شَهَرَ	BW: $ahara
+		Word: تقريبن	Lemma: تقريبن	BW: tqrybn
+		Word: سوالي	Lemma: سَوَّال	BW: saw~aAl
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: يعود	Lemma: عَادَ	BW: EaAda
+		Word: المرض	Lemma: مَرَض	BW: maraD
+		Word: مره	Lemma: مَرّ	BW: mar~
+		Word: أخرا	Lemma: أُخْرَى	BW: >uxoraY
+	------------------------

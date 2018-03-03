@@ -1,0 +1,15 @@
+# علاجات الجهاز التنفسي
+
+اسم العلاج | Treatment Name  
+---|---  
+زرع الرئة  |  Lung Transplantation  
+فغر الرغامى  |  Tracheostomy  
+جراحة تقليل حجم الرئة  |  Lung volume reduction surgery  
+استئصال فقاعة هوائية من الرئة  |  Bullectomy  
+استئصال الرئة  |  Pneumonectomy  
+نزح تجويف القفص الصدري بالطريقة المفتوحة  |  Clagett  
+تقشير الرئة  |  Decortication  
+فغر الصدر  |  Thoracostomy (Pleural drainage, Chest tube)  
+تنظير الصدر  |  Thoracoscopy  
+رأب الصدر  |  Thoracoplasty
+

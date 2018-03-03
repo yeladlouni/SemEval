@@ -1,0 +1,13 @@
+اذا وجد الالم نعم و اذا الم يمكن عدم حسابته
+	##Lemmatization results:
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: وجد	Lemma: وَجَدَ	BW: wajada
+		Word: الالم	Lemma: الالم	BW: AlAlm
+		Word: نعم	Lemma: نَعَمْ	BW: naEamo
+		Word: و	Lemma: و	BW: w
+		Word: اذا	Lemma: اذا	BW: A*A
+		Word: الم	Lemma: لَمَا	BW: lamaA
+		Word: يمكن	Lemma: أَمْكَنَ	BW: >amokana
+		Word: عدم	Lemma: عَدَم	BW: Eadam
+		Word: حسابته	Lemma: حِسَاب	BW: HisaAb
+	------------------------

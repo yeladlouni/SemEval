@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2013. The Trustees of Columbia University in the City of New York.
+  ~ The copyright owner has no objection to the reproduction of this work by anyone for
+  ~ non-commercial use, but otherwise reserves all rights whatsoever.  For avoidance of
+  ~ doubt, this work may not be reproduced, or modified, in whole or in part, for commercial
+  ~ use without the prior written consent of the copyright owner.
+  -->
+
+<madamira_input xmlns="urn:edu.columbia.ccls.madamira.configuration:0.1">
+    <in_doc id="ExampleDocument">
+        <in_seg id="SENT1">
+            وسيكتشفونه السلطة الفلسطينية تستنكر استمرار سياسة الاغتيالات الاسرائيلية
+        </in_seg>
+    </in_doc>
+
+</madamira_input>

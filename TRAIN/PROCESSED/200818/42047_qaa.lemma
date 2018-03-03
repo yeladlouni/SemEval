@@ -1,0 +1,16 @@
+ابدأ الآن بتناول دواء اسمه Lyrica 75 حبة مرتين يوميا يفيد كثيرا ريثما يتم التشخيص.
+	##Lemmatization results:
+		Word: ابدأ	Lemma: بَدَأَ	BW: bada>a
+		Word: الآن	Lemma: آن	BW: |n
+		Word: بتناول	Lemma: تَنَاوُل	BW: tanaAwul
+		Word: دواء	Lemma: دَوَاء	BW: dawaA'
+		Word: اسمه	Lemma: اسْم	BW: Asom
+		Word: حبة	Lemma: حَبّ	BW: Hab~
+		Word: مرتين	Lemma: مَرَّة	BW: mar~ap
+		Word: يوميا	Lemma: يَوْمِيّ	BW: yawomiy~
+		Word: يفيد	Lemma: أَفَادَ	BW: >afaAda
+		Word: كثيرا	Lemma: كَثِير	BW: kaviyr
+		Word: ريثما	Lemma: رَيْثَ	BW: rayova
+		Word: يتم	Lemma: تَمَّ	BW: tam~a
+		Word: التشخيص	Lemma: تَشْخِيص	BW: ta$oxiyS
+	------------------------

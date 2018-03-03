@@ -1,0 +1,22 @@
+مريضة عمرها55....غير مصابة بأمراض مزمنة.....تعاني حديثا من آلام خفيفة في كل الجسم....ما السبب وما العلاج وشكرا 
+	##Lemmatization results:
+		Word: مريضة	Lemma: مَرِيض	BW: mariyD
+		Word: عمرها	Lemma: عُمْر	BW: Eumor
+		Word: غير	Lemma: غَيْر	BW: gayor
+		Word: مصابة	Lemma: مُصَاب	BW: muSaAb
+		Word: بأمراض	Lemma: مَرَض	BW: maraD
+		Word: مزمنة	Lemma: مُزْمِن	BW: muzomin
+		Word: تعاني	Lemma: عَانَى	BW: EaAnaY
+		Word: حديثا	Lemma: حَدِيث	BW: Hadiyv
+		Word: من	Lemma: مِنْ	BW: mino
+		Word: آلام	Lemma: أَلَم	BW: >alam
+		Word: خفيفة	Lemma: خَفِيفَة	BW: xafiyfap
+		Word: في	Lemma: فِي	BW: fiy
+		Word: كل	Lemma: كُلّ	BW: kul~
+		Word: الجسم	Lemma: جِسْم	BW: jisom
+		Word: ما	Lemma: مَا	BW: maA
+		Word: السبب	Lemma: سَبَب	BW: sabab
+		Word: وما	Lemma: مَا	BW: maA
+		Word: العلاج	Lemma: عِلَاج	BW: EilaAj
+		Word: وشكرا	Lemma: شُكْر	BW: $ukor
+	------------------------

@@ -1,0 +1,22 @@
+: مرحبا أختي الفاضلة ; هل هناك تورم في الحلمة هل هناك إرتفاع في درجة الحرارة مع تمنياتنا بدوام الصحة والعافية .
+	##Lemmatization results:
+		Word: مرحبا	Lemma: مُرْحِب	BW: muroHib
+		Word: أختي	Lemma: خَتّ	BW: xat~
+		Word: الفاضلة	Lemma: فَاضِل	BW: faADil
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: تورم	Lemma: أَوْرَمَ	BW: >aworama
+		Word: في	Lemma: فِي	BW: fiy
+		Word: الحلمة	Lemma: حَلَم	BW: Halam
+		Word: هل	Lemma: هَلْ	BW: halo
+		Word: هناك	Lemma: هُنَا	BW: hunaA
+		Word: إرتفاع	Lemma: إرتفاع	BW: <rtfAE
+		Word: في	Lemma: فِي	BW: fiy
+		Word: درجة	Lemma: دَرَجَة	BW: darajap
+		Word: الحرارة	Lemma: حَرَارَة	BW: HaraArap
+		Word: مع	Lemma: مَعَ	BW: maEa
+		Word: تمنياتنا	Lemma: تَمَنِّيَة	BW: taman~iyap
+		Word: بدوام	Lemma: دَوَام	BW: dawaAm
+		Word: الصحة	Lemma: صِحَّة	BW: SiH~ap
+		Word: والعافية	Lemma: عَافِيَة	BW: EaAfiyap
+	------------------------
